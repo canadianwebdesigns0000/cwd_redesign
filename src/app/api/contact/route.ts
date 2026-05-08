@@ -132,10 +132,8 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "Message length invalid" }, { status: 400 });
   }
 
-  // Spam content filter — silently drop to avoid revealing detection
-  if (isSpamContent(`${firstName} ${lastName} ${message}`)) {
-    return NextResponse.json({ success: true });
-  }
+  // Spam content filter — flag for review, still deliver
+  const possibleSpam = isSpamContent(`${firstName} ${lastName} ${message}`);
 
   // reCAPTCHA v3 — enforced when secret key is configured
   if (RECAPTCHA_SECRET_KEY) {
@@ -172,7 +170,9 @@ ${message}
       from: `"CWD Website" <${process.env.SMTP_USER}>`,
       to: "dev@canadianwebdesigns.com, sales.canadianwebdesigns@gmail.com",
       replyTo: email,
-      subject: source === "homepage" ? "New Message from home page" : `New Contact Form: ${firstName} ${lastName}`,
+      subject: source === "homepage"
+        ? `${possibleSpam ? "[SPAM?] " : ""}New Message from home page`
+        : `${possibleSpam ? "[SPAM?] " : ""}New Contact Form: ${firstName} ${lastName}`,
       text: internalEmailBody,
     });
   } catch (err) {
