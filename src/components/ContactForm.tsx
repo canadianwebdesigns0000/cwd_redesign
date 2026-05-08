@@ -1,1 +1,185 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgU2NyaXB0IGZyb20gIm5leHQvc2NyaXB0IjsKaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7Cgpjb25zdCBSRUNBUFRDSEFfU0lURV9LRVkgPSBwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19SRUNBUFRDSEFfU0lURV9LRVkgfHwgIiI7Cgpjb25zdCBjb25maWcgPSBnZXRDb25maWcoKTsKY29uc3Qgc2VydmljZXMgPSBbLi4uY29uZmlnLnNlcnZpY2VzLm1hcCgocykgPT4gcy50aXRsZSksICJPdGhlciJdOwoKY29uc3QgaW5wdXRDbGFzcyA9CiAgInctZnVsbCBweC00IHB5LTMgbWluLWgtWzQ0cHhdIHJvdW5kZWQteGwgb3V0bGluZS1ub25lIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCB0ZXh0LWdyYXktOTAwIHBsYWNlaG9sZGVyOnRleHQtZ3JheS00MDAgZm9udC1tZWRpdW0iCiAgKyAiIGJnLWdyYXktNTAgYm9yZGVyIGJvcmRlci1ncmF5LTIwMCBmb2N1czpib3JkZXItWyMwMEFBREZdIGZvY3VzOmJnLXdoaXRlIGZvY3VzOnJpbmctMiBmb2N1czpyaW5nLVsjMDBBQURGXS8yMCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBDb250YWN0Rm9ybSgpIHsKICBjb25zdCBbc3VibWl0dGVkLCBzZXRTdWJtaXR0ZWRdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtzdWJtaXR0aW5nLCBzZXRTdWJtaXR0aW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbZXJyb3IsIHNldEVycm9yXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgaGFuZGxlU3VibWl0ID0gdXNlQ2FsbGJhY2soYXN5bmMgKGU6IFJlYWN0LkZvcm1FdmVudDxIVE1MRm9ybUVsZW1lbnQ+KSA9PiB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBpZiAoc3VibWl0dGluZykgcmV0dXJuOwogICAgc2V0U3VibWl0dGluZyh0cnVlKTsKICAgIHNldEVycm9yKGZhbHNlKTsKCiAgICB0cnkgewogICAgICBsZXQgcmVjYXB0Y2hhVG9rZW4gPSAiIjsKICAgICAgaWYgKFJFQ0FQVENIQV9TSVRFX0tFWSAmJiB0eXBlb2Ygd2luZG93ICE9PSAidW5kZWZpbmVkIiAmJiB3aW5kb3cuZ3JlY2FwdGNoYSkgewogICAgICAgIHJlY2FwdGNoYVRva2VuID0gYXdhaXQgd2luZG93LmdyZWNhcHRjaGEuZXhlY3V0ZShSRUNBUFRDSEFfU0lURV9LRVksIHsKICAgICAgICAgIGFjdGlvbjogImNvbnRhY3QiLAogICAgICAgIH0pOwogICAgICB9CgogICAgICBjb25zdCBmb3JtID0gZS5jdXJyZW50VGFyZ2V0OwogICAgICBjb25zdCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YShmb3JtKTsKICAgICAgY29uc3QgZGF0YSA9IE9iamVjdC5mcm9tRW50cmllcyhmb3JtRGF0YS5lbnRyaWVzKCkpOwoKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgiL2FwaS9jb250YWN0IiwgewogICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgLi4uZGF0YSwgcmVjYXB0Y2hhVG9rZW4gfSksCiAgICAgIH0pOwoKICAgICAgaWYgKHJlc3BvbnNlLm9rKSB7CiAgICAgICAgc2V0U3VibWl0dGVkKHRydWUpOwogICAgICB9IGVsc2UgewogICAgICAgIHNldEVycm9yKHRydWUpOwogICAgICAgIHNldFN1Ym1pdHRpbmcoZmFsc2UpOwogICAgICB9CiAgICB9IGNhdGNoIHsKICAgICAgc2V0RXJyb3IodHJ1ZSk7CiAgICAgIHNldFN1Ym1pdHRpbmcoZmFsc2UpOwogICAgfQogIH0sIFtzdWJtaXR0aW5nXSk7CgogIGlmIChzdWJtaXR0ZWQpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3VuZGVkLTJ4bCBwLTggdGV4dC1jZW50ZXIiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDAsMTcwLDIyMywwLjEpIiwgYm9yZGVyOiAiMXB4IHNvbGlkIHJnYmEoMCwxNzAsMjIzLDAuMjUpIiB9fT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xNCBoLTE0IHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBteC1hdXRvIG1iLTQiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDAsMTcwLDIyMywwLjIpIiB9fT4KICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTcgaC03IiBzdHlsZT17eyBjb2xvcjogIiMwMEFBREYiIH19IGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyLjV9PgogICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNNC41IDEyLjc1bDYgNiA5LTEzLjUiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYmxhY2sgdGV4dC1ncmF5LTkwMCBtYi0yIj5NZXNzYWdlIFNlbnQhPC9oMz4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS01MDAiPldlJmFwb3M7bGwgZ2V0IGJhY2sgdG8geW91IHdpdGhpbiAyNCBob3Vycy48L3A+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIHJldHVybiAoCiAgICA8PgogICAgICB7UkVDQVBUQ0hBX1NJVEVfS0VZICYmICgKICAgICAgICA8U2NyaXB0CiAgICAgICAgICBzcmM9e2BodHRwczovL3d3dy5nb29nbGUuY29tL3JlY2FwdGNoYS9hcGkuanM/cmVuZGVyPSR7UkVDQVBUQ0hBX1NJVEVfS0VZfWB9CiAgICAgICAgICBzdHJhdGVneT0ibGF6eU9ubG9hZCIKICAgICAgICAvPgogICAgICApfQogICAgICA8Zm9ybSBvblN1Ym1pdD17aGFuZGxlU3VibWl0fSBjbGFzc05hbWU9InNwYWNlLXktNSI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgc206Z3JpZC1jb2xzLTIgZ2FwLTQiPgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImZpcnN0TmFtZSIgY2xhc3NOYW1lPSJibG9jayB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1ncmF5LTcwMCBtYi0xLjUiPgogICAgICAgICAgICAgIEZpcnN0IE5hbWUgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICIjMDBBQURGIiB9fT4qPC9zcGFuPgogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImZpcnN0TmFtZSIgbmFtZT0iZmlyc3ROYW1lIiByZXF1aXJlZCBwbGFjZWhvbGRlcj0iSm9obiIgY2xhc3NOYW1lPXtpbnB1dENsYXNzfSAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibGFzdE5hbWUiIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1zbSBmb250LXNlbWlib2xkIHRleHQtZ3JheS03MDAgbWItMS41Ij4KICAgICAgICAgICAgICBMYXN0IE5hbWUgPHNwYW4gc3R5bGU9e3sgY29sb3I6ICIjMDBBQURGIiB9fT4qPC9zcGFuPgogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9Imxhc3ROYW1lIiBuYW1lPSJsYXN0TmFtZSIgcmVxdWlyZWQgcGxhY2Vob2xkZXI9IlNtaXRoIiBjbGFzc05hbWU9e2lucHV0Q2xhc3N9IC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImVtYWlsIiBjbGFzc05hbWU9ImJsb2NrIHRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LWdyYXktNzAwIG1iLTEuNSI+CiAgICAgICAgICAgIEVtYWlsIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAiIzAwQUFERiIgfX0+Kjwvc3Bhbj4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgdHlwZT0iZW1haWwiIGlkPSJlbWFpbCIgbmFtZT0iZW1haWwiIHJlcXVpcmVkIHBsYWNlaG9sZGVyPSJqb2huQGNvbXBhbnkuY29tIiBjbGFzc05hbWU9e2lucHV0Q2xhc3N9IC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJwaG9uZSIgY2xhc3NOYW1lPSJibG9jayB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1ncmF5LTcwMCBtYi0xLjUiPgogICAgICAgICAgICBQaG9uZQogICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZWwiIGlkPSJwaG9uZSIgbmFtZT0icGhvbmUiIHBsYWNlaG9sZGVyPSIrMSAoNDE2KSAwMDAtMDAwMCIgY2xhc3NOYW1lPXtpbnB1dENsYXNzfSAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0ic2VydmljZSIgY2xhc3NOYW1lPSJibG9jayB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1ncmF5LTcwMCBtYi0xLjUiPgogICAgICAgICAgICBTZXJ2aWNlIEludGVyZXN0ZWQgSW4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8c2VsZWN0CiAgICAgICAgICAgIGlkPSJzZXJ2aWNlIgogICAgICAgICAgICBuYW1lPSJzZXJ2aWNlIgogICAgICAgICAgICBjbGFzc05hbWU9e2lucHV0Q2xhc3N9CiAgICAgICAgICAgID4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj5TZWxlY3QgYSBzZXJ2aWNlPC9vcHRpb24+CiAgICAgICAgICAgIHtzZXJ2aWNlcy5tYXAoKHMpID0+ICgKICAgICAgICAgICAgICA8b3B0aW9uIGtleT17c30gdmFsdWU9e3N9PntzfTwvb3B0aW9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICA8bGFiZWwgaHRtbEZvcj0ibWVzc2FnZSIgY2xhc3NOYW1lPSJibG9jayB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdGV4dC1ncmF5LTcwMCBtYi0xLjUiPgogICAgICAgICAgICBNZXNzYWdlIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAiIzAwQUFERiIgfX0+Kjwvc3Bhbj4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgICAgaWQ9Im1lc3NhZ2UiCiAgICAgICAgICAgIG5hbWU9Im1lc3NhZ2UiCiAgICAgICAgICAgIHJvd3M9ezV9CiAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJUZWxsIHVzIGFib3V0IHlvdXIgcHJvamVjdC4uLiIKICAgICAgICAgICAgY2xhc3NOYW1lPXtgJHtpbnB1dENsYXNzfSByZXNpemUtbm9uZWB9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7ZXJyb3IgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHAtNCByb3VuZGVkLXhsIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAicmdiYSgyMzksNjgsNjgsMC4wOCkiLCBib3JkZXI6ICIxcHggc29saWQgcmdiYSgyMzksNjgsNjgsMC4yNSkiIH19PgogICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy01IGgtNSBzaHJpbmstMCIgc3R5bGU9e3sgY29sb3I6ICIjZWY0NDQ0IiB9fSBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD17Mn0+CiAgICAgICAgICAgICAgPHBhdGggc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIgZD0iTTEyIDl2My43NW0tOS4zMDMgMy4zNzZjLS44NjYgMS41LjIxNyAzLjM3NCAxLjk0OCAzLjM3NGgxNC43MWMxLjczIDAgMi44MTMtMS44NzQgMS45NDgtMy4zNzRMMTMuOTQ5IDMuMzc4Yy0uODY2LTEuNS0zLjAzMi0xLjUtMy44OTggMEwyLjY5NyAxNi4xMjZ6TTEyIDE1Ljc1aC4wMDd2LjAwOEgxMnYtLjAwOHoiIC8+CiAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iIHN0eWxlPXt7IGNvbG9yOiAiI2VmNDQ0NCIgfX0+CiAgICAgICAgICAgICAgU29tZXRoaW5nIHdlbnQgd3JvbmcuIFBsZWFzZSB0cnkgYWdhaW4gb3IgY2FsbCB1cyBhdCB7Y29uZmlnLnBob25lfS4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgdHlwZT0ic3VibWl0IgogICAgICAgICAgZGlzYWJsZWQ9e3N1Ym1pdHRpbmd9CiAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBzbTp3LWF1dG8gaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0yIHB4LTEwIHB5LTQgdGV4dC13aGl0ZSBmb250LWJsYWNrIHJvdW5kZWQteGwgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIGN1cnNvci1wb2ludGVyIGRpc2FibGVkOm9wYWNpdHktNjAgZGlzYWJsZWQ6Y3Vyc29yLW5vdC1hbGxvd2VkIGJ0bi1zaGltbWVyIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBib3hTaGFkb3c6ICIwIDRweCAyNHB4IHJnYmEoMCwxNzAsMjIzLDAuNCkiIH19CiAgICAgICAgPgogICAgICAgICAge3N1Ym1pdHRpbmcgPyAoCiAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNCBoLTQgYW5pbWF0ZS1zcGluIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgogICAgICAgICAgICAgICAgPGNpcmNsZSBjbGFzc05hbWU9Im9wYWNpdHktMjUiIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSI0IiAvPgogICAgICAgICAgICAgICAgPHBhdGggY2xhc3NOYW1lPSJvcGFjaXR5LTc1IiBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00IDEyYTggOCAwIDAxOC04djh6IiAvPgogICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgIFNlbmRpbmcuLi4KICAgICAgICAgICAgPC8+CiAgICAgICAgICApIDogKAogICAgICAgICAgICA8PgogICAgICAgICAgICAgIFNlbmQgTWVzc2FnZQogICAgICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTQgaC00IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD17Mn0+CiAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMTMuNSA0LjVMMjEgMTJtMCAwbC03LjUgNy41TTIxIDEySDMiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIDwvPgogICAgICAgICAgKX0KICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1ncmF5LTQwMCI+CiAgICAgICAgICBQcm90ZWN0ZWQgYnkgcmVDQVBUQ0hBIMK3IEdvb2dsZSBQcml2YWN5IFBvbGljeSBhcHBsaWVzLgogICAgICAgIDwvcD4KICAgICAgPC9mb3JtPgogICAgPC8+CiAgKTsKfQo="}
+"use client";
+
+import { useState, useCallback } from "react";
+import Script from "next/script";
+import { getConfig } from "@/lib/client-config";
+
+const RECAPTCHA_SITE_KEY = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "";
+
+const config = getConfig();
+const services = [...config.services.map((s) => s.title), "Other"];
+
+const inputClass =
+  "w-full px-4 py-3 min-h-[44px] rounded-xl outline-none transition-all duration-200 text-gray-900 placeholder:text-gray-400 font-medium"
+  + " bg-gray-50 border border-gray-200 focus:border-[#00AADF] focus:bg-white focus:ring-2 focus:ring-[#00AADF]/20";
+
+export default function ContactForm() {
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState(false);
+
+  const handleSubmit = useCallback(async (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (submitting) return;
+    setSubmitting(true);
+    setError(false);
+
+    try {
+      let recaptchaToken = "";
+      if (RECAPTCHA_SITE_KEY && typeof window !== "undefined" && (window as any).grecaptcha) {
+        recaptchaToken = await (window as any).grecaptcha.execute(RECAPTCHA_SITE_KEY, {
+          action: "contact",
+        });
+      }
+
+      const form = e.currentTarget;
+      const formData = new FormData(form);
+      const data = Object.fromEntries(formData.entries());
+
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...data, recaptchaToken }),
+      });
+
+      if (response.ok) {
+        setSubmitted(true);
+      } else {
+        setError(true);
+        setSubmitting(false);
+      }
+    } catch {
+      setError(true);
+      setSubmitting(false);
+    }
+  }, [submitting]);
+
+  if (submitted) {
+    return (
+      <div className="rounded-2xl p-8 text-center" style={{ background: "rgba(0,170,223,0.1)", border: "1px solid rgba(0,170,223,0.25)" }}>
+        <div className="w-14 h-14 rounded-full flex items-center justify-center mx-auto mb-4" style={{ background: "rgba(0,170,223,0.2)" }}>
+          <svg className="w-7 h-7" style={{ color: "#00AADF" }} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+          </svg>
+        </div>
+        <h3 className="text-xl font-black text-gray-900 mb-2">Message Sent!</h3>
+        <p className="text-gray-500">We'll get back to you within 24 hours.</p>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      {RECAPTCHA_SITE_KEY && (
+        <Script
+          src={`https://www.google.com/recaptcha/api.js?render=${RECAPTCHA_SITE_KEY}`}
+          strategy="lazyOnLoad"
+        />
+      )}
+      <form onSubmit={handleSubmit} className="space-y-5">
+        {/* Honeypot — hidden from real users, bots fill it out */}
+        <input
+          type="text"
+          name="_hp"
+          autoComplete="off"
+          tabIndex={-1}
+          aria-hidden="true"
+          style={{ position: "absolute", left: "-9999px", width: "1px", height: "1px", opacity: 0 }}
+        />
+        <div className="grid sm:grid-cols-2 gap-4">
+          <div>
+            <label htmlFor="firstName" className="block text-sm font-semibold text-gray-700 mb-1.5">
+              First Name <span style={{ color: "#00AADF" }}>*</span>
+            </label>
+            <input type="text" id="firstName" name="firstName" required placeholder="John" className={inputClass} />
+          </div>
+          <div>
+            <label htmlFor="lastName" className="block text-sm font-semibold text-gray-700 mb-1.5">
+              Last Name <span style={{ color: "#00AADF" }}>*</span>
+            </label>
+            <input type="text" id="lastName" name="lastName" required placeholder="Smith" className={inputClass} />
+          </div>
+        </div>
+        <div>
+          <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-1.5">
+            Email <span style={{ color: "#00AADF" }}>*</span>
+          </label>
+          <input type="email" id="email" name="email" required placeholder="john@company.com" className={inputClass} />
+        </div>
+        <div>
+          <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-1.5">
+            Phone
+          </label>
+          <input type="tel" id="phone" name="phone" placeholder="+1 (416) 000-0000" className={inputClass} />
+        </div>
+        <div>
+          <label htmlFor="service" className="block text-sm font-semibold text-gray-700 mb-1.5">
+            Service Interested In
+          </label>
+          <select
+            id="service"
+            name="service"
+            className={inputClass}
+            >
+            <option value="">Select a service</option>
+            {services.map((s) => (
+              <option key={s} value={s}>{s}</option>
+            ))}
+          </select>
+        </div>
+        <div>
+          <label htmlFor="message" className="block text-sm font-semibold text-gray-700 mb-1.5">
+            Message <span style={{ color: "#00AADF" }}>*</span>
+          </label>
+          <textarea
+            id="message"
+            name="message"
+            rows={5}
+            required
+            placeholder="Tell us about your project..."
+            className={`${inputClass} resize-none`}
+          />
+        </div>
+
+        {error && (
+          <div className="flex items-center gap-3 p-4 rounded-xl" style={{ background: "rgba(239,68,68,0.08)", border: "1px solid rgba(239,68,68,0.25)" }}>
+            <svg className="w-5 h-5 shrink-0" style={{ color: "#ef4444" }} fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z" />
+            </svg>
+            <p className="text-sm font-medium" style={{ color: "#ef4444" }}>
+              Something went wrong. Please try again or call us at {config.phone}.
+            </p>
+          </div>
+        )}
+
+        <button
+          type="submit"
+          disabled={submitting}
+          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-10 py-4 text-white font-black rounded-xl transition-all duration-300 cursor-pointer disabled:opacity-60 disabled:cursor-not-allowed btn-shimmer"
+          style={{ background: "#00AADF", boxShadow: "0 4px 24px rgba(0,170,223,0.4)" }}
+        >
+          {submitting ? (
+            <>
+              <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+              </svg>
+              Sending...
+            </>
+          ) : (
+            <>
+              Send Message
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </>
+          )}
+        </button>
+        <p className="text-xs text-gray-400">
+          Protected by reCAPTCHA &amp; Google{" "}
+          <a href="https://policies.google.com/privacy" className="underline" target="_blank" rel="noopener noreferrer">Privacy Policy</a>.
+        </p>
+      </form>
+    </>
+  );
+}
