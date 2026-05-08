@@ -1,1 +1,220 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlcXVlc3QsIE5leHRSZXNwb25zZSB9IGZyb20gIm5leHQvc2VydmVyIjsKaW1wb3J0IG5vZGVtYWlsZXIgZnJvbSAibm9kZW1haWxlciI7Cgpjb25zdCBSRUNBUFRDSEFfU0VDUkVUX0tFWSA9IHByb2Nlc3MuZW52LlJFQ0FQVENIQV9TRUNSRVRfS0VZIHx8ICIiOwoKY29uc3QgdHJhbnNwb3J0ZXIgPSBub2RlbWFpbGVyLmNyZWF0ZVRyYW5zcG9ydCh7CiAgaG9zdDogcHJvY2Vzcy5lbnYuU01UUF9IT1NUIHx8ICJzbXRwLmdtYWlsLmNvbSIsCiAgcG9ydDogTnVtYmVyKHByb2Nlc3MuZW52LlNNVFBfUE9SVCkgfHwgNTg3LAogIHNlY3VyZTogZmFsc2UsCiAgYXV0aDogewogICAgdXNlcjogcHJvY2Vzcy5lbnYuU01UUF9VU0VSLAogICAgcGFzczogcHJvY2Vzcy5lbnYuU01UUF9QQVNTLAogIH0sCn0pOwoKYXN5bmMgZnVuY3Rpb24gZ2VuZXJhdGVBaVJlcGx5KAogIGZpcnN0TmFtZTogc3RyaW5nLAogIHNlcnZpY2U6IHN0cmluZywKICBtZXNzYWdlOiBzdHJpbmcKKTogUHJvbWlzZTxzdHJpbmc+IHsKICBjb25zdCBhcGlLZXkgPSBwcm9jZXNzLmVudi5BTlRIUk9QSUNfQVBJX0tFWTsKICBpZiAoIWFwaUtleSkgcmV0dXJuICIiOwoKICBjb25zdCBwcm9tcHQgPSBgWW91IGFyZSBhIGZyaWVuZGx5IGN1c3RvbWVyIHN1Y2Nlc3MgcmVwcmVzZW50YXRpdmUgYXQgQ2FuYWRpYW4gV2ViIERlc2lnbnMsIGEgdG9wLXJhdGVkIENhbmFkaWFuIHdlYiBkZXNpZ24gYW5kIGRpZ2l0YWwgbWFya2V0aW5nIGFnZW5jeS4gV3JpdGUgYSB3YXJtLCBwZXJzb25hbGl6ZWQgYXV0by1yZXBseSBlbWFpbCBib2R5IChubyBzdWJqZWN0IGxpbmUsIG5vIGdyZWV0aW5nIGhlYWRlciDigJQganVzdCB0aGUgYm9keSB0ZXh0IHN0YXJ0aW5nIHdpdGggIkhpICR7Zmlyc3ROYW1lfSwiKSB0byBhIG5ldyBsZWFkIHdobyBqdXN0IHN1Ym1pdHRlZCBhIGNvbnRhY3QgZm9ybS4KCkxlYWQgZGV0YWlsczoKLSBGaXJzdCBuYW1lOiAke2ZpcnN0TmFtZX0KLSBTZXJ2aWNlIG9mIGludGVyZXN0OiAke3NlcnZpY2UgfHwgIldlYiBEZXNpZ24ifQotIFRoZWlyIG1lc3NhZ2U6ICIke21lc3NhZ2V9IgoKR3VpZGVsaW5lczoKLSBLZWVwIGl0IHVuZGVyIDEyMCB3b3JkcwotIEJlIHdhcm0gYW5kIHByb2Zlc3Npb25hbAotIEFja25vd2xlZGdlIHRoZWlyIHNwZWNpZmljIGludGVyZXN0L3NlcnZpY2UKLSBNZW50aW9uIHdlJ2xsIGdldCBiYWNrIHdpdGhpbiAyNCBob3VycyAodXN1YWxseSBzYW1lIGRheSkKLSBFbmQgd2l0aCAiVGhlIENhbmFkaWFuIFdlYiBEZXNpZ25zIFRlYW0iCi0gRG8gTk9UIGluY2x1ZGUgYSBzdWJqZWN0IGxpbmUgb3IgZW1haWwgaGVhZGVyIOKAlCBqdXN0IHRoZSBib2R5IHRleHRgOwoKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgiaHR0cHM6Ly9hcGkuYW50aHJvcGljLmNvbS92MS9tZXNzYWdlcyIsIHsKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAieC1hcGkta2V5IjogYXBpS2V5LAogICAgICAgICJhbnRocm9waWMtdmVyc2lvbiI6ICIyMDIzLTA2LTAxIiwKICAgICAgICAiY29udGVudC10eXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgbW9kZWw6ICJjbGF1ZGUtaGFpa3UtNC01LTIwMjUxMDAxIiwKICAgICAgICBtYXhfdG9rZW5zOiAyNTYsCiAgICAgICAgbWVzc2FnZXM6IFt7IHJvbGU6ICJ1c2VyIiwgY29udGVudDogcHJvbXB0IH1dLAogICAgICB9KSwKICAgIH0pOwogICAgaWYgKCFyZXNwb25zZS5vaykgcmV0dXJuICIiOwogICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgIHJldHVybiBkYXRhPy5jb250ZW50Py5bMF0/LnRleHQ/LnRyaW0oKSB8fCAiIjsKICB9IGNhdGNoIHsKICAgIHJldHVybiAiIjsKICB9Cn0KCmFzeW5jIGZ1bmN0aW9uIHNlbmRTbXModG86IHN0cmluZywgYm9keTogc3RyaW5nKTogUHJvbWlzZTx2b2lkPiB7CiAgY29uc3QgYWNjb3VudFNpZCA9IHByb2Nlc3MuZW52LlRXSUxJT19BQ0NPVU5UX1NJRDsKICBjb25zdCBhdXRoVG9rZW4gPSBwcm9jZXNzLmVudi5UV0lMSU9fQVVUSF9UT0tFTjsKICBjb25zdCBmcm9tID0gcHJvY2Vzcy5lbnYuVFdJTElPX1BIT05FX0ZST007CiAgaWYgKCFhY2NvdW50U2lkIHx8ICFhdXRoVG9rZW4gfHwgIWZyb20gfHwgIXRvKSByZXR1cm47CgogIGF3YWl0IGZldGNoKAogICAgYGh0dHBzOi8vYXBpLnR3aWxpby5jb20vMjAxMC0wNC0wMS9BY2NvdW50cy8ke2FjY291bnRTaWR9L01lc3NhZ2VzLmpzb25gLAogICAgewogICAgICBtZXRob2Q6ICJQT1NUIiwKICAgICAgaGVhZGVyczogewogICAgICAgIEF1dGhvcml6YXRpb246ICJCYXNpYyAiICsgQnVmZmVyLmZyb20oYCR7YWNjb3VudFNpZH06JHthdXRoVG9rZW59YCkudG9TdHJpbmcoImJhc2U2NCIpLAogICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIiwKICAgICAgfSwKICAgICAgYm9keTogbmV3IFVSTFNlYXJjaFBhcmFtcyh7IFRvOiB0bywgRnJvbTogZnJvbSwgQm9keTogYm9keSB9KS50b1N0cmluZygpLAogICAgfQogICk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBQT1NUKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgYm9keSA9IGF3YWl0IHJlcXVlc3QuanNvbigpOwogIGNvbnN0IHsgZmlyc3ROYW1lLCBsYXN0TmFtZSwgZW1haWwsIHBob25lLCBzZXJ2aWNlLCBtZXNzYWdlLCByZWNhcHRjaGFUb2tlbiwgc291cmNlIH0gPSBib2R5OwoKICBpZiAoIWZpcnN0TmFtZSB8fCAhbGFzdE5hbWUgfHwgIWVtYWlsIHx8ICFtZXNzYWdlKSB7CiAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogIk1pc3NpbmcgcmVxdWlyZWQgZmllbGRzIiB9LCB7IHN0YXR1czogNDAwIH0pOwogIH0KCiAgaWYgKFJFQ0FQVENIQV9TRUNSRVRfS0VZICYmIHJlY2FwdGNoYVRva2VuKSB7CiAgICBjb25zdCB2ZXJpZnlSZXNwb25zZSA9IGF3YWl0IGZldGNoKCJodHRwczovL3d3dy5nb29nbGUuY29tL3JlY2FwdGNoYS9hcGkvc2l0ZXZlcmlmeSIsIHsKICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQiIH0sCiAgICAgIGJvZHk6IGBzZWNyZXQ9JHtSRUNBUFRDSEFfU0VDUkVUX0tFWX0mcmVzcG9uc2U9JHtyZWNhcHRjaGFUb2tlbn1gLAogICAgfSk7CiAgICBjb25zdCB2ZXJpZnlEYXRhID0gYXdhaXQgdmVyaWZ5UmVzcG9uc2UuanNvbigpOwogICAgaWYgKCF2ZXJpZnlEYXRhLnN1Y2Nlc3MgfHwgdmVyaWZ5RGF0YS5zY29yZSA8IDAuNSkgewogICAgICByZXR1cm4gTmV4dFJlc3BvbnNlLmpzb24oeyBlcnJvcjogInJlQ0FQVENIQSB2ZXJpZmljYXRpb24gZmFpbGVkIiB9LCB7IHN0YXR1czogNDAzIH0pOwogICAgfQogIH0KCiAgY29uc3QgaW50ZXJuYWxFbWFpbEJvZHkgPSBgCk5ldyBDb250YWN0IEZvcm0gU3VibWlzc2lvbgo9PT09PT09PT09PT09PT09PT09PT09PT09PT0KCk5hbWU6ICAgICR7Zmlyc3ROYW1lfSAke2xhc3ROYW1lfQpFbWFpbDogICAke2VtYWlsfQpQaG9uZTogICAke3Bob25lIHx8ICJOb3QgcHJvdmlkZWQifQpTZXJ2aWNlOiAke3NlcnZpY2UgfHwgIk5vdCBzcGVjaWZpZWQifQoKTWVzc2FnZToKJHttZXNzYWdlfQogIGAudHJpbSgpOwoKICAvLyAxLiBTZW5kIGludGVybmFsIG5vdGlmaWNhdGlvbiBlbWFpbAogIHRyeSB7CiAgICBhd2FpdCB0cmFuc3BvcnRlci5zZW5kTWFpbCh7CiAgICAgIGZyb206IGAiQ1dEIFdlYnNpdGUiIDwke3Byb2Nlc3MuZW52LlNNVFBfVVNFUn0+YCwKICAgICAgdG86ICJkZXZAY2FuYWRpYW53ZWJkZXNpZ25zLmNvbSwgc2FsZXMuY2FuYWRpYW53ZWJkZXNpZ25zQGdtYWlsLmNvbSIsCiAgICAgIHJlcGx5VG86IGVtYWlsLAogICAgICBzdWJqZWN0OiBzb3VyY2UgPT09ICJob21lcGFnZSIgPyAiTmV3IE1lc3NhZ2UgZnJvbSBob21lIHBhZ2UiIDogYE5ldyBDb250YWN0IEZvcm06ICR7Zmlyc3ROYW1lfSAke2xhc3ROYW1lfWAsCiAgICAgIHRleHQ6IGludGVybmFsRW1haWxCb2R5LAogICAgfSk7CiAgfSBjYXRjaCAoZXJyKSB7CiAgICBjb25zb2xlLmVycm9yKCJGYWlsZWQgdG8gc2VuZCBpbnRlcm5hbCBlbWFpbDoiLCBlcnIpOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5qc29uKHsgZXJyb3I6ICJGYWlsZWQgdG8gc2VuZCBtZXNzYWdlIiB9LCB7IHN0YXR1czogNTAwIH0pOwogIH0KCiAgLy8gMi4gQUktZ2VuZXJhdGVkIGF1dG8tcmVwbHkgdG8gdGhlIGxlYWQgKGZpcmUtYW5kLWZvcmdldCkKICBnZW5lcmF0ZUFpUmVwbHkoZmlyc3ROYW1lLCBzZXJ2aWNlIHx8ICJ3ZWIgZGVzaWduIHNlcnZpY2VzIiwgbWVzc2FnZSkudGhlbihhc3luYyAoYWlCb2R5KSA9PiB7CiAgICBpZiAoIWFpQm9keSkgcmV0dXJuOwogICAgdHJ5IHsKICAgICAgYXdhaXQgdHJhbnNwb3J0ZXIuc2VuZE1haWwoewogICAgICAgIGZyb206IGAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiIDwke3Byb2Nlc3MuZW52LlNNVFBfVVNFUn0+YCwKICAgICAgICB0bzogZW1haWwsCiAgICAgICAgc3ViamVjdDogYFdlIHJlY2VpdmVkIHlvdXIgcmVxdWVzdCwgJHtmaXJzdE5hbWV9ISDigJQgQ2FuYWRpYW4gV2ViIERlc2lnbnNgLAogICAgICAgIHRleHQ6IGFpQm9keSArICJcblxuLS0tXG5DYW5hZGlhbiBXZWIgRGVzaWducyB8IGNhbmFkaWFud2ViZGVzaWducy5jYSB8IDY0Ny02ODktNjA2OSIsCiAgICAgICAgaHRtbDogYDxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLHNhbnMtc2VyaWY7bWF4LXdpZHRoOjYwMHB4O21hcmdpbjowIGF1dG87cGFkZGluZzoyNHB4OyI+CiAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvbG9nb3MvbG9nby53ZWJwIiBhbHQ9IkNhbmFkaWFuIFdlYiBEZXNpZ25zIiBzdHlsZT0iaGVpZ2h0OjQwcHg7bWFyZ2luLWJvdHRvbToyNHB4OyIgLz4KICAgICAgICAgIDxkaXYgc3R5bGU9ImJhY2tncm91bmQ6I2Y4ZjlmYTtib3JkZXItbGVmdDo0cHggc29saWQgIzAwQUFERjtwYWRkaW5nOjIwcHg7Ym9yZGVyLXJhZGl1czo0cHg7Ij4KICAgICAgICAgICAgJHthaUJvZHkucmVwbGFjZSgvXG4vZywgIjxici8+Iil9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxwIHN0eWxlPSJjb2xvcjojOTk5O2ZvbnQtc2l6ZToxMnB4O21hcmdpbi10b3A6MjRweDsiPgogICAgICAgICAgICBDYW5hZGlhbiBXZWIgRGVzaWducyAmYnVsbDsgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EiPmNhbmFkaWFud2ViZGVzaWducy5jYTwvYT4gJmJ1bGw7IDY0Ny02ODktNjA2OQogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PmAsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoIkZhaWxlZCB0byBzZW5kIEFJIGF1dG8tcmVwbHk6IiwgZXJyKTsKICAgIH0KICB9KTsKCiAgLy8gMy4gU01TIG5vdGlmaWNhdGlvbnMgKGZpcmUtYW5kLWZvcmdldCkKICBjb25zdCBzbXNPd25lclRvID0gcHJvY2Vzcy5lbnYuVFdJTElPX05PVElGWV9QSE9ORTsKICBpZiAoc21zT3duZXJUbykgewogICAgY29uc3Qgb3duZXJTbXMgPSBg8J+UlCBOZXcgQ1dEIExlYWQ6ICR7Zmlyc3ROYW1lfSAke2xhc3ROYW1lfSB8ICR7c2VydmljZSB8fCAiR2VuZXJhbCJ9IHwgJHtlbWFpbH0gfCAke3Bob25lIHx8ICJubyBwaG9uZSJ9YDsKICAgIHNlbmRTbXMoc21zT3duZXJUbywgb3duZXJTbXMpLmNhdGNoKCgpID0+IHt9KTsKICB9CgogIC8vIE9wdGlvbmFsOiBTTVMgYXV0by1yZXBseSB0byBsZWFkIGlmIHRoZXkgcHJvdmlkZWQgYSBwaG9uZSBudW1iZXIKICBpZiAocGhvbmUgJiYgcHJvY2Vzcy5lbnYuVFdJTElPX1NNU19MRUFEX1JFUExZID09PSAidHJ1ZSIpIHsKICAgIGNvbnN0IGxlYWRTbXMgPSBgSGkgJHtmaXJzdE5hbWV9ISBUaGFua3MgZm9yIHJlYWNoaW5nIG91dCB0byBDYW5hZGlhbiBXZWIgRGVzaWducy4gV2UgcmVjZWl2ZWQgeW91ciBtZXNzYWdlIGFuZCB3aWxsIGdldCBiYWNrIHRvIHlvdSB3aXRoaW4gMjQgaG91cnMuIFF1ZXN0aW9ucz8gQ2FsbCB1czogNjQ3LTY4OS02MDY5YDsKICAgIHNlbmRTbXMocGhvbmUsIGxlYWRTbXMpLmNhdGNoKCgpID0+IHt9KTsKICB9CgogIHJldHVybiBOZXh0UmVzcG9uc2UuanNvbih7IHN1Y2Nlc3M6IHRydWUgfSk7Cn0K"}
+import { NextRequest, NextResponse } from "next/server";
+import nodemailer from "nodemailer";
+
+const RECAPTCHA_SECRET_KEY = process.env.RECAPTCHA_SECRET_KEY || "";
+
+// In-memory rate limiting — best-effort on serverless (limits bursts within same instance)
+const rateLimitMap = new Map<string, number[]>();
+const RATE_LIMIT_MAX = 5;
+const RATE_LIMIT_WINDOW_MS = 60 * 60 * 1000;
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const cutoff = now - RATE_LIMIT_WINDOW_MS;
+  const hits = (rateLimitMap.get(ip) || []).filter((t) => t > cutoff);
+  if (hits.length >= RATE_LIMIT_MAX) return true;
+  rateLimitMap.set(ip, [...hits, now]);
+  return false;
+}
+
+const SPAM_PATTERNS = [
+  /\b(viagra|cialis|casino|poker|lottery|prize winner|congratulations you|bitcoin|crypto investment|nft|forex|earn \$|make money fast|work from home|click here|free offer|act now|buy now|call now|order now|seo backlink|guest post|link building offer)\b/i,
+  /<[a-z][\s\S]*>/i,
+];
+
+function isSpamContent(text: string): boolean {
+  return SPAM_PATTERNS.some((p) => p.test(text));
+}
+
+const transporter = nodemailer.createTransport({
+  host: process.env.SMTP_HOST || "smtp.gmail.com",
+  port: Number(process.env.SMTP_PORT) || 587,
+  secure: false,
+  auth: {
+    user: process.env.SMTP_USER,
+    pass: process.env.SMTP_PASS,
+  },
+});
+
+async function generateAiReply(
+  firstName: string,
+  service: string,
+  message: string
+): Promise<string> {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) return "";
+
+  const prompt = `You are a friendly customer success representative at Canadian Web Designs, a top-rated Canadian web design and digital marketing agency. Write a warm, personalized auto-reply email body (no subject line, no greeting header — just the body text starting with "Hi ${firstName},") to a new lead who just submitted a contact form.
+
+Lead details:
+- First name: ${firstName}
+- Service of interest: ${service || "Web Design"}
+- Their message: "${message}"
+
+Guidelines:
+- Keep it under 120 words
+- Be warm and professional
+- Acknowledge their specific interest/service
+- Mention we'll get back within 24 hours (usually same day)
+- End with "The Canadian Web Designs Team"
+- Do NOT include a subject line or email header — just the body text`;
+
+  try {
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "x-api-key": apiKey,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 256,
+        messages: [{ role: "user", content: prompt }],
+      }),
+    });
+    if (!response.ok) return "";
+    const data = await response.json();
+    return data?.content?.[0]?.text?.trim() || "";
+  } catch {
+    return "";
+  }
+}
+
+async function sendSms(to: string, body: string): Promise<void> {
+  const accountSid = process.env.TWILIO_ACCOUNT_SID;
+  const authToken = process.env.TWILIO_AUTH_TOKEN;
+  const from = process.env.TWILIO_PHONE_FROM;
+  if (!accountSid || !authToken || !from || !to) return;
+
+  await fetch(
+    `https://api.twilio.com/2010-04-01/Accounts/${accountSid}/Messages.json`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: "Basic " + Buffer.from(`${accountSid}:${authToken}`).toString("base64"),
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: new URLSearchParams({ To: to, From: from, Body: body }).toString(),
+    }
+  );
+}
+
+export async function POST(request: NextRequest) {
+  // IP rate limiting
+  const ip =
+    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    request.headers.get("x-real-ip") ||
+    "unknown";
+  if (isRateLimited(ip)) {
+    return NextResponse.json({ error: "Too many requests" }, { status: 429 });
+  }
+
+  const body = await request.json();
+  const { firstName, lastName, email, phone, service, message, recaptchaToken, source, _hp } = body;
+
+  // Honeypot: bots fill this hidden field, real users never see it
+  if (_hp) {
+    return NextResponse.json({ success: true });
+  }
+
+  if (!firstName || !lastName || !email || !message) {
+    return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
+  }
+
+  // Email format validation
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) {
+    return NextResponse.json({ error: "Invalid email address" }, { status: 400 });
+  }
+
+  // Message length
+  if (message.length < 5 || message.length > 5000) {
+    return NextResponse.json({ error: "Message length invalid" }, { status: 400 });
+  }
+
+  // Spam content filter — silently drop to avoid revealing detection
+  if (isSpamContent(`${firstName} ${lastName} ${message}`)) {
+    return NextResponse.json({ success: true });
+  }
+
+  // reCAPTCHA v3 — enforced when secret key is configured
+  if (RECAPTCHA_SECRET_KEY) {
+    if (!recaptchaToken) {
+      return NextResponse.json({ error: "reCAPTCHA token required" }, { status: 403 });
+    }
+    const verifyResponse = await fetch("https://www.google.com/recaptcha/api/siteverify", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: `secret=${RECAPTCHA_SECRET_KEY}&response=${recaptchaToken}`,
+    });
+    const verifyData = await verifyResponse.json();
+    if (!verifyData.success || verifyData.score < 0.5) {
+      return NextResponse.json({ error: "reCAPTCHA verification failed" }, { status: 403 });
+    }
+  }
+
+  const internalEmailBody = `
+New Contact Form Submission
+===========================
+
+Name:    ${firstName} ${lastName}
+Email:   ${email}
+Phone:   ${phone || "Not provided"}
+Service: ${service || "Not specified"}
+
+Message:
+${message}
+  `.trim();
+
+  // 1. Send internal notification email
+  try {
+    await transporter.sendMail({
+      from: `"CWD Website" <${process.env.SMTP_USER}>`,
+      to: "dev@canadianwebdesigns.com, sales.canadianwebdesigns@gmail.com",
+      replyTo: email,
+      subject: source === "homepage" ? "New Message from home page" : `New Contact Form: ${firstName} ${lastName}`,
+      text: internalEmailBody,
+    });
+  } catch (err) {
+    console.error("Failed to send internal email:", err);
+    return NextResponse.json({ error: "Failed to send message" }, { status: 500 });
+  }
+
+  // 2. AI-generated auto-reply to the lead (fire-and-forget)
+  generateAiReply(firstName, service || "web design services", message).then(async (aiBody) => {
+    if (!aiBody) return;
+    try {
+      await transporter.sendMail({
+        from: `"Canadian Web Designs" <${process.env.SMTP_USER}>`,
+        to: email,
+        subject: `We received your request, ${firstName}! — Canadian Web Designs`,
+        text: aiBody + "\n\n---\nCanadian Web Designs | canadianwebdesigns.ca | 647-689-6069",
+        html: `<div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;padding:24px;">
+          <img src="https://canadianwebdesigns.ca/logos/logo.webp" alt="Canadian Web Designs" style="height:40px;margin-bottom:24px;" />
+          <div style="background:#f8f9fa;border-left:4px solid #00AADF;padding:20px;border-radius:4px;">
+            ${aiBody.replace(/\n/g, "<br/>")}
+          </div>
+          <p style="color:#999;font-size:12px;margin-top:24px;">
+            Canadian Web Designs &bull; <a href="https://canadianwebdesigns.ca">canadianwebdesigns.ca</a> &bull; 647-689-6069
+          </p>
+        </div>`,
+      });
+    } catch (err) {
+      console.error("Failed to send AI auto-reply:", err);
+    }
+  });
+
+  // 3. SMS notifications (fire-and-forget)
+  const smsOwnerTo = process.env.TWILIO_NOTIFY_PHONE;
+  if (smsOwnerTo) {
+    const ownerSms = `📔 New CWD Lead: ${firstName} ${lastName} | ${service || "General"} | ${email} | ${phone || "no phone"}`;
+    sendSms(smsOwnerTo, ownerSms).catch(() => {});
+  }
+
+  if (phone && process.env.TWILIO_SMS_LEAD_REPLY === "true") {
+    const leadSms = `Hi ${firstName}! Thanks for reaching out to Canadian Web Designs. We received your message and will get back to you within 24 hours. Questions? Call us: 647-689-6069`;
+    sendSms(phone, leadSms).catch(() => {});
+  }
+
+  return NextResponse.json({ success: true });
+}
