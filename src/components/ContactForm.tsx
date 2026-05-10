@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useState, useCallback } from "react";
 import Script from "next/script";
@@ -13,6 +13,20 @@ const inputClass =
   "w-full px-4 py-3 min-h-[44px] rounded-xl outline-none transition-all duration-200 text-gray-900 placeholder:text-gray-400 font-medium"
   + " bg-gray-50 border border-gray-200 focus:border-[#00AADF] focus:bg-white focus:ring-2 focus:ring-[#00AADF]/20";
 
+async function getRecaptchaToken(siteKey: string): Promise<string> {
+  return new Promise((resolve) => {
+    const gc = (window as any).grecaptcha;
+    if (!gc) { resolve(""); return; }
+    const run = () =>
+      gc.execute(siteKey, { action: "contact" }).then(resolve).catch(() => resolve(""));
+    if (typeof gc.ready === "function") {
+      gc.ready(run);
+    } else {
+      run();
+    }
+  });
+}
+
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
@@ -26,10 +40,8 @@ export default function ContactForm() {
 
     try {
       let recaptchaToken = "";
-      if (RECAPTCHA_SITE_KEY && typeof window !== "undefined" && (window as any).grecaptcha) {
-        recaptchaToken = await (window as any).grecaptcha.execute(RECAPTCHA_SITE_KEY, {
-          action: "contact",
-        });
+      if (RECAPTCHA_SITE_KEY && typeof window !== "undefined") {
+        recaptchaToken = await getRecaptchaToken(RECAPTCHA_SITE_KEY);
       }
 
       const form = e.currentTarget;
@@ -73,7 +85,7 @@ export default function ContactForm() {
       {RECAPTCHA_SITE_KEY && (
         <Script
           src={`https://www.google.com/recaptcha/api.js?render=${RECAPTCHA_SITE_KEY}`}
-          strategy="lazyOnLoad"
+          strategy="afterInteractive"
         />
       )}
       <form onSubmit={handleSubmit} className="space-y-5">
