@@ -1,1 +1,17 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSHJlZmxhbmdUYWdzKCkgewogIGNvbnN0IHBhdGhuYW1lID0gdXNlUGF0aG5hbWUoKTsKICBjb25zdCB1cmwgPSBgaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59JHtwYXRobmFtZX1gOwogIHJldHVybiAoCiAgICA8PgogICAgICA8bGluayByZWw9ImFsdGVybmF0ZSIgaHJlZkxhbmc9ImVuLUNBIiBocmVmPXt1cmx9IC8+CiAgICAgIDxsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmTGFuZz0ieC1kZWZhdWx0IiBocmVmPXt1cmx9IC8+CiAgICA8Lz4KICApOwp9Cg=="}
+"use client";
+
+import { usePathname } from "next/navigation";
+import { getConfig } from "@/lib/client-config";
+
+const config = getConfig();
+
+export default function HreflangTags() {
+  const pathname = usePathname();
+  const url = `https://${config.domain}${pathname}`;
+  return (
+    <>
+      <link rel="alternate" hrefLang="en-CA" href={url} />
+      <link rel="alternate" hrefLang="x-default" href={url} />
+    </>
+  );
+}

@@ -1,1 +1,25 @@
-{"data":"aW1wb3J0IFNjcmlwdCBmcm9tICJuZXh0L3NjcmlwdCI7DQppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsNCg0KY29uc3QgY29uZmlnID0gZ2V0Q29uZmlnKCk7DQoNCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEdvb2dsZUFuYWx5dGljcygpIHsNCiAgaWYgKCFjb25maWcuZ2FJZCkgcmV0dXJuIG51bGw7DQoNCiAgcmV0dXJuICgNCiAgICA8Pg0KICAgICAgPFNjcmlwdA0KICAgICAgICBzcmM9e2BodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPSR7Y29uZmlnLmdhSWR9YH0NCiAgICAgICAgc3RyYXRlZ3k9ImFmdGVySW50ZXJhY3RpdmUiDQogICAgICAvPg0KICAgICAgPFNjcmlwdCBpZD0iZ29vZ2xlLWFuYWx5dGljcyIgc3RyYXRlZ3k9ImFmdGVySW50ZXJhY3RpdmUiPg0KICAgICAgICB7YA0KICAgICAgICAgIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KICAgICAgICAgIGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30NCiAgICAgICAgICBndGFnKCdqcycsIG5ldyBEYXRlKCkpOw0KICAgICAgICAgIGd0YWcoJ2NvbmZpZycsICcke2NvbmZpZy5nYUlkfScpOw0KICAgICAgICBgfQ0KICAgICAgPC9TY3JpcHQ+DQogICAgPC8+DQogICk7DQp9DQo="}
+import Script from "next/script";
+import { getConfig } from "@/lib/client-config";
+
+const config = getConfig();
+
+export default function GoogleAnalytics() {
+  if (!config.gaId) return null;
+
+  return (
+    <>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${config.gaId}`}
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${config.gaId}');
+        `}
+      </Script>
+    </>
+  );
+}

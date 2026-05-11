@@ -1,1 +1,52 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gIndlYi1kZXNpZ24tZGV2ZWxvcG1lbnQiKSE7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIHRpdGxlOiAiUHJvZmVzc2lvbmFsIFdlYiBEZXNpZ24gJiBEZXZlbG9wbWVudCBpbiBDYW5hZGEiLAogIGRlc2NyaXB0aW9uOiAiQ3VzdG9tIHdlYiBkZXNpZ24gYW5kIGRldmVsb3BtZW50IHNlcnZpY2VzIGFjcm9zcyBDYW5hZGEuIE1vYmlsZS1maXJzdCwgU0VPLW9wdGltaXplZCwgaGlnaC1jb252ZXJ0aW5nIHdlYnNpdGVzIGJ1aWx0IGJ5IENhbmFkaWFuIFdlYiBEZXNpZ25zLiIsCiAgYWx0ZXJuYXRlczogeyBjYW5vbmljYWw6ICIvc2VydmljZXMvd2ViLWRlc2lnbi1kZXZlbG9wbWVudCIgfSwKfTsKCmNvbnN0IGZhcVNjaGVtYSA9IHsKICAiQGNvbnRleHQiOiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiRkFRUGFnZSIsCiAgbWFpbkVudGl0eTogWwogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiSG93IG11Y2ggZG9lcyBhIHByb2Zlc3Npb25hbCB3ZWJzaXRlIGNvc3QgaW4gQ2FuYWRhPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiT3VyIGN1c3RvbSB3ZWJzaXRlcyB0eXBpY2FsbHkgcmFuZ2UgZnJvbSAkMSw1MDAgdG8gJDEwLDAwMCsgZGVwZW5kaW5nIG9uIHRoZSBzY29wZSwgZmVhdHVyZXMsIGFuZCBjb21wbGV4aXR5LiBXZSBvZmZlciB0cmFuc3BhcmVudCwgZmxhdC1yYXRlIHByaWNpbmcgd2l0aCBubyBoaWRkZW4gZmVlcy4gQ29udGFjdCB1cyBmb3IgYSBmcmVlIHF1b3RlIHRhaWxvcmVkIHRvIHlvdXIgYnVzaW5lc3MuIiB9LAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIkhvdyBsb25nIGRvZXMgaXQgdGFrZSB0byBidWlsZCBhIHdlYnNpdGU/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJPdXIgYXZlcmFnZSBwcm9qZWN0IGxhdW5jaCB0aW1lIGlzIDMwIGRheXMuIFNpbXBsZSB3ZWJzaXRlcyBjYW4gYmUgcmVhZHkgaW4gMiB3ZWVrcywgd2hpbGUgY29tcGxleCBlLWNvbW1lcmNlIG9yIGN1c3RvbSB3ZWIgYXBwbGljYXRpb25zIG1heSB0YWtlIDbigJM4IHdlZWtzLiBXZSBwcm92aWRlIGEgY2xlYXIgdGltZWxpbmUgYXQgdGhlIHN0YXJ0IG9mIGV2ZXJ5IHByb2plY3QuIiB9LAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIkRvIHlvdSBidWlsZCB3ZWJzaXRlcyBvbiBXb3JkUHJlc3Mgb3IgY3VzdG9tIGNvZGU/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSBidWlsZCBvbiBib3RoIOKAlCBXb3JkUHJlc3MvV29vQ29tbWVyY2UgZm9yIGNvbnRlbnQtZHJpdmVuIHNpdGVzIGFuZCBibG9ncywgU2hvcGlmeSBmb3IgZS1jb21tZXJjZSwgYW5kIGZ1bGx5IGN1c3RvbSBOZXh0LmpzL1JlYWN0IGFwcGxpY2F0aW9ucyBmb3IgaGlnaC1wZXJmb3JtYW5jZSBuZWVkcy4gV2UgcmVjb21tZW5kIHRoZSByaWdodCBwbGF0Zm9ybSBiYXNlZCBvbiB5b3VyIGdvYWxzLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaWxsIG15IHdlYnNpdGUgYmUgbW9iaWxlLWZyaWVuZGx5PyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiQWJzb2x1dGVseS4gRXZlcnkgd2Vic2l0ZSB3ZSBidWlsZCBpcyBtb2JpbGUtZmlyc3QgYW5kIGZ1bGx5IHJlc3BvbnNpdmUuIFdlIHRlc3QgYWNyb3NzIGFsbCBtYWpvciBkZXZpY2VzIGFuZCBicm93c2VycyBiZWZvcmUgbGF1bmNoIHRvIGVuc3VyZSBhIGZsYXdsZXNzIGV4cGVyaWVuY2UgZm9yIGV2ZXJ5IHZpc2l0b3IuIiB9LAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIkRvIHlvdSBwcm92aWRlIHdlYnNpdGUgaG9zdGluZyBhbmQgbWFpbnRlbmFuY2U/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJZZXMuIFdlIG9mZmVyIG1hbmFnZWQgaG9zdGluZywgc2VjdXJpdHkgbW9uaXRvcmluZywgcmVndWxhciB1cGRhdGVzLCBhbmQgb25nb2luZyBtYWludGVuYW5jZSBwYWNrYWdlcy4gT3VyIG1haW50ZW5hbmNlIHBsYW5zIHN0YXJ0IGF0IGFuIGFmZm9yZGFibGUgbW9udGhseSByYXRlIGFuZCBrZWVwIHlvdXIgc2l0ZSBzZWN1cmUsIGZhc3QsIGFuZCB1cC10by1kYXRlLiIgfSwKICAgIH0sCiAgXSwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNlcnZpY2VQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkoZmFxU2NoZW1hKSB9fSAvPgogICAgICA8U2VydmljZVBhZ2VUZW1wbGF0ZSBzZXJ2aWNlPXtzZXJ2aWNlfSAvPgogICAgPC8+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "web-design-development")!;
+
+export const metadata: Metadata = {
+  title: "Professional Web Design & Development in Canada",
+  description: "Custom web design and development services across Canada. Mobile-first, SEO-optimized, high-converting websites built by Canadian Web Designs.",
+  alternates: { canonical: "/services/web-design-development" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "How much does a professional website cost in Canada?",
+      acceptedAnswer: { "@type": "Answer", text: "Our custom websites typically range from $1,500 to $10,000+ depending on the scope, features, and complexity. We offer transparent, flat-rate pricing with no hidden fees. Contact us for a free quote tailored to your business." },
+    },
+    {
+      "@type": "Question",
+      name: "How long does it take to build a website?",
+      acceptedAnswer: { "@type": "Answer", text: "Our average project launch time is 30 days. Simple websites can be ready in 2 weeks, while complex e-commerce or custom web applications may take 6–8 weeks. We provide a clear timeline at the start of every project." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you build websites on WordPress or custom code?",
+      acceptedAnswer: { "@type": "Answer", text: "We build on both — WordPress/WooCommerce for content-driven sites and blogs, Shopify for e-commerce, and fully custom Next.js/React applications for high-performance needs. We recommend the right platform based on your goals." },
+    },
+    {
+      "@type": "Question",
+      name: "Will my website be mobile-friendly?",
+      acceptedAnswer: { "@type": "Answer", text: "Absolutely. Every website we build is mobile-first and fully responsive. We test across all major devices and browsers before launch to ensure a flawless experience for every visitor." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you provide website hosting and maintenance?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes. We offer managed hosting, security monitoring, regular updates, and ongoing maintenance packages. Our maintenance plans start at an affordable monthly rate and keep your site secure, fast, and up-to-date." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

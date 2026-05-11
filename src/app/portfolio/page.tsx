@@ -1,1 +1,124 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7CmltcG9ydCBCcmVhZGNydW1iU2NoZW1hIGZyb20gIkAvY29tcG9uZW50cy9CcmVhZGNydW1iU2NoZW1hIjsKaW1wb3J0IFBvcnRmb2xpb0dyaWQgZnJvbSAiQC9jb21wb25lbnRzL1BvcnRmb2xpb0dyaWQiOwovLyB2NAoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIk91ciBQb3J0Zm9saW8iLAogIGRlc2NyaXB0aW9uOgogICAgIkJyb3dzZSBvdXIgcG9ydGZvbGlvIG9mIHdlYiBkZXNpZ24sIFNFTywgYW5kIGRpZ2l0YWwgbWFya2V0aW5nIHByb2plY3RzIGZvciBDYW5hZGlhbiBidXNpbmVzc2VzLiIsCiAgYWx0ZXJuYXRlczogeyBjYW5vbmljYWw6ICIvcG9ydGZvbGlvIiB9LAp9OwoKY29uc3Qgc3RhdHMgPSBbCiAgeyB2YWx1ZTogIjE5KyIsICBsYWJlbDogIkxpdmUgUHJvamVjdHMiIH0sCiAgeyB2YWx1ZTogIjMwMCUiLCBsYWJlbDogIkF2ZyBUcmFmZmljIEdyb3d0aCIgfSwKICB7IHZhbHVlOiAiNeKYhSIsICAgbGFiZWw6ICJDbGllbnQgU2F0aXNmYWN0aW9uIiB9LAogIHsgdmFsdWU6ICIzMGQiLCAgbGFiZWw6ICJBdmcgTGF1bmNoIFRpbWUiIH0sCl07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQb3J0Zm9saW9QYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8QnJlYWRjcnVtYlNjaGVtYSBpdGVtcz17W3sgbmFtZTogIlBvcnRmb2xpbyIsIGhyZWY6ICIvcG9ydGZvbGlvIiB9XX0gLz4KCiAgICAgIHsvKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAgIEhFUk8KICAgICAgICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL30KICAgICAgPHNlY3Rpb24KICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBweS0xNCBtZDpweS0yMCBmbGV4IGl0ZW1zLWNlbnRlciIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzAxMEMxRSAwJSwgIzA1MjE0MCA1NSUsICMwMTBEMjIgMTAwJSkiIH19CiAgICAgID4KICAgICAgICB7LyogQmFja2dyb3VuZCBpbWFnZSAqL30KICAgICAgICA8SW1hZ2Ugc3JjPSIvcG9ydGZvbGlvL2V2b2x2ZS1tZWRpYS1ncm91cC5qcGciIGFsdD0iIiBmaWxsIGNsYXNzTmFtZT0ib2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIiIHByaW9yaXR5IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoMTA1ZGVnLCByZ2JhKDEsMTIsMzAsMC45NCkgMCUsIHJnYmEoMSwxMiwzMCwwLjg1KSA1MCUsIHJnYmEoMSwxMiwzMCwwLjc4KSAxMDAlKSIgfX0gLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0wIGxlZnQtWzEwJV0gdy1bNTAwcHhdIGgtWzUwMHB4XSByb3VuZGVkLWZ1bGwgcG9pbnRlci1ldmVudHMtbm9uZSBhbmltYXRlLW9yYiIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMDBBQURGIiwgZmlsdGVyOiAiYmx1cigxNDBweCkiLCBvcGFjaXR5OiAwLjI1IH19IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIHJpZ2h0LVs1JV0gdy05NiBoLTk2IHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMDNCNkYiLCBmaWx0ZXI6ICJibHVyKDExMHB4KSIsIG9wYWNpdHk6IDAuMzUsIGFuaW1hdGlvbkRlbGF5OiAiMi41cyIgfX0gLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBwb2ludGVyLWV2ZW50cy1ub25lIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZEltYWdlOiAicmFkaWFsLWdyYWRpZW50KGNpcmNsZSwgcmdiYSgyNTUsMjU1LDI1NSwwLjA3KSAxcHgsIHRyYW5zcGFyZW50IDFweCkiLCBiYWNrZ3JvdW5kU2l6ZTogIjQ4cHggNDhweCIgfX0gLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIG1heC13LVsxMjgwcHhdIG14LWF1dG8gcHgtNiBsZzpweC04IHctZnVsbCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctM3hsIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imhlcm8tZmFkZS11cCBpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIuNSBweC00IHB5LTIgcm91bmRlZC1mdWxsIGdsYXNzIG1iLTYiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idy0yIGgtMiByb3VuZGVkLWZ1bGwiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMDBBQURGIiwgYm94U2hhZG93OiAiMCAwIDhweCByZ2JhKDAsMTcwLDIyMywwLjgpIiB9fSAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC13aGl0ZS84MCB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYWNraW5nLXdpZGUiPlJlYWwgUmVzdWx0cy4gUmVhbCBDbGllbnRzLjwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJoZXJvLWZhZGUtdXAtMSBmb250LWJsYWNrIHRleHQtd2hpdGUgbWItNiIKICAgICAgICAgICAgICBzdHlsZT17eyBmb250U2l6ZTogImNsYW1wKDEuOHJlbSwgNHZ3LCAyLjZyZW0pIiwgbGluZUhlaWdodDogMS4wNSB9fT4KICAgICAgICAgICAgICBXb3JrIFRoYXR7IiAifQogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZ3JhZGllbnQtdGV4dC1hbmltYXRlZCI+U3BlYWtzIGZvciBJdHNlbGY8L3NwYW4+CiAgICAgICAgICAgIDwvaDE+CgogICAgICAgICAgICA8cCBjbGFzc05hbWU9Imhlcm8tZmFkZS11cC0yIHRleHQtbGcgdGV4dC13aGl0ZS82MCBsZWFkaW5nLXJlbGF4ZWQgbWF4LXcteGwgbWItMTAiPgogICAgICAgICAgICAgIEV2ZXJ5IHByb2plY3Qgd2UgYnVpbGQgaXMgZW5naW5lZXJlZCB0byBnZW5lcmF0ZSByZWFsIGJ1c2luZXNzIHJlc3VsdHMg4oCUIG1vcmUgdHJhZmZpYywgbW9yZSBsZWFkcywgbW9yZSByZXZlbnVlLgogICAgICAgICAgICA8L3A+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGVyby1mYWRlLXVwLTMgZ3JpZCBncmlkLWNvbHMtMiBzbTpncmlkLWNvbHMtNCBnYXAtNCI+CiAgICAgICAgICAgICAge3N0YXRzLm1hcCgocykgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e3MubGFiZWx9IGNsYXNzTmFtZT0iZ2xhc3Mgcm91bmRlZC14bCBweC00IHB5LTMgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYmxhY2sgdGV4dC13aGl0ZSI+e3MudmFsdWV9PC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2hpdGUvNTAgdGV4dC14cyBtdC0wLjUiPntzLmxhYmVsfTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICB7LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgICBQT1JURk9MSU8gR1JJRCAoY2xpZW50IGNvbXBvbmVudCB3aXRoIGNhdGVnb3J5IGZpbHRlcnMpCiAgICAgICAgICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi99CiAgICAgIDxQb3J0Zm9saW9HcmlkIC8+CgogICAgICB7LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgICBCT1RUT00gQ1RBIEJBTkQKICAgICAgICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL30KICAgICAgPHNlY3Rpb24KICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBweS0yMCIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzAxMEMxRSAwJSwgIzA1MjE0MCA1NSUsICMwMTBEMjIgMTAwJSkiIH19CiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTAgbGVmdC0xLzMgdy04MCBoLTgwIHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBmaWx0ZXI6ICJibHVyKDExMHB4KSIsIG9wYWNpdHk6IDAuMiB9fSAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBib3R0b20tMCByaWdodC0xLzMgdy02NCBoLTY0IHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMDNCNkYiLCBmaWx0ZXI6ICJibHVyKDkwcHgpIiwgb3BhY2l0eTogMC4zLCBhbmltYXRpb25EZWxheTogIjJzIiB9fSAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgbWF4LXctWzEyODBweF0gbXgtYXV0byBweC02IGxnOnB4LTggdGV4dC1jZW50ZXIiPgogICAgICAgICAgPGgyCiAgICAgICAgICAgIGNsYXNzTmFtZT0iZm9udC1ibGFjayB0ZXh0LXdoaXRlIG1iLTQgcmV2ZWFsIgogICAgICAgICAgICBzdHlsZT17eyBmb250U2l6ZTogImNsYW1wKDJyZW0sIDR2dywgM3JlbSkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIFJlYWR5IHRvIFNlZSBZb3VyIEJ1c2luZXNzIEhlcmU/CiAgICAgICAgICA8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzYwIG1heC13LXhsIG14LWF1dG8gbWItOCByZXZlYWwgZGVsYXktMSI+CiAgICAgICAgICAgIEV2ZXJ5IHByb2plY3Qgc3RhcnRzIHdpdGggYSBmcmVlIGNvbnN1bHRhdGlvbi4gVGVsbCB1cyBhYm91dCB5b3VyIGdvYWxzIGFuZCBsZXQmYXBvcztzIGJ1aWxkIHNvbWV0aGluZyBleHRyYW9yZGluYXJ5LgogICAgICAgICAgPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgZ2FwLTQganVzdGlmeS1jZW50ZXIgcmV2ZWFsIGRlbGF5LTIiPgogICAgICAgICAgICA8TGluawogICAgICAgICAgICAgIGhyZWY9Ii9jb250YWN0IgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuLXNoaW1tZXIgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0yIHB4LTEwIHB5LTUgdGV4dC13aGl0ZSBmb250LWJsYWNrIHJvdW5kZWQtYnRuIHRleHQtbGcgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMDBBQURGIiwgYm94U2hhZG93OiAiMCA0cHggMzJweCByZ2JhKDAsMTcwLDIyMywwLjQpIiB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgR2V0IGEgRnJlZSBRdW90ZQogICAgICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTUgaC01IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD17Mn0+CiAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMTMuNSA0LjVMMjEgMTJtMCAwbC03LjUgNy41TTIxIDEySDMiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICBocmVmPSIvY29udGFjdCIKICAgICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMiBweC0xMCBweS01IGdsYXNzIHRleHQtd2hpdGUgZm9udC1ib2xkIHJvdW5kZWQtYnRuIHRleHQtbGcgaG92ZXI6Ymctd2hpdGUvMTUgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgVmlldyBBbGwgU2VydmljZXMKICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import BreadcrumbSchema from "@/components/BreadcrumbSchema";
+import PortfolioGrid from "@/components/PortfolioGrid";
+// v4
+
+export const metadata: Metadata = {
+  title: "Our Portfolio",
+  description:
+    "Browse our portfolio of web design, SEO, and digital marketing projects for Canadian businesses.",
+  alternates: { canonical: "/portfolio" },
+};
+
+const stats = [
+  { value: "19+",  label: "Live Projects" },
+  { value: "300%", label: "Avg Traffic Growth" },
+  { value: "5★",   label: "Client Satisfaction" },
+  { value: "30d",  label: "Avg Launch Time" },
+];
+
+export default function PortfolioPage() {
+  return (
+    <>
+      <BreadcrumbSchema items={[{ name: "Portfolio", href: "/portfolio" }]} />
+
+      {/* =============================================
+          HERO
+          ============================================= */}
+      <section
+        className="relative overflow-hidden py-14 md:py-20 flex items-center"
+        style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)" }}
+      >
+        {/* Background image */}
+        <Image src="/portfolio/evolve-media-group.jpg" alt="" fill className="object-cover object-center" priority />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ background: "linear-gradient(105deg, rgba(1,12,30,0.94) 0%, rgba(1,12,30,0.85) 50%, rgba(1,12,30,0.78) 100%)" }} />
+
+        <div className="absolute top-0 left-[10%] w-[500px] h-[500px] rounded-full pointer-events-none animate-orb"
+          style={{ background: "#00AADF", filter: "blur(140px)", opacity: 0.25 }} />
+        <div className="absolute bottom-0 right-[5%] w-96 h-96 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#003B6F", filter: "blur(110px)", opacity: 0.35, animationDelay: "2.5s" }} />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.07) 1px, transparent 1px)", backgroundSize: "48px 48px" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8 w-full">
+          <div className="max-w-3xl">
+            <div className="hero-fade-up inline-flex items-center gap-2.5 px-4 py-2 rounded-full glass mb-6">
+              <span className="w-2 h-2 rounded-full" style={{ background: "#00AADF", boxShadow: "0 0 8px rgba(0,170,223,0.8)" }} />
+              <span className="text-white/80 text-sm font-medium tracking-wide">Real Results. Real Clients.</span>
+            </div>
+
+            <h1 className="hero-fade-up-1 font-black text-white mb-6"
+              style={{ fontSize: "clamp(1.8rem, 4vw, 2.6rem)", lineHeight: 1.05 }}>
+              Work That{" "}
+              <span className="gradient-text-animated">Speaks for Itself</span>
+            </h1>
+
+            <p className="hero-fade-up-2 text-lg text-white/60 leading-relaxed max-w-xl mb-10">
+              Every project we build is engineered to generate real business results — more traffic, more leads, more revenue.
+            </p>
+
+            <div className="hero-fade-up-3 grid grid-cols-2 sm:grid-cols-4 gap-4">
+              {stats.map((s) => (
+                <div key={s.label} className="glass rounded-xl px-4 py-3 text-center">
+                  <p className="text-2xl font-black text-white">{s.value}</p>
+                  <p className="text-white/50 text-xs mt-0.5">{s.label}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* =============================================
+          PORTFOLIO GRID (client component with category filters)
+          ============================================= */}
+      <PortfolioGrid />
+
+      {/* =============================================
+          BOTTOM CTA BAND
+          ============================================= */}
+      <section
+        className="relative overflow-hidden py-20"
+        style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)" }}
+      >
+        <div className="absolute top-0 left-1/3 w-80 h-80 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#00AADF", filter: "blur(110px)", opacity: 0.2 }} />
+        <div className="absolute bottom-0 right-1/3 w-64 h-64 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#003B6F", filter: "blur(90px)", opacity: 0.3, animationDelay: "2s" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8 text-center">
+          <h2
+            className="font-black text-white mb-4 reveal"
+            style={{ fontSize: "clamp(2rem, 4vw, 3rem)" }}
+          >
+            Ready to See Your Business Here?
+          </h2>
+          <p className="text-white/60 max-w-xl mx-auto mb-8 reveal delay-1">
+            Every project starts with a free consultation. Tell us about your goals and let&apos;s build something extraordinary.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center reveal delay-2">
+            <Link
+              href="/contact"
+              className="btn-shimmer inline-flex items-center justify-center gap-2 px-10 py-5 text-white font-black rounded-btn text-lg transition-all duration-300"
+              style={{ background: "#00AADF", boxShadow: "0 4px 32px rgba(0,170,223,0.4)" }}
+            >
+              Get a Free Quote
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </Link>
+            <Link
+              href="/contact"
+              className="inline-flex items-center justify-center gap-2 px-10 py-5 glass text-white font-bold rounded-btn text-lg hover:bg-white/15 transition-all duration-300"
+            >
+              View All Services
+            </Link>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

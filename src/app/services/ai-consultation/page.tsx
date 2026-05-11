@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gImFpLWNvbnN1bHRhdGlvbiIpITsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJBSSBDb25zdWx0YXRpb24gU2VydmljZXMiLAogIGRlc2NyaXB0aW9uOiAiTGV2ZXJhZ2UgYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UgdG8gYXV0b21hdGUgb3BlcmF0aW9ucyBhbmQgb3V0cGFjZSBjb21wZXRpdG9ycy4gQ2FuYWRpYW4gV2ViIERlc2lnbnMgb2ZmZXJzIEFJIGNvbnN1bHRhdGlvbiBhbmQgaW1wbGVtZW50YXRpb24gZm9yIENhbmFkaWFuIGJ1c2luZXNzZXMuIiwKICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogIi9zZXJ2aWNlcy9haS1jb25zdWx0YXRpb24iIH0sCn07Cgpjb25zdCBmYXFTY2hlbWEgPSB7CiAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgIkB0eXBlIjogIkZBUVBhZ2UiLAogIG1haW5FbnRpdHk6IFsKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIldoYXQgaXMgQUkgY29uc3VsdGF0aW9uIGZvciBidXNpbmVzc2VzPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiQUkgY29uc3VsdGF0aW9uIGhlbHBzIHlvdXIgYnVzaW5lc3MgaWRlbnRpZnkgb3Bwb3J0dW5pdGllcyB0byB1c2UgYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UgdG9vbHMg4oCUIHN1Y2ggYXMgY2hhdGJvdHMsIGF1dG9tYXRlZCBjdXN0b21lciByZXNwb25zZXMsIHByZWRpY3RpdmUgYW5hbHl0aWNzLCBhbmQgY29udGVudCBnZW5lcmF0aW9uIOKAlCB0byBzYXZlIHRpbWUsIHJlZHVjZSBjb3N0cywgYW5kIGltcHJvdmUgY3VzdG9tZXIgZXhwZXJpZW5jZS4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiSXMgQUkgYXV0b21hdGlvbiBvbmx5IGZvciBsYXJnZSBjb21wYW5pZXM/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJOby4gQUkgdG9vbHMgYXJlIG5vdyBhY2Nlc3NpYmxlIGFuZCBhZmZvcmRhYmxlIGZvciBzbWFsbCBhbmQgbWVkaXVtLXNpemVkIGJ1c2luZXNzZXMuIFdlIGhlbHAgQ2FuYWRpYW4gYnVzaW5lc3NlcyBvZiBhbGwgc2l6ZXMgaW1wbGVtZW50IHByYWN0aWNhbCBBSSBzb2x1dGlvbnMgdGhhdCBkZWxpdmVyIGltbWVkaWF0ZSBST0kgd2l0aG91dCBjb21wbGV4IGluZnJhc3RydWN0dXJlLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaGF0IEFJIHRvb2xzIGRvIHlvdSB3b3JrIHdpdGg/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSB3b3JrIHdpdGggYSByYW5nZSBvZiBBSSBwbGF0Zm9ybXMgaW5jbHVkaW5nIE9wZW5BSSAoQ2hhdEdQVCAvIEdQVC00KSwgQW50aHJvcGljIENsYXVkZSwgR29vZ2xlIEdlbWluaSwgYW5kIHB1cnBvc2UtYnVpbHQgYXV0b21hdGlvbiB0b29scyBsaWtlIFphcGllciwgTWFrZSwgYW5kIG44bi4gV2UgcmVjb21tZW5kIHRoZSBiZXN0IGZpdCBmb3IgeW91ciBzcGVjaWZpYyB1c2UgY2FzZSBhbmQgYnVkZ2V0LiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJIb3cgbG9uZyBkb2VzIEFJIGltcGxlbWVudGF0aW9uIHRha2U/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJTaW1wbGUgYXV0b21hdGlvbnMgbGlrZSBBSS1wb3dlcmVkIGVtYWlsIHJlc3BvbnNlcyBvciBjaGF0Ym90IHNldHVwIGNhbiBiZSBkZXBsb3llZCBpbiBhcyBsaXR0bGUgYXMgMeKAkzIgd2Vla3MuIE1vcmUgY29tcGxleCBpbnRlZ3JhdGlvbnMgaW50byBleGlzdGluZyBzeXN0ZW1zIG1heSB0YWtlIDTigJM4IHdlZWtzLiBXZSBwcm92aWRlIGEgZGV0YWlsZWQgcHJvamVjdCB0aW1lbGluZSBhZnRlciB0aGUgZGlzY292ZXJ5IHNlc3Npb24uIiB9LAogICAgfSwKICBdLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU2VydmljZVBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDw+CiAgICAgIDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiIgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sgX19odG1sOiBKU09OLnN0cmluZ2lmeShmYXFTY2hlbWEpIH19IC8+CiAgICAgIDxTZXJ2aWNlUGFnZVRlbXBsYXRlIHNlcnZpY2U9e3NlcnZpY2V9IC8+CiAgICA8Lz4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "ai-consultation")!;
+
+export const metadata: Metadata = {
+  title: "AI Consultation Services",
+  description: "Leverage artificial intelligence to automate operations and outpace competitors. Canadian Web Designs offers AI consultation and implementation for Canadian businesses.",
+  alternates: { canonical: "/services/ai-consultation" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "What is AI consultation for businesses?",
+      acceptedAnswer: { "@type": "Answer", text: "AI consultation helps your business identify opportunities to use artificial intelligence tools — such as chatbots, automated customer responses, predictive analytics, and content generation — to save time, reduce costs, and improve customer experience." },
+    },
+    {
+      "@type": "Question",
+      name: "Is AI automation only for large companies?",
+      acceptedAnswer: { "@type": "Answer", text: "No. AI tools are now accessible and affordable for small and medium-sized businesses. We help Canadian businesses of all sizes implement practical AI solutions that deliver immediate ROI without complex infrastructure." },
+    },
+    {
+      "@type": "Question",
+      name: "What AI tools do you work with?",
+      acceptedAnswer: { "@type": "Answer", text: "We work with a range of AI platforms including OpenAI (ChatGPT / GPT-4), Anthropic Claude, Google Gemini, and purpose-built automation tools like Zapier, Make, and n8n. We recommend the best fit for your specific use case and budget." },
+    },
+    {
+      "@type": "Question",
+      name: "How long does AI implementation take?",
+      acceptedAnswer: { "@type": "Answer", text: "Simple automations like AI-powered email responses or chatbot setup can be deployed in as little as 1–2 weeks. More complex integrations into existing systems may take 4–8 weeks. We provide a detailed project timeline after the discovery session." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

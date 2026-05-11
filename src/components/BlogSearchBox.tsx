@@ -1,1 +1,56 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZVRyYW5zaXRpb24sIHVzZUNhbGxiYWNrIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQmxvZ1NlYXJjaEJveCh7IGluaXRpYWxRIH06IHsgaW5pdGlhbFE6IHN0cmluZyB9KSB7CiAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7CiAgY29uc3QgW3ZhbHVlLCBzZXRWYWx1ZV0gPSB1c2VTdGF0ZShpbml0aWFsUSk7CiAgY29uc3QgWywgc3RhcnRUcmFuc2l0aW9uXSA9IHVzZVRyYW5zaXRpb24oKTsKCiAgY29uc3QgaGFuZGxlQ2hhbmdlID0gdXNlQ2FsbGJhY2soKGU6IFJlYWN0LkNoYW5nZUV2ZW50PEhUTUxJbnB1dEVsZW1lbnQ+KSA9PiB7CiAgICBjb25zdCBxID0gZS50YXJnZXQudmFsdWU7CiAgICBzZXRWYWx1ZShxKTsKICAgIHN0YXJ0VHJhbnNpdGlvbigoKSA9PiB7CiAgICAgIGlmIChxLnRyaW0oKSkgewogICAgICAgIHJvdXRlci5wdXNoKGAvYmxvZz9xPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHEudHJpbSgpKX1gKTsKICAgICAgfSBlbHNlIHsKICAgICAgICByb3V0ZXIucHVzaCgiL2Jsb2ciKTsKICAgICAgfQogICAgfSk7CiAgfSwgW3JvdXRlcl0pOwoKICBjb25zdCBjbGVhciA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIHNldFZhbHVlKCIiKTsKICAgIHJvdXRlci5wdXNoKCIvYmxvZyIpOwogIH0sIFtyb3V0ZXJdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtYXgtdy14bCBteC1hdXRvIG1iLTEwIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LXktMCBsZWZ0LTQgZmxleCBpdGVtcy1jZW50ZXIgcG9pbnRlci1ldmVudHMtbm9uZSI+CiAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1ncmF5LTQwMCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9ezJ9PgogICAgICAgICAgPHBhdGggc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIgZD0iTTIxIDIxbC01LjE5Ny01LjE5N20wIDBBNy41IDcuNSAwIDEwNS4xOTYgMTUuODAzYTcuNSA3LjUgMCAwMDEwLjYwNyAxMC42MDd6IiAvPgogICAgICAgIDwvc3ZnPgogICAgICA8L2Rpdj4KICAgICAgPGlucHV0CiAgICAgICAgdHlwZT0ic2VhcmNoIgogICAgICAgIHZhbHVlPXt2YWx1ZX0KICAgICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICAgIHBsYWNlaG9sZGVyPSJTZWFyY2ggYXJ0aWNsZXMgYnkgdGl0bGUsIHRvcGljLCBvciBjYXRlZ29yeS4uLiIKICAgICAgICBjbGFzc05hbWU9InctZnVsbCBwbC0xMiBwci0xMiBweS0zLjUgcm91bmRlZC0yeGwgYmctd2hpdGUgYm9yZGVyIGJvcmRlci1ncmF5LTIwMCB0ZXh0LWdyYXktOTAwIHBsYWNlaG9sZGVyOnRleHQtZ3JheS00MDAgZm9udC1tZWRpdW0gZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOmJvcmRlci1bIzAwQUFERl0gZm9jdXM6cmluZy0yIGZvY3VzOnJpbmctWyMwMEFBREZdLzIwIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCIKICAgICAgICBzdHlsZT17eyBib3hTaGFkb3c6ICIwIDJweCAxMnB4IHJnYmEoMCwwLDAsMC4wNikiIH19CiAgICAgIC8+CiAgICAgIHt2YWx1ZSAmJiAoCiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgb25DbGljaz17Y2xlYXJ9CiAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LXktMCByaWdodC00IGZsZXggaXRlbXMtY2VudGVyIHRleHQtZ3JheS00MDAgaG92ZXI6dGV4dC1ncmF5LTYwMCB0cmFuc2l0aW9uLWNvbG9ycyBtaW4tdy1bNDRweF0ganVzdGlmeS1jZW50ZXIiCiAgICAgICAgICBhcmlhLWxhYmVsPSJDbGVhciBzZWFyY2giCiAgICAgICAgPgogICAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNCBoLTQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyfT4KICAgICAgICAgICAgPHBhdGggc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIgZD0iTTYgMThMMTggNk02IDZsMTIgMTIiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgKX0KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState, useTransition, useCallback } from "react";
+import { useRouter } from "next/navigation";
+
+export default function BlogSearchBox({ initialQ }: { initialQ: string }) {
+  const router = useRouter();
+  const [value, setValue] = useState(initialQ);
+  const [, startTransition] = useTransition();
+
+  const handleChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+    const q = e.target.value;
+    setValue(q);
+    startTransition(() => {
+      if (q.trim()) {
+        router.push(`/blog?q=${encodeURIComponent(q.trim())}`);
+      } else {
+        router.push("/blog");
+      }
+    });
+  }, [router]);
+
+  const clear = useCallback(() => {
+    setValue("");
+    router.push("/blog");
+  }, [router]);
+
+  return (
+    <div className="relative max-w-xl mx-auto mb-10">
+      <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none">
+        <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 15.803a7.5 7.5 0 0010.607 10.607z" />
+        </svg>
+      </div>
+      <input
+        type="search"
+        value={value}
+        onChange={handleChange}
+        placeholder="Search articles by title, topic, or category..."
+        className="w-full pl-12 pr-12 py-3.5 rounded-2xl bg-white border border-gray-200 text-gray-900 placeholder:text-gray-400 font-medium focus:outline-none focus:border-[#00AADF] focus:ring-2 focus:ring-[#00AADF]/20 transition-all duration-200"
+        style={{ boxShadow: "0 2px 12px rgba(0,0,0,0.06)" }}
+      />
+      {value && (
+        <button
+          onClick={clear}
+          className="absolute inset-y-0 right-4 flex items-center text-gray-400 hover:text-gray-600 transition-colors min-w-[44px] justify-center"
+          aria-label="Clear search"
+        >
+          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      )}
+    </div>
+  );
+}

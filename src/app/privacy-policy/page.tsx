@@ -1,1 +1,59 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOw0KaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7DQoNCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOw0KDQpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gew0KICB0aXRsZTogIlByaXZhY3kgUG9saWN5IiwNCiAgZGVzY3JpcHRpb246IGBQcml2YWN5IFBvbGljeSBmb3IgJHtjb25maWcuYnVzaW5lc3NOYW1lfSDigJQgaG93IHdlIGNvbGxlY3QsIHVzZSwgYW5kIHByb3RlY3QgeW91ciBpbmZvcm1hdGlvbi5gLA0KICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogIi9wcml2YWN5LXBvbGljeSIgfSwNCn07DQoNCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByaXZhY3lQb2xpY3lQYWdlKCkgew0KICByZXR1cm4gKA0KICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icHktc2VjdGlvbi15LXNtIG1kOnB5LXNlY3Rpb24teSI+DQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctM3hsIG14LWF1dG8gcHgtNiBsZzpweC04Ij4NCiAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtZGFyayBtYi04Ij5Qcml2YWN5IFBvbGljeTwvaDE+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0IG1iLTQiPkxhc3QgdXBkYXRlZDogSmFudWFyeSAyMDI1PC9wPg0KDQogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1ib2xkIHRleHQtZGFyayBtdC04IG1iLTQiPkluZm9ybWF0aW9uIFdlIENvbGxlY3Q8L2gyPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij4NCiAgICAgICAgICBXaGVuIHlvdSB2aXNpdCBvdXIgd2Vic2l0ZSBvciBjb250YWN0IHVzLCB3ZSBtYXkgY29sbGVjdCBwZXJzb25hbCBpbmZvcm1hdGlvbiBpbmNsdWRpbmcgeW91ciBuYW1lLA0KICAgICAgICAgIGVtYWlsIGFkZHJlc3MsIHBob25lIG51bWJlciwgYW5kIGJ1c2luZXNzIGRldGFpbHMgdGhhdCB5b3Ugdm9sdW50YXJpbHkgcHJvdmlkZSB0aHJvdWdoIG91ciBjb250YWN0IGZvcm1zLg0KICAgICAgICA8L3A+DQoNCiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1kYXJrIG10LTggbWItNCI+SG93IFdlIFVzZSBZb3VyIEluZm9ybWF0aW9uPC9oMj4NCiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWRhcmstbGlnaHQgbWItNCI+DQogICAgICAgICAgV2UgdXNlIHRoZSBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IHRvIHJlc3BvbmQgdG8geW91ciBpbnF1aXJpZXMsIHByb3ZpZGUgb3VyIHNlcnZpY2VzLCBpbXByb3ZlIG91cg0KICAgICAgICAgIHdlYnNpdGUsIGFuZCBzZW5kIHJlbGV2YW50IGNvbW11bmljYXRpb25zIGFib3V0IG91ciBzZXJ2aWNlcy4NCiAgICAgICAgPC9wPg0KDQogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1ib2xkIHRleHQtZGFyayBtdC04IG1iLTQiPkdvb2dsZSBBbmFseXRpY3M8L2gyPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij4NCiAgICAgICAgICBXZSB1c2UgR29vZ2xlIEFuYWx5dGljcyB0byB1bmRlcnN0YW5kIGhvdyB2aXNpdG9ycyBpbnRlcmFjdCB3aXRoIG91ciB3ZWJzaXRlLiBHb29nbGUgQW5hbHl0aWNzDQogICAgICAgICAgY29sbGVjdHMgaW5mb3JtYXRpb24gYW5vbnltb3VzbHkgYW5kIHJlcG9ydHMgd2Vic2l0ZSB0cmVuZHMgd2l0aG91dCBpZGVudGlmeWluZyBpbmRpdmlkdWFsIHZpc2l0b3JzLg0KICAgICAgICA8L3A+DQoNCiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1kYXJrIG10LTggbWItNCI+Q29va2llczwvaDI+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0IG1iLTQiPg0KICAgICAgICAgIE91ciB3ZWJzaXRlIHVzZXMgY29va2llcyB0byBlbmhhbmNlIHlvdXIgYnJvd3NpbmcgZXhwZXJpZW5jZSBhbmQgYW5hbHl6ZSBzaXRlIHRyYWZmaWMuIFlvdSBjYW4NCiAgICAgICAgICBjb250cm9sIGNvb2tpZSBwcmVmZXJlbmNlcyB0aHJvdWdoIHlvdXIgYnJvd3NlciBzZXR0aW5ncy4NCiAgICAgICAgPC9wPg0KDQogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1ib2xkIHRleHQtZGFyayBtdC04IG1iLTQiPkRhdGEgUHJvdGVjdGlvbjwvaDI+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0IG1iLTQiPg0KICAgICAgICAgIFdlIGltcGxlbWVudCBhcHByb3ByaWF0ZSBzZWN1cml0eSBtZWFzdXJlcyB0byBwcm90ZWN0IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gYWdhaW5zdCB1bmF1dGhvcml6ZWQNCiAgICAgICAgICBhY2Nlc3MsIGFsdGVyYXRpb24sIGRpc2Nsb3N1cmUsIG9yIGRlc3RydWN0aW9uLg0KICAgICAgICA8L3A+DQoNCiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1kYXJrIG10LTggbWItNCI+Q29udGFjdCBVczwvaDI+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0Ij4NCiAgICAgICAgICBJZiB5b3UgaGF2ZSBxdWVzdGlvbnMgYWJvdXQgdGhpcyBwcml2YWN5IHBvbGljeSwgcGxlYXNlIGNvbnRhY3QgdXMgYXR7IiAifQ0KICAgICAgICAgIDxhIGhyZWY9e2BtYWlsdG86JHtjb25maWcuZW1haWxzLnN1cHBvcnR9YH0gY2xhc3NOYW1lPSJ0ZXh0LXByaW1hcnkgaG92ZXI6dW5kZXJsaW5lIj4NCiAgICAgICAgICAgIHtjb25maWcuZW1haWxzLnN1cHBvcnR9DQogICAgICAgICAgPC9hPi4NCiAgICAgICAgPC9wPg0KICAgICAgPC9kaXY+DQogICAgPC9zZWN0aW9uPg0KICApOw0KfQ0K"}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+
+const config = getConfig();
+
+export const metadata: Metadata = {
+  title: "Privacy Policy",
+  description: `Privacy Policy for ${config.businessName} — how we collect, use, and protect your information.`,
+  alternates: { canonical: "/privacy-policy" },
+};
+
+export default function PrivacyPolicyPage() {
+  return (
+    <section className="py-section-y-sm md:py-section-y">
+      <div className="max-w-3xl mx-auto px-6 lg:px-8">
+        <h1 className="text-3xl font-bold text-dark mb-8">Privacy Policy</h1>
+        <p className="text-dark-light mb-4">Last updated: January 2025</p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Information We Collect</h2>
+        <p className="text-dark-light mb-4">
+          When you visit our website or contact us, we may collect personal information including your name,
+          email address, phone number, and business details that you voluntarily provide through our contact forms.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">How We Use Your Information</h2>
+        <p className="text-dark-light mb-4">
+          We use the information we collect to respond to your inquiries, provide our services, improve our
+          website, and send relevant communications about our services.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Google Analytics</h2>
+        <p className="text-dark-light mb-4">
+          We use Google Analytics to understand how visitors interact with our website. Google Analytics
+          collects information anonymously and reports website trends without identifying individual visitors.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Cookies</h2>
+        <p className="text-dark-light mb-4">
+          Our website uses cookies to enhance your browsing experience and analyze site traffic. You can
+          control cookie preferences through your browser settings.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Data Protection</h2>
+        <p className="text-dark-light mb-4">
+          We implement appropriate security measures to protect your personal information against unauthorized
+          access, alteration, disclosure, or destruction.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Contact Us</h2>
+        <p className="text-dark-light">
+          If you have questions about this privacy policy, please contact us at{" "}
+          <a href={`mailto:${config.emails.support}`} className="text-primary hover:underline">
+            {config.emails.support}
+          </a>.
+        </p>
+      </div>
+    </section>
+  );
+}

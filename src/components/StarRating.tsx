@@ -1,1 +1,34 @@
-{"data":"Y29uc3Qgc2l6ZXMgPSB7DQogIHNtOiAidy00IGgtNCIsDQogIG1kOiAidy01IGgtNSIsDQogIGxnOiAidy02IGgtNiIsDQp9IGFzIGNvbnN0Ow0KDQpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTdGFyUmF0aW5nKHsNCiAgcmF0aW5nID0gNSwNCiAgc2l6ZSA9ICJtZCIsDQogIGNsYXNzTmFtZSA9ICIiLA0KfTogew0KICByYXRpbmc/OiBudW1iZXI7DQogIHNpemU/OiAic20iIHwgIm1kIiB8ICJsZyI7DQogIGNsYXNzTmFtZT86IHN0cmluZzsNCn0pIHsNCiAgcmV0dXJuICgNCiAgICA8ZGl2DQogICAgICByb2xlPSJpbWciDQogICAgICBhcmlhLWxhYmVsPXtgJHtyYXRpbmd9IG91dCBvZiA1IHN0YXJzYH0NCiAgICAgIGNsYXNzTmFtZT17YGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMC41ICR7Y2xhc3NOYW1lfWB9DQogICAgPg0KICAgICAge1suLi5BcnJheSg1KV0ubWFwKChfLCBpKSA9PiAoDQogICAgICAgIDxzdmcNCiAgICAgICAgICBrZXk9e2l9DQogICAgICAgICAgY2xhc3NOYW1lPXtgJHtzaXplc1tzaXplXX0gJHtpIDwgcmF0aW5nID8gInRleHQtc3RhciIgOiAidGV4dC1ncmF5LTMwMCJ9IGZpbGwtY3VycmVudGB9DQogICAgICAgICAgdmlld0JveD0iMCAwIDIwIDIwIg0KICAgICAgICAgIGFyaWEtaGlkZGVuPSJ0cnVlIg0KICAgICAgICA+DQogICAgICAgICAgPHBhdGggZD0iTTkuMDQ5IDIuOTI3Yy4zLS45MjEgMS42MDMtLjkyMSAxLjkwMiAwbDEuMDcgMy4yOTJhMSAxIDAgMDAuOTUuNjloMy40NjJjLjk2OSAwIDEuMzcxIDEuMjQuNTg4IDEuODFsLTIuOCAyLjAzNGExIDEgMCAwMC0uMzY0IDEuMTE4bDEuMDcgMy4yOTJjLjMuOTIxLS43NTUgMS42ODgtMS41NCAxLjExOGwtMi44LTIuMDM0YTEgMSAwIDAwLTEuMTc1IDBsLTIuOCAyLjAzNGMtLjc4NC41Ny0xLjgzOC0uMTk3LTEuNTM5LTEuMTE4bDEuMDctMy4yOTJhMSAxIDAgMDAtLjM2NC0xLjExOEwyLjk4IDguNzJjLS43ODMtLjU3LS4zOC0xLjgxLjU4OC0xLjgxaDMuNDYxYTEgMSAwIDAwLjk1MS0uNjlsMS4wNy0zLjI5MnoiIC8+DQogICAgICAgIDwvc3ZnPg0KICAgICAgKSl9DQogICAgPC9kaXY+DQogICk7DQp9DQo="}
+const sizes = {
+  sm: "w-4 h-4",
+  md: "w-5 h-5",
+  lg: "w-6 h-6",
+} as const;
+
+export default function StarRating({
+  rating = 5,
+  size = "md",
+  className = "",
+}: {
+  rating?: number;
+  size?: "sm" | "md" | "lg";
+  className?: string;
+}) {
+  return (
+    <div
+      role="img"
+      aria-label={`${rating} out of 5 stars`}
+      className={`inline-flex items-center gap-0.5 ${className}`}
+    >
+      {[...Array(5)].map((_, i) => (
+        <svg
+          key={i}
+          className={`${sizes[size]} ${i < rating ? "text-star" : "text-gray-300"} fill-current`}
+          viewBox="0 0 20 20"
+          aria-hidden="true"
+        >
+          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+        </svg>
+      ))}
+    </div>
+  );
+}

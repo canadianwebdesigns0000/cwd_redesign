@@ -1,1 +1,12 @@
-{"data":"Ly8gUmUtZXhwb3J0IGZyb20gY2xpZW50IGNvbmZpZyBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkuDQppbXBvcnQgeyBnZXRDb25maWcsIHR5cGUgQ2xpZW50TmF2SXRlbSwgdHlwZSBDbGllbnRTb2NpYWxMaW5rIH0gZnJvbSAiLi9jbGllbnQtY29uZmlnIjsNCg0KZXhwb3J0IHR5cGUgTmF2SXRlbSA9IENsaWVudE5hdkl0ZW07DQoNCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOw0KDQpleHBvcnQgY29uc3QgbmF2aWdhdGlvbjogTmF2SXRlbVtdID0gY29uZmlnLm5hdmlnYXRpb247DQoNCmV4cG9ydCBjb25zdCBzZXJ2aWNlQXJlYXM6IHN0cmluZ1tdID0gY29uZmlnLmNpdGllcy5tYXAoKGMpID0+IGMubmFtZSk7DQoNCmV4cG9ydCBjb25zdCBzb2NpYWxMaW5rczogQ2xpZW50U29jaWFsTGlua1tdID0gY29uZmlnLnNvY2lhbExpbmtzOw0K"}
+// Re-export from client config for backwards compatibility.
+import { getConfig, type ClientNavItem, type ClientSocialLink } from "./client-config";
+
+export type NavItem = ClientNavItem;
+
+const config = getConfig();
+
+export const navigation: NavItem[] = config.navigation;
+
+export const serviceAreas: string[] = config.cities.map((c) => c.name);
+
+export const socialLinks: ClientSocialLink[] = config.socialLinks;

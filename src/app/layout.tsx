@@ -1,1 +1,305 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBJbnRlciB9IGZyb20gIm5leHQvZm9udC9nb29nbGUiOwppbXBvcnQgU2NyaXB0IGZyb20gIm5leHQvc2NyaXB0IjsKaW1wb3J0IEhlYWRlciBmcm9tICJAL2NvbXBvbmVudHMvSGVhZGVyIjsKaW1wb3J0IEZvb3RlciBmcm9tICJAL2NvbXBvbmVudHMvRm9vdGVyIjsKaW1wb3J0IEdvb2dsZUFuYWx5dGljcyBmcm9tICJAL2NvbXBvbmVudHMvR29vZ2xlQW5hbHl0aWNzIjsKaW1wb3J0IFByZWxvYWRlciBmcm9tICJAL2NvbXBvbmVudHMvUHJlbG9hZGVyIjsKaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7CmltcG9ydCBIcmVmbGFuZ1RhZ3MgZnJvbSAiQC9jb21wb25lbnRzL0hyZWZsYW5nVGFncyI7CmltcG9ydCBDb25kaXRpb25hbFNjaGVtYXMgZnJvbSAiQC9jb21wb25lbnRzL0NvbmRpdGlvbmFsU2NoZW1hcyI7CmltcG9ydCAiLi9nbG9iYWxzLmNzcyI7Cgpjb25zdCBpbnRlciA9IEludGVyKHsKICBzdWJzZXRzOiBbImxhdGluIl0sCiAgdmFyaWFibGU6ICItLWZvbnQtaW50ZXIiLAogIGRpc3BsYXk6ICJzd2FwIiwKfSk7Cgpjb25zdCBjb25maWcgPSBnZXRDb25maWcoKTsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgbWV0YWRhdGFCYXNlOiBuZXcgVVJMKGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn1gKSwKICB0aXRsZTogewogICAgZGVmYXVsdDogYFdlYiBEZXNpZ24gJiBEaWdpdGFsIE1hcmtldGluZyBBY3Jvc3MgQ2FuYWRhIHwgQ2FuYWRpYW4gV2ViIERlc2lnbnNgLAogICAgdGVtcGxhdGU6IGAlcyB8ICR7Y29uZmlnLmJ1c2luZXNzTmFtZX1gLAogIH0sCiAgZGVzY3JpcHRpb246CiAgICBgUHJvZmVzc2lvbmFsIHdlYiBkZXNpZ24sIFNFTywgYW5kIGRpZ2l0YWwgbWFya2V0aW5nIHNlcnZpY2VzIGFjcm9zcyBDYW5hZGEuIEN1c3RvbSB3ZWJzaXRlcyBidWlsdCBmb3IgcmVzdWx0cy5gLAogIGF1dGhvcnM6IFt7IG5hbWU6IGNvbmZpZy5idXNpbmVzc05hbWUgfV0sCiAgYWx0ZXJuYXRlczogeyBjYW5vbmljYWw6ICIvIiB9LAogIG9wZW5HcmFwaDogewogICAgdHlwZTogIndlYnNpdGUiLAogICAgbG9jYWxlOiAiZW5fQ0EiLAogICAgc2l0ZU5hbWU6IGNvbmZpZy5idXNpbmVzc05hbWUsCiAgICB0aXRsZTogYEFmZm9yZGFibGUgV2ViIERlc2lnbiBpbiBUb3JvbnRvIHwgQ2FuYWRpYW4gV2ViIERlc2lnbnNgLAogICAgZGVzY3JpcHRpb246CiAgICAgIGBQcm9mZXNzaW9uYWwgd2ViIGRlc2lnbiwgU0VPLCBhbmQgZGlnaXRhbCBtYXJrZXRpbmcgc2VydmljZXMgYWNyb3NzIENhbmFkYS4gQ3VzdG9tIHdlYnNpdGVzIGJ1aWx0IGZvciByZXN1bHRzLmAsCiAgICB1cmw6IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn1gLAogICAgaW1hZ2VzOiBbCiAgICAgIHsKICAgICAgICB1cmw6ICIvaW1hZ2VzL2hlcm8tbGVhZGluZy13ZWItZGVzaWduLmpwZyIsCiAgICAgICAgd2lkdGg6IDEyMDAsCiAgICAgICAgaGVpZ2h0OiA2MzAsCiAgICAgICAgYWx0OiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMg4oCUIEFmZm9yZGFibGUgV2ViIERlc2lnbiBpbiBUb3JvbnRvLCBDYW5hZGEiLAogICAgICB9LAogICAgXSwKICB9LAogIHR3aXR0ZXI6IHsKICAgIGNhcmQ6ICJzdW1tYXJ5X2xhcmdlX2ltYWdlIiwKICAgIHNpdGU6ICJAY2FuYWRpYW53ZWJkZXNpZ25zIiwKICAgIGNyZWF0b3I6ICJAY2FuYWRpYW53ZWJkZXNpZ25zIiwKICAgIHRpdGxlOiBgQWZmb3JkYWJsZSBXZWIgRGVzaWduIGluIFRvcm9udG8gfCBDYW5hZGlhbiBXZWIgRGVzaWduc2AsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgYFByb2Zlc3Npb25hbCB3ZWIgZGVzaWduLCBTRU8sIGFuZCBkaWdpdGFsIG1hcmtldGluZyBzZXJ2aWNlcyBhY3Jvc3MgQ2FuYWRhLiBDdXN0b20gd2Vic2l0ZXMgYnVpbHQgZm9yIHJlc3VsdHMuYCwKICAgIGltYWdlczogWyIvaW1hZ2VzL2hlcm8tbGVhZGluZy13ZWItZGVzaWduLmpwZyJdLAogIH0sCiAgcm9ib3RzOiB7CiAgICBpbmRleDogdHJ1ZSwKICAgIGZvbGxvdzogdHJ1ZSwKICAgIGdvb2dsZUJvdDogewogICAgICBpbmRleDogdHJ1ZSwKICAgICAgZm9sbG93OiB0cnVlLAogICAgICAibWF4LXZpZGVvLXByZXZpZXciOiAtMSwKICAgICAgIm1heC1pbWFnZS1wcmV2aWV3IjogImxhcmdlIiwKICAgICAgIm1heC1zbmlwcGV0IjogLTEsCiAgICB9LAogIH0sCn07Cgpjb25zdCBsb2NhbEJ1c2luZXNzU2NoZW1hID0gewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAdHlwZSI6IFsiTG9jYWxCdXNpbmVzcyIsICJQcm9mZXNzaW9uYWxTZXJ2aWNlIl0sCiAgbmFtZTogY29uZmlnLmJ1c2luZXNzTmFtZSwKICB1cmw6IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn1gLAogIGxvZ286IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn0vbG9nb3MvbG9nby53ZWJwYCwKICBpbWFnZTogYGh0dHBzOi8vJHtjb25maWcuZG9tYWlufS9pbWFnZXMvaGVyby1sZWFkaW5nLXdlYi1kZXNpZ24uanBnYCwKICBkZXNjcmlwdGlvbjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIGlzIFRvcm9udG8ncyB0b3AtcmF0ZWQgYWZmb3JkYWJsZSB3ZWIgZGVzaWduIGFnZW5jeSBvZmZlcmluZyBjdXN0b20gd2Vic2l0ZXMsIFNFTywgZ3JhcGhpYyBkZXNpZ24sIHNvY2lhbCBtZWRpYSwgYW5kIEFJIGNvbnN1bHRhdGlvbiBzZXJ2aWNlcyBhY3Jvc3MgQ2FuYWRhLiIsCiAgcHJpY2VSYW5nZTogIiQkIiwKICB0ZWxlcGhvbmU6IGNvbmZpZy5waG9uZSwKICBlbWFpbDogY29uZmlnLmVtYWlscy5zdXBwb3J0LAogIGhhc01hcDogImh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9zZWFyY2gvQ2FuYWRpYW4rV2ViK0Rlc2lnbnMrVG9yb250byIsCiAgY29udGFjdFBvaW50OiB7CiAgICAiQHR5cGUiOiAiQ29udGFjdFBvaW50IiwKICAgIHRlbGVwaG9uZTogY29uZmlnLnBob25lLAogICAgY29udGFjdFR5cGU6ICJjdXN0b21lciBzZXJ2aWNlIiwKICAgIGFyZWFTZXJ2ZWQ6ICJDQSIsCiAgICBhdmFpbGFibGVMYW5ndWFnZTogIkVuZ2xpc2giLAogIH0sCiAgYWRkcmVzczogWwogICAgewogICAgICAiQHR5cGUiOiAiUG9zdGFsQWRkcmVzcyIsCiAgICAgIHN0cmVldEFkZHJlc3M6ICIyOTY3IER1bmRhcyBTdCBXICM3MTgiLAogICAgICBhZGRyZXNzTG9jYWxpdHk6ICJUb3JvbnRvIiwKICAgICAgYWRkcmVzc1JlZ2lvbjogIk9OIiwKICAgICAgcG9zdGFsQ29kZTogIk02UCAxWjIiLAogICAgICBhZGRyZXNzQ291bnRyeTogIkNBIiwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJQb3N0YWxBZGRyZXNzIiwKICAgICAgc3RyZWV0QWRkcmVzczogIjUgQ2hlcnJ5Y3Jlc3QgRHJpdmUgIzIwMiIsCiAgICAgIGFkZHJlc3NMb2NhbGl0eTogIkJyYW1wdG9uIiwKICAgICAgYWRkcmVzc1JlZ2lvbjogIk9OIiwKICAgICAgcG9zdGFsQ29kZTogIkw2UCAzVzQiLAogICAgICBhZGRyZXNzQ291bnRyeTogIkNBIiwKICAgIH0sCiAgXSwKICBvcGVuaW5nSG91cnNTcGVjaWZpY2F0aW9uOiBbCiAgICB7CiAgICAgICJAdHlwZSI6ICJPcGVuaW5nSG91cnNTcGVjaWZpY2F0aW9uIiwKICAgICAgZGF5T2ZXZWVrOiBbIk1vbmRheSIsICJUdWVzZGF5IiwgIldlZG5lc2RheSIsICJUaHVyc2RheSIsICJGcmlkYXkiXSwKICAgICAgb3BlbnM6ICIwODowMCIsCiAgICAgIGNsb3NlczogIjE4OjAwIiwKICAgIH0sCiAgXSwKICBhZ2dyZWdhdGVSYXRpbmc6IHsKICAgICJAdHlwZSI6ICJBZ2dyZWdhdGVSYXRpbmciLAogICAgcmF0aW5nVmFsdWU6ICI1IiwKICAgIHJldmlld0NvdW50OiAiMTUwIiwKICAgIGJlc3RSYXRpbmc6ICI1IiwKICAgIHdvcnN0UmF0aW5nOiAiMSIsCiAgfSwKICByZXZpZXc6IFsKICAgIHsKICAgICAgIkB0eXBlIjogIlJldmlldyIsCiAgICAgIHJldmlld1JhdGluZzogeyAiQHR5cGUiOiAiUmF0aW5nIiwgcmF0aW5nVmFsdWU6ICI1IiwgYmVzdFJhdGluZzogIjUiIH0sCiAgICAgIGF1dGhvcjogeyAiQHR5cGUiOiAiUGVyc29uIiwgbmFtZTogIlNoYXJhbnlhIEsuIiB9LAogICAgICByZXZpZXdCb2R5OiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMgY29tcGxldGVseSB0cmFuc2Zvcm1lZCBvdXIgb25saW5lIHByZXNlbmNlLiBUaGUgdGVhbSB3YXMgcHJvZmVzc2lvbmFsLCByZXNwb25zaXZlLCBhbmQgZGVsaXZlcmVkIGEgc3R1bm5pbmcgd2Vic2l0ZSB0aGF0IGV4Y2VlZGVkIG91ciBleHBlY3RhdGlvbnMuIE91ciBsZWFkcyBoYXZlIGluY3JlYXNlZCBzaWduaWZpY2FudGx5IHNpbmNlIGxhdW5jaCEiLAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlJldmlldyIsCiAgICAgIHJldmlld1JhdGluZzogeyAiQHR5cGUiOiAiUmF0aW5nIiwgcmF0aW5nVmFsdWU6ICI1IiwgYmVzdFJhdGluZzogIjUiIH0sCiAgICAgIGF1dGhvcjogeyAiQHR5cGUiOiAiUGVyc29uIiwgbmFtZTogIlNoYXduIE0uIiB9LAogICAgICByZXZpZXdCb2R5OiAiQmVzdCB3ZWIgZGVzaWduIGFnZW5jeSBpbiBUb3JvbnRvISBUaGV5IGJ1aWx0IG91ciBlLWNvbW1lcmNlIHNpdGUgZnJvbSBzY3JhdGNoIGFuZCB0aGUgcmVzdWx0cyBoYXZlIGJlZW4gaW5jcmVkaWJsZS4gVGhlIFNFTyB3b3JrIHRoZXkgZGlkIGhhcyB1cyByYW5raW5nIG9uIHRoZSBmaXJzdCBwYWdlIG9mIEdvb2dsZS4gSGlnaGx5IHJlY29tbWVuZC4iLAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlJldmlldyIsCiAgICAgIHJldmlld1JhdGluZzogeyAiQHR5cGUiOiAiUmF0aW5nIiwgcmF0aW5nVmFsdWU6ICI1IiwgYmVzdFJhdGluZzogIjUiIH0sCiAgICAgIGF1dGhvcjogeyAiQHR5cGUiOiAiUGVyc29uIiwgbmFtZTogIkRvcm90YSBXLiIgfSwKICAgICAgcmV2aWV3Qm9keTogIkkgd2FzIGJsb3duIGF3YXkgYnkgdGhlIHF1YWxpdHkgb2Ygd29yayBhbmQgc3BlZWQgb2YgZGVsaXZlcnkuIENhbmFkaWFuIFdlYiBEZXNpZ25zIHVuZGVyc3Rvb2Qgb3VyIGJyYW5kIHBlcmZlY3RseSBhbmQgY3JlYXRlZCBhIHdlYnNpdGUgdGhhdCB0cnVseSByZXByZXNlbnRzIHdobyB3ZSBhcmUuIEdyZWF0IHZhbHVlIGZvciBtb25leS4iLAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlJldmlldyIsCiAgICAgIHJldmlld1JhdGluZzogeyAiQHR5cGUiOiAiUmF0aW5nIiwgcmF0aW5nVmFsdWU6ICI1IiwgYmVzdFJhdGluZzogIjUiIH0sCiAgICAgIGF1dGhvcjogeyAiQHR5cGUiOiAiUGVyc29uIiwgbmFtZTogIk1hdHRoZXcgUi4iIH0sCiAgICAgIHJldmlld0JvZHk6ICJXb3JraW5nIHdpdGggQ2FuYWRpYW4gV2ViIERlc2lnbnMgd2FzIGEgZmFudGFzdGljIGV4cGVyaWVuY2UgZnJvbSBzdGFydCB0byBmaW5pc2guIFRoZWlyIGF0dGVudGlvbiB0byBkZXRhaWwgYW5kIGNvbW1pdG1lbnQgdG8gY3VzdG9tZXIgc2F0aXNmYWN0aW9uIGlzIHVubWF0Y2hlZC4gT3VyIG5ldyB3ZWJzaXRlIGhhcyBkcmFtYXRpY2FsbHkgaW1wcm92ZWQgb3VyIGJ1c2luZXNzLiIsCiAgICB9LAogIF0sCiAgZm91bmRlcjogeyAiQHR5cGUiOiAiUGVyc29uIiwgbmFtZTogIkFtaXIgS2hlbGEiIH0sCiAgZm91bmRpbmdEYXRlOiAiMjAxNCIsCiAgbnVtYmVyT2ZFbXBsb3llZXM6IHsgIkB0eXBlIjogIlF1YW50aXRhdGl2ZVZhbHVlIiwgdmFsdWU6IDI1IH0sCiAgc2FtZUFzOiBjb25maWcuc29jaWFsTGlua3MubWFwKChsaW5rKSA9PiBsaW5rLmhyZWYpLAogIGFyZWFTZXJ2ZWQ6IFsKICAgIHsgIkB0eXBlIjogIkNpdHkiLCBuYW1lOiAiVG9yb250byIgfSwKICAgIHsgIkB0eXBlIjogIkNpdHkiLCBuYW1lOiAiQnJhbXB0b24iIH0sCiAgICB7ICJAdHlwZSI6ICJDaXR5IiwgbmFtZTogIk1pc3Npc3NhdWdhIiB9LAogICAgeyAiQHR5cGUiOiAiQ2l0eSIsIG5hbWU6ICJWYW5jb3V2ZXIiIH0sCiAgICB7ICJAdHlwZSI6ICJDaXR5IiwgbmFtZTogIkNhbGdhcnkiIH0sCiAgICB7ICJAdHlwZSI6ICJBZG1pbmlzdHJhdGl2ZUFyZWEiLCBuYW1lOiAiQ2FuYWRhIiB9LAogIF0sCn07Cgpjb25zdCB3ZWJzaXRlU2NoZW1hID0gewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAdHlwZSI6ICJXZWJTaXRlIiwKICBuYW1lOiBjb25maWcuYnVzaW5lc3NOYW1lLAogIHVybDogYGh0dHBzOi8vJHtjb25maWcuZG9tYWlufWAsCiAgcHVibGlzaGVyOiB7ICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLCBuYW1lOiBjb25maWcuYnVzaW5lc3NOYW1lIH0sCiAgcG90ZW50aWFsQWN0aW9uOiB7CiAgICAiQHR5cGUiOiAiU2VhcmNoQWN0aW9uIiwKICAgIHRhcmdldDogewogICAgICAiQHR5cGUiOiAiRW50cnlQb2ludCIsCiAgICAgIHVybFRlbXBsYXRlOiBgaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59L2Jsb2c/cT17c2VhcmNoX3Rlcm1fc3RyaW5nfWAsCiAgICB9LAogICAgInF1ZXJ5LWlucHV0IjogInJlcXVpcmVkIG5hbWU9c2VhcmNoX3Rlcm1fc3RyaW5nIiwKICB9LAp9OwoKY29uc3QgcHJvZHVjdFNjaGVtYSA9IHsKICAiQGNvbnRleHQiOiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwKICAiQHR5cGUiOiAiU2VydmljZSIsCiAgbmFtZTogIldlYiBEZXNpZ24gJiBEaWdpdGFsIE1hcmtldGluZyBTZXJ2aWNlcyIsCiAgcHJvdmlkZXI6IHsgIkB0eXBlIjogIkxvY2FsQnVzaW5lc3MiLCBuYW1lOiBjb25maWcuYnVzaW5lc3NOYW1lIH0sCiAgZGVzY3JpcHRpb246ICJQcm9mZXNzaW9uYWwgd2ViIGRlc2lnbiwgU0VPLCBncmFwaGljIGRlc2lnbiwgc29jaWFsIG1lZGlhIG9wdGltaXphdGlvbiwgYW5kIEFJIGNvbnN1bHRhdGlvbiBzZXJ2aWNlcyBmb3IgQ2FuYWRpYW4gYnVzaW5lc3Nlcy4iLAogIGFyZWFTZXJ2ZWQ6ICJDYW5hZGEiLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUm9vdExheW91dCh7IGNoaWxkcmVuIH06IHsgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZSB9KSB7CiAgcmV0dXJuICgKICAgIDxodG1sIGxhbmc9ImVuLUNBIiBjbGFzc05hbWU9e2ludGVyLnZhcmlhYmxlfT4KICAgICAgPGhlYWQ+CiAgICAgICAgPG1ldGEgbmFtZT0idGhlbWUtY29sb3IiIGNvbnRlbnQ9IiMwMEFBREYiIC8+CiAgICAgICAgPGxpbmsgcmVsPSJpY29uIiBocmVmPSIvbG9nb3MvZmF2aWNvbi5wbmciIHR5cGU9ImltYWdlL3BuZyIgLz4KICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIGhyZWY9Ii9sb2dvcy9mYXZpY29uLnBuZyIgLz4KICAgICAgICA8bGluayByZWw9ImFwcGxlLXRvdWNoLWljb24iIHNpemVzPSIxODB4MTgwIiBocmVmPSIvbG9nb3MvYXBwbGUtdG91Y2gtaWNvbi5wbmciIC8+CiAgICAgICAgPGxpbmsgcmVsPSJkbnMtcHJlZmV0Y2giIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tIiAvPgogICAgICAgIDxsaW5rIHJlbD0icHJlY29ubmVjdCIgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20iIGNyb3NzT3JpZ2luPSJhbm9ueW1vdXMiIC8+CiAgICAgICAgPGxpbmsgcmVsPSJkbnMtcHJlZmV0Y2giIGhyZWY9Imh0dHBzOi8vYW5hbHl0aWNzLmdvb2dsZS5jb20iIC8+CiAgICAgICAgPGxpbmsgcmVsPSJkbnMtcHJlZmV0Y2giIGhyZWY9Imh0dHBzOi8vZm9udHMuZ3N0YXRpYy5jb20iIC8+CiAgICAgICAgPEhyZWZsYW5nVGFncyAvPgogICAgICA8L2hlYWQ+CiAgICAgIDxib2R5IGNsYXNzTmFtZT0ibWluLWgtc2NyZWVuIGZsZXggZmxleC1jb2wgYmctd2hpdGUgdGV4dC1kYXJrIGFudGlhbGlhc2VkIGZvbnQtc2FucyI+CiAgICAgICAgPFByZWxvYWRlciAvPgogICAgICAgIDxHb29nbGVBbmFseXRpY3MgLz4KICAgICAgICA8SGVhZGVyIC8+CiAgICAgICAgPG1haW4gY2xhc3NOYW1lPSJmbGV4LTEgcHQtaGVhZGVyLWgiPntjaGlsZHJlbn08L21haW4+CgogICAgICAgIHsvKiBBd2FyZHMgJiBSZWNvZ25pdGlvbiDigJQgYWJvdmUgZm9vdGVyIG9uIGV2ZXJ5IHBhZ2UgKi99CiAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJweS0xMCBib3JkZXItdCBib3JkZXItZ3JheS0xMDAiIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjZmZmZmZmIiB9fT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgdGV4dC1bIzAwQUFERl0gdGV4dC14cyBmb250LWJvbGQgdHJhY2tpbmctWzAuMmVtXSB1cHBlcmNhc2UgbWItNyI+QXdhcmRzICZhbXA7IFJlY29nbml0aW9uPC9wPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC04IGxnOmdhcC0xNCI+CiAgICAgICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAbmV4dC9uZXh0L25vLWltZy1lbGVtZW50ICovfQogICAgICAgICAgICAgIDxpbWcgbG9hZGluZz0ibGF6eSIgc3JjPSIvYmFkZ2VzL2Rlc2lnbnJ1c2gucG5nIiBhbHQ9IkRlc2lnblJ1c2ggQWNjcmVkaXRlZCBBZ2VuY3kiIGhlaWdodD0iNTAiIGNsYXNzTmFtZT0iaC0xMiB3LWF1dG8gb2JqZWN0LWNvbnRhaW4gb3BhY2l0eS04MCBob3ZlcjpvcGFjaXR5LTEwMCB0cmFuc2l0aW9uLW9wYWNpdHkiIC8+CiAgICAgICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAbmV4dC9uZXh0L25vLWltZy1lbGVtZW50ICovfQogICAgICAgICAgICAgIDxpbWcgbG9hZGluZz0ibGF6eSIgc3JjPSIvYmFkZ2VzL3JlbGlhYmxlLnBuZyIgYWx0PSJSZWxpYWJsZSBCdXNpbmVzcyIgaGVpZ2h0PSI2MCIgY2xhc3NOYW1lPSJoLTE0IHctYXV0byBvYmplY3QtY29udGFpbiBvcGFjaXR5LTgwIGhvdmVyOm9wYWNpdHktMTAwIHRyYW5zaXRpb24tb3BhY2l0eSIgLz4KICAgICAgICAgICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgICAgICAgICAgPGltZyBsb2FkaW5nPSJsYXp5IiBzcmM9Ii9iYWRnZXMvY2xldmVyLWNhbmFkaWFuLnBuZyIgYWx0PSJDYW5hZGEgQmVzdCIgaGVpZ2h0PSI2MCIgY2xhc3NOYW1lPSJoLTE0IHctYXV0byBvYmplY3QtY29udGFpbiBvcGFjaXR5LTgwIGhvdmVyOm9wYWNpdHktMTAwIHRyYW5zaXRpb24tb3BhY2l0eSIgLz4KICAgICAgICAgICAgICB7LyogZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQgKi99CiAgICAgICAgICAgICAgPGltZyBsb2FkaW5nPSJsYXp5IiBzcmM9Ii9iYWRnZXMvY2x1dGNoLnBuZyIgYWx0PSJDbHV0Y2ggVG9wIFJhdGVkIiBoZWlnaHQ9IjQwIiBjbGFzc05hbWU9ImgtMTAgdy1hdXRvIG9iamVjdC1jb250YWluIG9wYWNpdHktODAgaG92ZXI6b3BhY2l0eS0xMDAgdHJhbnNpdGlvbi1vcGFjaXR5IiAvPgogICAgICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQG5leHQvbmV4dC9uby1pbWctZWxlbWVudCAqL30KICAgICAgICAgICAgICA8aW1nIGxvYWRpbmc9ImxhenkiIHNyYz0iL2JhZGdlcy9iYmIucG5nIiBhbHQ9IkJCQiBBY2NyZWRpdGVkIiBoZWlnaHQ9IjU1IiBjbGFzc05hbWU9ImgtMTQgdy1hdXRvIG9iamVjdC1jb250YWluIG9wYWNpdHktODAgaG92ZXI6b3BhY2l0eS0xMDAgdHJhbnNpdGlvbi1vcGFjaXR5IiAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgPEZvb3RlciAvPgogICAgICAgIDxDb25kaXRpb25hbFNjaGVtYXMKICAgICAgICAgIGxvY2FsQnVzaW5lc3M9e2xvY2FsQnVzaW5lc3NTY2hlbWF9CiAgICAgICAgICB3ZWJzaXRlPXt3ZWJzaXRlU2NoZW1hfQogICAgICAgICAgcHJvZHVjdD17cHJvZHVjdFNjaGVtYX0KICAgICAgICAvPgoKICAgICAgICB7LyogU2Nyb2xsIHJldmVhbCArIGNvdW50ZXIgYW5pbWF0aW9uIGVuZ2luZSAqL30KICAgICAgICA8U2NyaXB0IGlkPSJjd2QtYW5pbWF0aW9ucyIgc3RyYXRlZ3k9ImFmdGVySW50ZXJhY3RpdmUiPntgCiAgICAgICAgICAoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAvLyAtLS0gUmV2ZWFsIE9ic2VydmVyIC0tLQogICAgICAgICAgICB2YXIgcmV2ZWFsT2JzID0gbmV3IEludGVyc2VjdGlvbk9ic2VydmVyKGZ1bmN0aW9uIChlbnRyaWVzKSB7CiAgICAgICAgICAgICAgZW50cmllcy5mb3JFYWNoKGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgICAgICBpZiAoZS5pc0ludGVyc2VjdGluZykgewogICAgICAgICAgICAgICAgICBlLnRhcmdldC5jbGFzc0xpc3QuYWRkKCd2aXNpYmxlJyk7CiAgICAgICAgICAgICAgICAgIHJldmVhbE9icy51bm9ic2VydmUoZS50YXJnZXQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LCB7IHRocmVzaG9sZDogMC4xMiwgcm9vdE1hcmdpbjogJzBweCAwcHggLTQ4cHggMHB4JyB9KTsKCiAgICAgICAgICAgIC8vIC0tLSBDb3VudGVyIE9ic2VydmVyIC0tLQogICAgICAgICAgICB2YXIgY291bnRlck9icyA9IG5ldyBJbnRlcnNlY3Rpb25PYnNlcnZlcihmdW5jdGlvbiAoZW50cmllcykgewogICAgICAgICAgICAgIGVudHJpZXMuZm9yRWFjaChmdW5jdGlvbiAoZSkgewogICAgICAgICAgICAgICAgaWYgKCFlLmlzSW50ZXJzZWN0aW5nKSByZXR1cm47CiAgICAgICAgICAgICAgICB2YXIgZWwgPSBlLnRhcmdldDsKICAgICAgICAgICAgICAgIGlmICh3aW5kb3cubWF0Y2hNZWRpYSgiKHByZWZlcnMtcmVkdWNlZC1tb3Rpb246IHJlZHVjZSkiKS5tYXRjaGVzKSB7CiAgICAgICAgICAgICAgICAgIHZhciB0PXBhcnNlSW50KGVsLmdldEF0dHJpYnV0ZSgiZGF0YS1jb3VudCIpfHwiMCIsMTApOyB2YXIgc2Y9ZWwuZ2V0QXR0cmlidXRlKCJkYXRhLXN1ZmZpeCIpfHwiIjsgdmFyIHBmPWVsLmdldEF0dHJpYnV0ZSgiZGF0YS1wcmVmaXgiKXx8IiI7IGVsLnRleHRDb250ZW50PXBmK3Qrc2Y7IGNvdW50ZXJPYnMudW5vYnNlcnZlKGVsKTsgcmV0dXJuOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdmFyIHRhcmdldCA9IHBhcnNlSW50KGVsLmdldEF0dHJpYnV0ZSgnZGF0YS1jb3VudCcpIHx8ICcwJywgMTApOwogICAgICAgICAgICAgICAgdmFyIHN1ZmZpeCA9IGVsLmdldEF0dHJpYnV0ZSgnZGF0YS1zdWZmaXgnKSB8fCAnJzsKICAgICAgICAgICAgICAgIHZhciBwcmVmaXggPSBlbC5nZXRBdHRyaWJ1dGUoJ2RhdGEtcHJlZml4JykgfHwgJyc7CiAgICAgICAgICAgICAgICB2YXIgZHVyYXRpb24gPSAxODAwOwogICAgICAgICAgICAgICAgdmFyIHN0YXJ0VGltZSA9IG51bGw7CiAgICAgICAgICAgICAgICBmdW5jdGlvbiB0aWNrKG5vdykgewogICAgICAgICAgICAgICAgICBpZiAoIXN0YXJ0VGltZSkgc3RhcnRUaW1lID0gbm93OwogICAgICAgICAgICAgICAgICB2YXIgcHJvZ3Jlc3MgPSBNYXRoLm1pbigobm93IC0gc3RhcnRUaW1lKSAvIGR1cmF0aW9uLCAxKTsKICAgICAgICAgICAgICAgICAgdmFyIGVhc2VkID0gMSAtIE1hdGgucG93KDEgLSBwcm9ncmVzcywgNCk7CiAgICAgICAgICAgICAgICAgIGVsLnRleHRDb250ZW50ID0gcHJlZml4ICsgTWF0aC5yb3VuZChlYXNlZCAqIHRhcmdldCkgKyBzdWZmaXg7CiAgICAgICAgICAgICAgICAgIGlmIChwcm9ncmVzcyA8IDEpIHJlcXVlc3RBbmltYXRpb25GcmFtZSh0aWNrKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZSh0aWNrKTsKICAgICAgICAgICAgICAgIGNvdW50ZXJPYnMudW5vYnNlcnZlKGVsKTsKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSwgeyB0aHJlc2hvbGQ6IDAuNSB9KTsKCiAgICAgICAgICAgIGZ1bmN0aW9uIGluaXQoKSB7CiAgICAgICAgICAgICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnLnJldmVhbCwgLnJldmVhbC1sZWZ0LCAucmV2ZWFsLXJpZ2h0LCAucmV2ZWFsLXNjYWxlJykuZm9yRWFjaChmdW5jdGlvbiAoZWwpIHsKICAgICAgICAgICAgICAgIGlmICghZWwuZGF0YXNldC5vYnNlcnZlZCkgeyBlbC5kYXRhc2V0Lm9ic2VydmVkID0gJzEnOyByZXZlYWxPYnMub2JzZXJ2ZShlbCk7IH0KICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdbZGF0YS1jb3VudF0nKS5mb3JFYWNoKGZ1bmN0aW9uIChlbCkgewogICAgICAgICAgICAgICAgaWYgKCFlbC5kYXRhc2V0Lm9ic2VydmVkKSB7IGVsLmRhdGFzZXQub2JzZXJ2ZWQgPSAnMSc7IGNvdW50ZXJPYnMub2JzZXJ2ZShlbCk7IH0KICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaW5pdCgpOwoKICAgICAgICAgICAgLy8gUmUtaW5pdCBhZnRlciBOZXh0LmpzIHNvZnQgbmF2aWdhdGlvbi4KICAgICAgICAgICAgLy8gcHVzaFN0YXRlIGZpcmVzIHdoZW4gVVJMIGNoYW5nZXMsIGJ1dCBSU0MgcmVuZGVyaW5nIGlzIGFzeW5jIOKAlAogICAgICAgICAgICAvLyBzbyB3ZSByZXRyeSBhdCBtdWx0aXBsZSBpbnRlcnZhbHMgdG8gY2F0Y2ggZWxlbWVudHMgYXMgdGhleSBhcHBlYXIuCiAgICAgICAgICAgIGZ1bmN0aW9uIG9uTmF2KCkgewogICAgICAgICAgICAgIFs4MCwgMjUwLCA1MDAsIDkwMCwgMTUwMF0uZm9yRWFjaChmdW5jdGlvbihkKSB7IHNldFRpbWVvdXQoaW5pdCwgZCk7IH0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHZhciBfcHVzaCAgICA9IGhpc3RvcnkucHVzaFN0YXRlLmJpbmQoaGlzdG9yeSk7CiAgICAgICAgICAgIHZhciBfcmVwbGFjZSA9IGhpc3RvcnkucmVwbGFjZVN0YXRlLmJpbmQoaGlzdG9yeSk7CiAgICAgICAgICAgIGhpc3RvcnkucHVzaFN0YXRlICAgID0gZnVuY3Rpb24oKSB7IF9wdXNoLmFwcGx5KGhpc3RvcnksIGFyZ3VtZW50cyk7ICAgIG9uTmF2KCk7IH07CiAgICAgICAgICAgIGhpc3RvcnkucmVwbGFjZVN0YXRlID0gZnVuY3Rpb24oKSB7IF9yZXBsYWNlLmFwcGx5KGhpc3RvcnksIGFyZ3VtZW50cyk7IG9uTmF2KCk7IH07CiAgICAgICAgICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdwb3BzdGF0ZScsIG9uTmF2KTsKCiAgICAgICAgICAgIC8vIEZhbGxiYWNrOiB3YXRjaCBmb3IgbmV3IHJldmVhbCBlbGVtZW50cyBhZGRlZCB0byB0aGUgRE9NCiAgICAgICAgICAgIHZhciBkZWJvdW5jZTsKICAgICAgICAgICAgbmV3IE11dGF0aW9uT2JzZXJ2ZXIoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgY2xlYXJUaW1lb3V0KGRlYm91bmNlKTsKICAgICAgICAgICAgICBkZWJvdW5jZSA9IHNldFRpbWVvdXQoaW5pdCwgMTAwKTsKICAgICAgICAgICAgfSkub2JzZXJ2ZShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQsIHsgY2hpbGRMaXN0OiB0cnVlLCBzdWJ0cmVlOiB0cnVlIH0pOwogICAgICAgICAgfSkoKTsKICAgICAgICBgfTwvU2NyaXB0PgogICAgICA8L2JvZHk+CiAgICA8L2h0bWw+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import Script from "next/script";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
+import Preloader from "@/components/Preloader";
+import { getConfig } from "@/lib/client-config";
+import HreflangTags from "@/components/HreflangTags";
+import ConditionalSchemas from "@/components/ConditionalSchemas";
+import "./globals.css";
+
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+  display: "swap",
+});
+
+const config = getConfig();
+
+export const metadata: Metadata = {
+  metadataBase: new URL(`https://${config.domain}`),
+  title: {
+    default: `Web Design & Digital Marketing Across Canada | Canadian Web Designs`,
+    template: `%s | ${config.businessName}`,
+  },
+  description:
+    `Professional web design, SEO, and digital marketing services across Canada. Custom websites built for results.`,
+  authors: [{ name: config.businessName }],
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    locale: "en_CA",
+    siteName: config.businessName,
+    title: `Affordable Web Design in Toronto | Canadian Web Designs`,
+    description:
+      `Professional web design, SEO, and digital marketing services across Canada. Custom websites built for results.`,
+    url: `https://${config.domain}`,
+    images: [
+      {
+        url: "/images/hero-leading-web-design.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Canadian Web Designs — Affordable Web Design in Toronto, Canada",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    site: "@canadianwebdesigns",
+    creator: "@canadianwebdesigns",
+    title: `Affordable Web Design in Toronto | Canadian Web Designs`,
+    description:
+      `Professional web design, SEO, and digital marketing services across Canada. Custom websites built for results.`,
+    images: ["/images/hero-leading-web-design.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+};
+
+const localBusinessSchema = {
+  "@context": "https://schema.org",
+  "@type": ["LocalBusiness", "ProfessionalService"],
+  name: config.businessName,
+  url: `https://${config.domain}`,
+  logo: `https://${config.domain}/logos/logo.webp`,
+  image: `https://${config.domain}/images/hero-leading-web-design.jpg`,
+  description: "Canadian Web Designs is Toronto's top-rated affordable web design agency offering custom websites, SEO, graphic design, social media, and AI consultation services across Canada.",
+  priceRange: "$$",
+  telephone: config.phone,
+  email: config.emails.support,
+  hasMap: "https://www.google.com/maps/search/Canadian+Web+Designs+Toronto",
+  contactPoint: {
+    "@type": "ContactPoint",
+    telephone: config.phone,
+    contactType: "customer service",
+    areaServed: "CA",
+    availableLanguage: "English",
+  },
+  address: [
+    {
+      "@type": "PostalAddress",
+      streetAddress: "2967 Dundas St W #718",
+      addressLocality: "Toronto",
+      addressRegion: "ON",
+      postalCode: "M6P 1Z2",
+      addressCountry: "CA",
+    },
+    {
+      "@type": "PostalAddress",
+      streetAddress: "5 Cherrycrest Drive #202",
+      addressLocality: "Brampton",
+      addressRegion: "ON",
+      postalCode: "L6P 3W4",
+      addressCountry: "CA",
+    },
+  ],
+  openingHoursSpecification: [
+    {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      opens: "08:00",
+      closes: "18:00",
+    },
+  ],
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "5",
+    reviewCount: "150",
+    bestRating: "5",
+    worstRating: "1",
+  },
+  review: [
+    {
+      "@type": "Review",
+      reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+      author: { "@type": "Person", name: "Sharanya K." },
+      reviewBody: "Canadian Web Designs completely transformed our online presence. The team was professional, responsive, and delivered a stunning website that exceeded our expectations. Our leads have increased significantly since launch!",
+    },
+    {
+      "@type": "Review",
+      reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+      author: { "@type": "Person", name: "Shawn M." },
+      reviewBody: "Best web design agency in Toronto! They built our e-commerce site from scratch and the results have been incredible. The SEO work they did has us ranking on the first page of Google. Highly recommend.",
+    },
+    {
+      "@type": "Review",
+      reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+      author: { "@type": "Person", name: "Dorota W." },
+      reviewBody: "I was blown away by the quality of work and speed of delivery. Canadian Web Designs understood our brand perfectly and created a website that truly represents who we are. Great value for money.",
+    },
+    {
+      "@type": "Review",
+      reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+      author: { "@type": "Person", name: "Matthew R." },
+      reviewBody: "Working with Canadian Web Designs was a fantastic experience from start to finish. Their attention to detail and commitment to customer satisfaction is unmatched. Our new website has dramatically improved our business.",
+    },
+  ],
+  founder: { "@type": "Person", name: "Amir Khela" },
+  foundingDate: "2014",
+  numberOfEmployees: { "@type": "QuantitativeValue", value: 25 },
+  sameAs: config.socialLinks.map((link) => link.href),
+  areaServed: [
+    { "@type": "City", name: "Toronto" },
+    { "@type": "City", name: "Brampton" },
+    { "@type": "City", name: "Mississauga" },
+    { "@type": "City", name: "Vancouver" },
+    { "@type": "City", name: "Calgary" },
+    { "@type": "AdministrativeArea", name: "Canada" },
+  ],
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: config.businessName,
+  url: `https://${config.domain}`,
+  publisher: { "@type": "Organization", name: config.businessName },
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: `https://${config.domain}/blog?q={search_term_string}`,
+    },
+    "query-input": "required name=search_term_string",
+  },
+};
+
+const productSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  name: "Web Design & Digital Marketing Services",
+  provider: { "@type": "LocalBusiness", name: config.businessName },
+  description: "Professional web design, SEO, graphic design, social media optimization, and AI consultation services for Canadian businesses.",
+  areaServed: "Canada",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en-CA" className={inter.variable}>
+      <head>
+        <meta name="theme-color" content="#00AADF" />
+        <link rel="icon" href="/logos/favicon.png" type="image/png" />
+        <link rel="shortcut icon" href="/logos/favicon.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/logos/apple-touch-icon.png" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://analytics.google.com" />
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+        <HreflangTags />
+      </head>
+      <body className="min-h-screen flex flex-col bg-white text-dark antialiased font-sans">
+        <Preloader />
+        <GoogleAnalytics />
+        <Header />
+        <main className="flex-1 pt-header-h">{children}</main>
+
+        {/* Awards & Recognition — above footer on every page */}
+        <section className="py-10 border-t border-gray-100" style={{ background: "#ffffff" }}>
+          <div className="max-w-[1280px] mx-auto px-6 lg:px-8">
+            <p className="text-center text-[#00AADF] text-xs font-bold tracking-[0.2em] uppercase mb-7">Awards &amp; Recognition</p>
+            <div className="flex flex-wrap items-center justify-center gap-8 lg:gap-14">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img loading="lazy" src="/badges/designrush.png" alt="DesignRush Accredited Agency" height="50" className="h-12 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img loading="lazy" src="/badges/reliable.png" alt="Reliable Business" height="60" className="h-14 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img loading="lazy" src="/badges/clever-canadian.png" alt="Canada Best" height="60" className="h-14 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img loading="lazy" src="/badges/clutch.png" alt="Clutch Top Rated" height="40" className="h-10 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity" />
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img loading="lazy" src="/badges/bbb.png" alt="BBB Accredited" height="55" className="h-14 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity" />
+            </div>
+          </div>
+        </section>
+
+        <Footer />
+        <ConditionalSchemas
+          localBusiness={localBusinessSchema}
+          website={websiteSchema}
+          product={productSchema}
+        />
+
+        {/* Scroll reveal + counter animation engine */}
+        <Script id="cwd-animations" strategy="afterInteractive">{`
+          (function () {
+            // --- Reveal Observer ---
+            var revealObs = new IntersectionObserver(function (entries) {
+              entries.forEach(function (e) {
+                if (e.isIntersecting) {
+                  e.target.classList.add('visible');
+                  revealObs.unobserve(e.target);
+                }
+              });
+            }, { threshold: 0.12, rootMargin: '0px 0px -48px 0px' });
+
+            // --- Counter Observer ---
+            var counterObs = new IntersectionObserver(function (entries) {
+              entries.forEach(function (e) {
+                if (!e.isIntersecting) return;
+                var el = e.target;
+                if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+                  var t=parseInt(el.getAttribute("data-count")||"0",10); var sf=el.getAttribute("data-suffix")||""; var pf=el.getAttribute("data-prefix")||""; el.textContent=pf+t+sf; counterObs.unobserve(el); return;
+                }
+                var target = parseInt(el.getAttribute('data-count') || '0', 10);
+                var suffix = el.getAttribute('data-suffix') || '';
+                var prefix = el.getAttribute('data-prefix') || '';
+                var duration = 1800;
+                var startTime = null;
+                function tick(now) {
+                  if (!startTime) startTime = now;
+                  var progress = Math.min((now - startTime) / duration, 1);
+                  var eased = 1 - Math.pow(1 - progress, 4);
+                  el.textContent = prefix + Math.round(eased * target) + suffix;
+                  if (progress < 1) requestAnimationFrame(tick);
+                }
+                requestAnimationFrame(tick);
+                counterObs.unobserve(el);
+              });
+            }, { threshold: 0.5 });
+
+            function init() {
+              document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale').forEach(function (el) {
+                if (!el.dataset.observed) { el.dataset.observed = '1'; revealObs.observe(el); }
+              });
+              document.querySelectorAll('[data-count]').forEach(function (el) {
+                if (!el.dataset.observed) { el.dataset.observed = '1'; counterObs.observe(el); }
+              });
+            }
+
+            init();
+
+            // Re-init after Next.js soft navigation.
+            // pushState fires when URL changes, but RSC rendering is async —
+            // so we retry at multiple intervals to catch elements as they appear.
+            function onNav() {
+              [80, 250, 500, 900, 1500].forEach(function(d) { setTimeout(init, d); });
+            }
+            var _push    = history.pushState.bind(history);
+            var _replace = history.replaceState.bind(history);
+            history.pushState    = function() { _push.apply(history, arguments);    onNav(); };
+            history.replaceState = function() { _replace.apply(history, arguments); onNav(); };
+            window.addEventListener('popstate', onNav);
+
+            // Fallback: watch for new reveal elements added to the DOM
+            var debounce;
+            new MutationObserver(function() {
+              clearTimeout(debounce);
+              debounce = setTimeout(init, 100);
+            }).observe(document.documentElement, { childList: true, subtree: true });
+          })();
+        `}</Script>
+      </body>
+    </html>
+  );
+}

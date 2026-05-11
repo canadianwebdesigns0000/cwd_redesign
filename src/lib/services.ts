@@ -1,1 +1,6 @@
-{"data":"Ly8gUmUtZXhwb3J0IGZyb20gY2xpZW50IGNvbmZpZyBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkuDQppbXBvcnQgeyBnZXRDb25maWcsIHR5cGUgQ2xpZW50U2VydmljZSB9IGZyb20gIi4vY2xpZW50LWNvbmZpZyI7DQoNCmV4cG9ydCB0eXBlIFNlcnZpY2VEYXRhID0gQ2xpZW50U2VydmljZTsNCg0KZXhwb3J0IGNvbnN0IHNlcnZpY2VzOiBTZXJ2aWNlRGF0YVtdID0gZ2V0Q29uZmlnKCkuc2VydmljZXM7DQo="}
+// Re-export from client config for backwards compatibility.
+import { getConfig, type ClientService } from "./client-config";
+
+export type ServiceData = ClientService;
+
+export const services: ServiceData[] = getConfig().services;

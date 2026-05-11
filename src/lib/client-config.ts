@@ -1,1 +1,99 @@
-{"data":"Ly8gQ2xpZW50IENvbmZpZyDigJQgdGhlIHNpbmdsZSBzb3VyY2Ugb2YgdHJ1dGggZm9yIGFsbCBidXNpbmVzcyBkYXRhLg0KLy8gRXZlcnkgY2xpZW50IHNpdGUgaXMgZHJpdmVuIGJ5IGFuIGltcGxlbWVudGF0aW9uIG9mIHRoaXMgaW50ZXJmYWNlLg0KDQpleHBvcnQgaW50ZXJmYWNlIENsaWVudEFkZHJlc3Mgew0KICBzdHJlZXQ6IHN0cmluZzsNCiAgY2l0eTogc3RyaW5nOw0KICBwcm92aW5jZTogc3RyaW5nOw0KICBwb3N0YWxDb2RlOiBzdHJpbmc7DQp9DQoNCmV4cG9ydCBpbnRlcmZhY2UgQ2xpZW50U2VydmljZSB7DQogIHNsdWc6IHN0cmluZzsNCiAgdGl0bGU6IHN0cmluZzsNCiAgdGFnbGluZTogc3RyaW5nOw0KICBkZXNjcmlwdGlvbjogc3RyaW5nOw0KICBmZWF0dXJlczogc3RyaW5nW107DQogIGljb24/OiBzdHJpbmc7DQp9DQoNCmV4cG9ydCBpbnRlcmZhY2UgQ2xpZW50Q2l0eSB7DQogIG5hbWU6IHN0cmluZzsNCiAgcHJvdmluY2U6IHN0cmluZzsNCiAgc2x1Zzogc3RyaW5nOw0KfQ0KDQpleHBvcnQgaW50ZXJmYWNlIENsaWVudE5hdkl0ZW0gew0KICBsYWJlbDogc3RyaW5nOw0KICBocmVmOiBzdHJpbmc7DQogIGNoaWxkcmVuPzogQ2xpZW50TmF2SXRlbVtdOw0KfQ0KDQpleHBvcnQgaW50ZXJmYWNlIENsaWVudFNvY2lhbExpbmsgew0KICBsYWJlbDogc3RyaW5nOw0KICBocmVmOiBzdHJpbmc7DQogIGljb246IHN0cmluZzsNCn0NCg0KZXhwb3J0IGludGVyZmFjZSBDbGllbnRDb25maWcgew0KICAvLyBCdXNpbmVzcyBJZGVudGl0eQ0KICBidXNpbmVzc05hbWU6IHN0cmluZzsNCiAgYnVzaW5lc3NOYW1lTGVnYWw/OiBzdHJpbmc7DQogIHRhZ2xpbmU/OiBzdHJpbmc7DQogIGluZHVzdHJ5OiBzdHJpbmc7DQogIHByZXNpZGVudD86IHN0cmluZzsNCiAgZm91bmRlZD86IG51bWJlcjsNCiAgdGVhbVNpemU/OiBudW1iZXI7DQoNCiAgLy8gUmVwdXRhdGlvbg0KICByYXRpbmc/OiBudW1iZXI7DQogIHJldmlld0NvdW50PzogbnVtYmVyOw0KDQogIC8vIENvbnRhY3QNCiAgcGhvbmU6IHN0cmluZzsNCiAgZW1haWxzOiB7DQogICAgc3VwcG9ydDogc3RyaW5nOw0KICAgIHNhbGVzPzogc3RyaW5nOw0KICAgIGNhcmVlcnM/OiBzdHJpbmc7DQogIH07DQogIGFkZHJlc3NlczogUmVjb3JkPHN0cmluZywgQ2xpZW50QWRkcmVzcz47DQogIGJ1c2luZXNzSG91cnM6IHN0cmluZzsNCg0KICAvLyBXZWIgLyBBbmFseXRpY3MNCiAgZG9tYWluOiBzdHJpbmc7DQogIGdhSWQ/OiBzdHJpbmc7DQoNCiAgLy8gQnJhbmRpbmcNCiAgbG9nbz86IHN0cmluZzsNCiAgYnJhbmRDb2xvcnM/OiB7DQogICAgcHJpbWFyeTogc3RyaW5nOw0KICAgIHNlY29uZGFyeTogc3RyaW5nOw0KICAgIGFjY2VudDogc3RyaW5nOw0KICB9Ow0KDQogIC8vIENvbnRlbnQNCiAgc2VydmljZXM6IENsaWVudFNlcnZpY2VbXTsNCiAgY2l0aWVzOiBDbGllbnRDaXR5W107DQoNCiAgLy8gTmF2aWdhdGlvbg0KICBuYXZpZ2F0aW9uOiBDbGllbnROYXZJdGVtW107DQogIHNvY2lhbExpbmtzOiBDbGllbnRTb2NpYWxMaW5rW107DQoNCiAgLy8gTWV0YQ0KICBzcGVjaWFsUmVxdWVzdHM/OiBzdHJpbmc7DQogIGd1YXJhbnRlZURlYWRsaW5lPzogc3RyaW5nOw0KfQ0KDQovLyBBY3RpdmUgY29uZmlnIOKAlCBpbXBvcnQgY3dkLWNvbmZpZyBieSBkZWZhdWx0Lg0KLy8gVG8gc3dpdGNoIGNsaWVudHMsIGNoYW5nZSB0aGlzIGltcG9ydC4NCmltcG9ydCB7IGN3ZENvbmZpZyB9IGZyb20gIi4vY3dkLWNvbmZpZyI7DQoNCmxldCBhY3RpdmVDb25maWc6IENsaWVudENvbmZpZyA9IGN3ZENvbmZpZzsNCg0KZXhwb3J0IGZ1bmN0aW9uIGdldENvbmZpZygpOiBDbGllbnRDb25maWcgew0KICByZXR1cm4gYWN0aXZlQ29uZmlnOw0KfQ0KDQpleHBvcnQgZnVuY3Rpb24gc2V0Q29uZmlnKGNvbmZpZzogQ2xpZW50Q29uZmlnKTogdm9pZCB7DQogIGFjdGl2ZUNvbmZpZyA9IGNvbmZpZzsNCn0NCg=="}
+// Client Config — the single source of truth for all business data.
+// Every client site is driven by an implementation of this interface.
+
+export interface ClientAddress {
+  street: string;
+  city: string;
+  province: string;
+  postalCode: string;
+}
+
+export interface ClientService {
+  slug: string;
+  title: string;
+  tagline: string;
+  description: string;
+  features: string[];
+  icon?: string;
+}
+
+export interface ClientCity {
+  name: string;
+  province: string;
+  slug: string;
+}
+
+export interface ClientNavItem {
+  label: string;
+  href: string;
+  children?: ClientNavItem[];
+}
+
+export interface ClientSocialLink {
+  label: string;
+  href: string;
+  icon: string;
+}
+
+export interface ClientConfig {
+  // Business Identity
+  businessName: string;
+  businessNameLegal?: string;
+  tagline?: string;
+  industry: string;
+  president?: string;
+  founded?: number;
+  teamSize?: number;
+
+  // Reputation
+  rating?: number;
+  reviewCount?: number;
+
+  // Contact
+  phone: string;
+  emails: {
+    support: string;
+    sales?: string;
+    careers?: string;
+  };
+  addresses: Record<string, ClientAddress>;
+  businessHours: string;
+
+  // Web / Analytics
+  domain: string;
+  gaId?: string;
+
+  // Branding
+  logo?: string;
+  brandColors?: {
+    primary: string;
+    secondary: string;
+    accent: string;
+  };
+
+  // Content
+  services: ClientService[];
+  cities: ClientCity[];
+
+  // Navigation
+  navigation: ClientNavItem[];
+  socialLinks: ClientSocialLink[];
+
+  // Meta
+  specialRequests?: string;
+  guaranteeDeadline?: string;
+}
+
+// Active config — import cwd-config by default.
+// To switch clients, change this import.
+import { cwdConfig } from "./cwd-config";
+
+let activeConfig: ClientConfig = cwdConfig;
+
+export function getConfig(): ClientConfig {
+  return activeConfig;
+}
+
+export function setConfig(config: ClientConfig): void {
+  activeConfig = config;
+}

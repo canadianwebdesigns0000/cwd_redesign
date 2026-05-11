@@ -1,1 +1,54 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOw0KaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7DQoNCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOw0KDQpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gew0KICB0aXRsZTogIlRlcm1zICYgQ29uZGl0aW9ucyIsDQogIGRlc2NyaXB0aW9uOiBgVGVybXMgYW5kIENvbmRpdGlvbnMgZm9yICR7Y29uZmlnLmJ1c2luZXNzTmFtZX0gc2VydmljZXMuYCwNCiAgYWx0ZXJuYXRlczogeyBjYW5vbmljYWw6ICIvdGVybXMtYW5kLWNvbmRpdGlvbnMiIH0sDQp9Ow0KDQpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBUZXJtc1BhZ2UoKSB7DQogIHJldHVybiAoDQogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJweS1zZWN0aW9uLXktc20gbWQ6cHktc2VjdGlvbi15Ij4NCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC02IGxnOnB4LTgiPg0KICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgdGV4dC1kYXJrIG1iLTgiPlRlcm1zICZhbXA7IENvbmRpdGlvbnM8L2gxPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij5MYXN0IHVwZGF0ZWQ6IEphbnVhcnkgMjAyNTwvcD4NCg0KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYm9sZCB0ZXh0LWRhcmsgbXQtOCBtYi00Ij5BZ3JlZW1lbnQgdG8gVGVybXM8L2gyPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij4NCiAgICAgICAgICBCeSBhY2Nlc3NpbmcgYW5kIHVzaW5nIHRoZSB7Y29uZmlnLmJ1c2luZXNzTmFtZX0gd2Vic2l0ZSwgeW91IGFncmVlIHRvIGJlIGJvdW5kIGJ5IHRoZXNlDQogICAgICAgICAgVGVybXMgYW5kIENvbmRpdGlvbnMuIElmIHlvdSBkbyBub3QgYWdyZWUsIHBsZWFzZSBkbyBub3QgdXNlIG91ciB3ZWJzaXRlIG9yIHNlcnZpY2VzLg0KICAgICAgICA8L3A+DQoNCiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1kYXJrIG10LTggbWItNCI+U2VydmljZXM8L2gyPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij4NCiAgICAgICAgICB7Y29uZmlnLmJ1c2luZXNzTmFtZX0gcHJvdmlkZXMgd2ViIGRlc2lnbiwgZ3JhcGhpYyBkZXNpZ24sIFNFTywgc29jaWFsIG1lZGlhIG9wdGltaXphdGlvbiwNCiAgICAgICAgICB3ZWJzaXRlIG1haW50ZW5hbmNlLCBhbmQgQUkgY29uc3VsdGF0aW9uIHNlcnZpY2VzLiBBbGwgc2VydmljZXMgYXJlIHN1YmplY3QgdG8gc2VwYXJhdGUNCiAgICAgICAgICBzZXJ2aWNlIGFncmVlbWVudHMuDQogICAgICAgIDwvcD4NCg0KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYm9sZCB0ZXh0LWRhcmsgbXQtOCBtYi00Ij5JbnRlbGxlY3R1YWwgUHJvcGVydHk8L2gyPg0KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtZGFyay1saWdodCBtYi00Ij4NCiAgICAgICAgICBBbGwgY29udGVudCBvbiB0aGlzIHdlYnNpdGUsIGluY2x1ZGluZyB0ZXh0LCBncmFwaGljcywgbG9nb3MsIGFuZCBpbWFnZXMsIGlzIHRoZSBwcm9wZXJ0eQ0KICAgICAgICAgIG9mIHtjb25maWcuYnVzaW5lc3NOYW1lfSBhbmQgaXMgcHJvdGVjdGVkIGJ5IGNvcHlyaWdodCBsYXcuDQogICAgICAgIDwvcD4NCg0KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYm9sZCB0ZXh0LWRhcmsgbXQtOCBtYi00Ij5MaW1pdGF0aW9uIG9mIExpYWJpbGl0eTwvaDI+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0IG1iLTQiPg0KICAgICAgICAgIHtjb25maWcuYnVzaW5lc3NOYW1lfSBzaGFsbCBub3QgYmUgbGlhYmxlIGZvciBhbnkgaW5kaXJlY3QsIGluY2lkZW50YWwsIG9yIGNvbnNlcXVlbnRpYWwNCiAgICAgICAgICBkYW1hZ2VzIGFyaXNpbmcgZnJvbSB0aGUgdXNlIG9mIG91ciB3ZWJzaXRlIG9yIHNlcnZpY2VzLg0KICAgICAgICA8L3A+DQoNCiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1kYXJrIG10LTggbWItNCI+Q29udGFjdDwvaDI+DQogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1kYXJrLWxpZ2h0Ij4NCiAgICAgICAgICBRdWVzdGlvbnMgYWJvdXQgdGhlc2UgdGVybXM/IENvbnRhY3QgdXMgYXR7IiAifQ0KICAgICAgICAgIDxhIGhyZWY9e2BtYWlsdG86JHtjb25maWcuZW1haWxzLnN1cHBvcnR9YH0gY2xhc3NOYW1lPSJ0ZXh0LXByaW1hcnkgaG92ZXI6dW5kZXJsaW5lIj4NCiAgICAgICAgICAgIHtjb25maWcuZW1haWxzLnN1cHBvcnR9DQogICAgICAgICAgPC9hPi4NCiAgICAgICAgPC9wPg0KICAgICAgPC9kaXY+DQogICAgPC9zZWN0aW9uPg0KICApOw0KfQ0K"}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+
+const config = getConfig();
+
+export const metadata: Metadata = {
+  title: "Terms & Conditions",
+  description: `Terms and Conditions for ${config.businessName} services.`,
+  alternates: { canonical: "/terms-and-conditions" },
+};
+
+export default function TermsPage() {
+  return (
+    <section className="py-section-y-sm md:py-section-y">
+      <div className="max-w-3xl mx-auto px-6 lg:px-8">
+        <h1 className="text-3xl font-bold text-dark mb-8">Terms &amp; Conditions</h1>
+        <p className="text-dark-light mb-4">Last updated: January 2025</p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Agreement to Terms</h2>
+        <p className="text-dark-light mb-4">
+          By accessing and using the {config.businessName} website, you agree to be bound by these
+          Terms and Conditions. If you do not agree, please do not use our website or services.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Services</h2>
+        <p className="text-dark-light mb-4">
+          {config.businessName} provides web design, graphic design, SEO, social media optimization,
+          website maintenance, and AI consultation services. All services are subject to separate
+          service agreements.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Intellectual Property</h2>
+        <p className="text-dark-light mb-4">
+          All content on this website, including text, graphics, logos, and images, is the property
+          of {config.businessName} and is protected by copyright law.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Limitation of Liability</h2>
+        <p className="text-dark-light mb-4">
+          {config.businessName} shall not be liable for any indirect, incidental, or consequential
+          damages arising from the use of our website or services.
+        </p>
+
+        <h2 className="text-xl font-bold text-dark mt-8 mb-4">Contact</h2>
+        <p className="text-dark-light">
+          Questions about these terms? Contact us at{" "}
+          <a href={`mailto:${config.emails.support}`} className="text-primary hover:underline">
+            {config.emails.support}
+          </a>.
+        </p>
+      </div>
+    </section>
+  );
+}

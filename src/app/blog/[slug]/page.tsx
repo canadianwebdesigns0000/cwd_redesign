@@ -1,1 +1,299 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgeyBub3RGb3VuZCB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CmltcG9ydCB7IGdldEFsbFNsdWdzLCBnZXRQb3N0QnlTbHVnLCBnZXRBbGxQb3N0cyB9IGZyb20gIkAvbGliL2Jsb2ciOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNoYXJlQnV0dG9ucyBmcm9tICJAL2NvbXBvbmVudHMvU2hhcmVCdXR0b25zIjsKCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOwoKaW50ZXJmYWNlIFByb3BzIHsKICBwYXJhbXM6IFByb21pc2U8eyBzbHVnOiBzdHJpbmcgfT47Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZW5lcmF0ZVN0YXRpY1BhcmFtcygpIHsKICByZXR1cm4gZ2V0QWxsU2x1Z3MoKS5tYXAoKHNsdWcpID0+ICh7IHNsdWcgfSkpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2VuZXJhdGVNZXRhZGF0YSh7IHBhcmFtcyB9OiBQcm9wcyk6IFByb21pc2U8TWV0YWRhdGE+IHsKICBjb25zdCB7IHNsdWcgfSA9IGF3YWl0IHBhcmFtczsKICBjb25zdCBwb3N0ID0gYXdhaXQgZ2V0UG9zdEJ5U2x1ZyhzbHVnKTsKICBpZiAoIXBvc3QpIHJldHVybiB7fTsKICByZXR1cm4gewogICAgdGl0bGU6IHBvc3QudGl0bGUsCiAgICBkZXNjcmlwdGlvbjogcG9zdC5kZXNjcmlwdGlvbiwNCiAgICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogYC9ibG9nLyR7cG9zdC5zbHVnfWAgfSwKICAgIG9wZW5HcmFwaDogewogICAgICB0aXRsZTogcG9zdC50aXRsZSwKICAgICAgZGVzY3JpcHRpb246IHBvc3QuZGVzY3JpcHRpb24sCiAgICAgIHR5cGU6ICJhcnRpY2xlIiwKICAgICAgcHVibGlzaGVkVGltZTogcG9zdC5kYXRlLAogICAgICBhdXRob3JzOiBbcG9zdC5hdXRob3JdLAogICAgICB1cmw6IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn0vYmxvZy8ke3Bvc3Quc2x1Z31gLAogICAgICBzaXRlTmFtZTogY29uZmlnLmJ1c2luZXNzTmFtZSwKICAgICAgLi4uKHBvc3QuZmVhdHVyZWRJbWFnZSA/IHsgaW1hZ2VzOiBbeyB1cmw6IHBvc3QuZmVhdHVyZWRJbWFnZSwgd2lkdGg6IDEyMDAsIGhlaWdodDogNjMwLCBhbHQ6IHBvc3QudGl0bGUgfV0gfSA6IHt9KSwKICAgIH0sCiAgICB0d2l0dGVyOiB7CiAgICAgIGNhcmQ6ICJzdW1tYXJ5X2xhcmdlX2ltYWdlIiwKICAgICAgdGl0bGU6IHBvc3QudGl0bGUsCiAgICAgIGRlc2NyaXB0aW9uOiBwb3N0LmRlc2NyaXB0aW9uLAogICAgICAuLi4ocG9zdC5mZWF0dXJlZEltYWdlID8geyBpbWFnZXM6IFtwb3N0LmZlYXR1cmVkSW1hZ2VdIH0gOiB7fSksCiAgICB9LAogIH07Cn0KCmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIEJsb2dQb3N0UGFnZSh7IHBhcmFtcyB9OiBQcm9wcykgewogIGNvbnN0IHsgc2x1ZyB9ID0gYXdhaXQgcGFyYW1zOwogIGNvbnN0IHBvc3QgPSBhd2FpdCBnZXRQb3N0QnlTbHVnKHNsdWcpOwogIGlmICghcG9zdCkgbm90Rm91bmQoKTsKCiAgY29uc3QgcmVjZW50UG9zdHMgPSBnZXRBbGxQb3N0cygpLmZpbHRlcigocCkgPT4gcC5zbHVnICE9PSBzbHVnKS5zbGljZSgwLCA1KTsKICBjb25zdCBoZXJvSW1hZ2UgPSBwb3N0LmZlYXR1cmVkSW1hZ2UgfHwgIi9ibG9nL3dlYi1kZXNpZ24tY29tcGFueS5wbmciOwoKICBjb25zdCBqc29uTGQgPSB7CiAgICAiQGNvbnRleHQiOiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwKICAgICJAdHlwZSI6ICJCbG9nUG9zdGluZyIsCiAgICBoZWFkbGluZTogcG9zdC50aXRsZSwKICAgIGRlc2NyaXB0aW9uOiBwb3N0LmRlc2NyaXB0aW9uLAogICAgZGF0ZVB1Ymxpc2hlZDogcG9zdC5kYXRlLAogICAgZGF0ZU1vZGlmaWVkOiBwb3N0LmRhdGUsCiAgICAuLi4ocG9zdC5mZWF0dXJlZEltYWdlID8geyBpbWFnZTogcG9zdC5mZWF0dXJlZEltYWdlIH0gOiB7fSksCiAgICBhdXRob3I6IHsgIkB0eXBlIjogIlBlcnNvbiIsIG5hbWU6IHBvc3QuYXV0aG9yIH0sCiAgICBwdWJsaXNoZXI6IHsKICAgICAgIkB0eXBlIjogIk9yZ2FuaXphdGlvbiIsCiAgICAgIG5hbWU6IGNvbmZpZy5idXNpbmVzc05hbWUsCiAgICAgIHVybDogYGh0dHBzOi8vJHtjb25maWcuZG9tYWlufWAsCiAgICAgIGxvZ286IHsgIkB0eXBlIjogIkltYWdlT2JqZWN0IiwgdXJsOiBgaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59L2xvZ29zL2xvZ28ud2VicGAgfSwKICAgIH0sCiAgICBtYWluRW50aXR5T2ZQYWdlOiB7ICJAdHlwZSI6ICJXZWJQYWdlIiwgIkBpZCI6IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn0vYmxvZy8ke3Bvc3Quc2x1Z31gIH0sCiAgfTsKCiAgY29uc3QgYnJlYWRjcnVtYkpzb25MZCA9IHsKICAgICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICAgIkB0eXBlIjogIkJyZWFkY3J1bWJMaXN0IiwKICAgIGl0ZW1MaXN0RWxlbWVudDogWwogICAgICB7ICJAdHlwZSI6ICJMaXN0SXRlbSIsIHBvc2l0aW9uOiAxLCBuYW1lOiAiSG9tZSIsIGl0ZW06IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn1gIH0sCiAgICAgIHsgIkB0eXBlIjogIkxpc3RJdGVtIiwgcG9zaXRpb246IDIsIG5hbWU6ICJCbG9nIiwgaXRlbTogYGh0dHBzOi8vJHtjb25maWcuZG9tYWlufS9ibG9nYCB9LAogICAgICB7ICJAdHlwZSI6ICJMaXN0SXRlbSIsIHBvc2l0aW9uOiAzLCBuYW1lOiBwb3N0LnRpdGxlLCBpdGVtOiBgaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59L2Jsb2cvJHtwb3N0LnNsdWd9YCB9LAogICAgXSwKICB9OwoKICByZXR1cm4gKAogICAgPD4KICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGpzb25MZCkgfX0gLz4KICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGJyZWFkY3J1bWJKc29uTGQpIH19IC8+CgogICAgICB7Lyog4pSA4pSA4pSAIEhFUk8g4pSA4pSA4pSAICovfQogICAgICA8c2VjdGlvbgogICAgICAgIGNsYXNzTmFtZT0icmVsYXRpdmUgb3ZlcmZsb3ctaGlkZGVuIGZsZXggaXRlbXMtY2VudGVyIgogICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCAjMDEwQzFFIDAlLCAjMDUyMTQwIDU1JSwgIzAxMEQyMiAxMDAlKSIsIG1pbkhlaWdodDogIjM4MHB4IiB9fQogICAgICA+CiAgICAgICAgey8qIEJhY2tncm91bmQgaW1hZ2UgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAiPgogICAgICAgICAgey8qIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBAbmV4dC9uZXh0L25vLWltZy1lbGVtZW50ICovfQogICAgICAgICAgPGltZyBzcmM9e2hlcm9JbWFnZX0gYWx0PSIiIGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciIgYXJpYS1oaWRkZW49InRydWUiIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgey8qIE92ZXJsYXkgKi99CiAgICAgICAgPGRpdgogICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEwNWRlZywgcmdiYSgxLDEyLDMwLDAuOTUpIDAlLCByZ2JhKDEsMTIsMzAsMC44OCkgNTAlLCByZ2JhKDEsMTIsMzAsMC44MCkgMTAwJSkiIH19CiAgICAgICAgLz4KICAgICAgICB7LyogT3JicyAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTAgbGVmdC1bOCVdIHctWzQyMHB4XSBoLVs0MjBweF0gcm91bmRlZC1mdWxsIHBvaW50ZXItZXZlbnRzLW5vbmUgYW5pbWF0ZS1vcmIiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiIzAwQUFERiIsIGZpbHRlcjogImJsdXIoMTQwcHgpIiwgb3BhY2l0eTogMC4yIH19IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIHJpZ2h0LVs1JV0gdy03MiBoLTcyIHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMDNCNkYiLCBmaWx0ZXI6ICJibHVyKDExMHB4KSIsIG9wYWNpdHk6IDAuMjgsIGFuaW1hdGlvbkRlbGF5OiAiMi41cyIgfX0gLz4KICAgICAgICB7LyogRG90IGdyaWQgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRJbWFnZTogInJhZGlhbC1ncmFkaWVudChjaXJjbGUsIHJnYmEoMjU1LDI1NSwyNTUsMC4wNikgMXB4LCB0cmFuc3BhcmVudCAxcHgpIiwgYmFja2dyb3VuZFNpemU6ICI0OHB4IDQ4cHgiIH19IC8+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCB3LWZ1bGwgcHktMTYgbWQ6cHktMjQiPgogICAgICAgICAgey8qIEJyZWFkY3J1bWIgKi99CiAgICAgICAgICA8bmF2IGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LXdoaXRlLzYwIG1iLTUiIGFyaWEtbGFiZWw9IkJyZWFkY3J1bWIiPgogICAgICAgICAgICA8b2wgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IGZsZXgtd3JhcCI+CiAgICAgICAgICAgICAgPGxpPjxMaW5rIGhyZWY9Ii8iIGNsYXNzTmFtZT0iaG92ZXI6dGV4dC13aGl0ZSB0cmFuc2l0aW9uLWNvbG9ycyI+SG9tZTwvTGluaz48L2xpPgogICAgICAgICAgICAgIDxsaSBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzMwIj4vPC9saT4KICAgICAgICAgICAgICA8bGk+PExpbmsgaHJlZj0iL2Jsb2ciIGNsYXNzTmFtZT0iaG92ZXI6dGV4dC13aGl0ZSB0cmFuc2l0aW9uLWNvbG9ycyI+QmxvZzwvTGluaz48L2xpPgogICAgICAgICAgICAgIDxsaSBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzMwIj4vPC9saT4KICAgICAgICAgICAgICA8bGkgY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzcwIHRydW5jYXRlIG1heC13LVsyODBweF0iPntwb3N0LnRpdGxlfTwvbGk+CiAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICA8L25hdj4KCiAgICAgICAgICB7LyogQ2F0ZWdvcnkgKi99CiAgICAgICAgICA8c3BhbgogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciB0ZXh0LXhzIGZvbnQtYm9sZCB0cmFja2luZy1bMC4xMmVtXSB1cHBlcmNhc2UgcHgtMyBweS0xLjUgcm91bmRlZC1mdWxsIG1iLTQiCiAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDAsMTcwLDIyMywwLjIpIiwgY29sb3I6ICIjMzNDMkU4IiwgYm9yZGVyOiAiMXB4IHNvbGlkIHJnYmEoMCwxNzAsMjIzLDAuMykiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtwb3N0LmNhdGVnb3J5fQogICAgICAgICAgPC9zcGFuPgoKICAgICAgICAgIHsvKiBUaXRsZSAqL30KICAgICAgICAgIDxoMQogICAgICAgICAgICBjbGFzc05hbWU9Imhlcm8tZmFkZS11cC0xIGZvbnQtYmxhY2sgdGV4dC13aGl0ZSBtYi01IG1heC13LTN4bCIKICAgICAgICAgICAgc3R5bGU9e3sgZm9udFNpemU6ICJjbGFtcCgxLjY1cmVtLCAzLjh2dywgMi42cmVtKSIsIGxpbmVIZWlnaHQ6IDEuMSB9fQogICAgICAgICAgPgogICAgICAgICAgICB7cG9zdC50aXRsZX0KICAgICAgICAgIDwvaDE+CgogICAgICAgICAgey8qIE1ldGEgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTUgdGV4dC1zbSB0ZXh0LXdoaXRlLzY1IGZsZXgtd3JhcCI+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSI+CiAgICAgICAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNCBoLTQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyfT4KICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik0xNiA3YTQgNCAwIDExLTggMCA0IDQgMCAwMTggMHpNMTIgMTRhNyA3IDAgMDAtNyA3aDE0YTcgNyAwIDAwLTctN3oiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAge3Bvc3QuYXV0aG9yfQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGFyaWEtaGlkZGVuPSJ0cnVlIiBjbGFzc05hbWU9InRleHQtd2hpdGUvMjUiPiZtaWRkb3Q7PC9zcGFuPgogICAgICAgICAgICA8dGltZSBkYXRlVGltZT17cG9zdC5kYXRlfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUiPgogICAgICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTQgaC00IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD17Mn0+CiAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNOCA3VjNtOCA0VjNtLTkgOGgxME01IDIxaDE0YTIgMiAwIDAwMi0yVjdhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjEyYTIgMiAwIDAwMiAyeiIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICB7bmV3IERhdGUocG9zdC5kYXRlKS50b0xvY2FsZURhdGVTdHJpbmcoImVuLUNBIiwgeyB5ZWFyOiAibnVtZXJpYyIsIG1vbnRoOiAibG9uZyIsIGRheTogIm51bWVyaWMiIH0pfQogICAgICAgICAgICA8L3RpbWU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgey8qIOKUgOKUgOKUgCBDT05URU5UICsgU0lERUJBUiDilIDilIDilIAgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCBweS0xMiBtZDpweS0xNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgbGc6Z3JpZC1jb2xzLVsxZnJfMzYwcHhdIGdhcC0xMCBsZzpnYXAtMTQgaXRlbXMtc3RhcnQiPgoKICAgICAgICAgIHsvKiBMRUZUOiBBcnRpY2xlICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGFydGljbGU+CiAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJibG9nLWNvbnRlbnQgcHJvc2UgcHJvc2UtbGcgbWF4LXctbm9uZQogICAgICAgICAgICAgICAgICBwcm9zZS1oZWFkaW5nczp0ZXh0LWRhcmsgcHJvc2UtaGVhZGluZ3M6Zm9udC1ib2xkIHByb3NlLWhlYWRpbmdzOmxlYWRpbmctc251ZwogICAgICAgICAgICAgICAgICBwcm9zZS1oMjp0ZXh0LTJ4bCBwcm9zZS1oMjptdC0xMiBwcm9zZS1oMjptYi00CiAgICAgICAgICAgICAgICAgIHByb3NlLWgzOnRleHQteGwgcHJvc2UtaDM6bXQtMTAgcHJvc2UtaDM6bWItMwogICAgICAgICAgICAgICAgICBwcm9zZS1oNDp0ZXh0LWxnIHByb3NlLWg0Om10LTggcHJvc2UtaDQ6bWItMgogICAgICAgICAgICAgICAgICBwcm9zZS1wOnRleHQtZGFyay1saWdodCBwcm9zZS1wOmxlYWRpbmctWzEuODVdIHByb3NlLXA6bWItNQogICAgICAgICAgICAgICAgICBwcm9zZS1hOnRleHQtcHJpbWFyeSBwcm9zZS1hOm5vLXVuZGVybGluZSBob3Zlcjpwcm9zZS1hOnVuZGVybGluZSBwcm9zZS1hOmZvbnQtbWVkaXVtCiAgICAgICAgICAgICAgICAgIHByb3NlLXN0cm9uZzp0ZXh0LWRhcmsgcHJvc2Utc3Ryb25nOmZvbnQtYm9sZAogICAgICAgICAgICAgICAgICBwcm9zZS11bDpteS01IHByb3NlLXVsOnBsLTUgcHJvc2UtbGk6dGV4dC1kYXJrLWxpZ2h0IHByb3NlLWxpOm1iLTIKICAgICAgICAgICAgICAgICAgcHJvc2Utb2w6bXktNSBwcm9zZS1vbDpwbC01CiAgICAgICAgICAgICAgICAgIHByb3NlLWhyOm15LTEwIHByb3NlLWhyOmJvcmRlci1ncmF5LTIwMAogICAgICAgICAgICAgICAgICBwcm9zZS1ibG9ja3F1b3RlOmJvcmRlci1sLTQgcHJvc2UtYmxvY2txdW90ZTpib3JkZXItcHJpbWFyeSBwcm9zZS1ibG9ja3F1b3RlOnBsLTUgcHJvc2UtYmxvY2txdW90ZTpub3QtaXRhbGljCiAgICAgICAgICAgICAgICAgIHByb3NlLWltZzpyb3VuZGVkLTJ4bCBwcm9zZS1pbWc6c2hhZG93LWxnIHByb3NlLWltZzpteS04IHByb3NlLWltZzp3LWZ1bGwiCiAgICAgICAgICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHBvc3QuY29udGVudCEgfX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICB7LyogU2hhcmUgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xMCBwdC04IGJvcmRlci10IGJvcmRlci1ncmF5LTIwMCI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtYm9sZCB0cmFja2luZy1bMC4xNWVtXSB1cHBlcmNhc2UgdGV4dC1ncmF5LTQwMCBtYi00Ij5TaGFyZSB0aGlzIGFydGljbGU8L3A+CiAgICAgICAgICAgICAgPFNoYXJlQnV0dG9ucyB0aXRsZT17cG9zdC50aXRsZX0gc2x1Zz17cG9zdC5zbHVnfSAvPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIHsvKiBCYWNrICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCBwdC02IGJvcmRlci10IGJvcmRlci1ncmF5LTEwMCI+CiAgICAgICAgICAgICAgPExpbmsgaHJlZj0iL2Jsb2ciIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHRleHQtcHJpbWFyeSBmb250LW1lZGl1bSBob3Zlcjp1bmRlcmxpbmUgdGV4dC1zbSI+CiAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy00IGgtNCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9ezJ9PgogICAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMTAuNSAxOS41TDMgMTJtMCAwbDcuNS03LjVNMyAxMmgxOCIgLz4KICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgQmFjayB0byBhbGwgcG9zdHMKICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIFJJR0hUOiBTaWRlYmFyICovfQogICAgICAgICAgPGFzaWRlIGNsYXNzTmFtZT0ibGc6c3RpY2t5IGxnOnRvcC0yNCBmbGV4IGZsZXgtY29sIGdhcC02Ij4KCiAgICAgICAgICAgIHsvKiBSZWNlbnQgUG9zdHMgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy13aGl0ZSByb3VuZGVkLTJ4bCBvdmVyZmxvdy1oaWRkZW4iCiAgICAgICAgICAgICAgc3R5bGU9e3sgYm9yZGVyOiAiMXB4IHNvbGlkICNmMGYwZjAiLCBib3hTaGFkb3c6ICIwIDJweCAyMHB4IHJnYmEoMCwwLDAsMC4wNikiIH19PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweC02IHB5LTUgYm9yZGVyLWIgYm9yZGVyLWdyYXktMTAwIGZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEgaC01IHJvdW5kZWQtZnVsbCIgc3R5bGU9e3sgYmFja2dyb3VuZDogImxpbmVhci1ncmFkaWVudCgxODBkZWcsICMwMEFBREYsICMwMDNCNkYpIiB9fSAvPgogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1ib2xkIHRleHQtZGFyayB0ZXh0LWxnIj5SZWNlbnQgUG9zdHM8L2gzPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDx1bD4KICAgICAgICAgICAgICAgIHtyZWNlbnRQb3N0cy5tYXAoKHJwKSA9PiAoCiAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e3JwLnNsdWd9IGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLWdyYXktNTAgbGFzdDpib3JkZXItMCI+CiAgICAgICAgICAgICAgICAgICAgPExpbmsgaHJlZj17YC9ibG9nLyR7cnAuc2x1Z31gfSBjbGFzc05hbWU9ImZsZXggZ2FwLTQgcHgtNSBweS00IGhvdmVyOmJnLWdyYXktNTAvODAgdHJhbnNpdGlvbi1jb2xvcnMgZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMTYgaC0xNiBmbGV4LXNocmluay0wIHJvdW5kZWQteGwgb3ZlcmZsb3ctaGlkZGVuIGJnLWdyYXktMTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAge3JwLmZlYXR1cmVkSW1hZ2UgPyAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIEBuZXh0L25leHQvbm8taW1nLWVsZW1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz17cnAuZmVhdHVyZWRJbWFnZX0gYWx0PXtycC50aXRsZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBvYmplY3QtY292ZXIgZ3JvdXAtaG92ZXI6c2NhbGUtMTA1IHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTMwMCIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJyZ2JhKDAsMTcwLDIyMywwLjA4KSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy02IGgtNiIgc3R5bGU9e3sgY29sb3I6ICJyZ2JhKDAsMTcwLDIyMywwLjM1KSIgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9ezEuNX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTQgMTZsNC41ODYtNC41ODZhMiAyIDAgMDEyLjgyOCAwTDE2IDE2bS0yLTJsMS41ODYtMS41ODZhMiAyIDAgMDEyLjgyOCAwTDIwIDE0bS02LTZoLjAxTTYgMjBoMTJhMiAyIDAgMDAyLTJWNmEyIDIgMCAwMC0yLTJINmEyIDIgMCAwMC0yIDJ2MTJhMiAyIDAgMDAyIDJ6IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgbWluLXctMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIHRleHQtZGFyayBncm91cC1ob3Zlcjp0ZXh0LXByaW1hcnkgdHJhbnNpdGlvbi1jb2xvcnMgbGluZS1jbGFtcC0yIGxlYWRpbmctc251ZyBtYi0xLjUiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtycC50aXRsZX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8dGltZSBjbGFzc05hbWU9InRleHQteHMgdGV4dC1ncmF5LTQwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAge25ldyBEYXRlKHJwLmRhdGUpLnRvTG9jYWxlRGF0ZVN0cmluZygiZW4tQ0EiLCB7IG1vbnRoOiAic2hvcnQiLCBkYXk6ICJudW1lcmljIiwgeWVhcjogIm51bWVyaWMiIH0pfQogICAgICAgICAgICAgICAgICAgICAgICA8L3RpbWU+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweC02IHB5LTQgYm9yZGVyLXQgYm9yZGVyLWdyYXktMTAwIj4KICAgICAgICAgICAgICAgIDxMaW5rIGhyZWY9Ii9ibG9nIiBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LXByaW1hcnkgaG92ZXI6dW5kZXJsaW5lIGZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUiPgogICAgICAgICAgICAgICAgICBWaWV3IGFsbCBwb3N0cwogICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy0zLjUgaC0zLjUiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyLjV9PgogICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik0xMy41IDQuNUwyMSAxMm0wIDBsLTcuNSA3LjVNMjEgMTJIMyIgLz4KICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIEZyZWUgUXVvdGUgQ1RBICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC0yeGwgb3ZlcmZsb3ctaGlkZGVuIHJlbGF0aXZlIgogICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCAjMDEwQzFFIDAlLCAjMDUyMTQwIDU1JSwgIzAxMEQyMiAxMDAlKSIgfX0+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0wIHJpZ2h0LTAgdy00OCBoLTQ4IHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIgogICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBmaWx0ZXI6ICJibHVyKDgwcHgpIiwgb3BhY2l0eTogMC4xOCB9fSAvPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kSW1hZ2U6ICJyYWRpYWwtZ3JhZGllbnQoY2lyY2xlLCByZ2JhKDI1NSwyNTUsMjU1LDAuMDYpIDFweCwgdHJhbnNwYXJlbnQgMXB4KSIsIGJhY2tncm91bmRTaXplOiAiMzBweCAzMHB4IiB9fSAvPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBwLTYiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSB0ZXh0LXhzIGZvbnQtYm9sZCB0cmFja2luZy13aWRlIHVwcGVyY2FzZSBweC0zIHB5LTEuNSByb3VuZGVkLWZ1bGwgbWItNCIKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogInJnYmEoMCwxNzAsMjIzLDAuMTgpIiwgY29sb3I6ICIjMzNDMkU4IiB9fT4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ3LTEuNSBoLTEuNSByb3VuZGVkLWZ1bGwiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBib3hTaGFkb3c6ICIwIDAgNnB4IHJnYmEoMCwxNzAsMjIzLDAuOCkiIH19IC8+CiAgICAgICAgICAgICAgICAgIEZyZWUgQ29uc3VsdGF0aW9uCiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYmxhY2sgdGV4dC13aGl0ZSBtYi0yIGxlYWRpbmctc251ZyI+CiAgICAgICAgICAgICAgICAgIFJlYWR5IHRvIEdyb3cgWW91ciBCdXNpbmVzcyBPbmxpbmU/CiAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtd2hpdGUvNjUgbGVhZGluZy1yZWxheGVkIG1iLTUiPgogICAgICAgICAgICAgICAgICBHZXQgYSBmcmVlLCBuby1vYmxpZ2F0aW9uIHF1b3RlIGZyb20gQ2FuYWRhJmFwb3M7cyB0b3Agd2ViIGRlc2lnbiB0ZWFtLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0yLjUgbWItNiI+CiAgICAgICAgICAgICAgICAgIHtbIkN1c3RvbSB3ZWIgZGVzaWduICYgZGV2ZWxvcG1lbnQiLCAiU0VPIG9wdGltaXphdGlvbiBpbmNsdWRlZCIsICJGYXN0IHR1cm5hcm91bmQgZ3VhcmFudGVlZCJdLm1hcCgoaXRlbSkgPT4gKAogICAgICAgICAgICAgICAgICAgIDxsaSBrZXk9e2l0ZW19IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSB0ZXh0LXdoaXRlLzc1Ij4KICAgICAgICAgICAgICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTQgaC00IGZsZXgtc2hyaW5rLTAiIHN0eWxlPXt7IGNvbG9yOiAiIzAwQUFERiIgfX0KICAgICAgICAgICAgICAgICAgICAgICAgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9ezIuNX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik01IDEzbDQgNEwxOSA3IiAvPgogICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICB7aXRlbX0KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8TGluayBocmVmPSIvY29udGFjdCIKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4tc2hpbW1lciBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMiB3LWZ1bGwgcHktMy41IHJvdW5kZWQtZnVsbCB0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCIKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogImxpbmVhci1ncmFkaWVudCgxMzVkZWcsICMwMEFBREYsICMwMDNCNkYpIiwgYm94U2hhZG93OiAiMCA0cHggMTVweCByZ2JhKDAsMTcwLDIyMywwLjM1KSIgfX0+CiAgICAgICAgICAgICAgICAgIEdldCBhIEZyZWUgUXVvdGUKICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNCBoLTQiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyLjV9PgogICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik0xMy41IDQuNUwyMSAxMm0wIDBsLTcuNSA3LjVNMjEgMTJIMyIgLz4KICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtY2VudGVyIHRleHQteHMgdGV4dC13aGl0ZS8zNSBtdC0zIj5ObyBjb21taXRtZW50IHJlcXVpcmVkPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8L2FzaWRlPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { getAllSlugs, getPostBySlug, getAllPosts } from "@/lib/blog";
+import { getConfig } from "@/lib/client-config";
+import ShareButtons from "@/components/ShareButtons";
+
+const config = getConfig();
+
+interface Props {
+  params: Promise<{ slug: string }>;
+}
+
+export async function generateStaticParams() {
+  return getAllSlugs().map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const post = await getPostBySlug(slug);
+  if (!post) return {};
+  return {
+    title: post.title,
+    description: post.description,
+    alternates: { canonical: `/blog/${post.slug}` },
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      type: "article",
+      publishedTime: post.date,
+      authors: [post.author],
+      url: `https://${config.domain}/blog/${post.slug}`,
+      siteName: config.businessName,
+      ...(post.featuredImage ? { images: [{ url: post.featuredImage, width: 1200, height: 630, alt: post.title }] } : {}),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+      ...(post.featuredImage ? { images: [post.featuredImage] } : {}),
+    },
+  };
+}
+
+export default async function BlogPostPage({ params }: Props) {
+  const { slug } = await params;
+  const post = await getPostBySlug(slug);
+  if (!post) notFound();
+
+  const recentPosts = getAllPosts().filter((p) => p.slug !== slug).slice(0, 5);
+  const heroImage = post.featuredImage || "/blog/web-design-company.png";
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    dateModified: post.date,
+    ...(post.featuredImage ? { image: post.featuredImage } : {}),
+    author: { "@type": "Person", name: post.author },
+    publisher: {
+      "@type": "Organization",
+      name: config.businessName,
+      url: `https://${config.domain}`,
+      logo: { "@type": "ImageObject", url: `https://${config.domain}/logos/logo.webp` },
+    },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://${config.domain}/blog/${post.slug}` },
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: `https://${config.domain}` },
+      { "@type": "ListItem", position: 2, name: "Blog", item: `https://${config.domain}/blog` },
+      { "@type": "ListItem", position: 3, name: post.title, item: `https://${config.domain}/blog/${post.slug}` },
+    ],
+  };
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+
+      {/* ─── HERO ─── */}
+      <section
+        className="relative overflow-hidden flex items-center"
+        style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)", minHeight: "380px" }}
+      >
+        {/* Background image */}
+        <div className="absolute inset-0">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={heroImage} alt="" className="w-full h-full object-cover object-center" aria-hidden="true" />
+        </div>
+        {/* Overlay */}
+        <div
+          className="absolute inset-0 pointer-events-none"
+          style={{ background: "linear-gradient(105deg, rgba(1,12,30,0.95) 0%, rgba(1,12,30,0.88) 50%, rgba(1,12,30,0.80) 100%)" }}
+        />
+        {/* Orbs */}
+        <div className="absolute top-0 left-[8%] w-[420px] h-[420px] rounded-full pointer-events-none animate-orb"
+          style={{ background: "#00AADF", filter: "blur(140px)", opacity: 0.2 }} />
+        <div className="absolute bottom-0 right-[5%] w-72 h-72 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#003B6F", filter: "blur(110px)", opacity: 0.28, animationDelay: "2.5s" }} />
+        {/* Dot grid */}
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.06) 1px, transparent 1px)", backgroundSize: "48px 48px" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8 w-full py-16 md:py-24">
+          {/* Breadcrumb */}
+          <nav className="text-sm text-white/60 mb-5" aria-label="Breadcrumb">
+            <ol className="flex items-center gap-1.5 flex-wrap">
+              <li><Link href="/" className="hover:text-white transition-colors">Home</Link></li>
+              <li aria-hidden="true" className="text-white/30">/</li>
+              <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
+              <li aria-hidden="true" className="text-white/30">/</li>
+              <li className="text-white/70 truncate max-w-[280px]">{post.title}</li>
+            </ol>
+          </nav>
+
+          {/* Category */}
+          <span
+            className="inline-flex items-center text-xs font-bold tracking-[0.12em] uppercase px-3 py-1.5 rounded-full mb-4"
+            style={{ background: "rgba(0,170,223,0.2)", color: "#33C2E8", border: "1px solid rgba(0,170,223,0.3)" }}
+          >
+            {post.category}
+          </span>
+
+          {/* Title */}
+          <h1
+            className="hero-fade-up-1 font-black text-white mb-5 max-w-3xl"
+            style={{ fontSize: "clamp(1.65rem, 3.8vw, 2.6rem)", lineHeight: 1.1 }}
+          >
+            {post.title}
+          </h1>
+
+          {/* Meta */}
+          <div className="flex items-center gap-5 text-sm text-white/65 flex-wrap">
+            <span className="flex items-center gap-1.5">
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+              </svg>
+              {post.author}
+            </span>
+            <span aria-hidden="true" className="text-white/25">&middot;</span>
+            <time dateTime={post.date} className="flex items-center gap-1.5">
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+              {new Date(post.date).toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric" })}
+            </time>
+          </div>
+        </div>
+      </section>
+
+      {/* ─── CONTENT + SIDEBAR ─── */}
+      <div className="max-w-[1280px] mx-auto px-6 lg:px-8 py-12 md:py-16">
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr_360px] gap-10 lg:gap-14 items-start">
+
+          {/* LEFT: Article */}
+          <div>
+            <article>
+              <div
+                className="blog-content prose prose-lg max-w-none
+                  prose-headings:text-dark prose-headings:font-bold prose-headings:leading-snug
+                  prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4
+                  prose-h3:text-xl prose-h3:mt-10 prose-h3:mb-3
+                  prose-h4:text-lg prose-h4:mt-8 prose-h4:mb-2
+                  prose-p:text-dark-light prose-p:leading-[1.85] prose-p:mb-5
+                  prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-a:font-medium
+                  prose-strong:text-dark prose-strong:font-bold
+                  prose-ul:my-5 prose-ul:pl-5 prose-li:text-dark-light prose-li:mb-2
+                  prose-ol:my-5 prose-ol:pl-5
+                  prose-hr:my-10 prose-hr:border-gray-200
+                  prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-5 prose-blockquote:not-italic
+                  prose-img:rounded-2xl prose-img:shadow-lg prose-img:my-8 prose-img:w-full"
+                dangerouslySetInnerHTML={{ __html: post.content! }}
+              />
+            </article>
+
+            {/* Share */}
+            <div className="mt-10 pt-8 border-t border-gray-200">
+              <p className="text-xs font-bold tracking-[0.15em] uppercase text-gray-400 mb-4">Share this article</p>
+              <ShareButtons title={post.title} slug={post.slug} />
+            </div>
+
+            {/* Back */}
+            <div className="mt-8 pt-6 border-t border-gray-100">
+              <Link href="/blog" className="inline-flex items-center gap-2 text-primary font-medium hover:underline text-sm">
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+                </svg>
+                Back to all posts
+              </Link>
+            </div>
+          </div>
+
+          {/* RIGHT: Sidebar */}
+          <aside className="lg:sticky lg:top-24 flex flex-col gap-6">
+
+            {/* Recent Posts */}
+            <div className="bg-white rounded-2xl overflow-hidden"
+              style={{ border: "1px solid #f0f0f0", boxShadow: "0 2px 20px rgba(0,0,0,0.06)" }}>
+              <div className="px-6 py-5 border-b border-gray-100 flex items-center gap-2">
+                <div className="w-1 h-5 rounded-full" style={{ background: "linear-gradient(180deg, #00AADF, #003B6F)" }} />
+                <h3 className="font-bold text-dark text-lg">Recent Posts</h3>
+              </div>
+              <ul>
+                {recentPosts.map((rp) => (
+                  <li key={rp.slug} className="border-b border-gray-50 last:border-0">
+                    <Link href={`/blog/${rp.slug}`} className="flex gap-4 px-5 py-4 hover:bg-gray-50/80 transition-colors group">
+                      <div className="w-16 h-16 flex-shrink-0 rounded-xl overflow-hidden bg-gray-100">
+                        {rp.featuredImage ? (
+                          // eslint-disable-next-line @next/next/no-img-element
+                          <img src={rp.featuredImage} alt={rp.title}
+                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                        ) : (
+                          <div className="w-full h-full flex items-center justify-center"
+                            style={{ background: "rgba(0,170,223,0.08)" }}>
+                            <svg className="w-6 h-6" style={{ color: "rgba(0,170,223,0.35)" }}
+                              fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                              <path strokeLinecap="round" strokeLinejoin="round"
+                                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                          </div>
+                        )}
+                      </div>
+                      <div className="flex-1 min-w-0">
+                        <p className="text-sm font-semibold text-dark group-hover:text-primary transition-colors line-clamp-2 leading-snug mb-1.5">
+                          {rp.title}
+                        </p>
+                        <time className="text-xs text-gray-400">
+                          {new Date(rp.date).toLocaleDateString("en-CA", { month: "short", day: "numeric", year: "numeric" })}
+                        </time>
+                      </div>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <div className="px-6 py-4 border-t border-gray-100">
+                <Link href="/blog" className="text-sm font-semibold text-primary hover:underline flex items-center gap-1.5">
+                  View all posts
+                  <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+                  </svg>
+                </Link>
+              </div>
+            </div>
+
+            {/* Free Quote CTA */}
+            <div className="rounded-2xl overflow-hidden relative"
+              style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)" }}>
+              <div className="absolute top-0 right-0 w-48 h-48 rounded-full pointer-events-none"
+                style={{ background: "#00AADF", filter: "blur(80px)", opacity: 0.18 }} />
+              <div className="absolute inset-0 pointer-events-none"
+                style={{ backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.06) 1px, transparent 1px)", backgroundSize: "30px 30px" }} />
+              <div className="relative p-6">
+                <span className="inline-flex items-center gap-1.5 text-xs font-bold tracking-wide uppercase px-3 py-1.5 rounded-full mb-4"
+                  style={{ background: "rgba(0,170,223,0.18)", color: "#33C2E8" }}>
+                  <span className="w-1.5 h-1.5 rounded-full"
+                    style={{ background: "#00AADF", boxShadow: "0 0 6px rgba(0,170,223,0.8)" }} />
+                  Free Consultation
+                </span>
+                <h3 className="text-xl font-black text-white mb-2 leading-snug">
+                  Ready to Grow Your Business Online?
+                </h3>
+                <p className="text-sm text-white/65 leading-relaxed mb-5">
+                  Get a free, no-obligation quote from Canada&apos;s top web design team.
+                </p>
+                <ul className="space-y-2.5 mb-6">
+                  {["Custom web design & development", "SEO optimization included", "Fast turnaround guaranteed"].map((item) => (
+                    <li key={item} className="flex items-center gap-2 text-sm text-white/75">
+                      <svg className="w-4 h-4 flex-shrink-0" style={{ color: "#00AADF" }}
+                        fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                      </svg>
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+                <Link href="/contact"
+                  className="btn-shimmer flex items-center justify-center gap-2 w-full py-3.5 rounded-full text-sm font-bold text-white transition-all duration-300"
+                  style={{ background: "linear-gradient(135deg, #00AADF, #003B6F)", boxShadow: "0 4px 15px rgba(0,170,223,0.35)" }}>
+                  Get a Free Quote
+                  <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+                  </svg>
+                </Link>
+                <p className="text-center text-xs text-white/35 mt-3">No commitment required</p>
+              </div>
+            </div>
+
+          </aside>
+        </div>
+      </div>
+    </>
+  );
+}

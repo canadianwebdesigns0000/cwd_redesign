@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gInNlbyIpITsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJTRU8gU2VydmljZXMiLAogIGRlc2NyaXB0aW9uOiAiTG9va2luZyBmb3IgdGhlIGJlc3QgU2VhcmNoIEVuZ2luZSBPcHRpbWl6YXRpb24gc2VydmljZSBpbiBDYW5hZGE/IENhbmFkaWFuIFdlYiBEZXNpZ25zIGNhbiBoZWxwIOKAlCB3ZSBvZmZlciBhIGNvbXBsZXRlIFNFTyBzZXJ2aWNlIHBhY2thZ2UuIiwKICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogIi9zZXJ2aWNlcy9zZW8iIH0sCn07Cgpjb25zdCBmYXFTY2hlbWEgPSB7CiAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgIkB0eXBlIjogIkZBUVBhZ2UiLAogIG1haW5FbnRpdHk6IFsKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIkhvdyBsb25nIGRvZXMgU0VPIHRha2UgdG8gc2hvdyByZXN1bHRzPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiTW9zdCBjbGllbnRzIHNlZSBtZWFzdXJhYmxlIGltcHJvdmVtZW50IGluIHJhbmtpbmdzIGFuZCBvcmdhbmljIHRyYWZmaWMgd2l0aGluIDPigJM2IG1vbnRocy4gQ29tcGV0aXRpdmUgaW5kdXN0cmllcyBtYXkgdGFrZSA24oCTMTIgbW9udGhzLiBXZSBwcm92aWRlIG1vbnRobHkgcmVwb3J0aW5nIHNvIHlvdSBjYW4gdHJhY2sgcHJvZ3Jlc3MgZXZlcnkgc3RlcCBvZiB0aGUgd2F5LiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaGF0IGlzIGluY2x1ZGVkIGluIHlvdXIgU0VPIHNlcnZpY2U/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJPdXIgU0VPIHNlcnZpY2UgaW5jbHVkZXMgYSBmdWxsIHRlY2huaWNhbCBhdWRpdCwgb24tcGFnZSBvcHRpbWl6YXRpb24sIGtleXdvcmQgcmVzZWFyY2gsIGNvbnRlbnQgc3RyYXRlZ3ksIGxpbmsgYnVpbGRpbmcsIGxvY2FsIFNFTyAoR29vZ2xlIEJ1c2luZXNzIFByb2ZpbGUpLCBhbmQgbW9udGhseSBwZXJmb3JtYW5jZSByZXBvcnRzLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJEbyB5b3Ugb2ZmZXIgbG9jYWwgU0VPIGZvciBDYW5hZGlhbiBidXNpbmVzc2VzPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiWWVzLiBXZSBzcGVjaWFsaXplIGluIGxvY2FsIFNFTyBhY3Jvc3MgYWxsIG1ham9yIENhbmFkaWFuIGNpdGllcyBpbmNsdWRpbmcgVG9yb250bywgQnJhbXB0b24sIE1pc3Npc3NhdWdhLCBDYWxnYXJ5LCBhbmQgVmFuY291dmVyLiBXZSBvcHRpbWl6ZSB5b3VyIEdvb2dsZSBCdXNpbmVzcyBQcm9maWxlLCBidWlsZCBsb2NhbCBjaXRhdGlvbnMsIGFuZCBjcmVhdGUgZ2VvLXRhcmdldGVkIGNvbnRlbnQuIiB9LAogICAgfSwKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIkNhbiB5b3UgZ3VhcmFudGVlIGZpcnN0LXBhZ2UgR29vZ2xlIHJhbmtpbmdzPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiTm8gZXRoaWNhbCBTRU8gYWdlbmN5IGNhbiBndWFyYW50ZWUgc3BlY2lmaWMgcmFua2luZ3Mg4oCUIEdvb2dsZSdzIGFsZ29yaXRobSBpcyBjb21wbGV4IGFuZCBjb25zdGFudGx5IGNoYW5naW5nLiBXaGF0IHdlIGd1YXJhbnRlZSBpcyBhIHByb3Zlbiwgd2hpdGUtaGF0IHN0cmF0ZWd5IGFuZCB0cmFuc3BhcmVudCByZXBvcnRpbmcuIE91ciBhdmVyYWdlIGNsaWVudCBzZWVzIDMwMCUrIG9yZ2FuaWMgdHJhZmZpYyBncm93dGggd2l0aGluIDEyIG1vbnRocy4iIH0sCiAgICB9LAogIF0sCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTZXJ2aWNlUGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGZhcVNjaGVtYSkgfX0gLz4KICAgICAgPFNlcnZpY2VQYWdlVGVtcGxhdGUgc2VydmljZT17c2VydmljZX0gLz4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "seo")!;
+
+export const metadata: Metadata = {
+  title: "SEO Services",
+  description: "Looking for the best Search Engine Optimization service in Canada? Canadian Web Designs can help — we offer a complete SEO service package.",
+  alternates: { canonical: "/services/seo" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "How long does SEO take to show results?",
+      acceptedAnswer: { "@type": "Answer", text: "Most clients see measurable improvement in rankings and organic traffic within 3–6 months. Competitive industries may take 6–12 months. We provide monthly reporting so you can track progress every step of the way." },
+    },
+    {
+      "@type": "Question",
+      name: "What is included in your SEO service?",
+      acceptedAnswer: { "@type": "Answer", text: "Our SEO service includes a full technical audit, on-page optimization, keyword research, content strategy, link building, local SEO (Google Business Profile), and monthly performance reports." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you offer local SEO for Canadian businesses?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes. We specialize in local SEO across all major Canadian cities including Toronto, Brampton, Mississauga, Calgary, and Vancouver. We optimize your Google Business Profile, build local citations, and create geo-targeted content." },
+    },
+    {
+      "@type": "Question",
+      name: "Can you guarantee first-page Google rankings?",
+      acceptedAnswer: { "@type": "Answer", text: "No ethical SEO agency can guarantee specific rankings — Google's algorithm is complex and constantly changing. What we guarantee is a proven, white-hat strategy and transparent reporting. Our average client sees 300%+ organic traffic growth within 12 months." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

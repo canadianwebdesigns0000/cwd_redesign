@@ -1,1 +1,196 @@
-{"data":"aW1wb3J0IHR5cGUgeyBDbGllbnRDb25maWcgfSBmcm9tICIuL2NsaWVudC1jb25maWciOw0KDQpleHBvcnQgY29uc3QgY3dkQ29uZmlnOiBDbGllbnRDb25maWcgPSB7DQogIC8vIEJ1c2luZXNzIElkZW50aXR5DQogIGJ1c2luZXNzTmFtZTogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIiwNCiAgaW5kdXN0cnk6ICJ3ZWItZGVzaWduIiwNCiAgcHJlc2lkZW50OiAiQW1pciBLaGVsYSIsDQogIGZvdW5kZWQ6IDIwMTQsDQogIHRlYW1TaXplOiAyNSwNCg0KICAvLyBSZXB1dGF0aW9uDQogIHJhdGluZzogNSwNCiAgcmV2aWV3Q291bnQ6IDE1MCwNCg0KICAvLyBDb250YWN0DQogIHBob25lOiAiNjQ3LTY4OS02MDY5IiwNCiAgZW1haWxzOiB7DQogICAgc3VwcG9ydDogInN1cHBvcnRAY2FuYWRpYW53ZWJkZXNpZ25zLmNhIiwNCiAgICBjYXJlZXJzOiAiY2FyZWVyc0BjYW5hZGlhbndlYmRlc2lnbnMuY2EiLA0KICAgIHNhbGVzOiAic2FsZXNAY2FuYWRpYW53ZWJkZXNpZ25zLmNhIiwNCiAgfSwNCiAgYWRkcmVzc2VzOiB7DQogICAgdG9yb250bzogew0KICAgICAgc3RyZWV0OiAiMjk2NyBEdW5kYXMgU3QgVyAjNzE4IiwNCiAgICAgIGNpdHk6ICJUb3JvbnRvIiwNCiAgICAgIHByb3ZpbmNlOiAiT04iLA0KICAgICAgcG9zdGFsQ29kZTogIk02UCAxWjIiLA0KICAgIH0sDQogICAgYnJhbXB0b246IHsNCiAgICAgIHN0cmVldDogIjUgQ2hlcnJ5Y3Jlc3QgRHJpdmUgIzIwMiIsDQogICAgICBjaXR5OiAiQnJhbXB0b24iLA0KICAgICAgcHJvdmluY2U6ICJPTiIsDQogICAgICBwb3N0YWxDb2RlOiAiTDZQIDNXNCIsDQogICAgfSwNCiAgfSwNCiAgYnVzaW5lc3NIb3VyczogIk1vbi1GcmkgMDg6MDAtMTg6MDAiLA0KDQogIC8vIFdlYiAvIEFuYWx5dGljcw0KICBkb21haW46ICJjYW5hZGlhbndlYmRlc2lnbnMuY2EiLA0KICBnYUlkOiAiRy1HVDhQMUs0QzNUIiwNCg0KICAvLyBDb250ZW50DQogIHNlcnZpY2VzOiBbDQogICAgew0KICAgICAgc2x1ZzogIndlYi1kZXNpZ24tZGV2ZWxvcG1lbnQiLA0KICAgICAgdGl0bGU6ICJXZWIgRGVzaWduICYgRGV2ZWxvcG1lbnQiLA0KICAgICAgdGFnbGluZTogIkN1c3RvbSB3ZWJzaXRlcyB0aGF0IGNvbnZlcnQgdmlzaXRvcnMgaW50byBjdXN0b21lcnMiLA0KICAgICAgZGVzY3JpcHRpb246DQogICAgICAgICJXZSBidWlsZCBmYXN0LCByZXNwb25zaXZlLCBhbmQgdmlzdWFsbHkgc3R1bm5pbmcgd2Vic2l0ZXMgdGFpbG9yZWQgdG8geW91ciBidXNpbmVzcyBnb2Fscy4gRXZlcnkgc2l0ZSB3ZSBjcmVhdGUgaXMgb3B0aW1pemVkIGZvciBwZXJmb3JtYW5jZSwgU0VPLCBhbmQgY29udmVyc2lvbnMg4oCUIGJlY2F1c2UgYSBiZWF1dGlmdWwgd2Vic2l0ZSB0aGF0IGRvZXNuJ3QgZ2VuZXJhdGUgbGVhZHMgaXMganVzdCBhIGRpZ2l0YWwgYnJvY2h1cmUuIiwNCiAgICAgIGZlYXR1cmVzOiBbDQogICAgICAgICJDdXN0b20gcmVzcG9uc2l2ZSBkZXNpZ24gZm9yIGFsbCBkZXZpY2VzIiwNCiAgICAgICAgIkZhc3QtbG9hZGluZywgU0VPLW9wdGltaXplZCBhcmNoaXRlY3R1cmUiLA0KICAgICAgICAiRS1jb21tZXJjZSBhbmQgYm9va2luZyBpbnRlZ3JhdGlvbnMiLA0KICAgICAgICAiQ29udGVudCBtYW5hZ2VtZW50IHN5c3RlbXMiLA0KICAgICAgICAiU1NMIHNlY3VyaXR5IGFuZCBwZXJmb3JtYW5jZSBvcHRpbWl6YXRpb24iLA0KICAgICAgICAiT25nb2luZyBzdXBwb3J0IGFuZCBtYWludGVuYW5jZSIsDQogICAgICBdLA0KICAgIH0sDQogICAgew0KICAgICAgc2x1ZzogImdyYXBoaWMtZGVzaWduIiwNCiAgICAgIHRpdGxlOiAiR3JhcGhpYyBEZXNpZ24iLA0KICAgICAgdGFnbGluZTogIlByb2Zlc3Npb25hbCBicmFuZGluZyB0aGF0IG1ha2VzIHlvdSBzdGFuZCBvdXQiLA0KICAgICAgZGVzY3JpcHRpb246DQogICAgICAgICJGaXJzdCBpbXByZXNzaW9ucyBtYXR0ZXIuIE91ciBncmFwaGljIGRlc2lnbiB0ZWFtIGNyZWF0ZXMgY29tcGVsbGluZyB2aXN1YWwgaWRlbnRpdGllcyB0aGF0IGNhcHR1cmUgeW91ciBicmFuZCBlc3NlbmNlIGFuZCByZXNvbmF0ZSB3aXRoIHlvdXIgdGFyZ2V0IGF1ZGllbmNlIOKAlCBmcm9tIGxvZ29zIGFuZCBidXNpbmVzcyBjYXJkcyB0byBtYXJrZXRpbmcgbWF0ZXJpYWxzIGFuZCBzb2NpYWwgbWVkaWEgZ3JhcGhpY3MuIiwNCiAgICAgIGZlYXR1cmVzOiBbDQogICAgICAgICJMb2dvIGRlc2lnbiBhbmQgYnJhbmQgaWRlbnRpdHkiLA0KICAgICAgICAiQnVzaW5lc3MgY2FyZHMgYW5kIHN0YXRpb25lcnkiLA0KICAgICAgICAiTWFya2V0aW5nIG1hdGVyaWFscyBhbmQgYnJvY2h1cmVzIiwNCiAgICAgICAgIlNvY2lhbCBtZWRpYSBncmFwaGljcyBhbmQgdGVtcGxhdGVzIiwNCiAgICAgICAgIkluZm9ncmFwaGljcyBhbmQgcHJlc2VudGF0aW9ucyIsDQogICAgICAgICJQcmludC1yZWFkeSBhbmQgZGlnaXRhbCBmb3JtYXRzIiwNCiAgICAgIF0sDQogICAgfSwNCiAgICB7DQogICAgICBzbHVnOiAic2VvIiwNCiAgICAgIHRpdGxlOiAiU2VhcmNoIEVuZ2luZSBPcHRpbWl6YXRpb24gKFNFTykiLA0KICAgICAgdGFnbGluZTogIkRvbWluYXRlIHNlYXJjaCByZXN1bHRzIGFuZCBkcml2ZSBvcmdhbmljIHRyYWZmaWMiLA0KICAgICAgZGVzY3JpcHRpb246DQogICAgICAgICJPdXIgZGF0YS1kcml2ZW4gU0VPIHN0cmF0ZWdpZXMgcHV0IHlvdXIgYnVzaW5lc3MgaW4gZnJvbnQgb2YgY3VzdG9tZXJzIHdobyBhcmUgYWN0aXZlbHkgc2VhcmNoaW5nIGZvciB5b3VyIHNlcnZpY2VzLiBXZSBjb21iaW5lIHRlY2huaWNhbCBvcHRpbWl6YXRpb24sIGNvbnRlbnQgc3RyYXRlZ3ksIGFuZCBsaW5rIGJ1aWxkaW5nIHRvIGRlbGl2ZXIgbWVhc3VyYWJsZSByZXN1bHRzLiIsDQogICAgICBmZWF0dXJlczogWw0KICAgICAgICAiQ29tcHJlaGVuc2l2ZSBTRU8gYXVkaXQgYW5kIHN0cmF0ZWd5IiwNCiAgICAgICAgIk9uLXBhZ2UgYW5kIHRlY2huaWNhbCBTRU8gb3B0aW1pemF0aW9uIiwNCiAgICAgICAgIktleXdvcmQgcmVzZWFyY2ggYW5kIGNvbnRlbnQgc3RyYXRlZ3kiLA0KICAgICAgICAiTG9jYWwgU0VPIGFuZCBHb29nbGUgQnVzaW5lc3MgUHJvZmlsZSIsDQogICAgICAgICJMaW5rIGJ1aWxkaW5nIGFuZCBhdXRob3JpdHkgZGV2ZWxvcG1lbnQiLA0KICAgICAgICAiTW9udGhseSByZXBvcnRpbmcgYW5kIGFuYWx5dGljcyIsDQogICAgICBdLA0KICAgIH0sDQogICAgew0KICAgICAgc2x1ZzogInNvY2lhbC1tZWRpYS1vcHRpbWl6YXRpb24iLA0KICAgICAgdGl0bGU6ICJTb2NpYWwgTWVkaWEgT3B0aW1pemF0aW9uIiwNCiAgICAgIHRhZ2xpbmU6ICJCdWlsZCB5b3VyIGJyYW5kIHByZXNlbmNlIGFjcm9zcyBzb2NpYWwgcGxhdGZvcm1zIiwNCiAgICAgIGRlc2NyaXB0aW9uOg0KICAgICAgICAiR3JvdyB5b3VyIGF1ZGllbmNlIGFuZCBlbmdhZ2Ugd2l0aCBjdXN0b21lcnMgd2hlcmUgdGhleSBzcGVuZCB0aGVpciB0aW1lLiBPdXIgc29jaWFsIG1lZGlhIHRlYW0gZGV2ZWxvcHMgc3RyYXRlZ2llcyB0aGF0IGluY3JlYXNlIGJyYW5kIGF3YXJlbmVzcywgZHJpdmUgZW5nYWdlbWVudCwgYW5kIGdlbmVyYXRlIGxlYWRzIHRocm91Z2ggRmFjZWJvb2ssIEluc3RhZ3JhbSwgTGlua2VkSW4sIGFuZCBtb3JlLiIsDQogICAgICBmZWF0dXJlczogWw0KICAgICAgICAiU29jaWFsIG1lZGlhIHN0cmF0ZWd5IGFuZCBwbGFubmluZyIsDQogICAgICAgICJDb250ZW50IGNyZWF0aW9uIGFuZCBzY2hlZHVsaW5nIiwNCiAgICAgICAgIkNvbW11bml0eSBtYW5hZ2VtZW50IGFuZCBlbmdhZ2VtZW50IiwNCiAgICAgICAgIlBhaWQgc29jaWFsIGFkdmVydGlzaW5nIGNhbXBhaWducyIsDQogICAgICAgICJBbmFseXRpY3MgYW5kIHBlcmZvcm1hbmNlIHJlcG9ydGluZyIsDQogICAgICAgICJQbGF0Zm9ybS1zcGVjaWZpYyBvcHRpbWl6YXRpb24iLA0KICAgICAgXSwNCiAgICB9LA0KICAgIHsNCiAgICAgIHNsdWc6ICJ3ZWJzaXRlLW1haW50ZW5hbmNlIiwNCiAgICAgIHRpdGxlOiAiV2Vic2l0ZSBNYWludGVuYW5jZSIsDQogICAgICB0YWdsaW5lOiAiS2VlcCB5b3VyIHdlYnNpdGUgc2VjdXJlLCBmYXN0LCBhbmQgdXAtdG8tZGF0ZSIsDQogICAgICBkZXNjcmlwdGlvbjoNCiAgICAgICAgIllvdXIgd2Vic2l0ZSBpcyBhIGxpdmluZyBhc3NldCB0aGF0IG5lZWRzIHJlZ3VsYXIgY2FyZS4gT3VyIG1haW50ZW5hbmNlIHBsYW5zIGVuc3VyZSB5b3VyIHNpdGUgc3RheXMgc2VjdXJlLCBwZXJmb3JtcyBhdCBpdHMgYmVzdCwgYW5kIGNvbnRpbnVlcyB0byBzZXJ2ZSB5b3VyIGJ1c2luZXNzIGdvYWxzIOKAlCBzbyB5b3UgY2FuIGZvY3VzIG9uIHJ1bm5pbmcgeW91ciBidXNpbmVzcy4iLA0KICAgICAgZmVhdHVyZXM6IFsNCiAgICAgICAgIlJlZ3VsYXIgc2VjdXJpdHkgdXBkYXRlcyBhbmQgcGF0Y2hlcyIsDQogICAgICAgICJQZXJmb3JtYW5jZSBtb25pdG9yaW5nIGFuZCBvcHRpbWl6YXRpb24iLA0KICAgICAgICAiQ29udGVudCB1cGRhdGVzIGFuZCBtb2RpZmljYXRpb25zIiwNCiAgICAgICAgIkJhY2t1cCBtYW5hZ2VtZW50IGFuZCByZWNvdmVyeSIsDQogICAgICAgICJVcHRpbWUgbW9uaXRvcmluZyBhbmQgYWxlcnRpbmciLA0KICAgICAgICAiVGVjaG5pY2FsIHN1cHBvcnQgYW5kIHRyb3VibGVzaG9vdGluZyIsDQogICAgICBdLA0KICAgIH0sDQogICAgew0KICAgICAgc2x1ZzogImFpLWNvbnN1bHRhdGlvbiIsDQogICAgICB0aXRsZTogIkFJIENvbnN1bHRhdGlvbiIsDQogICAgICB0YWdsaW5lOiAiTGV2ZXJhZ2UgYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UgZm9yIGJ1c2luZXNzIGdyb3d0aCIsDQogICAgICBkZXNjcmlwdGlvbjoNCiAgICAgICAgIlN0YXkgYWhlYWQgb2YgdGhlIGN1cnZlIHdpdGggb3VyIEFJIGNvbnN1bHRhdGlvbiBzZXJ2aWNlcy4gV2UgaGVscCBidXNpbmVzc2VzIGlkZW50aWZ5IG9wcG9ydHVuaXRpZXMgdG8gaW1wbGVtZW50IEFJIHNvbHV0aW9ucyB0aGF0IHN0cmVhbWxpbmUgb3BlcmF0aW9ucywgaW1wcm92ZSBjdXN0b21lciBleHBlcmllbmNlcywgYW5kIGNyZWF0ZSBjb21wZXRpdGl2ZSBhZHZhbnRhZ2VzLiIsDQogICAgICBmZWF0dXJlczogWw0KICAgICAgICAiQUkgcmVhZGluZXNzIGFzc2Vzc21lbnQiLA0KICAgICAgICAiQ2hhdGJvdCBhbmQgYXV0b21hdGlvbiBpbXBsZW1lbnRhdGlvbiIsDQogICAgICAgICJBSS1wb3dlcmVkIGNvbnRlbnQgc3RyYXRlZ3kiLA0KICAgICAgICAiUHJvY2VzcyBhdXRvbWF0aW9uIGNvbnN1bHRpbmciLA0KICAgICAgICAiQUkgdG9vbCBzZWxlY3Rpb24gYW5kIGludGVncmF0aW9uIiwNCiAgICAgICAgIlRlYW0gdHJhaW5pbmcgYW5kIGFkb3B0aW9uIHN1cHBvcnQiLA0KICAgICAgXSwNCiAgICB9LA0KICBdLA0KDQogIGNpdGllczogWw0KICAgIHsgbmFtZTogIkNhbGdhcnkiLCBwcm92aW5jZTogIkFCIiwgc2x1ZzogImNhbGdhcnkiIH0sDQogICAgeyBuYW1lOiAiVmFuY291dmVyIiwgcHJvdmluY2U6ICJCQyIsIHNsdWc6ICJ2YW5jb3V2ZXIiIH0sDQogICAgeyBuYW1lOiAiTW9udHJlYWwiLCBwcm92aW5jZTogIlFDIiwgc2x1ZzogIm1vbnRyZWFsIiB9LA0KICAgIHsgbmFtZTogIkVkbW9udG9uIiwgcHJvdmluY2U6ICJBQiIsIHNsdWc6ICJlZG1vbnRvbiIgfSwNCiAgICB7IG5hbWU6ICJUb3JvbnRvIiwgcHJvdmluY2U6ICJPTiIsIHNsdWc6ICJ0b3JvbnRvIiB9LA0KICAgIHsgbmFtZTogIk1pc3Npc3NhdWdhIiwgcHJvdmluY2U6ICJPTiIsIHNsdWc6ICJtaXNzaXNzYXVnYSIgfSwNCiAgICB7IG5hbWU6ICJPdHRhd2EiLCBwcm92aW5jZTogIk9OIiwgc2x1ZzogIm90dGF3YSIgfSwNCiAgICB7IG5hbWU6ICJOb3J0aCBZb3JrIiwgcHJvdmluY2U6ICJPTiIsIHNsdWc6ICJub3J0aC15b3JrIiB9LA0KICAgIHsgbmFtZTogIlJpY2htb25kIEhpbGwiLCBwcm92aW5jZTogIk9OIiwgc2x1ZzogInJpY2htb25kLWhpbGwiIH0sDQogICAgeyBuYW1lOiAiQnJhbXB0b24iLCBwcm92aW5jZTogIk9OIiwgc2x1ZzogImJyYW1wdG9uIiB9LA0KICAgIHsgbmFtZTogIktpdGNoZW5lciIsIHByb3ZpbmNlOiAiT04iLCBzbHVnOiAia2l0Y2hlbmVyIiB9LA0KICAgIHsgbmFtZTogIkhhbGlmYXgiLCBwcm92aW5jZTogIk5TIiwgc2x1ZzogImhhbGlmYXgiIH0sDQogICAgeyBuYW1lOiAiU3VycmV5IiwgcHJvdmluY2U6ICJCQyIsIHNsdWc6ICJzdXJyZXkiIH0sDQogICAgeyBuYW1lOiAiTG9uZG9uIiwgcHJvdmluY2U6ICJPTiIsIHNsdWc6ICJsb25kb24iIH0sDQogICAgeyBuYW1lOiAiVmljdG9yaWEiLCBwcm92aW5jZTogIkJDIiwgc2x1ZzogInZpY3RvcmlhIiB9LA0KICAgIHsgbmFtZTogIldpbmRzb3IiLCBwcm92aW5jZTogIk9OIiwgc2x1ZzogIndpbmRzb3IiIH0sDQogICAgeyBuYW1lOiAiT3NoYXdhIiwgcHJvdmluY2U6ICJPTiIsIHNsdWc6ICJvc2hhd2EiIH0sDQogICAgeyBuYW1lOiAiVmF1Z2hhbiIsIHByb3ZpbmNlOiAiT04iLCBzbHVnOiAidmF1Z2hhbiIgfSwNCiAgICB7IG5hbWU6ICJCdXJuYWJ5IiwgcHJvdmluY2U6ICJCQyIsIHNsdWc6ICJidXJuYWJ5IiB9LA0KICAgIHsgbmFtZTogIkxhZG5lciIsIHByb3ZpbmNlOiAiQkMiLCBzbHVnOiAibGFkbmVyIiB9LA0KICAgIHsgbmFtZTogIlNhc2thdG9vbiIsIHByb3ZpbmNlOiAiU0siLCBzbHVnOiAic2Fza2F0b29uIiB9LA0KICAgIHsgbmFtZTogIkJhcnJpZSIsIHByb3ZpbmNlOiAiT04iLCBzbHVnOiAiYmFycmllIiB9LA0KICBdLA0KDQogIC8vIE5hdmlnYXRpb24NCiAgbmF2aWdhdGlvbjogWw0KICAgIHsgbGFiZWw6ICJIb21lIiwgaHJlZjogIi8iIH0sDQogICAgew0KICAgICAgbGFiZWw6ICJXaG8gV2UgQXJlIiwNCiAgICAgIGhyZWY6ICIvd2hvLXdlLWFyZSIsDQogICAgICBjaGlsZHJlbjogWw0KICAgICAgICB7IGxhYmVsOiAiV2hvIFdlIEFyZSIsIGhyZWY6ICIvd2hvLXdlLWFyZSIgfSwNCiAgICAgICAgeyBsYWJlbDogIk91ciBTdG9yeSIsIGhyZWY6ICIvb3VyLXN0b3J5IiB9LA0KICAgICAgXSwNCiAgICB9LA0KICAgIHsNCiAgICAgIGxhYmVsOiAiV2hhdCBXZSBEbyIsDQogICAgICBocmVmOiAiL3NlcnZpY2VzIiwNCiAgICAgIGNoaWxkcmVuOiBbDQogICAgICAgIHsgbGFiZWw6ICJXZWIgRGVzaWduICYgRGV2ZWxvcG1lbnQiLCBocmVmOiAiL3NlcnZpY2VzL3dlYi1kZXNpZ24tZGV2ZWxvcG1lbnQiIH0sDQogICAgICAgIHsgbGFiZWw6ICJHcmFwaGljIERlc2lnbiIsIGhyZWY6ICIvc2VydmljZXMvZ3JhcGhpYy1kZXNpZ24iIH0sDQogICAgICAgIHsgbGFiZWw6ICJTRU8iLCBocmVmOiAiL3NlcnZpY2VzL3NlbyIgfSwNCiAgICAgICAgeyBsYWJlbDogIlNvY2lhbCBNZWRpYSBPcHRpbWl6YXRpb24iLCBocmVmOiAiL3NlcnZpY2VzL3NvY2lhbC1tZWRpYS1vcHRpbWl6YXRpb24iIH0sDQogICAgICAgIHsgbGFiZWw6ICJXZWJzaXRlIE1haW50ZW5hbmNlIiwgaHJlZjogIi9zZXJ2aWNlcy93ZWJzaXRlLW1haW50ZW5hbmNlIiB9LA0KICAgICAgICB7IGxhYmVsOiAiQUkgQ29uc3VsdGF0aW9uIiwgaHJlZjogIi9zZXJ2aWNlcy9haS1jb25zdWx0YXRpb24iIH0sDQogICAgICBdLA0KICAgIH0sDQogICAgeyBsYWJlbDogIk91ciBQb3J0Zm9saW8iLCBocmVmOiAiL3BvcnRmb2xpbyIgfSwNCiAgICB7IGxhYmVsOiAiR2V0IEluIFRvdWNoIiwgaHJlZjogIi9jb250YWN0IiB9LA0KICBdLA0KDQogIHNvY2lhbExpbmtzOiBbDQogICAgeyBsYWJlbDogIkZhY2Vib29rIiwgaHJlZjogImh0dHBzOi8vZmFjZWJvb2suY29tL2NhbmFkaWFud2ViZGVzaWducyIsIGljb246ICJmYWNlYm9vayIgfSwNCiAgICB7IGxhYmVsOiAiSW5zdGFncmFtIiwgaHJlZjogImh0dHBzOi8vaW5zdGFncmFtLmNvbS9jYW5hZGlhbndlYmRlc2lnbnMiLCBpY29uOiAiaW5zdGFncmFtIiB9LA0KICAgIHsgbGFiZWw6ICJZb3VUdWJlIiwgaHJlZjogImh0dHBzOi8veW91dHViZS5jb20vY2FuYWRpYW53ZWJkZXNpZ25zIiwgaWNvbjogInlvdXR1YmUiIH0sDQogICAgeyBsYWJlbDogIlR3aXR0ZXIvWCIsIGhyZWY6ICJodHRwczovL3guY29tL2NhbmFkaWFud2ViZGVzaWducyIsIGljb246ICJ0d2l0dGVyIiB9LA0KICAgIHsgbGFiZWw6ICJMaW5rZWRJbiIsIGhyZWY6ICJodHRwczovL2xpbmtlZGluLmNvbS9jb21wYW55L2NhbmFkaWFud2ViZGVzaWducyIsIGljb246ICJsaW5rZWRpbiIgfSwNCiAgICB7IGxhYmVsOiAiQW1hem9uIiwgaHJlZjogImh0dHBzOi8vYW1hem9uLmNvbS9hdXRob3IvY2FuYWRpYW53ZWJkZXNpZ25zIiwgaWNvbjogImFtYXpvbiIgfSwNCiAgXSwNCn07DQo="}
+import type { ClientConfig } from "./client-config";
+
+export const cwdConfig: ClientConfig = {
+  // Business Identity
+  businessName: "Canadian Web Designs",
+  industry: "web-design",
+  president: "Amir Khela",
+  founded: 2014,
+  teamSize: 25,
+
+  // Reputation
+  rating: 5,
+  reviewCount: 150,
+
+  // Contact
+  phone: "647-689-6069",
+  emails: {
+    support: "support@canadianwebdesigns.ca",
+    careers: "careers@canadianwebdesigns.ca",
+    sales: "sales@canadianwebdesigns.ca",
+  },
+  addresses: {
+    toronto: {
+      street: "2967 Dundas St W #718",
+      city: "Toronto",
+      province: "ON",
+      postalCode: "M6P 1Z2",
+    },
+    brampton: {
+      street: "5 Cherrycrest Drive #202",
+      city: "Brampton",
+      province: "ON",
+      postalCode: "L6P 3W4",
+    },
+  },
+  businessHours: "Mon-Fri 08:00-18:00",
+
+  // Web / Analytics
+  domain: "canadianwebdesigns.ca",
+  gaId: "G-GT8P1K4C3T",
+
+  // Content
+  services: [
+    {
+      slug: "web-design-development",
+      title: "Web Design & Development",
+      tagline: "Custom websites that convert visitors into customers",
+      description:
+        "We build fast, responsive, and visually stunning websites tailored to your business goals. Every site we create is optimized for performance, SEO, and conversions — because a beautiful website that doesn't generate leads is just a digital brochure.",
+      features: [
+        "Custom responsive design for all devices",
+        "Fast-loading, SEO-optimized architecture",
+        "E-commerce and booking integrations",
+        "Content management systems",
+        "SSL security and performance optimization",
+        "Ongoing support and maintenance",
+      ],
+    },
+    {
+      slug: "graphic-design",
+      title: "Graphic Design",
+      tagline: "Professional branding that makes you stand out",
+      description:
+        "First impressions matter. Our graphic design team creates compelling visual identities that capture your brand essence and resonate with your target audience — from logos and business cards to marketing materials and social media graphics.",
+      features: [
+        "Logo design and brand identity",
+        "Business cards and stationery",
+        "Marketing materials and brochures",
+        "Social media graphics and templates",
+        "Infographics and presentations",
+        "Print-ready and digital formats",
+      ],
+    },
+    {
+      slug: "seo",
+      title: "Search Engine Optimization (SEO)",
+      tagline: "Dominate search results and drive organic traffic",
+      description:
+        "Our data-driven SEO strategies put your business in front of customers who are actively searching for your services. We combine technical optimization, content strategy, and link building to deliver measurable results.",
+      features: [
+        "Comprehensive SEO audit and strategy",
+        "On-page and technical SEO optimization",
+        "Keyword research and content strategy",
+        "Local SEO and Google Business Profile",
+        "Link building and authority development",
+        "Monthly reporting and analytics",
+      ],
+    },
+    {
+      slug: "social-media-optimization",
+      title: "Social Media Optimization",
+      tagline: "Build your brand presence across social platforms",
+      description:
+        "Grow your audience and engage with customers where they spend their time. Our social media team develops strategies that increase brand awareness, drive engagement, and generate leads through Facebook, Instagram, LinkedIn, and more.",
+      features: [
+        "Social media strategy and planning",
+        "Content creation and scheduling",
+        "Community management and engagement",
+        "Paid social advertising campaigns",
+        "Analytics and performance reporting",
+        "Platform-specific optimization",
+      ],
+    },
+    {
+      slug: "website-maintenance",
+      title: "Website Maintenance",
+      tagline: "Keep your website secure, fast, and up-to-date",
+      description:
+        "Your website is a living asset that needs regular care. Our maintenance plans ensure your site stays secure, performs at its best, and continues to serve your business goals — so you can focus on running your business.",
+      features: [
+        "Regular security updates and patches",
+        "Performance monitoring and optimization",
+        "Content updates and modifications",
+        "Backup management and recovery",
+        "Uptime monitoring and alerting",
+        "Technical support and troubleshooting",
+      ],
+    },
+    {
+      slug: "ai-consultation",
+      title: "AI Consultation",
+      tagline: "Leverage artificial intelligence for business growth",
+      description:
+        "Stay ahead of the curve with our AI consultation services. We help businesses identify opportunities to implement AI solutions that streamline operations, improve customer experiences, and create competitive advantages.",
+      features: [
+        "AI readiness assessment",
+        "Chatbot and automation implementation",
+        "AI-powered content strategy",
+        "Process automation consulting",
+        "AI tool selection and integration",
+        "Team training and adoption support",
+      ],
+    },
+  ],
+
+  cities: [
+    { name: "Calgary", province: "AB", slug: "calgary" },
+    { name: "Vancouver", province: "BC", slug: "vancouver" },
+    { name: "Montreal", province: "QC", slug: "montreal" },
+    { name: "Edmonton", province: "AB", slug: "edmonton" },
+    { name: "Toronto", province: "ON", slug: "toronto" },
+    { name: "Mississauga", province: "ON", slug: "mississauga" },
+    { name: "Ottawa", province: "ON", slug: "ottawa" },
+    { name: "North York", province: "ON", slug: "north-york" },
+    { name: "Richmond Hill", province: "ON", slug: "richmond-hill" },
+    { name: "Brampton", province: "ON", slug: "brampton" },
+    { name: "Kitchener", province: "ON", slug: "kitchener" },
+    { name: "Halifax", province: "NS", slug: "halifax" },
+    { name: "Surrey", province: "BC", slug: "surrey" },
+    { name: "London", province: "ON", slug: "london" },
+    { name: "Victoria", province: "BC", slug: "victoria" },
+    { name: "Windsor", province: "ON", slug: "windsor" },
+    { name: "Oshawa", province: "ON", slug: "oshawa" },
+    { name: "Vaughan", province: "ON", slug: "vaughan" },
+    { name: "Burnaby", province: "BC", slug: "burnaby" },
+    { name: "Ladner", province: "BC", slug: "ladner" },
+    { name: "Saskatoon", province: "SK", slug: "saskatoon" },
+    { name: "Barrie", province: "ON", slug: "barrie" },
+  ],
+
+  // Navigation
+  navigation: [
+    { label: "Home", href: "/" },
+    {
+      label: "Who We Are",
+      href: "/who-we-are",
+      children: [
+        { label: "Who We Are", href: "/who-we-are" },
+        { label: "Our Story", href: "/our-story" },
+      ],
+    },
+    {
+      label: "What We Do",
+      href: "/services",
+      children: [
+        { label: "Web Design & Development", href: "/services/web-design-development" },
+        { label: "Graphic Design", href: "/services/graphic-design" },
+        { label: "SEO", href: "/services/seo" },
+        { label: "Social Media Optimization", href: "/services/social-media-optimization" },
+        { label: "Website Maintenance", href: "/services/website-maintenance" },
+        { label: "AI Consultation", href: "/services/ai-consultation" },
+      ],
+    },
+    { label: "Our Portfolio", href: "/portfolio" },
+    { label: "Get In Touch", href: "/contact" },
+  ],
+
+  socialLinks: [
+    { label: "Facebook", href: "https://facebook.com/canadianwebdesigns", icon: "facebook" },
+    { label: "Instagram", href: "https://instagram.com/canadianwebdesigns", icon: "instagram" },
+    { label: "YouTube", href: "https://youtube.com/canadianwebdesigns", icon: "youtube" },
+    { label: "Twitter/X", href: "https://x.com/canadianwebdesigns", icon: "twitter" },
+    { label: "LinkedIn", href: "https://linkedin.com/company/canadianwebdesigns", icon: "linkedin" },
+    { label: "Amazon", href: "https://amazon.com/author/canadianwebdesigns", icon: "amazon" },
+  ],
+};

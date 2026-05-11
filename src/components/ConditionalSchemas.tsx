@@ -1,1 +1,34 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwoKY29uc3QgU1VQUFJFU1NfTE9DQUxfQlVTSU5FU1MgPSBbIi9wcml2YWN5LXBvbGljeSIsICIvcmVmdW5kLXBvbGljeSIsICIvdGVybXMtYW5kLWNvbmRpdGlvbnMiXTsKCmludGVyZmFjZSBQcm9wcyB7CiAgbG9jYWxCdXNpbmVzczogb2JqZWN0OwogIHdlYnNpdGU6IG9iamVjdDsKICBwcm9kdWN0OiBvYmplY3Q7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENvbmRpdGlvbmFsU2NoZW1hcyh7IGxvY2FsQnVzaW5lc3MsIHdlYnNpdGUsIHByb2R1Y3QgfTogUHJvcHMpIHsKICBjb25zdCBwYXRobmFtZSA9IHVzZVBhdGhuYW1lKCk7CiAgY29uc3Qgc2hvd0xvY2FsQnVzaW5lc3MgPSAhU1VQUFJFU1NfTE9DQUxfQlVTSU5FU1Muc29tZSgocCkgPT4gcGF0aG5hbWUuc3RhcnRzV2l0aChwKSk7CiAgcmV0dXJuICgKICAgIDw+CiAgICAgIHtzaG93TG9jYWxCdXNpbmVzcyAmJiAoCiAgICAgICAgPHNjcmlwdAogICAgICAgICAgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiIKICAgICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkobG9jYWxCdXNpbmVzcykgfX0KICAgICAgICAvPgogICAgICApfQogICAgICA8c2NyaXB0CiAgICAgICAgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiIKICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KHdlYnNpdGUpIH19CiAgICAgIC8+CiAgICAgIDxzY3JpcHQKICAgICAgICB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIgogICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkocHJvZHVjdCkgfX0KICAgICAgLz4KICAgIDwvPgogICk7Cn0K"}
+"use client";
+
+import { usePathname } from "next/navigation";
+
+const SUPPRESS_LOCAL_BUSINESS = ["/privacy-policy", "/refund-policy", "/terms-and-conditions"];
+
+interface Props {
+  localBusiness: object;
+  website: object;
+  product: object;
+}
+
+export default function ConditionalSchemas({ localBusiness, website, product }: Props) {
+  const pathname = usePathname();
+  const showLocalBusiness = !SUPPRESS_LOCAL_BUSINESS.some((p) => pathname.startsWith(p));
+  return (
+    <>
+      {showLocalBusiness && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusiness) }}
+        />
+      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(website) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(product) }}
+      />
+    </>
+  );
+}

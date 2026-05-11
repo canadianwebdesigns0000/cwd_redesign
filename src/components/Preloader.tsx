@@ -1,1 +1,153 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByZWxvYWRlcigpIHsKICBjb25zdCBbdmlzaWJsZSwgc2V0VmlzaWJsZV0gPSB1c2VTdGF0ZSh0cnVlKTsKICBjb25zdCBbZmFkZU91dCwgc2V0RmFkZU91dF0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBoaWRlID0gKCkgPT4gewogICAgICBzZXRGYWRlT3V0KHRydWUpOwogICAgICBzZXRUaW1lb3V0KCgpID0+IHNldFZpc2libGUoZmFsc2UpLCA3MDApOwogICAgfTsKICAgIGlmIChkb2N1bWVudC5yZWFkeVN0YXRlID09PSAiY29tcGxldGUiKSB7CiAgICAgIHNldFRpbWVvdXQoaGlkZSwgNTAwKTsKICAgIH0gZWxzZSB7CiAgICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJsb2FkIiwgKCkgPT4gc2V0VGltZW91dChoaWRlLCA1MDApLCB7IG9uY2U6IHRydWUgfSk7CiAgICB9CiAgfSwgW10pOwoKICBpZiAoIXZpc2libGUpIHJldHVybiBudWxsOwoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBzdHlsZT17ewogICAgICAgIHBvc2l0aW9uOiAiZml4ZWQiLAogICAgICAgIGluc2V0OiAwLAogICAgICAgIHpJbmRleDogOTk5OSwKICAgICAgICBiYWNrZ3JvdW5kOiAiIzAxMEMxRSIsCiAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLAogICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICBnYXA6ICIycmVtIiwKICAgICAgICB0cmFuc2l0aW9uOiAib3BhY2l0eSAwLjdzIGN1YmljLWJlemllcigwLjQsMCwwLjIsMSkiLAogICAgICAgIG9wYWNpdHk6IGZhZGVPdXQgPyAwIDogMSwKICAgICAgICBwb2ludGVyRXZlbnRzOiBmYWRlT3V0ID8gIm5vbmUiIDogImFsbCIsCiAgICAgIH19CiAgICA+CiAgICAgIHsvKiBBbWJpZW50IG9yYiAqL30KICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgIHRvcDogIjUwJSIsIGxlZnQ6ICI1MCUiLAogICAgICAgIHRyYW5zZm9ybTogInRyYW5zbGF0ZSgtNTAlLCAtNTAlKSIsCiAgICAgICAgd2lkdGg6IDUwMCwgaGVpZ2h0OiA1MDAsCiAgICAgICAgYm9yZGVyUmFkaXVzOiAiNTAlIiwKICAgICAgICBiYWNrZ3JvdW5kOiAiIzAwQUFERiIsCiAgICAgICAgZmlsdGVyOiAiYmx1cigxNDBweCkiLAogICAgICAgIG9wYWNpdHk6IDAuMTgsCiAgICAgICAgYW5pbWF0aW9uOiAicHJlbG9hZGVyLW9yYiAzcyBlYXNlLWluLW91dCBpbmZpbml0ZSIsCiAgICAgIH19IC8+CgogICAgICB7LyogRG90IGdyaWQgKi99CiAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwgaW5zZXQ6IDAsCiAgICAgICAgYmFja2dyb3VuZEltYWdlOiAicmFkaWFsLWdyYWRpZW50KGNpcmNsZSwgcmdiYSgyNTUsMjU1LDI1NSwwLjA2KSAxcHgsIHRyYW5zcGFyZW50IDFweCkiLAogICAgICAgIGJhY2tncm91bmRTaXplOiAiNDhweCA0OHB4IiwKICAgICAgICBwb2ludGVyRXZlbnRzOiAibm9uZSIsCiAgICAgIH19IC8+CgogICAgICB7LyogTG9nbyBtYXJrICovfQogICAgICA8ZGl2IHN0eWxlPXt7IHBvc2l0aW9uOiAicmVsYXRpdmUiLCB0ZXh0QWxpZ246ICJjZW50ZXIiIH19PgogICAgICAgIHsvKiBTcGlubmluZyByaW5nICovfQogICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgIHBvc2l0aW9uOiAiYWJzb2x1dGUiLAogICAgICAgICAgdG9wOiAiNTAlIiwgbGVmdDogIjUwJSIsCiAgICAgICAgICB0cmFuc2Zvcm06ICJ0cmFuc2xhdGUoLTUwJSwgLTUwJSkiLAogICAgICAgICAgd2lkdGg6IDEwMCwgaGVpZ2h0OiAxMDAsCiAgICAgICAgICBib3JkZXJSYWRpdXM6ICI1MCUiLAogICAgICAgICAgYm9yZGVyOiAiMnB4IHNvbGlkIHRyYW5zcGFyZW50IiwKICAgICAgICAgIGJvcmRlclRvcENvbG9yOiAiIzAwQUFERiIsCiAgICAgICAgICBib3JkZXJSaWdodENvbG9yOiAicmdiYSgwLDE3MCwyMjMsMC4zKSIsCiAgICAgICAgICBhbmltYXRpb246ICJwcmVsb2FkZXItc3BpbiAxcyBsaW5lYXIgaW5maW5pdGUiLAogICAgICAgIH19IC8+CgogICAgICAgIHsvKiBMb2dvIGljb24gKi99CiAgICAgICAgPGRpdiBzdHlsZT17ewogICAgICAgICAgd2lkdGg6IDcyLCBoZWlnaHQ6IDcyLAogICAgICAgICAgYm9yZGVyUmFkaXVzOiAiNTAlIiwKICAgICAgICAgIGJhY2tncm91bmQ6ICIjZmZmZmZmIiwKICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLAogICAgICAgICAgbWFyZ2luOiAiMCBhdXRvIiwKICAgICAgICAgIGJveFNoYWRvdzogIjAgMCA0MHB4IHJnYmEoMCwxNzAsMjIzLDAuNSkiLAogICAgICAgICAgYW5pbWF0aW9uOiAicHJlbG9hZGVyLXB1bHNlIDJzIGVhc2UtaW4tb3V0IGluZmluaXRlIiwKICAgICAgICAgIG92ZXJmbG93OiAiaGlkZGVuIiwKICAgICAgICB9fT4KICAgICAgICAgIHsvKiBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgQG5leHQvbmV4dC9uby1pbWctZWxlbWVudCAqL30KICAgICAgICAgIDxpbWcKICAgICAgICAgICAgc3JjPSIvbG9nb3MvZmF2aWNvbi1jcm9wcGVkLnBuZyIKICAgICAgICAgICAgYWx0PSJDV0QiCiAgICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiA1MiwgaGVpZ2h0OiA1Miwgb2JqZWN0Rml0OiAiY29udGFpbiIgfX0KICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIEJyYW5kIG5hbWUgKi99CiAgICAgIDxkaXYgc3R5bGU9e3sgdGV4dEFsaWduOiAiY2VudGVyIiB9fT4KICAgICAgICA8cCBzdHlsZT17ewogICAgICAgICAgY29sb3I6ICJyZ2JhKDI1NSwyNTUsMjU1LDAuOSkiLAogICAgICAgICAgZm9udFdlaWdodDogODAwLAogICAgICAgICAgZm9udFNpemU6ICIxcmVtIiwKICAgICAgICAgIGxldHRlclNwYWNpbmc6ICIwLjE1ZW0iLAogICAgICAgICAgdGV4dFRyYW5zZm9ybTogInVwcGVyY2FzZSIsCiAgICAgICAgICBmb250RmFtaWx5OiAic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiwKICAgICAgICAgIGFuaW1hdGlvbjogInByZWxvYWRlci1mYWRlIDEuNXMgZWFzZS1pbi1vdXQgaW5maW5pdGUgYWx0ZXJuYXRlIiwKICAgICAgICB9fT4KICAgICAgICAgIENhbmFkaWFuIFdlYiBEZXNpZ25zCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBQcm9ncmVzcyBiYXIgKi99CiAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICB3aWR0aDogMTgwLAogICAgICAgIGhlaWdodDogMiwKICAgICAgICBiYWNrZ3JvdW5kOiAicmdiYSgyNTUsMjU1LDI1NSwwLjEpIiwKICAgICAgICBib3JkZXJSYWRpdXM6IDk5OTksCiAgICAgICAgb3ZlcmZsb3c6ICJoaWRkZW4iLAogICAgICB9fT4KICAgICAgICA8ZGl2IHN0eWxlPXt7CiAgICAgICAgICBoZWlnaHQ6ICIxMDAlIiwKICAgICAgICAgIGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoOTBkZWcsICMwMDNCNkYsICMwMEFBREYpIiwKICAgICAgICAgIGJvcmRlclJhZGl1czogOTk5OSwKICAgICAgICAgIGFuaW1hdGlvbjogInByZWxvYWRlci1iYXIgMS40cyBjdWJpYy1iZXppZXIoMC40LDAsMC4yLDEpIGluZmluaXRlIiwKICAgICAgICB9fSAvPgogICAgICA8L2Rpdj4KCiAgICAgIDxzdHlsZT57YAogICAgICAgIEBrZXlmcmFtZXMgcHJlbG9hZGVyLXNwaW4gewogICAgICAgICAgdG8geyB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKSByb3RhdGUoMzYwZGVnKTsgfQogICAgICAgIH0KICAgICAgICBAa2V5ZnJhbWVzIHByZWxvYWRlci1wdWxzZSB7CiAgICAgICAgICAwJSwgMTAwJSB7IGJveC1zaGFkb3c6IDAgMCA0MHB4IHJnYmEoMCwxNzAsMjIzLDAuNCk7IH0KICAgICAgICAgIDUwJSAgICAgICB7IGJveC1zaGFkb3c6IDAgMCA3MHB4IHJnYmEoMCwxNzAsMjIzLDAuNyk7IH0KICAgICAgICB9CiAgICAgICAgQGtleWZyYW1lcyBwcmVsb2FkZXItZmFkZSB7CiAgICAgICAgICBmcm9tIHsgb3BhY2l0eTogMC41OyB9CiAgICAgICAgICB0byAgIHsgb3BhY2l0eTogMTsgfQogICAgICAgIH0KICAgICAgICBAa2V5ZnJhbWVzIHByZWxvYWRlci1iYXIgewogICAgICAgICAgMCUgICB7IHdpZHRoOiAwJTsgbWFyZ2luLWxlZnQ6IDA7IH0KICAgICAgICAgIDUwJSAgeyB3aWR0aDogNzAlOyBtYXJnaW4tbGVmdDogMDsgfQogICAgICAgICAgMTAwJSB7IHdpZHRoOiAwJTsgbWFyZ2luLWxlZnQ6IDEwMCU7IH0KICAgICAgICB9CiAgICAgICAgQGtleWZyYW1lcyBwcmVsb2FkZXItb3JiIHsKICAgICAgICAgIDAlLCAxMDAlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSkgc2NhbGUoMSk7IG9wYWNpdHk6IDAuMTg7IH0KICAgICAgICAgIDUwJSAgICAgICB7IHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpIHNjYWxlKDEuMyk7IG9wYWNpdHk6IDAuMjg7IH0KICAgICAgICB9CiAgICAgIGB9PC9zdHlsZT4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useEffect, useState } from "react";
+
+export default function Preloader() {
+  const [visible, setVisible] = useState(true);
+  const [fadeOut, setFadeOut] = useState(false);
+
+  useEffect(() => {
+    const hide = () => {
+      setFadeOut(true);
+      setTimeout(() => setVisible(false), 700);
+    };
+    if (document.readyState === "complete") {
+      setTimeout(hide, 500);
+    } else {
+      window.addEventListener("load", () => setTimeout(hide, 500), { once: true });
+    }
+  }, []);
+
+  if (!visible) return null;
+
+  return (
+    <div
+      style={{
+        position: "fixed",
+        inset: 0,
+        zIndex: 9999,
+        background: "#010C1E",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        gap: "2rem",
+        transition: "opacity 0.7s cubic-bezier(0.4,0,0.2,1)",
+        opacity: fadeOut ? 0 : 1,
+        pointerEvents: fadeOut ? "none" : "all",
+      }}
+    >
+      {/* Ambient orb */}
+      <div style={{
+        position: "absolute",
+        top: "50%", left: "50%",
+        transform: "translate(-50%, -50%)",
+        width: 500, height: 500,
+        borderRadius: "50%",
+        background: "#00AADF",
+        filter: "blur(140px)",
+        opacity: 0.18,
+        animation: "preloader-orb 3s ease-in-out infinite",
+      }} />
+
+      {/* Dot grid */}
+      <div style={{
+        position: "absolute", inset: 0,
+        backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.06) 1px, transparent 1px)",
+        backgroundSize: "48px 48px",
+        pointerEvents: "none",
+      }} />
+
+      {/* Logo mark */}
+      <div style={{ position: "relative", textAlign: "center" }}>
+        {/* Spinning ring */}
+        <div style={{
+          position: "absolute",
+          top: "50%", left: "50%",
+          transform: "translate(-50%, -50%)",
+          width: 100, height: 100,
+          borderRadius: "50%",
+          border: "2px solid transparent",
+          borderTopColor: "#00AADF",
+          borderRightColor: "rgba(0,170,223,0.3)",
+          animation: "preloader-spin 1s linear infinite",
+        }} />
+
+        {/* Logo icon */}
+        <div style={{
+          width: 72, height: 72,
+          borderRadius: "50%",
+          background: "#ffffff",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          margin: "0 auto",
+          boxShadow: "0 0 40px rgba(0,170,223,0.5)",
+          animation: "preloader-pulse 2s ease-in-out infinite",
+          overflow: "hidden",
+        }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/logos/favicon-cropped.png"
+            alt="CWD"
+            style={{ width: 52, height: 52, objectFit: "contain" }}
+          />
+        </div>
+      </div>
+
+      {/* Brand name */}
+      <div style={{ textAlign: "center" }}>
+        <p style={{
+          color: "rgba(255,255,255,0.9)",
+          fontWeight: 800,
+          fontSize: "1rem",
+          letterSpacing: "0.15em",
+          textTransform: "uppercase",
+          fontFamily: "system-ui, sans-serif",
+          animation: "preloader-fade 1.5s ease-in-out infinite alternate",
+        }}>
+          Canadian Web Designs
+        </p>
+      </div>
+
+      {/* Progress bar */}
+      <div style={{
+        width: 180,
+        height: 2,
+        background: "rgba(255,255,255,0.1)",
+        borderRadius: 9999,
+        overflow: "hidden",
+      }}>
+        <div style={{
+          height: "100%",
+          background: "linear-gradient(90deg, #003B6F, #00AADF)",
+          borderRadius: 9999,
+          animation: "preloader-bar 1.4s cubic-bezier(0.4,0,0.2,1) infinite",
+        }} />
+      </div>
+
+      <style>{`
+        @keyframes preloader-spin {
+          to { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        @keyframes preloader-pulse {
+          0%, 100% { box-shadow: 0 0 40px rgba(0,170,223,0.4); }
+          50%       { box-shadow: 0 0 70px rgba(0,170,223,0.7); }
+        }
+        @keyframes preloader-fade {
+          from { opacity: 0.5; }
+          to   { opacity: 1; }
+        }
+        @keyframes preloader-bar {
+          0%   { width: 0%; margin-left: 0; }
+          50%  { width: 70%; margin-left: 0; }
+          100% { width: 0%; margin-left: 100%; }
+        }
+        @keyframes preloader-orb {
+          0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.18; }
+          50%       { transform: translate(-50%, -50%) scale(1.3); opacity: 0.28; }
+        }
+      `}</style>
+    </div>
+  );
+}

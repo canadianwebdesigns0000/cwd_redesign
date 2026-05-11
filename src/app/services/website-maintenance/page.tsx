@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gIndlYnNpdGUtbWFpbnRlbmFuY2UiKSE7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIHRpdGxlOiAiV2Vic2l0ZSBNYWludGVuYW5jZSIsCiAgZGVzY3JpcHRpb246ICJLZWVwIHlvdXIgd2Vic2l0ZSBzZWN1cmUsIGZhc3QsIGFuZCB1cC10by1kYXRlIHdpdGggQ2FuYWRpYW4gV2ViIERlc2lnbnMnIHdlYnNpdGUgbWFpbnRlbmFuY2UgcGxhbnMuIEFmZm9yZGFibGUgbW9udGhseSBwYWNrYWdlcyBmb3IgQ2FuYWRpYW4gYnVzaW5lc3Nlcy4iLAogIGFsdGVybmF0ZXM6IHsgY2Fub25pY2FsOiAiL3NlcnZpY2VzL3dlYnNpdGUtbWFpbnRlbmFuY2UiIH0sCn07Cgpjb25zdCBmYXFTY2hlbWEgPSB7CiAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgIkB0eXBlIjogIkZBUVBhZ2UiLAogIG1haW5FbnRpdHk6IFsKICAgIHsKICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgbmFtZTogIldoYXQgZG9lcyBhIHdlYnNpdGUgbWFpbnRlbmFuY2UgcGxhbiBpbmNsdWRlPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiT3VyIG1haW50ZW5hbmNlIHBsYW5zIGluY2x1ZGUgcmVndWxhciBzb2Z0d2FyZSBhbmQgcGx1Z2luIHVwZGF0ZXMsIGRhaWx5IGJhY2t1cHMsIHVwdGltZSBtb25pdG9yaW5nLCBzZWN1cml0eSBzY2FubmluZywgcGVyZm9ybWFuY2Ugb3B0aW1pemF0aW9uLCBhbmQgbW9udGhseSByZXBvcnRpbmcuIFdlIGhhbmRsZSBldmVyeXRoaW5nIHNvIHlvdSBjYW4gZm9jdXMgb24geW91ciBidXNpbmVzcy4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiSG93IG11Y2ggZG9lcyB3ZWJzaXRlIG1haW50ZW5hbmNlIGNvc3Q/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJPdXIgbWFpbnRlbmFuY2UgcGFja2FnZXMgc3RhcnQgYXQgYW4gYWZmb3JkYWJsZSBtb250aGx5IHJhdGUgZGVwZW5kaW5nIG9uIHlvdXIgc2l0ZSdzIHNpemUgYW5kIG5lZWRzLiBDb250YWN0IHVzIGZvciBhIGN1c3RvbSBxdW90ZSDigJQgd2Ugb2ZmZXIgZmxleGlibGUgcGxhbnMgd2l0aCBubyBsb25nLXRlcm0gY29udHJhY3RzLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaGF0IGhhcHBlbnMgaWYgbXkgd2Vic2l0ZSBnb2VzIGRvd24/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSBtb25pdG9yIHlvdXIgd2Vic2l0ZSAyNC83IGZvciBkb3dudGltZS4gSWYgeW91ciBzaXRlIGdvZXMgZG93biwgd2UncmUgYWxlcnRlZCBpbW1lZGlhdGVseSBhbmQgd29yayB0byByZXN0b3JlIGl0IGFzIHF1aWNrbHkgYXMgcG9zc2libGUg4oCUIHR5cGljYWxseSB3aXRoaW4gbWludXRlcyBmb3IgaG9zdGluZy1yZWxhdGVkIGlzc3Vlcy4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiRG8geW91IG1haW50YWluIHdlYnNpdGVzIHlvdSBkaWRuJ3QgYnVpbGQ/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJZZXMsIHdlIG1haW50YWluIHdlYnNpdGVzIGJ1aWx0IGJ5IG90aGVyIGFnZW5jaWVzIG9yIGRldmVsb3BlcnMuIFdlIHBlcmZvcm0gYSBmdWxsIGF1ZGl0IG9mIHlvdXIgZXhpc3Rpbmcgc2l0ZSBiZWZvcmUgb25ib2FyZGluZyB0byBpZGVudGlmeSBhbnkgc2VjdXJpdHkgb3IgcGVyZm9ybWFuY2UgaXNzdWVzLiIgfSwKICAgIH0sCiAgXSwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNlcnZpY2VQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2xkK2pzb24iIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogSlNPTi5zdHJpbmdpZnkoZmFxU2NoZW1hKSB9fSAvPgogICAgICA8U2VydmljZVBhZ2VUZW1wbGF0ZSBzZXJ2aWNlPXtzZXJ2aWNlfSAvPgogICAgPC8+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "website-maintenance")!;
+
+export const metadata: Metadata = {
+  title: "Website Maintenance",
+  description: "Keep your website secure, fast, and up-to-date with Canadian Web Designs' website maintenance plans. Affordable monthly packages for Canadian businesses.",
+  alternates: { canonical: "/services/website-maintenance" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "What does a website maintenance plan include?",
+      acceptedAnswer: { "@type": "Answer", text: "Our maintenance plans include regular software and plugin updates, daily backups, uptime monitoring, security scanning, performance optimization, and monthly reporting. We handle everything so you can focus on your business." },
+    },
+    {
+      "@type": "Question",
+      name: "How much does website maintenance cost?",
+      acceptedAnswer: { "@type": "Answer", text: "Our maintenance packages start at an affordable monthly rate depending on your site's size and needs. Contact us for a custom quote — we offer flexible plans with no long-term contracts." },
+    },
+    {
+      "@type": "Question",
+      name: "What happens if my website goes down?",
+      acceptedAnswer: { "@type": "Answer", text: "We monitor your website 24/7 for downtime. If your site goes down, we're alerted immediately and work to restore it as quickly as possible — typically within minutes for hosting-related issues." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you maintain websites you didn't build?",
+      acceptedAnswer: { "@type": "Answer", text: "Yes, we maintain websites built by other agencies or developers. We perform a full audit of your existing site before onboarding to identify any security or performance issues." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

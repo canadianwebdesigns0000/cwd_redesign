@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gInNvY2lhbC1tZWRpYS1vcHRpbWl6YXRpb24iKSE7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIHRpdGxlOiAiU29jaWFsIE1lZGlhIE9wdGltaXphdGlvbiBTZXJ2aWNlcyIsCiAgZGVzY3JpcHRpb246ICJCdWlsZCBhIHBvd2VyZnVsIHNvY2lhbCBtZWRpYSBwcmVzZW5jZSB3aXRoIENhbmFkaWFuIFdlYiBEZXNpZ25zLiBTb2NpYWwgbWVkaWEgb3B0aW1pemF0aW9uLCBjb250ZW50IGNyZWF0aW9uLCBhbmQgY29tbXVuaXR5IG1hbmFnZW1lbnQgYWNyb3NzIGFsbCBwbGF0Zm9ybXMuIiwKICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogIi9zZXJ2aWNlcy9zb2NpYWwtbWVkaWEtb3B0aW1pemF0aW9uIiB9LAp9OwoKY29uc3QgZmFxU2NoZW1hID0gewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAdHlwZSI6ICJGQVFQYWdlIiwKICBtYWluRW50aXR5OiBbCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaGljaCBzb2NpYWwgbWVkaWEgcGxhdGZvcm1zIGRvIHlvdSBtYW5hZ2U/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSBtYW5hZ2UgSW5zdGFncmFtLCBGYWNlYm9vaywgTGlua2VkSW4sIFRpa1RvaywgWCAoVHdpdHRlciksIFBpbnRlcmVzdCwgYW5kIFlvdVR1YmUuIFdlIHJlY29tbWVuZCB0aGUgYmVzdCBwbGF0Zm9ybXMgZm9yIHlvdXIgaW5kdXN0cnkgYW5kIGF1ZGllbmNlIOKAlCBub3QgYWxsIHBsYXRmb3JtcyBtYWtlIHNlbnNlIGZvciBldmVyeSBidXNpbmVzcy4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiSG93IG9mdGVuIHdpbGwgeW91IHBvc3Qgb24gbXkgc29jaWFsIG1lZGlhIGFjY291bnRzPyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiUG9zdGluZyBmcmVxdWVuY3kgZGVwZW5kcyBvbiB5b3VyIHBhY2thZ2UgYW5kIHBsYXRmb3JtLiBUeXBpY2FsbHkgd2UgcG9zdCAz4oCTNyB0aW1lcyBwZXIgd2VlayBwZXIgcGxhdGZvcm0sIHdpdGggYSBjb250ZW50IGNhbGVuZGFyIGFwcHJvdmVkIGJ5IHlvdSBpbiBhZHZhbmNlLiBDb25zaXN0ZW5jeSBpcyBrZXkgdG8gZ3Jvd2luZyB5b3VyIGZvbGxvd2luZy4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiRG8geW91IGNyZWF0ZSB0aGUgc29jaWFsIG1lZGlhIGNvbnRlbnQgb3IgZG8gSSBuZWVkIHRvIHByb3ZpZGUgaXQ/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSBoYW5kbGUgZXZlcnl0aGluZyDigJQgY29weXdyaXRpbmcsIGdyYXBoaWMgZGVzaWduLCB2aWRlbyBlZGl0aW5nLCBhbmQgc2NoZWR1bGluZy4gWW91IHNpbXBseSByZXZpZXcgYW5kIGFwcHJvdmUgdGhlIG1vbnRobHkgY29udGVudCBjYWxlbmRhci4gWW91IGNhbiBhbHNvIHN1cHBseSB5b3VyIG93biBwaG90b3Mgb3IgdmlkZW9zIGlmIHlvdSBwcmVmZXIgYSBtb3JlIHBlcnNvbmFsIHRvdWNoLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJIb3cgZG8geW91IG1lYXN1cmUgc29jaWFsIG1lZGlhIHN1Y2Nlc3M/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSB0cmFjayBmb2xsb3dlciBncm93dGgsIGVuZ2FnZW1lbnQgcmF0ZSwgcmVhY2gsIGltcHJlc3Npb25zLCBjbGljay10aHJvdWdoIHJhdGVzLCBhbmQgbGVhZHMgZ2VuZXJhdGVkLiBNb250aGx5IHJlcG9ydHMgYXJlIHByb3ZpZGVkIHNvIHlvdSBhbHdheXMga25vdyBob3cgeW91ciBzb2NpYWwgbWVkaWEgaXMgcGVyZm9ybWluZy4iIH0sCiAgICB9LAogIF0sCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTZXJ2aWNlUGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGZhcVNjaGVtYSkgfX0gLz4KICAgICAgPFNlcnZpY2VQYWdlVGVtcGxhdGUgc2VydmljZT17c2VydmljZX0gLz4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "social-media-optimization")!;
+
+export const metadata: Metadata = {
+  title: "Social Media Optimization Services",
+  description: "Build a powerful social media presence with Canadian Web Designs. Social media optimization, content creation, and community management across all platforms.",
+  alternates: { canonical: "/services/social-media-optimization" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "Which social media platforms do you manage?",
+      acceptedAnswer: { "@type": "Answer", text: "We manage Instagram, Facebook, LinkedIn, TikTok, X (Twitter), Pinterest, and YouTube. We recommend the best platforms for your industry and audience — not all platforms make sense for every business." },
+    },
+    {
+      "@type": "Question",
+      name: "How often will you post on my social media accounts?",
+      acceptedAnswer: { "@type": "Answer", text: "Posting frequency depends on your package and platform. Typically we post 3–7 times per week per platform, with a content calendar approved by you in advance. Consistency is key to growing your following." },
+    },
+    {
+      "@type": "Question",
+      name: "Do you create the social media content or do I need to provide it?",
+      acceptedAnswer: { "@type": "Answer", text: "We handle everything — copywriting, graphic design, video editing, and scheduling. You simply review and approve the monthly content calendar. You can also supply your own photos or videos if you prefer a more personal touch." },
+    },
+    {
+      "@type": "Question",
+      name: "How do you measure social media success?",
+      acceptedAnswer: { "@type": "Answer", text: "We track follower growth, engagement rate, reach, impressions, click-through rates, and leads generated. Monthly reports are provided so you always know how your social media is performing." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

@@ -1,1 +1,47 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsKaW1wb3J0IFNlcnZpY2VQYWdlVGVtcGxhdGUgZnJvbSAiQC9jb21wb25lbnRzL1NlcnZpY2VQYWdlVGVtcGxhdGUiOwoKY29uc3Qgc2VydmljZSA9IGdldENvbmZpZygpLnNlcnZpY2VzLmZpbmQoKHMpID0+IHMuc2x1ZyA9PT0gImdyYXBoaWMtZGVzaWduIikhOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIkdyYXBoaWMgRGVzaWduIFNlcnZpY2VzIiwKICBkZXNjcmlwdGlvbjogIlByb2Zlc3Npb25hbCBncmFwaGljIGRlc2lnbiwgbG9nbyBkZXNpZ24sIGFuZCBicmFuZGluZyBzZXJ2aWNlcyBhY3Jvc3MgQ2FuYWRhLiBDYW5hZGlhbiBXZWIgRGVzaWducyBjcmVhdGVzIHZpc3VhbHMgdGhhdCBtYWtlIHlvdXIgYnVzaW5lc3MgdW5mb3JnZXR0YWJsZS4iLAogIGFsdGVybmF0ZXM6IHsgY2Fub25pY2FsOiAiL3NlcnZpY2VzL2dyYXBoaWMtZGVzaWduIiB9LAp9OwoKY29uc3QgZmFxU2NoZW1hID0gewogICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICJAdHlwZSI6ICJGQVFQYWdlIiwKICBtYWluRW50aXR5OiBbCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJIb3cgbXVjaCBkb2VzIGxvZ28gZGVzaWduIGNvc3Q/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJPdXIgbG9nbyBkZXNpZ24gcGFja2FnZXMgc3RhcnQgYXQgJDI5OSBhbmQgaW5jbHVkZSBtdWx0aXBsZSBjb25jZXB0cywgcmV2aXNpb25zLCBhbmQgYWxsIGZpbmFsIGZpbGUgZm9ybWF0cyAoUE5HLCBTVkcsIFBERikuIEZ1bGwgYnJhbmRpbmcgcGFja2FnZXMgd2l0aCBicmFuZCBndWlkZWxpbmVzIGFyZSBhbHNvIGF2YWlsYWJsZS4iIH0sCiAgICB9LAogICAgewogICAgICAiQHR5cGUiOiAiUXVlc3Rpb24iLAogICAgICBuYW1lOiAiV2hhdCBncmFwaGljIGRlc2lnbiBzZXJ2aWNlcyBkbyB5b3Ugb2ZmZXI/IiwKICAgICAgYWNjZXB0ZWRBbnN3ZXI6IHsgIkB0eXBlIjogIkFuc3dlciIsIHRleHQ6ICJXZSBvZmZlciBsb2dvIGRlc2lnbiwgZnVsbCBicmFuZCBpZGVudGl0eSBwYWNrYWdlcywgYnVzaW5lc3MgY2FyZHMsIGJyb2NodXJlcywgc29jaWFsIG1lZGlhIGdyYXBoaWNzLCBiYW5uZXIgYWRzLCBwcmludCBtYXRlcmlhbHMsIGluZm9ncmFwaGljcywgYW5kIG1vcmUuIElmIHlvdSBuZWVkIGl0IGRlc2lnbmVkLCB3ZSBjYW4gY3JlYXRlIGl0LiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJIb3cgbWFueSBkZXNpZ24gcmV2aXNpb25zIGRvIEkgZ2V0PyIsCiAgICAgIGFjY2VwdGVkQW5zd2VyOiB7ICJAdHlwZSI6ICJBbnN3ZXIiLCB0ZXh0OiAiQWxsIG91ciBkZXNpZ24gcGFja2FnZXMgaW5jbHVkZSB1bmxpbWl0ZWQgcmV2aXNpb25zIHVudGlsIHlvdSBhcmUgMTAwJSBzYXRpc2ZpZWQuIFdlIHdhbnQgeW91IHRvIGxvdmUgd2hhdCB3ZSBjcmVhdGUg4oCUIHdlIGRvbid0IHN0b3AgdW50aWwgeW91IGRvLiIgfSwKICAgIH0sCiAgICB7CiAgICAgICJAdHlwZSI6ICJRdWVzdGlvbiIsCiAgICAgIG5hbWU6ICJXaGF0IGZpbGUgZm9ybWF0cyB3aWxsIEkgcmVjZWl2ZT8iLAogICAgICBhY2NlcHRlZEFuc3dlcjogeyAiQHR5cGUiOiAiQW5zd2VyIiwgdGV4dDogIllvdSByZWNlaXZlIGFsbCBzb3VyY2UgZmlsZXMgYW5kIGV4cG9ydCBmb3JtYXRzOiBTVkcgKHZlY3RvciksIFBORyAodHJhbnNwYXJlbnQgYmFja2dyb3VuZCksIFBERiAocHJpbnQtcmVhZHkpLCBKUEcsIGFuZCBhbnkgcGxhdGZvcm0tc3BlY2lmaWMgZm9ybWF0cyB5b3UgbmVlZC4gWW91IG93biAxMDAlIG9mIHRoZSBmaW5hbCBmaWxlcy4iIH0sCiAgICB9LAogIF0sCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTZXJ2aWNlUGFnZSgpIHsKICByZXR1cm4gKAogICAgPD4KICAgICAgPHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KGZhcVNjaGVtYSkgfX0gLz4KICAgICAgPFNlcnZpY2VQYWdlVGVtcGxhdGUgc2VydmljZT17c2VydmljZX0gLz4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import { getConfig } from "@/lib/client-config";
+import ServicePageTemplate from "@/components/ServicePageTemplate";
+
+const service = getConfig().services.find((s) => s.slug === "graphic-design")!;
+
+export const metadata: Metadata = {
+  title: "Graphic Design Services",
+  description: "Professional graphic design, logo design, and branding services across Canada. Canadian Web Designs creates visuals that make your business unforgettable.",
+  alternates: { canonical: "/services/graphic-design" },
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    {
+      "@type": "Question",
+      name: "How much does logo design cost?",
+      acceptedAnswer: { "@type": "Answer", text: "Our logo design packages start at $299 and include multiple concepts, revisions, and all final file formats (PNG, SVG, PDF). Full branding packages with brand guidelines are also available." },
+    },
+    {
+      "@type": "Question",
+      name: "What graphic design services do you offer?",
+      acceptedAnswer: { "@type": "Answer", text: "We offer logo design, full brand identity packages, business cards, brochures, social media graphics, banner ads, print materials, infographics, and more. If you need it designed, we can create it." },
+    },
+    {
+      "@type": "Question",
+      name: "How many design revisions do I get?",
+      acceptedAnswer: { "@type": "Answer", text: "All our design packages include unlimited revisions until you are 100% satisfied. We want you to love what we create — we don't stop until you do." },
+    },
+    {
+      "@type": "Question",
+      name: "What file formats will I receive?",
+      acceptedAnswer: { "@type": "Answer", text: "You receive all source files and export formats: SVG (vector), PNG (transparent background), PDF (print-ready), JPG, and any platform-specific formats you need. You own 100% of the final files." },
+    },
+  ],
+};
+
+export default function ServicePage() {
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <ServicePageTemplate service={service} />
+    </>
+  );
+}

@@ -1,1 +1,34 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7CmltcG9ydCB7IGdldENvbmZpZyB9IGZyb20gIkAvbGliL2NsaWVudC1jb25maWciOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gbWFuaWZlc3QoKTogTWV0YWRhdGFSb3V0ZS5NYW5pZmVzdCB7CiAgY29uc3QgY29uZmlnID0gZ2V0Q29uZmlnKCk7CiAgcmV0dXJuIHsKICAgIG5hbWU6IGNvbmZpZy5idXNpbmVzc05hbWUsCiAgICBzaG9ydF9uYW1lOiAiQ1dEIiwKICAgIGRlc2NyaXB0aW9uOiAiV2ViIERlc2lnbiAmIERpZ2l0YWwgTWFya2V0aW5nIEFjcm9zcyBDYW5hZGEiLAogICAgc3RhcnRfdXJsOiAiLyIsCiAgICBkaXNwbGF5OiAic3RhbmRhbG9uZSIsCiAgICBiYWNrZ3JvdW5kX2NvbG9yOiAiIzAxMEMxRSIsCiAgICB0aGVtZV9jb2xvcjogIiMwMEFBREYiLAogICAgaWNvbnM6IFsKICAgICAgewogICAgICAgIHNyYzogIi9sb2dvcy9mYXZpY29uLnBuZyIsCiAgICAgICAgc2l6ZXM6ICIzMngzMiIsCiAgICAgICAgdHlwZTogImltYWdlL3BuZyIsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBzcmM6ICIvbG9nb3MvbG9nby53ZWJwIiwKICAgICAgICBzaXplczogIjE5MngxOTIiLAogICAgICAgIHR5cGU6ICJpbWFnZS93ZWJwIiwKICAgICAgICBwdXJwb3NlOiAibWFza2FibGUiLAogICAgICB9LAogICAgICB7CiAgICAgICAgc3JjOiAiL2xvZ29zL2xvZ28ud2VicCIsCiAgICAgICAgc2l6ZXM6ICI1MTJ4NTEyIiwKICAgICAgICB0eXBlOiAiaW1hZ2Uvd2VicCIsCiAgICAgICAgcHVycG9zZTogIm1hc2thYmxlIiwKICAgICAgfSwKICAgIF0sCiAgfTsKfQo="}
+import type { MetadataRoute } from "next";
+import { getConfig } from "@/lib/client-config";
+
+export default function manifest(): MetadataRoute.Manifest {
+  const config = getConfig();
+  return {
+    name: config.businessName,
+    short_name: "CWD",
+    description: "Web Design & Digital Marketing Across Canada",
+    start_url: "/",
+    display: "standalone",
+    background_color: "#010C1E",
+    theme_color: "#00AADF",
+    icons: [
+      {
+        src: "/logos/favicon.png",
+        sizes: "32x32",
+        type: "image/png",
+      },
+      {
+        src: "/logos/logo.webp",
+        sizes: "192x192",
+        type: "image/webp",
+        purpose: "maskable",
+      },
+      {
+        src: "/logos/logo.webp",
+        sizes: "512x512",
+        type: "image/webp",
+        purpose: "maskable",
+      },
+    ],
+  };
+}

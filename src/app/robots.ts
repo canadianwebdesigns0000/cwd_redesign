@@ -1,1 +1,22 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7DQppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsNCg0KY29uc3QgY29uZmlnID0gZ2V0Q29uZmlnKCk7DQoNCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIHJvYm90cygpOiBNZXRhZGF0YVJvdXRlLlJvYm90cyB7DQogIHJldHVybiB7DQogICAgcnVsZXM6IFsNCiAgICAgIHsNCiAgICAgICAgdXNlckFnZW50OiAiKiIsDQogICAgICAgIGFsbG93OiAiLyIsDQogICAgICAgIGRpc2FsbG93OiBbIi9hcGkvIl0sDQogICAgICB9LA0KICAgICAgeyB1c2VyQWdlbnQ6ICJHUFRCb3QiLCBkaXNhbGxvdzogIi8iIH0sDQogICAgICB7IHVzZXJBZ2VudDogIkNoYXRHUFQtVXNlciIsIGRpc2FsbG93OiAiLyIgfSwNCiAgICAgIHsgdXNlckFnZW50OiAiQ0NCb3QiLCBkaXNhbGxvdzogIi8iIH0sDQogICAgICB7IHVzZXJBZ2VudDogImFudGhyb3BpYy1haSIsIGRpc2FsbG93OiAiLyIgfSwNCiAgICAgIHsgdXNlckFnZW50OiAiQ2xhdWRlLVdlYiIsIGRpc2FsbG93OiAiLyIgfSwNCiAgICBdLA0KICAgIHNpdGVtYXA6IGBodHRwczovLyR7Y29uZmlnLmRvbWFpbn0vc2l0ZW1hcC54bWxgLA0KICB9Ow0KfQ0K"}
+import type { MetadataRoute } from "next";
+import { getConfig } from "@/lib/client-config";
+
+const config = getConfig();
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: [
+      {
+        userAgent: "*",
+        allow: "/",
+        disallow: ["/api/"],
+      },
+      { userAgent: "GPTBot", disallow: "/" },
+      { userAgent: "ChatGPT-User", disallow: "/" },
+      { userAgent: "CCBot", disallow: "/" },
+      { userAgent: "anthropic-ai", disallow: "/" },
+      { userAgent: "Claude-Web", disallow: "/" },
+    ],
+    sitemap: `https://${config.domain}/sitemap.xml`,
+  };
+}

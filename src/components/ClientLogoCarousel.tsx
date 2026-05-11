@@ -1,1 +1,57 @@
-{"data":"InVzZSBjbGllbnQiOw0KDQppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7DQoNCmNvbnN0IGNsaWVudExvZ29zID0gWw0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL2FzaGNvbnMucG5nIiwgYWx0OiAiQXNoY29ucyIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy9iMnMucG5nIiwgYWx0OiAiQjJTIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL2Jlc3QtbG9nby5wbmciLCBhbHQ6ICJCZXN0IExvZ28iIH0sDQogIHsgc3JjOiAiL2xvZ29zL2NsaWVudHMvYmxhY2tnb2xkLnBuZyIsIGFsdDogIkJsYWNrR29sZCIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy9jYmgucG5nIiwgYWx0OiAiQ0JIIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL2NkbmJpdGNvaW4ucG5nIiwgYWx0OiAiQ0ROIEJpdGNvaW4iIH0sDQogIHsgc3JjOiAiL2xvZ29zL2NsaWVudHMvY2xyLnBuZyIsIGFsdDogIkNMUiIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy9kcmVhbXRydWUucG5nIiwgYWx0OiAiRHJlYW1UcnVlIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL2Vhc3l0YXhlcy5wbmciLCBhbHQ6ICJFYXN5VGF4ZXMiIH0sDQogIHsgc3JjOiAiL2xvZ29zL2NsaWVudHMvZW5lcmd5aGVhbGluZy5wbmciLCBhbHQ6ICJFbmVyZ3kgSGVhbGluZyIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy9mZmEucG5nIiwgYWx0OiAiRkZBIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL2ttcGFydHkucG5nIiwgYWx0OiAiS00gUGFydHkiIH0sDQogIHsgc3JjOiAiL2xvZ29zL2NsaWVudHMvbGFzLXNlcnZpY2VzLnBuZyIsIGFsdDogIkxBUyBTZXJ2aWNlcyIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy9zcmMucG5nIiwgYWx0OiAiU1JDIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL3N0ZXJpbGlzLnBuZyIsIGFsdDogIlN0ZXJpbGlzIiB9LA0KICB7IHNyYzogIi9sb2dvcy9jbGllbnRzL3dlYnAuanBnIiwgYWx0OiAiV2ViUCIgfSwNCiAgeyBzcmM6ICIvbG9nb3MvY2xpZW50cy96dXJ2YS5wbmciLCBhbHQ6ICJadXJ2YSIgfSwNCl07DQoNCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENsaWVudExvZ29DYXJvdXNlbCgpIHsNCiAgY29uc3QgZG91YmxlZCA9IFsuLi5jbGllbnRMb2dvcywgLi4uY2xpZW50TG9nb3NdOw0KDQogIHJldHVybiAoDQogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJweS1zZWN0aW9uLXktc20gb3ZlcmZsb3ctaGlkZGVuIj4NCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCI+DQogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIG1kOnRleHQtM3hsIGZvbnQtYm9sZCB0ZXh0LWRhcmsgdGV4dC1jZW50ZXIgbWItOCI+DQogICAgICAgICAgVHJ1c3RlZCBieSBCdXNpbmVzc2VzIEFjcm9zcyBDYW5hZGENCiAgICAgICAgPC9oMj4NCiAgICAgIDwvZGl2Pg0KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4NCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InBvaW50ZXItZXZlbnRzLW5vbmUgYWJzb2x1dGUgaW5zZXQteS0wIGxlZnQtMCB3LTI0IGJnLWdyYWRpZW50LXRvLXIgZnJvbS13aGl0ZSB0by10cmFuc3BhcmVudCB6LTEwIiAvPg0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icG9pbnRlci1ldmVudHMtbm9uZSBhYnNvbHV0ZSBpbnNldC15LTAgcmlnaHQtMCB3LTI0IGJnLWdyYWRpZW50LXRvLWwgZnJvbS13aGl0ZSB0by10cmFuc3BhcmVudCB6LTEwIiAvPg0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBhbmltYXRlLWNhcm91c2VsIG1vdGlvbi1yZWR1Y2U6YW5pbWF0ZS1ub25lIG1vdGlvbi1yZWR1Y2U6ZmxleC13cmFwIG1vdGlvbi1yZWR1Y2U6anVzdGlmeS1jZW50ZXIgbW90aW9uLXJlZHVjZTpnYXAtOCI+DQogICAgICAgICAge2RvdWJsZWQubWFwKChsb2dvLCBpKSA9PiAoDQogICAgICAgICAgICA8ZGl2DQogICAgICAgICAgICAgIGtleT17YCR7bG9nby5hbHR9LSR7aX1gfQ0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXgtc2hyaW5rLTAgdy1bMTQwcHhdIG14LTYgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgaC0xNiBncmF5c2NhbGUgaG92ZXI6Z3JheXNjYWxlLTAgb3BhY2l0eS02MCBob3ZlcjpvcGFjaXR5LTEwMCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiDQogICAgICAgICAgICA+DQogICAgICAgICAgICAgIDxJbWFnZQ0KICAgICAgICAgICAgICAgIHNyYz17bG9nby5zcmN9DQogICAgICAgICAgICAgICAgYWx0PXtsb2dvLmFsdH0NCiAgICAgICAgICAgICAgICB3aWR0aD17MTIwfQ0KICAgICAgICAgICAgICAgIGhlaWdodD17NDh9DQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJvYmplY3QtY29udGFpbiBtYXgtaC0xMiINCiAgICAgICAgICAgICAgLz4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICkpfQ0KICAgICAgICA8L2Rpdj4NCiAgICAgIDwvZGl2Pg0KICAgIDwvc2VjdGlvbj4NCiAgKTsNCn0NCg=="}
+"use client";
+
+import Image from "next/image";
+
+const clientLogos = [
+  { src: "/logos/clients/ashcons.png", alt: "Ashcons" },
+  { src: "/logos/clients/b2s.png", alt: "B2S" },
+  { src: "/logos/clients/best-logo.png", alt: "Best Logo" },
+  { src: "/logos/clients/blackgold.png", alt: "BlackGold" },
+  { src: "/logos/clients/cbh.png", alt: "CBH" },
+  { src: "/logos/clients/cdnbitcoin.png", alt: "CDN Bitcoin" },
+  { src: "/logos/clients/clr.png", alt: "CLR" },
+  { src: "/logos/clients/dreamtrue.png", alt: "DreamTrue" },
+  { src: "/logos/clients/easytaxes.png", alt: "EasyTaxes" },
+  { src: "/logos/clients/energyhealing.png", alt: "Energy Healing" },
+  { src: "/logos/clients/ffa.png", alt: "FFA" },
+  { src: "/logos/clients/kmparty.png", alt: "KM Party" },
+  { src: "/logos/clients/las-services.png", alt: "LAS Services" },
+  { src: "/logos/clients/src.png", alt: "SRC" },
+  { src: "/logos/clients/sterilis.png", alt: "Sterilis" },
+  { src: "/logos/clients/webp.jpg", alt: "WebP" },
+  { src: "/logos/clients/zurva.png", alt: "Zurva" },
+];
+
+export default function ClientLogoCarousel() {
+  const doubled = [...clientLogos, ...clientLogos];
+
+  return (
+    <section className="py-section-y-sm overflow-hidden">
+      <div className="max-w-[1280px] mx-auto px-6 lg:px-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-dark text-center mb-8">
+          Trusted by Businesses Across Canada
+        </h2>
+      </div>
+      <div className="relative">
+        <div className="pointer-events-none absolute inset-y-0 left-0 w-24 bg-gradient-to-r from-white to-transparent z-10" />
+        <div className="pointer-events-none absolute inset-y-0 right-0 w-24 bg-gradient-to-l from-white to-transparent z-10" />
+        <div className="flex animate-carousel motion-reduce:animate-none motion-reduce:flex-wrap motion-reduce:justify-center motion-reduce:gap-8">
+          {doubled.map((logo, i) => (
+            <div
+              key={`${logo.alt}-${i}`}
+              className="flex-shrink-0 w-[140px] mx-6 flex items-center justify-center h-16 grayscale hover:grayscale-0 opacity-60 hover:opacity-100 transition-all duration-300"
+            >
+              <Image
+                src={logo.src}
+                alt={logo.alt}
+                width={120}
+                height={48}
+                className="object-contain max-h-12"
+              />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}

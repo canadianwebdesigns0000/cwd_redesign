@@ -1,1 +1,146 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7CmltcG9ydCB7IGdldENvbmZpZyB9IGZyb20gIkAvbGliL2NsaWVudC1jb25maWciOwppbXBvcnQgQnJlYWRjcnVtYlNjaGVtYSBmcm9tICJAL2NvbXBvbmVudHMvQnJlYWRjcnVtYlNjaGVtYSI7Cgpjb25zdCBjb25maWcgPSBnZXRDb25maWcoKTsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJGQVEiLAogIGRlc2NyaXB0aW9uOiAiSGVyZSBpcyBnZW5lcmFsIGluZm9ybWF0aW9uIGZvciB5b3VyIGZyZXF1ZW50bHkgYXNrZWQgcXVlc3Rpb25zLiBXZSdyZSBoZXJlIHRvIGhlbHAgYW5kIG1ha2UgeW91ciB3b3JyaWVzIGdvIGF3YXkuIiwKICBhbHRlcm5hdGVzOiB7IGNhbm9uaWNhbDogIi9mYXEiIH0sCn07Cgpjb25zdCBmYXFzID0gWwogIHsgcTogIkhvdyBtdWNoIGRvZXMgYSB3ZWJzaXRlIGNvc3Q/IiwgYTogIk91ciB3ZWJzaXRlIHBhY2thZ2VzIHN0YXJ0IGZyb20gYWZmb3JkYWJsZSByYXRlcyBmb3Igc21hbGwgYnVzaW5lc3Nlcy4gVGhlIGV4YWN0IGNvc3QgZGVwZW5kcyBvbiB0aGUgY29tcGxleGl0eSwgbnVtYmVyIG9mIHBhZ2VzLCBhbmQgZmVhdHVyZXMgcmVxdWlyZWQuIENvbnRhY3QgdXMgZm9yIGEgZnJlZSwgbm8tb2JsaWdhdGlvbiBxdW90ZS4iIH0sCiAgeyBxOiAiSG93IGxvbmcgZG9lcyBpdCB0YWtlIHRvIGJ1aWxkIGEgd2Vic2l0ZT8iLCBhOiAiQSB0eXBpY2FsIHdlYnNpdGUgdGFrZXMgMi00IHdlZWtzIGZyb20gc3RhcnQgdG8gZmluaXNoLiBNb3JlIGNvbXBsZXggcHJvamVjdHMgd2l0aCBjdXN0b20gZmVhdHVyZXMgbWF5IHRha2UgbG9uZ2VyLiBXZSdsbCBwcm92aWRlIGEgY2xlYXIgdGltZWxpbmUgZHVyaW5nIG91ciBpbml0aWFsIGNvbnN1bHRhdGlvbi4iIH0sCiAgeyBxOiAiRG8geW91IG9mZmVyIFNFTyBzZXJ2aWNlcz8iLCBhOiAiWWVzISBTRU8gaXMgb25lIG9mIG91ciBjb3JlIHNlcnZpY2VzLiBXZSBvZmZlciBib3RoIG9uLXBhZ2UgYW5kIG9mZi1wYWdlIFNFTyBvcHRpbWl6YXRpb24gdG8gaGVscCB5b3VyIHdlYnNpdGUgcmFuayBoaWdoZXIgb24gR29vZ2xlIGFuZCBvdGhlciBzZWFyY2ggZW5naW5lcy4iIH0sCiAgeyBxOiAiV2lsbCBteSB3ZWJzaXRlIGJlIG1vYmlsZS1mcmllbmRseT8iLCBhOiAiQWJzb2x1dGVseS4gRXZlcnkgd2Vic2l0ZSB3ZSBidWlsZCBpcyBmdWxseSByZXNwb25zaXZlIGFuZCBvcHRpbWl6ZWQgZm9yIGFsbCBkZXZpY2VzIOKAlCBtb2JpbGUgcGhvbmVzLCB0YWJsZXRzLCBhbmQgZGVza3RvcCBjb21wdXRlcnMuIiB9LAogIHsgcTogIkRvIHlvdSBwcm92aWRlIHdlYnNpdGUgbWFpbnRlbmFuY2U/IiwgYTogIlllcywgd2Ugb2ZmZXIgb25nb2luZyB3ZWJzaXRlIG1haW50ZW5hbmNlIHBhY2thZ2VzIHRoYXQgaW5jbHVkZSB1cGRhdGVzLCBzZWN1cml0eSBtb25pdG9yaW5nLCBiYWNrdXBzLCBhbmQgcGVyZm9ybWFuY2Ugb3B0aW1pemF0aW9uLiIgfSwKICB7IHE6ICJDYW4geW91IHJlZGVzaWduIG15IGV4aXN0aW5nIHdlYnNpdGU/IiwgYTogIlllcywgd2Ugc3BlY2lhbGl6ZSBpbiB3ZWJzaXRlIHJlZGVzaWducy4gV2UnbGwgbW9kZXJuaXplIHlvdXIgc2l0ZSB3aGlsZSBwcmVzZXJ2aW5nIHlvdXIgYnJhbmQgaWRlbnRpdHkgYW5kIGltcHJvdmluZyB1c2VyIGV4cGVyaWVuY2UgYW5kIFNFTy4iIH0sCiAgeyBxOiAiV2hhdCBhcmVhcyBkbyB5b3Ugc2VydmU/IiwgYTogYFdlIHNlcnZlIGJ1c2luZXNzZXMgYWNyb3NzICR7Y29uZmlnLmNpdGllcy5sZW5ndGh9IGNpdGllcyBpbiBDYW5hZGEgaW5jbHVkaW5nIFRvcm9udG8sIEJyYW1wdG9uLCBDYWxnYXJ5LCBWYW5jb3V2ZXIsIE1vbnRyZWFsLCBFZG1vbnRvbiwgYW5kIG1hbnkgbW9yZS5gIH0sCiAgeyBxOiAiRG8geW91IG9mZmVyIEFJIGNvbnN1bHRhdGlvbj8iLCBhOiAiWWVzLCBvdXIgQUkgY29uc3VsdGF0aW9uIHNlcnZpY2UgaGVscHMgYnVzaW5lc3NlcyBsZXZlcmFnZSBhcnRpZmljaWFsIGludGVsbGlnZW5jZSB0byBzdHJlYW1saW5lIG9wZXJhdGlvbnMsIGltcHJvdmUgY3VzdG9tZXIgc2VydmljZSwgYW5kIGdhaW4gY29tcGV0aXRpdmUgYWR2YW50YWdlcy4iIH0sCl07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBGQVFQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8QnJlYWRjcnVtYlNjaGVtYSBpdGVtcz17W3sgbmFtZTogIkZBUSIsIGhyZWY6ICIvZmFxIiB9XX0gLz4KCiAgICAgIHsvKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAgIEhFUk8KICAgICAgICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL30KICAgICAgPHNlY3Rpb24KICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBweS0xNCBtZDpweS0yMCBmbGV4IGl0ZW1zLWNlbnRlciIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzAxMEMxRSAwJSwgIzA1MjE0MCA1NSUsICMwMTBEMjIgMTAwJSkiIH19CiAgICAgID4KICAgICAgICB7LyogQmFja2dyb3VuZCBpbWFnZSAqL30KICAgICAgICA8SW1hZ2Ugc3JjPSIvYmxvZy9jdXN0b20td2ViLWRlc2lnbi5wbmciIGFsdD0iIiBmaWxsIGNsYXNzTmFtZT0ib2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIiIHByaW9yaXR5IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoMTA1ZGVnLCByZ2JhKDEsMTIsMzAsMC45NCkgMCUsIHJnYmEoMSwxMiwzMCwwLjg1KSA1MCUsIHJnYmEoMSwxMiwzMCwwLjc1KSAxMDAlKSIgfX0gLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0wIGxlZnQtWzglXSB3LVs1MDBweF0gaC1bNTAwcHhdIHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBmaWx0ZXI6ICJibHVyKDE0MHB4KSIsIG9wYWNpdHk6IDAuMjIgfX0gLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTAgcmlnaHQtWzUlXSB3LTgwIGgtODAgcm91bmRlZC1mdWxsIHBvaW50ZXItZXZlbnRzLW5vbmUgYW5pbWF0ZS1vcmIiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiIzAwM0I2RiIsIGZpbHRlcjogImJsdXIoMTEwcHgpIiwgb3BhY2l0eTogMC4zLCBhbmltYXRpb25EZWxheTogIjIuNXMiIH19IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRJbWFnZTogInJhZGlhbC1ncmFkaWVudChjaXJjbGUsIHJnYmEoMjU1LDI1NSwyNTUsMC4wNykgMXB4LCB0cmFuc3BhcmVudCAxcHgpIiwgYmFja2dyb3VuZFNpemU6ICI0OHB4IDQ4cHgiIH19IC8+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCB3LWZ1bGwiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTJ4bCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoZXJvLWZhZGUtdXAgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yLjUgcHgtNCBweS0yIHJvdW5kZWQtZnVsbCBnbGFzcyBtYi02Ij4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InctMiBoLTIgcm91bmRlZC1mdWxsIiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiIzAwQUFERiIsIGJveFNoYWRvdzogIjAgMCA4cHggcmdiYSgwLDE3MCwyMjMsMC44KSIgfX0gLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtd2hpdGUvODAgdGV4dC1zbSBmb250LW1lZGl1bSB0cmFja2luZy13aWRlIj57ZmFxcy5sZW5ndGh9IFF1ZXN0aW9ucyBBbnN3ZXJlZDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxoMQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaGVyby1mYWRlLXVwLTEgZm9udC1ibGFjayB0ZXh0LXdoaXRlIG1iLTUiCiAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udFNpemU6ICJjbGFtcCgxLjhyZW0sIDR2dywgMi42cmVtKSIsIGxpbmVIZWlnaHQ6IDEuMDUgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIEdvdHsiICJ9CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJncmFkaWVudC10ZXh0LWFuaW1hdGVkIj5RdWVzdGlvbnM/PC9zcGFuPnsiICJ9PGJyIC8+V2UmYXBvczt2ZSBHb3QgQW5zd2Vycy4KICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJoZXJvLWZhZGUtdXAtMiB0ZXh0LXhsIHRleHQtd2hpdGUvNjAgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICBGaW5kIGFuc3dlcnMgdG8gdGhlIG1vc3QgY29tbW9uIHF1ZXN0aW9ucyBhYm91dCBvdXIgc2VydmljZXMsIHByb2Nlc3MsIGFuZCBwcmljaW5nLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgoKICAgICAgey8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogICAgICAgICAgRkFRIExJU1QKICAgICAgICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL30KICAgICAgPHNlY3Rpb24KICAgICAgICBjbGFzc05hbWU9InB5LXNlY3Rpb24teSByZWxhdGl2ZSIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiI2ZmZmZmZiIgfX0KICAgICAgPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kSW1hZ2U6ICJyYWRpYWwtZ3JhZGllbnQoY2lyY2xlLCByZ2JhKDAsMCwwLDAuMDQpIDFweCwgdHJhbnNwYXJlbnQgMXB4KSIsIGJhY2tncm91bmRTaXplOiAiMzZweCAzNnB4IiB9fSAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgbWF4LXctM3hsIG14LWF1dG8gcHgtNiBsZzpweC04Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICB7ZmFxcy5tYXAoKGZhcSwgaSkgPT4gKAogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGtleT17ZmFxLnF9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9Imdyb3VwIHJvdW5kZWQtMnhsIHAtNyByZXZlYWwgYmctd2hpdGUgYm9yZGVyIGJvcmRlci1ncmF5LTEwMCBob3Zlcjpib3JkZXItWyMwMEFBREZdLzMwIGhvdmVyOnNoYWRvdy1sZyB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBib3hTaGFkb3c6ICIwIDJweCAxMnB4IHJnYmEoMCwwLDAsMC4wNSkiLCB0cmFuc2l0aW9uRGVsYXk6IGAkeyhpICUgNCkgKiAwLjA4fXNgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQgZ2FwLTQiPgogICAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LTggaC04IHJvdW5kZWQtbGcgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgc2hyaW5rLTAgbXQtMC41IHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTMwMCBncm91cC1ob3ZlcjpzY2FsZS0xMTAiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogImxpbmVhci1ncmFkaWVudCgxMzVkZWcsICMwMDNCNkYsICMwMEFBREYpIiB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlIGZvbnQtYmxhY2sgdGV4dC14cyI+UTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1ncmF5LTkwMCBmb250LWJsYWNrIHRleHQtbGcgbWItMyBncm91cC1ob3Zlcjp0ZXh0LVsjMDBBQURGXSB0cmFuc2l0aW9uLWNvbG9ycyBkdXJhdGlvbi0yMDAiPgogICAgICAgICAgICAgICAgICAgICAge2ZhcS5xfQogICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNjAwIGxlYWRpbmctcmVsYXhlZCI+e2ZhcS5hfTwvcD4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogU3RpbGwgaGF2ZSBxdWVzdGlvbnMgKi99CiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGNsYXNzTmFtZT0ibXQtMTIgcm91bmRlZC0yeGwgcC04IHRleHQtY2VudGVyIHJldmVhbCIKICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgcmdiYSgwLDE3MCwyMjMsMC4wOCksIHJnYmEoMCw1OSwxMTEsMC4xKSkiLAogICAgICAgICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDAsMTcwLDIyMywwLjIpIiwKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1ncmF5LTkwMCBmb250LWJsYWNrIHRleHQteGwgbWItMyI+U3RpbGwgSGF2ZSBRdWVzdGlvbnM/PC9oMz4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNjAwIG1iLTYiPk91ciB0ZWFtIGlzIHJlYWR5IHRvIGFuc3dlciBhbnl0aGluZy4gR2V0IGluIHRvdWNoIGZvciBhIGZyZWUgY29uc3VsdGF0aW9uLjwvcD4KICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICBocmVmPSIvY29udGFjdCIKICAgICAgICAgICAgICBjbGFzc05hbWU9ImJ0bi1zaGltbWVyIGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC04IHB5LTQgdGV4dC13aGl0ZSBmb250LWJvbGQgcm91bmRlZC1idG4gdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMDBBQURGIiwgYm94U2hhZG93OiAiMCA0cHggMjBweCByZ2JhKDAsMTcwLDIyMywwLjQpIiB9fQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgQ29udGFjdCBVcwogICAgICAgICAgICAgIDxzdmcgY2xhc3NOYW1lPSJ3LTQgaC00IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD17Mn0+CiAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMTMuNSA0LjVMMjEgMTJtMCAwbC03LjUgNy41TTIxIDEySDMiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICA8c2NyaXB0CiAgICAgICAgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiIKICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17ewogICAgICAgICAgX19odG1sOiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgICJAY29udGV4dCI6ICJodHRwczovL3NjaGVtYS5vcmciLAogICAgICAgICAgICAiQHR5cGUiOiAiRkFRUGFnZSIsCiAgICAgICAgICAgIG1haW5FbnRpdHk6IGZhcXMubWFwKChmYXEpID0+ICh7CiAgICAgICAgICAgICAgIkB0eXBlIjogIlF1ZXN0aW9uIiwKICAgICAgICAgICAgICBuYW1lOiBmYXEucSwKICAgICAgICAgICAgICBhY2NlcHRlZEFuc3dlcjogeyAiQHR5cGUiOiAiQW5zd2VyIiwgdGV4dDogZmFxLmEgfSwKICAgICAgICAgICAgfSkpLAogICAgICAgICAgfSksCiAgICAgICAgfX0KICAgICAgLz4KICAgIDwvPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { getConfig } from "@/lib/client-config";
+import BreadcrumbSchema from "@/components/BreadcrumbSchema";
+
+const config = getConfig();
+
+export const metadata: Metadata = {
+  title: "FAQ",
+  description: "Here is general information for your frequently asked questions. We're here to help and make your worries go away.",
+  alternates: { canonical: "/faq" },
+};
+
+const faqs = [
+  { q: "How much does a website cost?", a: "Our website packages start from affordable rates for small businesses. The exact cost depends on the complexity, number of pages, and features required. Contact us for a free, no-obligation quote." },
+  { q: "How long does it take to build a website?", a: "A typical website takes 2-4 weeks from start to finish. More complex projects with custom features may take longer. We'll provide a clear timeline during our initial consultation." },
+  { q: "Do you offer SEO services?", a: "Yes! SEO is one of our core services. We offer both on-page and off-page SEO optimization to help your website rank higher on Google and other search engines." },
+  { q: "Will my website be mobile-friendly?", a: "Absolutely. Every website we build is fully responsive and optimized for all devices — mobile phones, tablets, and desktop computers." },
+  { q: "Do you provide website maintenance?", a: "Yes, we offer ongoing website maintenance packages that include updates, security monitoring, backups, and performance optimization." },
+  { q: "Can you redesign my existing website?", a: "Yes, we specialize in website redesigns. We'll modernize your site while preserving your brand identity and improving user experience and SEO." },
+  { q: "What areas do you serve?", a: `We serve businesses across ${config.cities.length} cities in Canada including Toronto, Brampton, Calgary, Vancouver, Montreal, Edmonton, and many more.` },
+  { q: "Do you offer AI consultation?", a: "Yes, our AI consultation service helps businesses leverage artificial intelligence to streamline operations, improve customer service, and gain competitive advantages." },
+];
+
+export default function FAQPage() {
+  return (
+    <>
+      <BreadcrumbSchema items={[{ name: "FAQ", href: "/faq" }]} />
+
+      {/* =============================================
+          HERO
+          ============================================= */}
+      <section
+        className="relative overflow-hidden py-14 md:py-20 flex items-center"
+        style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)" }}
+      >
+        {/* Background image */}
+        <Image src="/blog/custom-web-design.png" alt="" fill className="object-cover object-center" priority />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ background: "linear-gradient(105deg, rgba(1,12,30,0.94) 0%, rgba(1,12,30,0.85) 50%, rgba(1,12,30,0.75) 100%)" }} />
+
+        <div className="absolute top-0 left-[8%] w-[500px] h-[500px] rounded-full pointer-events-none animate-orb"
+          style={{ background: "#00AADF", filter: "blur(140px)", opacity: 0.22 }} />
+        <div className="absolute bottom-0 right-[5%] w-80 h-80 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#003B6F", filter: "blur(110px)", opacity: 0.3, animationDelay: "2.5s" }} />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.07) 1px, transparent 1px)", backgroundSize: "48px 48px" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8 w-full">
+          <div className="max-w-2xl">
+            <div className="hero-fade-up inline-flex items-center gap-2.5 px-4 py-2 rounded-full glass mb-6">
+              <span className="w-2 h-2 rounded-full" style={{ background: "#00AADF", boxShadow: "0 0 8px rgba(0,170,223,0.8)" }} />
+              <span className="text-white/80 text-sm font-medium tracking-wide">{faqs.length} Questions Answered</span>
+            </div>
+            <h1
+              className="hero-fade-up-1 font-black text-white mb-5"
+              style={{ fontSize: "clamp(1.8rem, 4vw, 2.6rem)", lineHeight: 1.05 }}
+            >
+              Got{" "}
+              <span className="gradient-text-animated">Questions?</span>{" "}<br />We&apos;ve Got Answers.
+            </h1>
+            <p className="hero-fade-up-2 text-xl text-white/60 leading-relaxed">
+              Find answers to the most common questions about our services, process, and pricing.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* =============================================
+          FAQ LIST
+          ============================================= */}
+      <section
+        className="py-section-y relative"
+        style={{ background: "#ffffff" }}
+      >
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(0,0,0,0.04) 1px, transparent 1px)", backgroundSize: "36px 36px" }} />
+
+        <div className="relative max-w-3xl mx-auto px-6 lg:px-8">
+          <div className="space-y-4">
+            {faqs.map((faq, i) => (
+              <div
+                key={faq.q}
+                className="group rounded-2xl p-7 reveal bg-white border border-gray-100 hover:border-[#00AADF]/30 hover:shadow-lg transition-all duration-300"
+                style={{ boxShadow: "0 2px 12px rgba(0,0,0,0.05)", transitionDelay: `${(i % 4) * 0.08}s` }}
+              >
+                <div className="flex items-start gap-4">
+                  <div
+                    className="w-8 h-8 rounded-lg flex items-center justify-center shrink-0 mt-0.5 transition-transform duration-300 group-hover:scale-110"
+                    style={{ background: "linear-gradient(135deg, #003B6F, #00AADF)" }}
+                  >
+                    <span className="text-white font-black text-xs">Q</span>
+                  </div>
+                  <div>
+                    <h3 className="text-gray-900 font-black text-lg mb-3 group-hover:text-[#00AADF] transition-colors duration-200">
+                      {faq.q}
+                    </h3>
+                    <p className="text-gray-600 leading-relaxed">{faq.a}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Still have questions */}
+          <div
+            className="mt-12 rounded-2xl p-8 text-center reveal"
+            style={{
+              background: "linear-gradient(135deg, rgba(0,170,223,0.08), rgba(0,59,111,0.1))",
+              border: "1px solid rgba(0,170,223,0.2)",
+            }}
+          >
+            <h3 className="text-gray-900 font-black text-xl mb-3">Still Have Questions?</h3>
+            <p className="text-gray-600 mb-6">Our team is ready to answer anything. Get in touch for a free consultation.</p>
+            <Link
+              href="/contact"
+              className="btn-shimmer inline-flex items-center gap-2 px-8 py-4 text-white font-bold rounded-btn transition-all duration-300"
+              style={{ background: "#00AADF", boxShadow: "0 4px 20px rgba(0,170,223,0.4)" }}
+            >
+              Contact Us
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: faqs.map((faq) => ({
+              "@type": "Question",
+              name: faq.q,
+              acceptedAnswer: { "@type": "Answer", text: faq.a },
+            })),
+          }),
+        }}
+      />
+    </>
+  );
+}

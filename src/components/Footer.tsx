@@ -1,1 +1,127 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7CmltcG9ydCBTb2NpYWxJY29uIGZyb20gIi4vU29jaWFsSWNvbiI7Cgpjb25zdCBjb25maWcgPSBnZXRDb25maWcoKTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZvb3RlcigpIHsKICByZXR1cm4gKAogICAgPGZvb3RlciBjbGFzc05hbWU9ImJnLWRhcmsgdGV4dC13aGl0ZSBwdC1zZWN0aW9uLXktc20gcGItOCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1bMTI4MHB4XSBteC1hdXRvIHB4LTYgbGc6cHgtOCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTQgZ2FwLTggbWItMTIiPgogICAgICAgICAgey8qIENvbXBhbnkgaW5mbyAqL30KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIG1iLTQiPntjb25maWcuYnVzaW5lc3NOYW1lfTwvaDM+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTMwMCB0ZXh0LXNtIG1iLTQiPgogICAgICAgICAgICAgIFByb2Zlc3Npb25hbCB3ZWIgZGVzaWduLCBTRU8sIGFuZCBkaWdpdGFsIG1hcmtldGluZyBzZXJ2aWNlcyBhY3Jvc3MgQ2FuYWRhIHNpbmNlIHtjb25maWcuZm91bmRlZH0uCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTEgZmxleC13cmFwIj4KICAgICAgICAgICAgICB7Y29uZmlnLnNvY2lhbExpbmtzLm1hcCgobGluaykgPT4gKAogICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAga2V5PXtsaW5rLmljb259CiAgICAgICAgICAgICAgICAgIGhyZWY9e2xpbmsuaHJlZn0KICAgICAgICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LTExIGgtMTEgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcm91bmRlZC1sZyB0ZXh0LWdyYXktMzAwIGhvdmVyOnRleHQtd2hpdGUgaG92ZXI6Ymctd2hpdGUvMTAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMjAwIgogICAgICAgICAgICAgICAgICBhcmlhLWxhYmVsPXtsaW5rLmxhYmVsfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8U29jaWFsSWNvbiBuYW1lPXtsaW5rLmljb259IC8+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIFF1aWNrIGxpbmtzICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgbWItNCI+UXVpY2sgTGlua3M8L2gzPgogICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTAuNSB0ZXh0LXNtIj4KICAgICAgICAgICAgICB7WwogICAgICAgICAgICAgICAgeyBocmVmOiAiL3doby13ZS1hcmUiLCBsYWJlbDogIldobyBXZSBBcmUiIH0sCiAgICAgICAgICAgICAgICB7IGhyZWY6ICIvb3VyLXN0b3J5IiwgbGFiZWw6ICJPdXIgU3RvcnkiIH0sCiAgICAgICAgICAgICAgICB7IGhyZWY6ICIvcG9ydGZvbGlvIiwgbGFiZWw6ICJPdXIgUG9ydGZvbGlvIiB9LAogICAgICAgICAgICAgICAgeyBocmVmOiAiL2Jsb2ciLCBsYWJlbDogIkJsb2ciIH0sCiAgICAgICAgICAgICAgICB7IGhyZWY6ICIvZmFxIiwgbGFiZWw6ICJGQVEiIH0sCiAgICAgICAgICAgICAgICB7IGhyZWY6ICIvY2FyZWVycyIsIGxhYmVsOiAiQ2FyZWVycyIgfSwKICAgICAgICAgICAgICAgIHsgaHJlZjogIi9jb250YWN0IiwgbGFiZWw6ICJHZXQgSW4gVG91Y2giIH0sCiAgICAgICAgICAgICAgXS5tYXAoKHsgaHJlZiwgbGFiZWwgfSkgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17aHJlZn0+CiAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgaHJlZj17aHJlZn0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtZ3JheS0zMDAgaG92ZXI6dGV4dC13aGl0ZSB0cmFuc2l0aW9uLWNvbG9ycyBkdXJhdGlvbi0yMDAgcHktMS41IGJsb2NrIG1pbi1oLVs0MHB4XSBmbGV4IGl0ZW1zLWNlbnRlciIKICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtsYWJlbH0KICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBDb250YWN0IGluZm8gKi99CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCBtYi00Ij5Db250YWN0IFVzPC9oMz4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0zIHRleHQtc20gdGV4dC1ncmF5LTMwMCI+CiAgICAgICAgICAgICAgPGxpIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIuNSI+CiAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LVsjMDBBQURGXSBzaHJpbmstMCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9ezJ9PgogICAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMi4yNSA2Ljc1YzAgOC4yODQgNi43MTYgMTUgMTUgMTVoMi4yNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtMS4zNzJjMC0uNTE2LS4zNTEtLjk2Ni0uODUyLTEuMDkxbC00LjQyMy0xLjEwNmMtLjQ0LS4xMS0uOTAyLjA1NS0xLjE3My40MTdsLS45NyAxLjI5M2MtLjI4Mi4zNzYtLjc2OS41NDItMS4yMS4zOGExMi4wMzUgMTIuMDM1IDAgMDEtNy4xNDMtNy4xNDNjLS4xNjItLjQ0MS4wMDQtLjkyOC4zOC0xLjIxbDEuMjkzLS45N2MuMzYzLS4yNzEuNTI3LS43MzQuNDE3LTEuMTczTDYuOTYzIDMuMTAyYTEuMTI1IDEuMTI1IDAgMDAtMS4wOTEtLjg1Mkg0LjVBMi4yNSAyLjI1IDAgMDAyLjI1IDQuNXYyLjI1eiIgLz4KICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgPGEgaHJlZj17YHRlbDoke2NvbmZpZy5waG9uZX1gfSBjbGFzc05hbWU9ImhvdmVyOnRleHQtd2hpdGUgdHJhbnNpdGlvbi1jb2xvcnMgZHVyYXRpb24tMjAwIHB5LTEgbWluLWgtWzQ0cHhdIGZsZXggaXRlbXMtY2VudGVyIj57Y29uZmlnLnBob25lfTwvYT4KICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgIHtPYmplY3QuZW50cmllcyhjb25maWcuYWRkcmVzc2VzKS5tYXAoKFtrZXksIGFkZHJdKSA9PiAoCiAgICAgICAgICAgICAgICA8bGkga2V5PXtrZXl9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMi41IHB0LTEiPgogICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LVsjMDBBQURGXSBzaHJpbmstMCBtdC0wLjUiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyfT4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkPSJNMTUgMTAuNWEzIDMgMCAxMS02IDAgMyAzIDAgMDE2IDB6IiAvPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik0xOS41IDEwLjVjMCA3LjE0Mi03LjUgMTEuMjUtNy41IDExLjI1UzQuNSAxNy42NDIgNC41IDEwLjVhNy41IDcuNSAwIDExMTUgMHoiIC8+CiAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICA8c3Bhbj4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtd2hpdGUgY2FwaXRhbGl6ZSBmb250LXNlbWlib2xkIj57a2V5fTo8L3NwYW4+PGJyIC8+CiAgICAgICAgICAgICAgICAgICAge2FkZHIuc3RyZWV0fTxiciAvPgogICAgICAgICAgICAgICAgICAgIHthZGRyLmNpdHl9LCB7YWRkci5wcm92aW5jZX0ge2FkZHIucG9zdGFsQ29kZX0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBTZXJ2aWNlIGFyZWFzICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgbWItNCI+U2VydmljZSBBcmVhczwvaDM+CiAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgZ2FwLXgtNCBnYXAteS0wIHRleHQtc20iPgogICAgICAgICAgICAgIHtjb25maWcuY2l0aWVzLm1hcCgoY2l0eSkgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17Y2l0eS5zbHVnfT4KICAgICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAgICBocmVmPXtgL2xvY2F0aW9ucy8ke2NpdHkuc2x1Z31gfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1ncmF5LTMwMCBob3Zlcjp0ZXh0LXdoaXRlIHRyYW5zaXRpb24tY29sb3JzIGR1cmF0aW9uLTIwMCBweS0xLjUgYmxvY2sgbWluLWgtWzQwcHhdIGZsZXggaXRlbXMtY2VudGVyIgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2NpdHkubmFtZX0KICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogQm90dG9tIGJhciAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyLXQgYm9yZGVyLXdoaXRlLzEwIHB0LTYiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cganVzdGlmeS1iZXR3ZWVuIGl0ZW1zLWNlbnRlciBnYXAtNCB0ZXh0LXhzIHRleHQtZ3JheS0zMDAiPgogICAgICAgICAgICA8cD4mY29weTsge25ldyBEYXRlKCkuZ2V0RnVsbFllYXIoKX0ge2NvbmZpZy5idXNpbmVzc05hbWV9LiBBbGwgcmlnaHRzIHJlc2VydmVkLjwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTEgZmxleC13cmFwIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICB7WwogICAgICAgICAgICAgICAgeyBocmVmOiAiL3ByaXZhY3ktcG9saWN5IiwgbGFiZWw6ICJQcml2YWN5IFBvbGljeSIgfSwKICAgICAgICAgICAgICAgIHsgaHJlZjogIi90ZXJtcy1hbmQtY29uZGl0aW9ucyIsIGxhYmVsOiAiVGVybXMgJiBDb25kaXRpb25zIiB9LAogICAgICAgICAgICAgICAgeyBocmVmOiAiL3JlZnVuZC1wb2xpY3kiLCBsYWJlbDogIlJlZnVuZCBQb2xpY3kiIH0sCiAgICAgICAgICAgICAgXS5tYXAoKHsgaHJlZiwgbGFiZWwgfSkgPT4gKAogICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAga2V5PXtocmVmfQogICAgICAgICAgICAgICAgICBocmVmPXtocmVmfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhvdmVyOnRleHQtd2hpdGUgdHJhbnNpdGlvbi1jb2xvcnMgZHVyYXRpb24tMjAwIHB4LTMgcHktMiBtaW4taC1bNDRweF0gZmxleCBpdGVtcy1jZW50ZXIiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtsYWJlbH0KICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Zvb3Rlcj4KICApOwp9Cg=="}
+import Link from "next/link";
+import { getConfig } from "@/lib/client-config";
+import SocialIcon from "./SocialIcon";
+
+const config = getConfig();
+
+export default function Footer() {
+  return (
+    <footer className="bg-dark text-white pt-section-y-sm pb-8">
+      <div className="max-w-[1280px] mx-auto px-6 lg:px-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
+          {/* Company info */}
+          <div>
+            <h3 className="text-lg font-bold mb-4">{config.businessName}</h3>
+            <p className="text-gray-300 text-sm mb-4">
+              Professional web design, SEO, and digital marketing services across Canada since {config.founded}.
+            </p>
+            <div className="flex gap-1 flex-wrap">
+              {config.socialLinks.map((link) => (
+                <a
+                  key={link.icon}
+                  href={link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-11 h-11 flex items-center justify-center rounded-lg text-gray-300 hover:text-white hover:bg-white/10 transition-all duration-200"
+                  aria-label={link.label}
+                >
+                  <SocialIcon name={link.icon} />
+                </a>
+              ))}
+            </div>
+          </div>
+
+          {/* Quick links */}
+          <div>
+            <h3 className="text-lg font-bold mb-4">Quick Links</h3>
+            <ul className="space-y-0.5 text-sm">
+              {[
+                { href: "/who-we-are", label: "Who We Are" },
+                { href: "/our-story", label: "Our Story" },
+                { href: "/portfolio", label: "Our Portfolio" },
+                { href: "/blog", label: "Blog" },
+                { href: "/faq", label: "FAQ" },
+                { href: "/careers", label: "Careers" },
+                { href: "/contact", label: "Get In Touch" },
+              ].map(({ href, label }) => (
+                <li key={href}>
+                  <Link
+                    href={href}
+                    className="text-gray-300 hover:text-white transition-colors duration-200 py-1.5 block min-h-[40px] flex items-center"
+                  >
+                    {label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Contact info */}
+          <div>
+            <h3 className="text-lg font-bold mb-4">Contact Us</h3>
+            <ul className="space-y-3 text-sm text-gray-300">
+              <li className="flex items-center gap-2.5">
+                <svg className="w-4 h-4 text-[#00AADF] shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" />
+                </svg>
+                <a href={`tel:${config.phone}`} className="hover:text-white transition-colors duration-200 py-1 min-h-[44px] flex items-center">{config.phone}</a>
+              </li>
+              {Object.entries(config.addresses).map(([key, addr]) => (
+                <li key={key} className="flex items-start gap-2.5 pt-1">
+                  <svg className="w-4 h-4 text-[#00AADF] shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                  </svg>
+                  <span>
+                    <span className="text-white capitalize font-semibold">{key}:</span><br />
+                    {addr.street}<br />
+                    {addr.city}, {addr.province} {addr.postalCode}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service areas */}
+          <div>
+            <h3 className="text-lg font-bold mb-4">Service Areas</h3>
+            <ul className="grid grid-cols-2 gap-x-4 gap-y-0 text-sm">
+              {config.cities.map((city) => (
+                <li key={city.slug}>
+                  <Link
+                    href={`/locations/${city.slug}`}
+                    className="text-gray-300 hover:text-white transition-colors duration-200 py-1.5 block min-h-[40px] flex items-center"
+                  >
+                    {city.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* Bottom bar */}
+        <div className="border-t border-white/10 pt-6">
+          <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-300">
+            <p>&copy; {new Date().getFullYear()} {config.businessName}. All rights reserved.</p>
+            <div className="flex gap-1 flex-wrap justify-center">
+              {[
+                { href: "/privacy-policy", label: "Privacy Policy" },
+                { href: "/terms-and-conditions", label: "Terms & Conditions" },
+                { href: "/refund-policy", label: "Refund Policy" },
+              ].map(({ href, label }) => (
+                <Link
+                  key={href}
+                  href={href}
+                  className="hover:text-white transition-colors duration-200 px-3 py-2 min-h-[44px] flex items-center"
+                >
+                  {label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}

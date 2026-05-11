@@ -1,1 +1,175 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgSW1hZ2UgZnJvbSAibmV4dC9pbWFnZSI7CmltcG9ydCB7IGdldENvbmZpZyB9IGZyb20gIkAvbGliL2NsaWVudC1jb25maWciOwppbXBvcnQgU3RhclJhdGluZyBmcm9tICJAL2NvbXBvbmVudHMvU3RhclJhdGluZyI7CmltcG9ydCBCcmVhZGNydW1iU2NoZW1hIGZyb20gIkAvY29tcG9uZW50cy9CcmVhZGNydW1iU2NoZW1hIjsKCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIlRlc3RpbW9uaWFscyIsCiAgZGVzY3JpcHRpb246IGBSZWFkICR7Y29uZmlnLnJldmlld0NvdW50fSsgZml2ZS1zdGFyIHJldmlld3MgZnJvbSAke2NvbmZpZy5idXNpbmVzc05hbWV9IGNsaWVudHMgYWNyb3NzIENhbmFkYS5gLAogIGFsdGVybmF0ZXM6IHsgY2Fub25pY2FsOiAiL3Rlc3RpbW9uaWFscyIgfSwKfTsKCmNvbnN0IHRlc3RpbW9uaWFscyA9IFsKICB7IG5hbWU6ICJSZW1vdmUgTXkgV2FsbHMiLCBpbml0aWFsczogIlJNIiwgdGV4dDogYCR7Y29uZmlnLmJ1c2luZXNzTmFtZX0gY29tcGxldGVseSB0cmFuc2Zvcm1lZCBvdXIgb25saW5lIHByZXNlbmNlLiBPdXIgbGVhZHMgaW5jcmVhc2VkIGJ5IDMwMCUgd2l0aGluIHRoZSBmaXJzdCBtb250aC4gSGlnaGx5IHJlY29tbWVuZCB0aGVpciBzZXJ2aWNlcyB0byBhbnkgYnVzaW5lc3MgbG9va2luZyB0byBncm93LmAsIGxvY2F0aW9uOiAiVG9yb250bywgT04iIH0sCiAgeyBuYW1lOiAiVENNIFdlbGxuZXNzIiwgaW5pdGlhbHM6ICJUVyIsIHRleHQ6ICJQcm9mZXNzaW9uYWwsIGNyZWF0aXZlLCBhbmQgcmVzdWx0cy1kcml2ZW4uIFRoZXkgZGVsaXZlcmVkIGV4YWN0bHkgd2hhdCB3ZSBuZWVkZWQgdG8gZ3JvdyBvdXIgYnVzaW5lc3Mgb25saW5lLiBUaGUgdGVhbSB3ZW50IGFib3ZlIGFuZCBiZXlvbmQgb3VyIGV4cGVjdGF0aW9ucy4iLCBsb2NhdGlvbjogIkJyYW1wdG9uLCBPTiIgfSwKICB7IG5hbWU6ICJHVEEgR3JpenpseSIsIGluaXRpYWxzOiAiR0ciLCB0ZXh0OiAiVGhlIGJlc3Qgd2ViIGRlc2lnbiBjb21wYW55IGluIENhbmFkYS4gVGhlaXIgU0VPIHdvcmsgcHV0IHVzIG9uIHRoZSBmaXJzdCBwYWdlIG9mIEdvb2dsZSB3aXRoaW4gd2Vla3MuIFdlJ3ZlIHNlZW4gYSBzaWduaWZpY2FudCBpbmNyZWFzZSBpbiBjYWxscyBhbmQgaW5xdWlyaWVzLiIsIGxvY2F0aW9uOiAiTWlzc2lzc2F1Z2EsIE9OIiB9LAogIHsgbmFtZTogIkJsYWNrR29sZCBBc3BoYWx0IiwgaW5pdGlhbHM6ICJCQSIsIHRleHQ6IGBPdXRzdGFuZGluZyB3b3JrIG9uIG91ciB3ZWJzaXRlIGFuZCBicmFuZGluZy4gVGhlIHRlYW0gYXQgJHtjb25maWcuYnVzaW5lc3NOYW1lfSByZWFsbHkgdW5kZXJzdGFuZHMgaG93IHRvIG1ha2UgYSBidXNpbmVzcyBzdGFuZCBvdXQgb25saW5lLmAsIGxvY2F0aW9uOiAiQ2FsZ2FyeSwgQUIiIH0sCiAgeyBuYW1lOiAiTG9jYWwgUmVzdGF1cmFudCBDbGllbnQiLCBpbml0aWFsczogIkxSIiwgdGV4dDogIk91ciBuZXcgd2Vic2l0ZSBsb29rcyBhbWF6aW5nIGFuZCBvdXIgb25saW5lIG9yZGVycyBoYXZlIGRvdWJsZWQgc2luY2UgbGF1bmNoLiBUaGUgdGVhbSB3YXMgcmVzcG9uc2l2ZSBhbmQgcHJvZmVzc2lvbmFsIHRocm91Z2hvdXQgdGhlIGVudGlyZSBwcm9jZXNzLiIsIGxvY2F0aW9uOiAiVmFuY291dmVyLCBCQyIgfSwKICB7IG5hbWU6ICJEZW50YWwgQ2xpbmljIENsaWVudCIsIGluaXRpYWxzOiAiREMiLCB0ZXh0OiBgV2UgbmVlZGVkIGEgbW9kZXJuIHdlYnNpdGUgdGhhdCB3b3VsZCBhdHRyYWN0IG5ldyBwYXRpZW50cy4gJHtjb25maWcuYnVzaW5lc3NOYW1lfSBkZWxpdmVyZWQgYmV5b25kIG91ciBleHBlY3RhdGlvbnMuIE91ciBvbmxpbmUgYm9va2luZ3MgYXJlIHVwIDE1MCUuYCwgbG9jYXRpb246ICJPdHRhd2EsIE9OIiB9LAogIHsgbmFtZTogIlJlYWwgRXN0YXRlIENsaWVudCIsIGluaXRpYWxzOiAiUkUiLCB0ZXh0OiAiVGhlIFNFTyBhbmQgd2ViIGRlc2lnbiBwYWNrYWdlIHRyYW5zZm9ybWVkIG91ciBsZWFkIGdlbmVyYXRpb24uIFdlJ3JlIG5vdyByYW5raW5nIG9uIHRoZSBmaXJzdCBwYWdlIGZvciBhbGwgb3VyIHRhcmdldCBrZXl3b3Jkcy4iLCBsb2NhdGlvbjogIkVkbW9udG9uLCBBQiIgfSwKICB7IG5hbWU6ICJFLWNvbW1lcmNlIENsaWVudCIsIGluaXRpYWxzOiAiRUMiLCB0ZXh0OiAiRnJvbSBkZXNpZ24gdG8gZGV2ZWxvcG1lbnQgdG8gbGF1bmNoLCB0aGUgZXhwZXJpZW5jZSB3YXMgc2VhbWxlc3MuIE91ciBvbmxpbmUgc2FsZXMgaGF2ZSBncm93biBzaWduaWZpY2FudGx5IHNpbmNlIHRoZSBuZXcgc2l0ZSB3ZW50IGxpdmUuIiwgbG9jYXRpb246ICJNb250cmVhbCwgUUMiIH0sCiAgeyBuYW1lOiAiQ29uc3RydWN0aW9uIENvbXBhbnkgQ2xpZW50IiwgaW5pdGlhbHM6ICJDQyIsIHRleHQ6ICJQcm9mZXNzaW9uYWwgdGVhbSB0aGF0IHVuZGVyc3RhbmRzIHRoZSBuZWVkcyBvZiBzZXJ2aWNlLWJhc2VkIGJ1c2luZXNzZXMuIE91ciB3ZWJzaXRlIG5vdyBnZW5lcmF0ZXMgY29uc2lzdGVudCBsZWFkcyBldmVyeSB3ZWVrLiIsIGxvY2F0aW9uOiAiSGFsaWZheCwgTlMiIH0sCl07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBUZXN0aW1vbmlhbHNQYWdlKCkgewogIHJldHVybiAoCiAgICA8PgogICAgICA8QnJlYWRjcnVtYlNjaGVtYSBpdGVtcz17W3sgbmFtZTogIlRlc3RpbW9uaWFscyIsIGhyZWY6ICIvdGVzdGltb25pYWxzIiB9XX0gLz4KCiAgICAgIHsvKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAgIEhFUk8KICAgICAgICAgID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqL30KICAgICAgPHNlY3Rpb24KICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBweS0xNCBtZDpweS0yMCBmbGV4IGl0ZW1zLWNlbnRlciIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEzNWRlZywgIzAxMEMxRSAwJSwgIzA1MjE0MCA1NSUsICMwMTBEMjIgMTAwJSkiIH19CiAgICAgID4KICAgICAgICB7LyogQmFja2dyb3VuZCBpbWFnZSAqL30KICAgICAgICA8SW1hZ2Ugc3JjPSIvYmxvZy9zZW8tc2VydmljZXMtbG9uZG9uLW9udGFyaW8ucG5nIiBhbHQ9IiIgZmlsbCBjbGFzc05hbWU9Im9iamVjdC1jb3ZlciBvYmplY3QtY2VudGVyIiBwcmlvcml0eSAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiAibGluZWFyLWdyYWRpZW50KDEwNWRlZywgcmdiYSgxLDEyLDMwLDAuOTQpIDAlLCByZ2JhKDEsMTIsMzAsMC44NSkgNTAlLCByZ2JhKDEsMTIsMzAsMC43NSkgMTAwJSkiIH19IC8+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtMCBsZWZ0LVs4JV0gdy1bNTAwcHhdIGgtWzUwMHB4XSByb3VuZGVkLWZ1bGwgcG9pbnRlci1ldmVudHMtbm9uZSBhbmltYXRlLW9yYiIKICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMDBBQURGIiwgZmlsdGVyOiAiYmx1cigxNDBweCkiLCBvcGFjaXR5OiAwLjIyIH19IC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIHJpZ2h0LVs1JV0gdy04MCBoLTgwIHJvdW5kZWQtZnVsbCBwb2ludGVyLWV2ZW50cy1ub25lIGFuaW1hdGUtb3JiIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMDNCNkYiLCBmaWx0ZXI6ICJibHVyKDExMHB4KSIsIG9wYWNpdHk6IDAuMywgYW5pbWF0aW9uRGVsYXk6ICIyLjVzIiB9fSAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kSW1hZ2U6ICJyYWRpYWwtZ3JhZGllbnQoY2lyY2xlLCByZ2JhKDI1NSwyNTUsMjU1LDAuMDcpIDFweCwgdHJhbnNwYXJlbnQgMXB4KSIsIGJhY2tncm91bmRTaXplOiAiNDhweCA0OHB4IiB9fSAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgbWF4LXctWzEyODBweF0gbXgtYXV0byBweC02IGxnOnB4LTggdy1mdWxsIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0yeGwiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGVyby1mYWRlLXVwIGlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMi41IHB4LTQgcHktMiByb3VuZGVkLWZ1bGwgZ2xhc3MgbWItNiI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ3LTIgaC0yIHJvdW5kZWQtZnVsbCIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBib3hTaGFkb3c6ICIwIDAgOHB4IHJnYmEoMCwxNzAsMjIzLDAuOCkiIH19IC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzgwIHRleHQtc20gZm9udC1tZWRpdW0gdHJhY2tpbmctd2lkZSI+e2NvbmZpZy5yZXZpZXdDb3VudH0rIFZlcmlmaWVkIFJldmlld3M8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8aDEKICAgICAgICAgICAgICBjbGFzc05hbWU9Imhlcm8tZmFkZS11cC0xIGZvbnQtYmxhY2sgdGV4dC13aGl0ZSBtYi01IgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRTaXplOiAiY2xhbXAoMS44cmVtLCA0dncsIDIuNnJlbSkiLCBsaW5lSGVpZ2h0OiAxLjA1IH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBSZWFsIENsaWVudHMseyIgIn0KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImdyYWRpZW50LXRleHQtYW5pbWF0ZWQiPlJlYWwgUmVzdWx0czwvc3Bhbj4KICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imhlcm8tZmFkZS11cC0yIGZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTQiPgogICAgICAgICAgICAgIDxTdGFyUmF0aW5nIHJhdGluZz17NX0gc2l6ZT0ibGciIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXdoaXRlLzcwIGZvbnQtc2VtaWJvbGQiPntjb25maWcucmF0aW5nID8/IDV9LzUg4oCUIHtjb25maWcucmV2aWV3Q291bnR9KyByZXZpZXdzPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJoZXJvLWZhZGUtdXAtMyB0ZXh0LXhsIHRleHQtd2hpdGUvNjAgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICBEb24mYXBvczt0IHRha2Ugb3VyIHdvcmQgZm9yIGl0LiBTZWUgd2hhdCBDYW5hZGlhbiBidXNpbmVzcyBvd25lcnMgc2F5IGFib3V0IHdvcmtpbmcgd2l0aCB1cy4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KICAgICAgICAgIFRFU1RJTU9OSUFMUyBHUklECiAgICAgICAgICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi99CiAgICAgIDxzZWN0aW9uCiAgICAgICAgY2xhc3NOYW1lPSJweS1zZWN0aW9uLXkgcmVsYXRpdmUiCiAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNmOGZhZmMiIH19CiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBwb2ludGVyLWV2ZW50cy1ub25lIgogICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZEltYWdlOiAicmFkaWFsLWdyYWRpZW50KGNpcmNsZSwgcmdiYSgwLDAsMCwwLjA0KSAxcHgsIHRyYW5zcGFyZW50IDFweCkiLCBiYWNrZ3JvdW5kU2l6ZTogIjM2cHggMzZweCIgfX0gLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIG1heC13LVsxMjgwcHhdIG14LWF1dG8gcHgtNiBsZzpweC04Ij4KCiAgICAgICAgICB7LyogU3RhdHMgcm93ICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTQgbWItMTQgcmV2ZWFsIj4KICAgICAgICAgICAge1sKICAgICAgICAgICAgICB7IHZhbHVlOiBgJHtjb25maWcucmV2aWV3Q291bnR9K2AsIGxhYmVsOiAiRml2ZS1TdGFyIFJldmlld3MiIH0sCiAgICAgICAgICAgICAgeyB2YWx1ZTogU3RyaW5nKGNvbmZpZy5yYXRpbmcgPz8gNSksIGxhYmVsOiAiQXZlcmFnZSBSYXRpbmciIH0sCiAgICAgICAgICAgICAgeyB2YWx1ZTogYCR7Y29uZmlnLmNpdGllcy5sZW5ndGh9K2AsIGxhYmVsOiAiQ2l0aWVzIFNlcnZlZCIgfSwKICAgICAgICAgICAgXS5tYXAoKHMpID0+ICgKICAgICAgICAgICAgICA8ZGl2IGtleT17cy5sYWJlbH0gY2xhc3NOYW1lPSJiZy13aGl0ZSByb3VuZGVkLTJ4bCBweC00IHB5LTUgdGV4dC1jZW50ZXIgYm9yZGVyIGJvcmRlci1ncmF5LTEwMCIgc3R5bGU9e3sgYm94U2hhZG93OiAiMCAycHggMTJweCByZ2JhKDAsMCwwLDAuMDUpIiB9fT4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ibGFjayB0ZXh0LWdyYXktOTAwIG1iLTEiPntzLnZhbHVlfTwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTQwMCB0ZXh0LXhzIj57cy5sYWJlbH08L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgbWQ6Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgZ2FwLTUiPgogICAgICAgICAgICB7dGVzdGltb25pYWxzLm1hcCgodCwgaSkgPT4gKAogICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgIGtleT17dC5uYW1lfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBiZy13aGl0ZSByb3VuZGVkLTJ4bCBwLTcgZmxleCBmbGV4LWNvbCByZXZlYWwgYm9yZGVyIGJvcmRlci1ncmF5LTEwMCBob3Zlcjpib3JkZXItWyMwMEFBREZdLzMwIGhvdmVyOnNoYWRvdy14bCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBib3hTaGFkb3c6ICIwIDJweCAxNnB4IHJnYmEoMCwwLDAsMC4wNikiLCB0cmFuc2l0aW9uRGVsYXk6IGAkeyhpICUgMykgKiAwLjF9c2AgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7LyogUXVvdGUgbWFyayAqL30KICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LTV4bCBmb250LWJsYWNrIGxlYWRpbmctbm9uZSBtYi0zIHRyYW5zaXRpb24tY29sb3JzIGR1cmF0aW9uLTMwMCIKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgY29sb3I6ICJyZ2JhKDAsMTcwLDIyMywwLjI1KSIgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgJmxkcXVvOwogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8U3RhclJhdGluZyByYXRpbmc9ezV9IHNpemU9InNtIiAvPgogICAgICAgICAgICAgICAgPGJsb2NrcXVvdGUgY2xhc3NOYW1lPSJ0ZXh0LWdyYXktNjAwIGxlYWRpbmctcmVsYXhlZCBtdC00IG1iLTYgdGV4dC1zbSBmbGV4LTEgaXRhbGljIj4KICAgICAgICAgICAgICAgICAgJmxkcXVvO3t0LnRleHR9JnJkcXVvOwogICAgICAgICAgICAgICAgPC9ibG9ja3F1b3RlPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHB0LTUgYm9yZGVyLXQgYm9yZGVyLWdyYXktMTAwIj4KICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy0xMCBoLTEwIHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0ZXh0LXNtIGZvbnQtYmxhY2sgdGV4dC13aGl0ZSBzaHJpbmstMCB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0zMDAgZ3JvdXAtaG92ZXI6c2NhbGUtMTEwIgogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICJsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCAjMDAzQjZGLCAjMDBBQURGKSIgfX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHt0LmluaXRpYWxzfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtYm9sZCB0ZXh0LWdyYXktOTAwIHRleHQtc20iPnt0Lm5hbWV9PC9wPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ncmF5LTQwMCB0ZXh0LXhzIj57dC5sb2NhdGlvbn08L3A+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIG10LTEyIHJldmVhbCI+CiAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgaHJlZj0iL2NvbnRhY3QiCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4tc2hpbW1lciBpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcHgtMTAgcHktNSB0ZXh0LXdoaXRlIGZvbnQtYmxhY2sgcm91bmRlZC1idG4gdGV4dC1sZyB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiCiAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwMEFBREYiLCBib3hTaGFkb3c6ICIwIDRweCAzMnB4IHJnYmEoMCwxNzAsMjIzLDAuNCkiIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBHZXQgWW91ciBGcmVlIFF1b3RlCiAgICAgICAgICAgICAgPHN2ZyBjbGFzc05hbWU9InctNSBoLTUiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyfT4KICAgICAgICAgICAgICAgIDxwYXRoIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIGQ9Ik0xMy41IDQuNUwyMSAxMm0wIDBsLTcuNSA3LjVNMjEgMTJIMyIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIDxzY3JpcHQKICAgICAgICB0eXBlPSJhcHBsaWNhdGlvbi9sZCtqc29uIgogICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7CiAgICAgICAgICBfX2h0bWw6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgIkBjb250ZXh0IjogImh0dHBzOi8vc2NoZW1hLm9yZyIsCiAgICAgICAgICAgICJAdHlwZSI6ICJMb2NhbEJ1c2luZXNzIiwKICAgICAgICAgICAgbmFtZTogY29uZmlnLmJ1c2luZXNzTmFtZSwKICAgICAgICAgICAgYWdncmVnYXRlUmF0aW5nOiB7CiAgICAgICAgICAgICAgIkB0eXBlIjogIkFnZ3JlZ2F0ZVJhdGluZyIsCiAgICAgICAgICAgICAgcmF0aW5nVmFsdWU6IGNvbmZpZy5yYXRpbmcsCiAgICAgICAgICAgICAgcmV2aWV3Q291bnQ6IGNvbmZpZy5yZXZpZXdDb3VudCwKICAgICAgICAgICAgICBiZXN0UmF0aW5nOiA1LAogICAgICAgICAgICB9LAogICAgICAgICAgICByZXZpZXc6IHRlc3RpbW9uaWFscy5tYXAoKHQpID0+ICh7CiAgICAgICAgICAgICAgIkB0eXBlIjogIlJldmlldyIsCiAgICAgICAgICAgICAgcmV2aWV3UmF0aW5nOiB7ICJAdHlwZSI6ICJSYXRpbmciLCByYXRpbmdWYWx1ZTogNSwgYmVzdFJhdGluZzogNSB9LAogICAgICAgICAgICAgIGF1dGhvcjogeyAiQHR5cGUiOiAiT3JnYW5pemF0aW9uIiwgbmFtZTogdC5uYW1lIH0sCiAgICAgICAgICAgICAgcmV2aWV3Qm9keTogdC50ZXh0LAogICAgICAgICAgICB9KSksCiAgICAgICAgICB9KSwKICAgICAgICB9fQogICAgICAvPgogICAgPC8+CiAgKTsKfQo="}
+import type { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { getConfig } from "@/lib/client-config";
+import StarRating from "@/components/StarRating";
+import BreadcrumbSchema from "@/components/BreadcrumbSchema";
+
+const config = getConfig();
+
+export const metadata: Metadata = {
+  title: "Testimonials",
+  description: `Read ${config.reviewCount}+ five-star reviews from ${config.businessName} clients across Canada.`,
+  alternates: { canonical: "/testimonials" },
+};
+
+const testimonials = [
+  { name: "Remove My Walls", initials: "RM", text: `${config.businessName} completely transformed our online presence. Our leads increased by 300% within the first month. Highly recommend their services to any business looking to grow.`, location: "Toronto, ON" },
+  { name: "TCM Wellness", initials: "TW", text: "Professional, creative, and results-driven. They delivered exactly what we needed to grow our business online. The team went above and beyond our expectations.", location: "Brampton, ON" },
+  { name: "GTA Grizzly", initials: "GG", text: "The best web design company in Canada. Their SEO work put us on the first page of Google within weeks. We've seen a significant increase in calls and inquiries.", location: "Mississauga, ON" },
+  { name: "BlackGold Asphalt", initials: "BA", text: `Outstanding work on our website and branding. The team at ${config.businessName} really understands how to make a business stand out online.`, location: "Calgary, AB" },
+  { name: "Local Restaurant Client", initials: "LR", text: "Our new website looks amazing and our online orders have doubled since launch. The team was responsive and professional throughout the entire process.", location: "Vancouver, BC" },
+  { name: "Dental Clinic Client", initials: "DC", text: `We needed a modern website that would attract new patients. ${config.businessName} delivered beyond our expectations. Our online bookings are up 150%.`, location: "Ottawa, ON" },
+  { name: "Real Estate Client", initials: "RE", text: "The SEO and web design package transformed our lead generation. We're now ranking on the first page for all our target keywords.", location: "Edmonton, AB" },
+  { name: "E-commerce Client", initials: "EC", text: "From design to development to launch, the experience was seamless. Our online sales have grown significantly since the new site went live.", location: "Montreal, QC" },
+  { name: "Construction Company Client", initials: "CC", text: "Professional team that understands the needs of service-based businesses. Our website now generates consistent leads every week.", location: "Halifax, NS" },
+];
+
+export default function TestimonialsPage() {
+  return (
+    <>
+      <BreadcrumbSchema items={[{ name: "Testimonials", href: "/testimonials" }]} />
+
+      {/* =============================================
+          HERO
+          ============================================= */}
+      <section
+        className="relative overflow-hidden py-14 md:py-20 flex items-center"
+        style={{ background: "linear-gradient(135deg, #010C1E 0%, #052140 55%, #010D22 100%)" }}
+      >
+        {/* Background image */}
+        <Image src="/blog/seo-services-london-ontario.png" alt="" fill className="object-cover object-center" priority />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ background: "linear-gradient(105deg, rgba(1,12,30,0.94) 0%, rgba(1,12,30,0.85) 50%, rgba(1,12,30,0.75) 100%)" }} />
+
+        <div className="absolute top-0 left-[8%] w-[500px] h-[500px] rounded-full pointer-events-none animate-orb"
+          style={{ background: "#00AADF", filter: "blur(140px)", opacity: 0.22 }} />
+        <div className="absolute bottom-0 right-[5%] w-80 h-80 rounded-full pointer-events-none animate-orb"
+          style={{ background: "#003B6F", filter: "blur(110px)", opacity: 0.3, animationDelay: "2.5s" }} />
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(255,255,255,0.07) 1px, transparent 1px)", backgroundSize: "48px 48px" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8 w-full">
+          <div className="max-w-2xl">
+            <div className="hero-fade-up inline-flex items-center gap-2.5 px-4 py-2 rounded-full glass mb-6">
+              <span className="w-2 h-2 rounded-full" style={{ background: "#00AADF", boxShadow: "0 0 8px rgba(0,170,223,0.8)" }} />
+              <span className="text-white/80 text-sm font-medium tracking-wide">{config.reviewCount}+ Verified Reviews</span>
+            </div>
+            <h1
+              className="hero-fade-up-1 font-black text-white mb-5"
+              style={{ fontSize: "clamp(1.8rem, 4vw, 2.6rem)", lineHeight: 1.05 }}
+            >
+              Real Clients,{" "}
+              <span className="gradient-text-animated">Real Results</span>
+            </h1>
+            <div className="hero-fade-up-2 flex items-center gap-3 mb-4">
+              <StarRating rating={5} size="lg" />
+              <span className="text-white/70 font-semibold">{config.rating ?? 5}/5 — {config.reviewCount}+ reviews</span>
+            </div>
+            <p className="hero-fade-up-3 text-xl text-white/60 leading-relaxed">
+              Don&apos;t take our word for it. See what Canadian business owners say about working with us.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* =============================================
+          TESTIMONIALS GRID
+          ============================================= */}
+      <section
+        className="py-section-y relative"
+        style={{ background: "#f8fafc" }}
+      >
+        <div className="absolute inset-0 pointer-events-none"
+          style={{ backgroundImage: "radial-gradient(circle, rgba(0,0,0,0.04) 1px, transparent 1px)", backgroundSize: "36px 36px" }} />
+
+        <div className="relative max-w-[1280px] mx-auto px-6 lg:px-8">
+
+          {/* Stats row */}
+          <div className="grid grid-cols-3 gap-4 mb-14 reveal">
+            {[
+              { value: `${config.reviewCount}+`, label: "Five-Star Reviews" },
+              { value: String(config.rating ?? 5), label: "Average Rating" },
+              { value: `${config.cities.length}+`, label: "Cities Served" },
+            ].map((s) => (
+              <div key={s.label} className="bg-white rounded-2xl px-4 py-5 text-center border border-gray-100" style={{ boxShadow: "0 2px 12px rgba(0,0,0,0.05)" }}>
+                <p className="text-3xl font-black text-gray-900 mb-1">{s.value}</p>
+                <p className="text-gray-400 text-xs">{s.label}</p>
+              </div>
+            ))}
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {testimonials.map((t, i) => (
+              <div
+                key={t.name}
+                className="group bg-white rounded-2xl p-7 flex flex-col reveal border border-gray-100 hover:border-[#00AADF]/30 hover:shadow-xl transition-all duration-300"
+                style={{ boxShadow: "0 2px 16px rgba(0,0,0,0.06)", transitionDelay: `${(i % 3) * 0.1}s` }}
+              >
+                {/* Quote mark */}
+                <div
+                  className="text-5xl font-black leading-none mb-3 transition-colors duration-300"
+                  style={{ color: "rgba(0,170,223,0.25)" }}
+                >
+                  &ldquo;
+                </div>
+                <StarRating rating={5} size="sm" />
+                <blockquote className="text-gray-600 leading-relaxed mt-4 mb-6 text-sm flex-1 italic">
+                  &ldquo;{t.text}&rdquo;
+                </blockquote>
+                <div className="flex items-center gap-3 pt-5 border-t border-gray-100">
+                  <div
+                    className="w-10 h-10 rounded-full flex items-center justify-center text-sm font-black text-white shrink-0 transition-transform duration-300 group-hover:scale-110"
+                    style={{ background: "linear-gradient(135deg, #003B6F, #00AADF)" }}
+                  >
+                    {t.initials}
+                  </div>
+                  <div>
+                    <p className="font-bold text-gray-900 text-sm">{t.name}</p>
+                    <p className="text-gray-400 text-xs">{t.location}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <div className="text-center mt-12 reveal">
+            <Link
+              href="/contact"
+              className="btn-shimmer inline-flex items-center gap-2 px-10 py-5 text-white font-black rounded-btn text-lg transition-all duration-300"
+              style={{ background: "#00AADF", boxShadow: "0 4px 32px rgba(0,170,223,0.4)" }}
+            >
+              Get Your Free Quote
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            name: config.businessName,
+            aggregateRating: {
+              "@type": "AggregateRating",
+              ratingValue: config.rating,
+              reviewCount: config.reviewCount,
+              bestRating: 5,
+            },
+            review: testimonials.map((t) => ({
+              "@type": "Review",
+              reviewRating: { "@type": "Rating", ratingValue: 5, bestRating: 5 },
+              author: { "@type": "Organization", name: t.name },
+              reviewBody: t.text,
+            })),
+          }),
+        }}
+      />
+    </>
+  );
+}

@@ -1,1 +1,6 @@
-{"data":"aW50ZXJmYWNlIFdpbmRvdyB7DQogIGdyZWNhcHRjaGE6IHsNCiAgICByZWFkeTogKGNhbGxiYWNrOiAoKSA9PiB2b2lkKSA9PiB2b2lkOw0KICAgIGV4ZWN1dGU6IChzaXRlS2V5OiBzdHJpbmcsIG9wdGlvbnM6IHsgYWN0aW9uOiBzdHJpbmcgfSkgPT4gUHJvbWlzZTxzdHJpbmc+Ow0KICB9Ow0KfQ0K"}
+interface Window {
+  grecaptcha: {
+    ready: (callback: () => void) => void;
+    execute: (siteKey: string, options: { action: string }) => Promise<string>;
+  };
+}

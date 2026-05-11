@@ -1,1 +1,96 @@
-{"data":"aW1wb3J0IGZzIGZyb20gImZzIjsKaW1wb3J0IHBhdGggZnJvbSAicGF0aCI7CmltcG9ydCBtYXR0ZXIgZnJvbSAiZ3JheS1tYXR0ZXIiOwppbXBvcnQgeyByZW1hcmsgfSBmcm9tICJyZW1hcmsiOwppbXBvcnQgaHRtbCBmcm9tICJyZW1hcmstaHRtbCI7CgpleHBvcnQgaW50ZXJmYWNlIEJsb2dQb3N0IHsKICB0aXRsZTogc3RyaW5nOwogIHNsdWc6IHN0cmluZzsKICBkYXRlOiBzdHJpbmc7CiAgYXV0aG9yOiBzdHJpbmc7CiAgZGVzY3JpcHRpb246IHN0cmluZzsKICBrZXl3b3Jkczogc3RyaW5nW107CiAgY2F0ZWdvcnk6IHN0cmluZzsKICBmZWF0dXJlZEltYWdlPzogc3RyaW5nOwogIGNvbnRlbnQ/OiBzdHJpbmc7Cn0KCmNvbnN0IHBvc3RzRGlyZWN0b3J5ID0gcGF0aC5qb2luKHByb2Nlc3MuY3dkKCksICJjb250ZW50L2Jsb2ciKTsKLy8gU3RyaXAgaW1hZ2VzIHN0aWxsIGhvc3RlZCBvbiB0aGUgZGVjb21taXNzaW9uZWQgV29yZFByZXNzIGRvbWFpbgpjb25zdCBPTERfV1AgPSAvXmh0dHBzPzpcL1wvb2xkXC5jYW5hZGlhbndlYmRlc2lnbnNcLmNhXC8vOwoKZnVuY3Rpb24gc2FuaXRpemVIdG1sKHJhdzogc3RyaW5nKTogc3RyaW5nIHsKICAvLyBSZW1vdmUgaW5qZWN0ZWQgPHNjcmlwdD4gdGFncyAoV29yZFByZXNzIG1hbHdhcmUgLyBTRU8gc3BhbSkKICByZXR1cm4gcmF3LnJlcGxhY2UoLzxzY3JpcHRcYltePF0qKD86KD8hPFwvc2NyaXB0Pik8W148XSopKjxcL3NjcmlwdFxzKj4vZ2ksICIiKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdldEFsbFBvc3RzKCk6IEJsb2dQb3N0W10gewogIGlmICghZnMuZXhpc3RzU3luYyhwb3N0c0RpcmVjdG9yeSkpIHJldHVybiBbXTsKICBjb25zdCBmaWxlTmFtZXMgPSBmcy5yZWFkZGlyU3luYyhwb3N0c0RpcmVjdG9yeSkuZmlsdGVyKChmKSA9PiBmLmVuZHNXaXRoKCIubWQiKSk7CgogIGNvbnN0IHBvc3RzID0gZmlsZU5hbWVzLm1hcCgoZmlsZU5hbWUpID0+IHsKICAgIGNvbnN0IHNsdWcgPSBmaWxlTmFtZS5yZXBsYWNlKC9cLm1kJC8sICIiKTsKICAgIGNvbnN0IGZ1bGxQYXRoID0gcGF0aC5qb2luKHBvc3RzRGlyZWN0b3J5LCBmaWxlTmFtZSk7CiAgICBjb25zdCBmaWxlQ29udGVudHMgPSBmcy5yZWFkRmlsZVN5bmMoZnVsbFBhdGgsICJ1dGY4Iik7CiAgICBjb25zdCB7IGRhdGEgfSA9IG1hdHRlcihmaWxlQ29udGVudHMpOwoKICAgIGNvbnN0IHJhd0ltYWdlOiBzdHJpbmcgfCB1bmRlZmluZWQgPSBkYXRhLmZlYXR1cmVkSW1hZ2U7CiAgICBjb25zdCBmZWF0dXJlZEltYWdlID0KICAgICAgcmF3SW1hZ2UgJiYgIU9MRF9XUC50ZXN0KHJhd0ltYWdlKSA/IHJhd0ltYWdlIDogdW5kZWZpbmVkOwoKICAgIHJldHVybiB7CiAgICAgIHNsdWcsCiAgICAgIHRpdGxlOiBkYXRhLnRpdGxlLAogICAgICBkYXRlOiBkYXRhLmRhdGUsCiAgICAgIGF1dGhvcjogKGRhdGEuYXV0aG9yICYmIGRhdGEuYXV0aG9yICE9PSAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiKSA/IGRhdGEuYXV0aG9yIDogIkFtaXIgS2hlbGEiLAogICAgICBkZXNjcmlwdGlvbjogZGF0YS5kZXNjcmlwdGlvbiwKICAgICAga2V5d29yZHM6IGRhdGEua2V5d29yZHMgPz8gW10sCiAgICAgIGNhdGVnb3J5OiBkYXRhLmNhdGVnb3J5LAogICAgICBmZWF0dXJlZEltYWdlLAogICAgfSBhcyBCbG9nUG9zdDsKICB9KTsKCiAgcmV0dXJuIHBvc3RzLnNvcnQoKGEsIGIpID0+IChhLmRhdGUgPiBiLmRhdGUgPyAtMSA6IDEpKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFBvc3RCeVNsdWcoc2x1Zzogc3RyaW5nKTogUHJvbWlzZTxCbG9nUG9zdCB8IG51bGw+IHsKICBjb25zdCBmdWxsUGF0aCA9IHBhdGguam9pbihwb3N0c0RpcmVjdG9yeSwgYCR7c2x1Z30ubWRgKTsKICBpZiAoIWZzLmV4aXN0c1N5bmMoZnVsbFBhdGgpKSByZXR1cm4gbnVsbDsKCiAgY29uc3QgZmlsZUNvbnRlbnRzID0gZnMucmVhZEZpbGVTeW5jKGZ1bGxQYXRoLCAidXRmOCIpOwogIGNvbnN0IHsgZGF0YSwgY29udGVudDogcmF3Q29udGVudCB9ID0gbWF0dGVyKGZpbGVDb250ZW50cyk7CgogIGxldCBjb250ZW50OiBzdHJpbmc7CiAgY29uc3QgdHJpbW1lZCA9IHJhd0NvbnRlbnQudHJpbSgpOwogIGlmICh0cmltbWVkLnN0YXJ0c1dpdGgoIjwiKSkgewogICAgY29udGVudCA9IHNhbml0aXplSHRtbCh0cmltbWVkKTsKICB9IGVsc2UgewogICAgY29uc3QgcHJvY2Vzc2VkID0gYXdhaXQgcmVtYXJrKCkudXNlKGh0bWwpLnByb2Nlc3MocmF3Q29udGVudCk7CiAgICBjb250ZW50ID0gc2FuaXRpemVIdG1sKHByb2Nlc3NlZC50b1N0cmluZygpKTsKICB9CgogIGNvbnN0IHJhd0ltYWdlOiBzdHJpbmcgfCB1bmRlZmluZWQgPSBkYXRhLmZlYXR1cmVkSW1hZ2U7CiAgY29uc3QgZmVhdHVyZWRJbWFnZSA9CiAgICByYXdJbWFnZSAmJiAhT0xEX1dQLnRlc3QocmF3SW1hZ2UpID8gcmF3SW1hZ2UgOiB1bmRlZmluZWQ7CgogIHJldHVybiB7CiAgICBzbHVnLAogICAgdGl0bGU6IGRhdGEudGl0bGUsCiAgICBkYXRlOiBkYXRhLmRhdGUsCiAgICBhdXRob3I6IChkYXRhLmF1dGhvciAmJiBkYXRhLmF1dGhvciAhPT0gIkNhbmFkaWFuIFdlYiBEZXNpZ25zIikgPyBkYXRhLmF1dGhvciA6ICJBbWlyIEtoZWxhIiwKICAgIGRlc2NyaXB0aW9uOiBkYXRhLmRlc2NyaXB0aW9uLAogICAga2V5d29yZHM6IGRhdGEua2V5d29yZHMgPz8gW10sCiAgICBjYXRlZ29yeTogZGF0YS5jYXRlZ29yeSwKICAgIGZlYXR1cmVkSW1hZ2UsCiAgICBjb250ZW50LAogIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiBnZXRBbGxTbHVncygpOiBzdHJpbmdbXSB7CiAgaWYgKCFmcy5leGlzdHNTeW5jKHBvc3RzRGlyZWN0b3J5KSkgcmV0dXJuIFtdOwogIHJldHVybiBmcwogICAgLnJlYWRkaXJTeW5jKHBvc3RzRGlyZWN0b3J5KQogICAgLmZpbHRlcigoZikgPT4gZi5lbmRzV2l0aCgiLm1kIikpCiAgICAubWFwKChmKSA9PiBmLnJlcGxhY2UoL1wubWQkLywgIiIpKTsKfQo="}
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import { remark } from "remark";
+import html from "remark-html";
+
+export interface BlogPost {
+  title: string;
+  slug: string;
+  date: string;
+  author: string;
+  description: string;
+  keywords: string[];
+  category: string;
+  featuredImage?: string;
+  content?: string;
+}
+
+const postsDirectory = path.join(process.cwd(), "content/blog");
+// Strip images still hosted on the decommissioned WordPress domain
+const OLD_WP = /^https?:\/\/old\.canadianwebdesigns\.ca\//;
+
+function sanitizeHtml(raw: string): string {
+  // Remove injected <script> tags (WordPress malware / SEO spam)
+  return raw.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script\s*>/gi, "");
+}
+
+export function getAllPosts(): BlogPost[] {
+  if (!fs.existsSync(postsDirectory)) return [];
+  const fileNames = fs.readdirSync(postsDirectory).filter((f) => f.endsWith(".md"));
+
+  const posts = fileNames.map((fileName) => {
+    const slug = fileName.replace(/\.md$/, "");
+    const fullPath = path.join(postsDirectory, fileName);
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const { data } = matter(fileContents);
+
+    const rawImage: string | undefined = data.featuredImage;
+    const featuredImage =
+      rawImage && !OLD_WP.test(rawImage) ? rawImage : undefined;
+
+    return {
+      slug,
+      title: data.title,
+      date: data.date,
+      author: (data.author && data.author !== "Canadian Web Designs") ? data.author : "Amir Khela",
+      description: data.description,
+      keywords: data.keywords ?? [],
+      category: data.category,
+      featuredImage,
+    } as BlogPost;
+  });
+
+  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+}
+
+export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
+  const fullPath = path.join(postsDirectory, `${slug}.md`);
+  if (!fs.existsSync(fullPath)) return null;
+
+  const fileContents = fs.readFileSync(fullPath, "utf8");
+  const { data, content: rawContent } = matter(fileContents);
+
+  let content: string;
+  const trimmed = rawContent.trim();
+  if (trimmed.startsWith("<")) {
+    content = sanitizeHtml(trimmed);
+  } else {
+    const processed = await remark().use(html).process(rawContent);
+    content = sanitizeHtml(processed.toString());
+  }
+
+  const rawImage: string | undefined = data.featuredImage;
+  const featuredImage =
+    rawImage && !OLD_WP.test(rawImage) ? rawImage : undefined;
+
+  return {
+    slug,
+    title: data.title,
+    date: data.date,
+    author: (data.author && data.author !== "Canadian Web Designs") ? data.author : "Amir Khela",
+    description: data.description,
+    keywords: data.keywords ?? [],
+    category: data.category,
+    featuredImage,
+    content,
+  };
+}
+
+export function getAllSlugs(): string[] {
+  if (!fs.existsSync(postsDirectory)) return [];
+  return fs
+    .readdirSync(postsDirectory)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => f.replace(/\.md$/, ""));
+}

@@ -1,1 +1,41 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YVJvdXRlIH0gZnJvbSAibmV4dCI7DQppbXBvcnQgeyBnZXRDb25maWcgfSBmcm9tICJAL2xpYi9jbGllbnQtY29uZmlnIjsNCmltcG9ydCB7IGdldEFsbFBvc3RzIH0gZnJvbSAiQC9saWIvYmxvZyI7DQoNCmNvbnN0IGNvbmZpZyA9IGdldENvbmZpZygpOw0KY29uc3QgQkFTRV9VUkwgPSBgaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59YDsNCg0KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gc2l0ZW1hcCgpOiBNZXRhZGF0YVJvdXRlLlNpdGVtYXAgew0KICBjb25zdCBzdGF0aWNQYWdlczogTWV0YWRhdGFSb3V0ZS5TaXRlbWFwID0gWw0KICAgIHsgdXJsOiBCQVNFX1VSTCB9LA0KICAgIHsgdXJsOiBgJHtCQVNFX1VSTH0vd2hvLXdlLWFyZWAgfSwNCiAgICB7IHVybDogYCR7QkFTRV9VUkx9L291ci1zdG9yeWAgfSwNCiAgICB7IHVybDogYCR7QkFTRV9VUkx9L3BvcnRmb2xpb2AgfSwNCiAgICB7IHVybDogYCR7QkFTRV9VUkx9L2NvbnRhY3RgIH0sDQogICAgeyB1cmw6IGAke0JBU0VfVVJMfS90ZXN0aW1vbmlhbHNgIH0sDQogICAgeyB1cmw6IGAke0JBU0VfVVJMfS9ibG9nYCB9LA0KICAgIHsgdXJsOiBgJHtCQVNFX1VSTH0vZmFxYCB9LA0KICAgIHsgdXJsOiBgJHtCQVNFX1VSTH0vY2FyZWVyc2AgfSwNCiAgICB7IHVybDogYCR7QkFTRV9VUkx9L3ByaXZhY3ktcG9saWN5YCB9LA0KICAgIHsgdXJsOiBgJHtCQVNFX1VSTH0vdGVybXMtYW5kLWNvbmRpdGlvbnNgIH0sDQogICAgeyB1cmw6IGAke0JBU0VfVVJMfS9yZWZ1bmQtcG9saWN5YCB9LA0KICBdOw0KDQogIGNvbnN0IHNlcnZpY2VQYWdlczogTWV0YWRhdGFSb3V0ZS5TaXRlbWFwID0gY29uZmlnLnNlcnZpY2VzLm1hcCgoc2VydmljZSkgPT4gKHsNCiAgICB1cmw6IGAke0JBU0VfVVJMfS9zZXJ2aWNlcy8ke3NlcnZpY2Uuc2x1Z31gLA0KICB9KSk7DQoNCiAgY29uc3QgbG9jYXRpb25QYWdlczogTWV0YWRhdGFSb3V0ZS5TaXRlbWFwID0gY29uZmlnLmNpdGllcy5tYXAoKGNpdHkpID0+ICh7DQogICAgdXJsOiBgJHtCQVNFX1VSTH0vbG9jYXRpb25zLyR7Y2l0eS5zbHVnfWAsDQogIH0pKTsNCg0KICBjb25zdCBibG9nUG9zdHM6IE1ldGFkYXRhUm91dGUuU2l0ZW1hcCA9IGdldEFsbFBvc3RzKCkubWFwKChwb3N0KSA9PiB7DQogICAgY29uc3QgZCA9IG5ldyBEYXRlKHBvc3QuZGF0ZSk7DQogICAgcmV0dXJuIHsNCiAgICAgIHVybDogYCR7QkFTRV9VUkx9L2Jsb2cvJHtwb3N0LnNsdWd9YCwNCiAgICAgIGxhc3RNb2RpZmllZDogaXNOYU4oZC5nZXRUaW1lKCkpID8gbmV3IERhdGUoKSA6IGQsDQogICAgfTsNCiAgfSk7DQoNCiAgcmV0dXJuIFsuLi5zdGF0aWNQYWdlcywgLi4uc2VydmljZVBhZ2VzLCAuLi5sb2NhdGlvblBhZ2VzLCAuLi5ibG9nUG9zdHNdOw0KfQ0K"}
+import type { MetadataRoute } from "next";
+import { getConfig } from "@/lib/client-config";
+import { getAllPosts } from "@/lib/blog";
+
+const config = getConfig();
+const BASE_URL = `https://${config.domain}`;
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const staticPages: MetadataRoute.Sitemap = [
+    { url: BASE_URL },
+    { url: `${BASE_URL}/who-we-are` },
+    { url: `${BASE_URL}/our-story` },
+    { url: `${BASE_URL}/portfolio` },
+    { url: `${BASE_URL}/contact` },
+    { url: `${BASE_URL}/testimonials` },
+    { url: `${BASE_URL}/blog` },
+    { url: `${BASE_URL}/faq` },
+    { url: `${BASE_URL}/careers` },
+    { url: `${BASE_URL}/privacy-policy` },
+    { url: `${BASE_URL}/terms-and-conditions` },
+    { url: `${BASE_URL}/refund-policy` },
+  ];
+
+  const servicePages: MetadataRoute.Sitemap = config.services.map((service) => ({
+    url: `${BASE_URL}/services/${service.slug}`,
+  }));
+
+  const locationPages: MetadataRoute.Sitemap = config.cities.map((city) => ({
+    url: `${BASE_URL}/locations/${city.slug}`,
+  }));
+
+  const blogPosts: MetadataRoute.Sitemap = getAllPosts().map((post) => {
+    const d = new Date(post.date);
+    return {
+      url: `${BASE_URL}/blog/${post.slug}`,
+      lastModified: isNaN(d.getTime()) ? new Date() : d,
+    };
+  });
+
+  return [...staticPages, ...servicePages, ...locationPages, ...blogPosts];
+}

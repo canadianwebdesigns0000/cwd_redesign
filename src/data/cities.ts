@@ -1,1 +1,10 @@
-{"data":"Ly8gUmUtZXhwb3J0IGZyb20gY2xpZW50IGNvbmZpZyBmb3IgYmFja3dhcmRzIGNvbXBhdGliaWxpdHkuDQppbXBvcnQgeyBnZXRDb25maWcsIHR5cGUgQ2xpZW50Q2l0eSB9IGZyb20gIkAvbGliL2NsaWVudC1jb25maWciOw0KDQpleHBvcnQgdHlwZSBDaXR5RGF0YSA9IENsaWVudENpdHk7DQoNCmV4cG9ydCBjb25zdCBjaXRpZXM6IENpdHlEYXRhW10gPSBnZXRDb25maWcoKS5jaXRpZXM7DQoNCmV4cG9ydCBmdW5jdGlvbiBnZXRDaXR5QnlTbHVnKHNsdWc6IHN0cmluZyk6IENpdHlEYXRhIHwgdW5kZWZpbmVkIHsNCiAgcmV0dXJuIGNpdGllcy5maW5kKChjKSA9PiBjLnNsdWcgPT09IHNsdWcpOw0KfQ0K"}
+// Re-export from client config for backwards compatibility.
+import { getConfig, type ClientCity } from "@/lib/client-config";
+
+export type CityData = ClientCity;
+
+export const cities: CityData[] = getConfig().cities;
+
+export function getCityBySlug(slug: string): CityData | undefined {
+  return cities.find((c) => c.slug === slug);
+}

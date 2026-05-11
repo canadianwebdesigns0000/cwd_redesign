@@ -1,1 +1,4 @@
-{"data":"ZGVjbGFyZSBtb2R1bGUgIiouY3NzIiB7DQogIGNvbnN0IGNvbnRlbnQ6IFJlY29yZDxzdHJpbmcsIHN0cmluZz47DQogIGV4cG9ydCBkZWZhdWx0IGNvbnRlbnQ7DQp9DQo="}
+declare module "*.css" {
+  const content: Record<string, string>;
+  export default content;
+}

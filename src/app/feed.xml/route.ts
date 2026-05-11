@@ -1,1 +1,62 @@
-{"data":"aW1wb3J0IHsgZ2V0QWxsUG9zdHMgfSBmcm9tICJAL2xpYi9ibG9nIjsKaW1wb3J0IHsgZ2V0Q29uZmlnIH0gZnJvbSAiQC9saWIvY2xpZW50LWNvbmZpZyI7CgpleHBvcnQgY29uc3QgZHluYW1pYyA9ICJmb3JjZS1zdGF0aWMiOwpleHBvcnQgY29uc3QgcmV2YWxpZGF0ZSA9IDM2MDA7CgpmdW5jdGlvbiBlc2NhcGVYbWwoc3RyOiBzdHJpbmcpOiBzdHJpbmcgewogIHJldHVybiBzdHIKICAgIC5yZXBsYWNlKC8mL2csICImYW1wOyIpCiAgICAucmVwbGFjZSgvPC9nLCAiJmx0OyIpCiAgICAucmVwbGFjZSgvPi9nLCAiJmd0OyIpCiAgICAucmVwbGFjZSgvIi9nLCAiJnF1b3Q7IikKICAgIC5yZXBsYWNlKC8nL2csICImYXBvczsiKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVCgpIHsKICBjb25zdCBjb25maWcgPSBnZXRDb25maWcoKTsKICBjb25zdCBwb3N0cyA9IGdldEFsbFBvc3RzKCkuc2xpY2UoMCwgNTApOwoKICBjb25zdCBpdGVtcyA9IHBvc3RzCiAgICAubWFwKChwb3N0KSA9PiB7CiAgICAgIGNvbnN0IHB1YkRhdGUgPSBuZXcgRGF0ZShwb3N0LmRhdGUpLnRvVVRDU3RyaW5nKCk7CiAgICAgIHJldHVybiBgICAgIDxpdGVtPgogICAgICA8dGl0bGU+PCFbQ0RBVEFbJHtwb3N0LnRpdGxlfV1dPjwvdGl0bGU+CiAgICAgIDxsaW5rPmh0dHBzOi8vJHtjb25maWcuZG9tYWlufS9ibG9nLyR7cG9zdC5zbHVnfTwvbGluaz4KICAgICAgPGd1aWQgaXNQZXJtYUxpbms9InRydWUiPmh0dHBzOi8vJHtjb25maWcuZG9tYWlufS9ibG9nLyR7cG9zdC5zbHVnfTwvZ3VpZD4KICAgICAgPHB1YkRhdGU+JHtwdWJEYXRlfTwvcHViRGF0ZT4KICAgICAgPGRlc2NyaXB0aW9uPjwhW0NEQVRBWyR7cG9zdC5kZXNjcmlwdGlvbiA/PyAiIn1dXT48L2Rlc2NyaXB0aW9uPgogICAgICA8Y2F0ZWdvcnk+JHtlc2NhcGVYbWwocG9zdC5jYXRlZ29yeSA/PyAiIil9PC9jYXRlZ29yeT4KICAgICAgPGF1dGhvcj4ke2VzY2FwZVhtbChjb25maWcuZW1haWxzPy5zdXBwb3J0ID8/ICJpbmZvQGNhbmFkaWFud2ViZGVzaWducy5jYSIpfSAoJHtlc2NhcGVYbWwocG9zdC5hdXRob3IgPz8gY29uZmlnLmJ1c2luZXNzTmFtZSl9KTwvYXV0aG9yPgogICAgPC9pdGVtPmA7CiAgICB9KQogICAgLmpvaW4oIlxuIik7CgogIGNvbnN0IHJzcyA9IGA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pgo8cnNzIHZlcnNpb249IjIuMCIKICB4bWxuczphdG9tPSJodHRwOi8vd3d3LnczLm9yZy8yMDA1L0F0b20iCiAgeG1sbnM6Y29udGVudD0iaHR0cDovL3B1cmwub3JnL3Jzcy9tb2R1bGVzL2NvbnRlbnQvIj4KICA8Y2hhbm5lbD4KICAgIDx0aXRsZT4ke2VzY2FwZVhtbChjb25maWcuYnVzaW5lc3NOYW1lKX0gQmxvZzwvdGl0bGU+CiAgICA8bGluaz5odHRwczovLyR7Y29uZmlnLmRvbWFpbn0vYmxvZzwvbGluaz4KICAgIDxkZXNjcmlwdGlvbj5XZWIgZGVzaWduLCBTRU8sIGFuZCBkaWdpdGFsIG1hcmtldGluZyB0aXBzIGZyb20gJHtlc2NhcGVYbWwoY29uZmlnLmJ1c2luZXNzTmFtZSl9LjwvZGVzY3JpcHRpb24+CiAgICA8bGFuZ3VhZ2U+ZW4tQ0E8L2xhbmd1YWdlPgogICAgPG1hbmFnaW5nRWRpdG9yPiR7ZXNjYXBlWG1sKGNvbmZpZy5lbWFpbHM/LnN1cHBvcnQgPz8gImluZm9AY2FuYWRpYW53ZWJkZXNpZ25zLmNhIil9ICgke2VzY2FwZVhtbChjb25maWcuYnVzaW5lc3NOYW1lKX0pPC9tYW5hZ2luZ0VkaXRvcj4KICAgIDx3ZWJNYXN0ZXI+JHtlc2NhcGVYbWwoY29uZmlnLmVtYWlscz8uc3VwcG9ydCA/PyAiaW5mb0BjYW5hZGlhbndlYmRlc2lnbnMuY2EiKX0gKCR7ZXNjYXBlWG1sKGNvbmZpZy5idXNpbmVzc05hbWUpfSk8L3dlYk1hc3Rlcj4KICAgIDxpbWFnZT4KICAgICAgPHVybD5odHRwczovLyR7Y29uZmlnLmRvbWFpbn0vbG9nb3MvbG9nby53ZWJwPC91cmw+CiAgICAgIDx0aXRsZT4ke2VzY2FwZVhtbChjb25maWcuYnVzaW5lc3NOYW1lKX0gQmxvZzwvdGl0bGU+CiAgICAgIDxsaW5rPmh0dHBzOi8vJHtjb25maWcuZG9tYWlufS9ibG9nPC9saW5rPgogICAgPC9pbWFnZT4KICAgIDxhdG9tOmxpbmsgaHJlZj0iaHR0cHM6Ly8ke2NvbmZpZy5kb21haW59L2ZlZWQueG1sIiByZWw9InNlbGYiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIC8+CiR7aXRlbXN9CiAgPC9jaGFubmVsPgo8L3Jzcz5gOwoKICByZXR1cm4gbmV3IFJlc3BvbnNlKHJzcywgewogICAgaGVhZGVyczogewogICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL3Jzcyt4bWw7IGNoYXJzZXQ9dXRmLTgiLAogICAgICAiQ2FjaGUtQ29udHJvbCI6ICJwdWJsaWMsIG1heC1hZ2U9MzYwMCwgc3RhbGUtd2hpbGUtcmV2YWxpZGF0ZT04NjQwMCIsCiAgICB9LAogIH0pOwp9Cg=="}
+import { getAllPosts } from "@/lib/blog";
+import { getConfig } from "@/lib/client-config";
+
+export const dynamic = "force-static";
+export const revalidate = 3600;
+
+function escapeXml(str: string): string {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+export async function GET() {
+  const config = getConfig();
+  const posts = getAllPosts().slice(0, 50);
+
+  const items = posts
+    .map((post) => {
+      const pubDate = new Date(post.date).toUTCString();
+      return `    <item>
+      <title><![CDATA[${post.title}]]></title>
+      <link>https://${config.domain}/blog/${post.slug}</link>
+      <guid isPermaLink="true">https://${config.domain}/blog/${post.slug}</guid>
+      <pubDate>${pubDate}</pubDate>
+      <description><![CDATA[${post.description ?? ""}]]></description>
+      <category>${escapeXml(post.category ?? "")}</category>
+      <author>${escapeXml(config.emails?.support ?? "info@canadianwebdesigns.ca")} (${escapeXml(post.author ?? config.businessName)})</author>
+    </item>`;
+    })
+    .join("\n");
+
+  const rss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/modules/content/">
+  <channel>
+    <title>${escapeXml(config.businessName)} Blog</title>
+    <link>https://${config.domain}/blog</link>
+    <description>Web design, SEO, and digital marketing tips from ${escapeXml(config.businessName)}.</description>
+    <language>en-CA</language>
+    <managingEditor>${escapeXml(config.emails?.support ?? "info@canadianwebdesigns.ca")} (${escapeXml(config.businessName)})</managingEditor>
+    <webMaster>${escapeXml(config.emails?.support ?? "info@canadianwebdesigns.ca")} (${escapeXml(config.businessName)})</webMaster>
+    <image>
+      <url>https://${config.domain}/logos/logo.webp</url>
+      <title>${escapeXml(config.businessName)} Blog</title>
+      <link>https://${config.domain}/blog</link>
+    </image>
+    <atom:link href="https://${config.domain}/feed.xml" rel="self" type="application/rss+xml" />
+${items}
+  </channel>
+</rss>`;
+
+  return new Response(rss, {
+    headers: {
+      "Content-Type": "application/rss+xml; charset=utf-8",
+      "Cache-Control": "public, max-age=3600, stale-while-revalidate=86400",
+    },
+  });
+}

@@ -1,1 +1,87 @@
-{"data":"aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOw0KaW1wb3J0IHR5cGUgeyBOZXh0UmVxdWVzdCB9IGZyb20gIm5leHQvc2VydmVyIjsNCg0KLyoqDQogKiBLbm93biBhcHAgcm91dGVzIOKAlCByb290LWxldmVsIHBhdGhzIHRoYXQgYXJlIE5PVCBvbGQgV29yZFByZXNzIGJsb2cgc2x1Z3MuDQogKiBBbnkgcm9vdC1sZXZlbCBwYXRoIG5vdCBpbiB0aGlzIHNldCBhbmQgbm90IGNvbnRhaW5pbmcgYSBkb3QgKGZpbGUgZXh0ZW5zaW9uKQ0KICogaXMgYXNzdW1lZCB0byBiZSBhbiBvbGQgV29yZFByZXNzIGJsb2cgcG9zdCBhbmQgcmVkaXJlY3RlZCB0byAvYmxvZy86c2x1Zy4NCiAqLw0KY29uc3QgS05PV05fUk9VVEVTID0gbmV3IFNldChbDQogICJibG9nIiwNCiAgImNhcmVlcnMiLA0KICAiY29udGFjdCIsDQogICJmYXEiLA0KICAibG9jYXRpb25zIiwNCiAgIm91ci1zdG9yeSIsDQogICJwb3J0Zm9saW8iLA0KICAicHJpdmFjeS1wb2xpY3kiLA0KICAicmVmdW5kLXBvbGljeSIsDQogICJzZXJ2aWNlcyIsDQogICJ0ZXJtcy1hbmQtY29uZGl0aW9ucyIsDQogICJ0ZXN0aW1vbmlhbHMiLA0KICAid2hvLXdlLWFyZSIsDQogICJhcGkiLA0KICAvLyBXb3JkUHJlc3MgVVJMcyBhbHJlYWR5IGhhbmRsZWQgYnkgbmV4dC5jb25maWcubWpzIHJlZGlyZWN0cw0KICAiYWJvdXQtdXMiLA0KICAiZ2V0LWluLXRvdWNoIiwNCiAgInF1b3RlIiwNCiAgIm91ci1wb3J0Zm9saW8iLA0KICAidGVybXMtb2Ytc2VydmljZSIsDQogICJ3ZWJzaXRlLWRlc2lnbi1kZXZlbG9wbWVudCIsDQogICJzZWFyY2gtZW5naW5lLW9wdGltaXphdGlvbiIsDQogICJncmFwaGljLWRlc2lnbiIsDQogICJzb2NpYWwtbWVkaWEtb3B0aW1pemF0aW9uIiwNCiAgIm1haW50ZW5hbmNlIiwNCiAgImFpLWNvbnN1bHRhdGlvbiIsDQogICJ3ZWItZGVzaWducyIsDQogICJ3ZWItZGVzaWduIiwNCiAgIndwLWFkbWluIiwNCiAgIndwLWxvZ2luLnBocCIsDQogICJ3cC1jb250ZW50IiwNCiAgIndwLWluY2x1ZGVzIiwNCiAgIndwLWpzb24iLA0KICAieG1scnBjLnBocCIsDQogICJmZWVkIiwNCiAgImNhdGVnb3J5IiwNCiAgInRhZyIsDQogICJhdXRob3IiLA0KICAicGFnZSIsDQogICJjb21tZW50cyIsDQpdKTsNCg0KZXhwb3J0IGZ1bmN0aW9uIG1pZGRsZXdhcmUocmVxdWVzdDogTmV4dFJlcXVlc3QpIHsNCiAgY29uc3QgeyBwYXRobmFtZSB9ID0gcmVxdWVzdC5uZXh0VXJsOw0KDQogIC8vIE9ubHkgcHJvY2VzcyByb290LWxldmVsIHBhdGhzIChzaW5nbGUgc2VnbWVudCwgbm8gbmVzdGVkIHNsYXNoZXMpDQogIGNvbnN0IHNlZ21lbnRzID0gcGF0aG5hbWUuc3BsaXQoIi8iKS5maWx0ZXIoQm9vbGVhbik7DQogIGlmIChzZWdtZW50cy5sZW5ndGggIT09IDEpIHJldHVybiBOZXh0UmVzcG9uc2UubmV4dCgpOw0KDQogIGNvbnN0IHNsdWcgPSBzZWdtZW50c1swXTsNCg0KICAvLyBTa2lwIGtub3duIHJvdXRlcywgZmlsZXMgKGNvbnRhaW4gZG90cyksIGFuZCBOZXh0LmpzIGludGVybmFscw0KICAvLyBIYW5kbGUgZXhwbGljaXQgcGFnZSByZWRpcmVjdHMgQkVGT1JFIHRoZSBLTk9XTl9ST1VURVMgcGFzcy10aHJvdWdoDQogIGNvbnN0IFBBR0VfUkVESVJFQ1RTOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0gew0KICAgICJ3aGF0LXdlLWRvIjogIi9zZXJ2aWNlcy93ZWItZGVzaWduLWRldmVsb3BtZW50IiwNCiAgfTsNCiAgaWYgKFBBR0VfUkVESVJFQ1RTW3NsdWddKSB7DQogICAgY29uc3QgcmVkaXJlY3RVcmwgPSByZXF1ZXN0Lm5leHRVcmwuY2xvbmUoKTsNCiAgICByZWRpcmVjdFVybC5wYXRobmFtZSA9IFBBR0VfUkVESVJFQ1RTW3NsdWddOw0KICAgIHJldHVybiBOZXh0UmVzcG9uc2UucmVkaXJlY3QocmVkaXJlY3RVcmwsIDMwMSk7DQogIH0NCg0KICBpZiAoS05PV05fUk9VVEVTLmhhcyhzbHVnKSB8fCBzbHVnLnN0YXJ0c1dpdGgoIl9uZXh0IikgfHwgc2x1Zy5pbmNsdWRlcygiLiIpKSB7DQogICAgcmV0dXJuIE5leHRSZXNwb25zZS5uZXh0KCk7DQogIH0NCg0KICAvLyBSZWRpcmVjdCBvbGQgV29yZFByZXNzIHJvb3QtbGV2ZWwgYmxvZyBwb3N0IHNsdWdzIHRvIC9ibG9nLzpzbHVnDQogIGNvbnN0IHVybCA9IHJlcXVlc3QubmV4dFVybC5jbG9uZSgpOw0KICB1cmwucGF0aG5hbWUgPSBgL2Jsb2cvJHtzbHVnfWA7DQogIHJldHVybiBOZXh0UmVzcG9uc2UucmVkaXJlY3QodXJsLCAzMDEpOw0KfQ0KDQpleHBvcnQgY29uc3QgY29uZmlnID0gew0KICBtYXRjaGVyOiBbDQogICAgLy8gTWF0Y2ggcm9vdC1sZXZlbCBwYXRocyBvbmx5LCBleGNsdWRlIHN0YXRpYyBmaWxlcyBhbmQgTmV4dC5qcyBpbnRlcm5hbHMNCiAgICAiLygoPyFfbmV4dC9zdGF0aWN8X25leHQvaW1hZ2V8ZmF2aWNvbi5pY298cm9ib3RzLnR4dHxzaXRlbWFwLnhtbHxpbWFnZXN8aWNvbnMpLiopIiwNCiAgXSwNCn07DQo="}
+import { NextResponse } from "next/server";
+import type { NextRequest } from "next/server";
+
+/**
+ * Known app routes — root-level paths that are NOT old WordPress blog slugs.
+ * Any root-level path not in this set and not containing a dot (file extension)
+ * is assumed to be an old WordPress blog post and redirected to /blog/:slug.
+ */
+const KNOWN_ROUTES = new Set([
+  "blog",
+  "careers",
+  "contact",
+  "faq",
+  "locations",
+  "our-story",
+  "portfolio",
+  "privacy-policy",
+  "refund-policy",
+  "services",
+  "terms-and-conditions",
+  "testimonials",
+  "who-we-are",
+  "api",
+  // WordPress URLs already handled by next.config.mjs redirects
+  "about-us",
+  "get-in-touch",
+  "quote",
+  "our-portfolio",
+  "terms-of-service",
+  "website-design-development",
+  "search-engine-optimization",
+  "graphic-design",
+  "social-media-optimization",
+  "maintenance",
+  "ai-consultation",
+  "web-designs",
+  "web-design",
+  "wp-admin",
+  "wp-login.php",
+  "wp-content",
+  "wp-includes",
+  "wp-json",
+  "xmlrpc.php",
+  "feed",
+  "category",
+  "tag",
+  "author",
+  "page",
+  "comments",
+]);
+
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+
+  // Only process root-level paths (single segment, no nested slashes)
+  const segments = pathname.split("/").filter(Boolean);
+  if (segments.length !== 1) return NextResponse.next();
+
+  const slug = segments[0];
+
+  // Skip known routes, files (contain dots), and Next.js internals
+  // Handle explicit page redirects BEFORE the KNOWN_ROUTES pass-through
+  const PAGE_REDIRECTS: Record<string, string> = {
+    "what-we-do": "/services/web-design-development",
+  };
+  if (PAGE_REDIRECTS[slug]) {
+    const redirectUrl = request.nextUrl.clone();
+    redirectUrl.pathname = PAGE_REDIRECTS[slug];
+    return NextResponse.redirect(redirectUrl, 301);
+  }
+
+  if (KNOWN_ROUTES.has(slug) || slug.startsWith("_next") || slug.includes(".")) {
+    return NextResponse.next();
+  }
+
+  // Redirect old WordPress root-level blog post slugs to /blog/:slug
+  const url = request.nextUrl.clone();
+  url.pathname = `/blog/${slug}`;
+  return NextResponse.redirect(url, 301);
+}
+
+export const config = {
+  matcher: [
+    // Match root-level paths only, exclude static files and Next.js internals
+    "/((?!_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml|images|icons).*)",
+  ],
+};
