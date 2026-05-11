@@ -1,1 +1,46 @@
-{"data":"LS0tCnRpdGxlOiAiV2h5IEV2ZXJ5IEJ1c2luZXNzIE5lZWRzIGEgTW9iaWxlLUZpcnN0IFdlYnNpdGUiCnNsdWc6ICJ3aHktZXZlcnktYnVzaW5lc3MtbmVlZHMtYS1tb2JpbGUtZmlyc3Qtd2Vic2l0ZSIKZGF0ZTogIjIwMjQtMTItMTAiCmF1dGhvcjogIkNhbmFkaWFuIFdlYiBEZXNpZ25zIgpkZXNjcmlwdGlvbjogIldpdGggb3ZlciA2MCUgb2Ygd2ViIHRyYWZmaWMgY29taW5nIGZyb20gbW9iaWxlIGRldmljZXMsIGhhdmluZyBhIG1vYmlsZS1maXJzdCB3ZWJzaXRlIGlzIG5vIGxvbmdlciBvcHRpb25hbC4iCmtleXdvcmRzOiBbIm1vYmlsZS1maXJzdCBkZXNpZ24iLCAicmVzcG9uc2l2ZSB3ZWIgZGVzaWduIiwgIm1vYmlsZSB3ZWJzaXRlIiwgIndlYiBkZXNpZ24gQ2FuYWRhIl0KY2F0ZWdvcnk6ICJXZWIgRGVzaWduIgpmZWF0dXJlZEltYWdlOiAiL2Jsb2cvd2ViLWRlc2lnbi1jb21wYW55LnBuZyIKLS0tCgpXaXRoIG92ZXIgNjAlIG9mIHdlYiB0cmFmZmljIG5vdyBjb21pbmcgZnJvbSBtb2JpbGUgZGV2aWNlcywgaGF2aW5nIGEgbW9iaWxlLWZpcnN0IHdlYnNpdGUgaXNuJ3QganVzdCBhIG5pY2UtdG8taGF2ZSDigJQgaXQncyBhIGJ1c2luZXNzIG5lY2Vzc2l0eS4gSWYgeW91ciBzaXRlIGRvZXNuJ3Qgd29yayB3ZWxsIG9uIGEgcGhvbmUsIHlvdSdyZSBsb3NpbmcgY3VzdG9tZXJzLgoKIyMgV2hhdCBJcyBNb2JpbGUtRmlyc3QgRGVzaWduPwoKTW9iaWxlLWZpcnN0IGRlc2lnbiBtZWFucyBidWlsZGluZyB5b3VyIHdlYnNpdGUgZm9yIHRoZSBzbWFsbGVzdCBzY3JlZW5zIGZpcnN0LCB0aGVuIHByb2dyZXNzaXZlbHkgZW5oYW5jaW5nIHRoZSBleHBlcmllbmNlIGZvciBsYXJnZXIgc2NyZWVucy4gVGhpcyBhcHByb2FjaCBlbnN1cmVzIHlvdXIgbW9zdCBpbXBvcnRhbnQgY29udGVudCBhbmQgZnVuY3Rpb25hbGl0eSB3b3JrIHBlcmZlY3RseSBvbiB0aGUgZGV2aWNlcyBtb3N0IG9mIHlvdXIgdmlzaXRvcnMgYXJlIHVzaW5nLgoKIyMgV2h5IE1vYmlsZS1GaXJzdCBNYXR0ZXJzIGZvciBZb3VyIEJ1c2luZXNzCgojIyMgR29vZ2xlIFVzZXMgTW9iaWxlLUZpcnN0IEluZGV4aW5nCgpHb29nbGUgcHJpbWFyaWx5IHVzZXMgdGhlIG1vYmlsZSB2ZXJzaW9uIG9mIHlvdXIgd2Vic2l0ZSBmb3IgaW5kZXhpbmcgYW5kIHJhbmtpbmcuIElmIHlvdXIgbW9iaWxlIGV4cGVyaWVuY2UgaXMgcG9vciwgeW91ciBzZWFyY2ggcmFua2luZ3Mgd2lsbCBzdWZmZXIg4oCUIGV2ZW4gZm9yIGRlc2t0b3Agc2VhcmNoZXMuCgojIyMgWW91ciBDdXN0b21lcnMgRXhwZWN0IEl0CgpUb2RheSdzIGNvbnN1bWVycyBleHBlY3QgZmFzdCwgc21vb3RoIG1vYmlsZSBleHBlcmllbmNlcy4gQSBjbHVua3kgbW9iaWxlIHNpdGUgY3JlYXRlcyBmcnVzdHJhdGlvbiwgZGFtYWdlcyB0cnVzdCwgYW5kIHNlbmRzIHBvdGVudGlhbCBjdXN0b21lcnMgdG8geW91ciBjb21wZXRpdG9ycy4gU3R1ZGllcyBzaG93IHRoYXQgNTMlIG9mIG1vYmlsZSB1c2VycyBhYmFuZG9uIHNpdGVzIHRoYXQgdGFrZSBsb25nZXIgdGhhbiB0aHJlZSBzZWNvbmRzIHRvIGxvYWQuCgojIyMgSXQgSW1wcm92ZXMgQ29udmVyc2lvbiBSYXRlcwoKQSB3ZWxsLWRlc2lnbmVkIG1vYmlsZSBleHBlcmllbmNlIGd1aWRlcyB2aXNpdG9ycyB0aHJvdWdoIHlvdXIgc2FsZXMgZnVubmVsIHNlYW1sZXNzbHkuIENsZWFyIGNhbGxzLXRvLWFjdGlvbiwgZWFzeS10by11c2UgZm9ybXMsIGFuZCBmYXN0IGxvYWQgdGltZXMgYWxsIGNvbnRyaWJ1dGUgdG8gaGlnaGVyIGNvbnZlcnNpb24gcmF0ZXMgb24gbW9iaWxlLgoKIyMgS2V5IEVsZW1lbnRzIG9mIGEgR3JlYXQgTW9iaWxlIFdlYnNpdGUKCi0gKipGYXN0IGxvYWQgdGltZXMqKiDigJQgb3B0aW1pemUgaW1hZ2VzLCBtaW5pbWl6ZSBjb2RlLCBhbmQgdXNlIGEgQ0ROCi0gKipUb3VjaC1mcmllbmRseSBuYXZpZ2F0aW9uKiog4oCUIGxhcmdlIHRhcCB0YXJnZXRzLCBoYW1idXJnZXIgbWVudXMsIGFuZCBzd2lwZSBnZXN0dXJlcwotICoqUmVhZGFibGUgdGV4dCoqIOKAlCBwcm9wZXIgZm9udCBzaXplcyB3aXRob3V0IHJlcXVpcmluZyB6b29tCi0gKipTdHJlYW1saW5lZCBmb3JtcyoqIOKAlCBtaW5pbWFsIGZpZWxkcywgYXV0by1maWxsIHN1cHBvcnQsIGFuZCBjbGVhciB2YWxpZGF0aW9uCi0gKipDbGljay10by1jYWxsIGJ1dHRvbnMqKiDigJQgbWFrZSBpdCBlYXN5IGZvciBtb2JpbGUgdXNlcnMgdG8gY29udGFjdCB5b3UKCiMjIEhvdyBDYW5hZGlhbiBXZWIgRGVzaWducyBDYW4gSGVscAoKV2UgYnVpbGQgZXZlcnkgd2Vic2l0ZSBtb2JpbGUtZmlyc3QuIE91ciBkZXZlbG9wbWVudCBwcm9jZXNzIHN0YXJ0cyB3aXRoIHRoZSBtb2JpbGUgZXhwZXJpZW5jZSBhbmQgc2NhbGVzIHVwLCBlbnN1cmluZyB5b3VyIGJ1c2luZXNzIGxvb2tzIHByb2Zlc3Npb25hbCBhbmQgcGVyZm9ybXMgd2VsbCBvbiBldmVyeSBkZXZpY2UuCgotLS0KCioqUmVhZHkgdG8gdXBncmFkZSB5b3VyIHdlYnNpdGU/KiogW0dldCBhIGZyZWUgcXVvdGVdKC9jb250YWN0KSBmcm9tIENhbmFkaWFuIFdlYiBEZXNpZ25zIHRvZGF5Lgo="}
+---
+title: "Why Every Business Needs a Mobile-First Website"
+slug: "why-every-business-needs-a-mobile-first-website"
+date: "2024-12-10"
+author: "Canadian Web Designs"
+description: "With over 60% of web traffic coming from mobile devices, having a mobile-first website is no longer optional."
+keywords: ["mobile-first design", "responsive web design", "mobile website", "web design Canada"]
+category: "Web Design"
+featuredImage: "/blog/web-design-company.png"
+---
+
+With over 60% of web traffic now coming from mobile devices, having a mobile-first website isn't just a nice-to-have — it's a business necessity. If your site doesn't work well on a phone, you're losing customers.
+
+## What Is Mobile-First Design?
+
+Mobile-first design means building your website for the smallest screens first, then progressively enhancing the experience for larger screens. This approach ensures your most important content and functionality work perfectly on the devices most of your visitors are using.
+
+## Why Mobile-First Matters for Your Business
+
+### Google Uses Mobile-First Indexing
+
+Google primarily uses the mobile version of your website for indexing and ranking. If your mobile experience is poor, your search rankings will suffer — even for desktop searches.
+
+### Your Customers Expect It
+
+Today's consumers expect fast, smooth mobile experiences. A clunky mobile site creates frustration, damages trust, and sends potential customers to your competitors. Studies show that 53% of mobile users abandon sites that take longer than three seconds to load.
+
+### It Improves Conversion Rates
+
+A well-designed mobile experience guides visitors through your sales funnel seamlessly. Clear calls-to-action, easy-to-use forms, and fast load times all contribute to higher conversion rates on mobile.
+
+## Key Elements of a Great Mobile Website
+
+- **Fast load times** — optimize images, minimize code, and use a CDN
+- **Touch-friendly navigation** — large tap targets, hamburger menus, and swipe gestures
+- **Readable text** — proper font sizes without requiring zoom
+- **Streamlined forms** — minimal fields, auto-fill support, and clear validation
+- **Click-to-call buttons** — make it easy for mobile users to contact you
+
+## How Canadian Web Designs Can Help
+
+We build every website mobile-first. Our development process starts with the mobile experience and scales up, ensuring your business looks professional and performs well on every device.
+
+---
+
+**Ready to upgrade your website?** [Get a free quote](/contact) from Canadian Web Designs today.

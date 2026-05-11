@@ -1,1 +1,40 @@
-{"data":"ew0KICAiY29tcGlsZXJPcHRpb25zIjogew0KICAgICJ0YXJnZXQiOiAiRVMyMDE3IiwNCiAgICAibGliIjogWw0KICAgICAgImRvbSIsDQogICAgICAiZG9tLml0ZXJhYmxlIiwNCiAgICAgICJlc25leHQiDQogICAgXSwNCiAgICAiYWxsb3dKcyI6IHRydWUsDQogICAgInNraXBMaWJDaGVjayI6IHRydWUsDQogICAgInN0cmljdCI6IHRydWUsDQogICAgIm5vRW1pdCI6IHRydWUsDQogICAgImVzTW9kdWxlSW50ZXJvcCI6IHRydWUsDQogICAgIm1vZHVsZSI6ICJlc25leHQiLA0KICAgICJtb2R1bGVSZXNvbHV0aW9uIjogImJ1bmRsZXIiLA0KICAgICJyZXNvbHZlSnNvbk1vZHVsZSI6IHRydWUsDQogICAgImlzb2xhdGVkTW9kdWxlcyI6IHRydWUsDQogICAgImpzeCI6ICJwcmVzZXJ2ZSIsDQogICAgImluY3JlbWVudGFsIjogdHJ1ZSwNCiAgICAicGx1Z2lucyI6IFsNCiAgICAgIHsNCiAgICAgICAgIm5hbWUiOiAibmV4dCINCiAgICAgIH0NCiAgICBdLA0KICAgICJwYXRocyI6IHsNCiAgICAgICJALyoiOiBbDQogICAgICAgICIuL3NyYy8qIg0KICAgICAgXQ0KICAgIH0NCiAgfSwNCiAgImluY2x1ZGUiOiBbDQogICAgIm5leHQtZW52LmQudHMiLA0KICAgICIqKi8qLnRzIiwNCiAgICAiKiovKi50c3giLA0KICAgICIubmV4dC90eXBlcy8qKi8qLnRzIg0KICBdLA0KICAiZXhjbHVkZSI6IFsNCiAgICAibm9kZV9tb2R1bGVzIg0KICBdDQp9DQo="}
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
