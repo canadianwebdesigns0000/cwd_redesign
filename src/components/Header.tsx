@@ -150,7 +150,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center shrink-0 group">
           <Image
-            src="/logos/logo-150.png"
+            src="/logos/logo.webp"
             alt={config.businessName}
             style={{ height: "36px", width: "auto" }}
             width={150}
