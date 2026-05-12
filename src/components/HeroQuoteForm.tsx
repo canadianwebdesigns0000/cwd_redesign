@@ -84,7 +84,7 @@ export default function HeroQuoteForm() {
       {RECAPTCHA_SITE_KEY && (
         <Script
           src={`https://www.google.com/recaptcha/api.js?render=${RECAPTCHA_SITE_KEY}`}
-          strategy="lazyOnLoad"
+          strategy="lazyOnload"
         />
       )}
       <form
