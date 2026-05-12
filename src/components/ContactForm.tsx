@@ -29,10 +29,13 @@ async function getRecaptchaToken(siteKey: string): Promise<string> {
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState(false);
 
   const handleSubmit = useCallback(async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
+    if (submitting) return;
+    setSubmitting(true);
     setError(false);
 
     try {
@@ -55,11 +58,13 @@ export default function ContactForm() {
         setSubmitted(true);
       } else {
         setError(true);
+        setSubmitting(false);
       }
     } catch {
       setError(true);
+      setSubmitting(false);
     }
-  }, []);
+  }, [submitting]);
 
   if (submitted) {
     return (
@@ -84,25 +89,34 @@ export default function ContactForm() {
         />
       )}
       <form onSubmit={handleSubmit} className="space-y-5">
+        {/* Honeypot — hidden from real users, bots fill it out */}
+        <input
+          type="text"
+          name="_hp"
+          autoComplete="off"
+          tabIndex={-1}
+          aria-hidden="true"
+          style={{ position: "absolute", left: "-9999px", width: "1px", height: "1px", opacity: 0 }}
+        />
         <div className="grid sm:grid-cols-2 gap-4">
           <div>
             <label htmlFor="firstName" className="block text-sm font-semibold text-gray-700 mb-1.5">
               First Name <span style={{ color: "#00AADF" }}>*</span>
             </label>
-            <input type="text" id="firstName" name="firstName" placeholder="John" className={inputClass} />
+            <input type="text" id="firstName" name="firstName" required placeholder="John" className={inputClass} />
           </div>
           <div>
             <label htmlFor="lastName" className="block text-sm font-semibold text-gray-700 mb-1.5">
               Last Name <span style={{ color: "#00AADF" }}>*</span>
             </label>
-            <input type="text" id="lastName" name="lastName" placeholder="Smith" className={inputClass} />
+            <input type="text" id="lastName" name="lastName" required placeholder="Smith" className={inputClass} />
           </div>
         </div>
         <div>
           <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-1.5">
             Email <span style={{ color: "#00AADF" }}>*</span>
           </label>
-          <input type="email" id="email" name="email" placeholder="john@company.com" className={inputClass} />
+          <input type="email" id="email" name="email" required placeholder="john@company.com" className={inputClass} />
         </div>
         <div>
           <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-1.5">
@@ -114,7 +128,11 @@ export default function ContactForm() {
           <label htmlFor="service" className="block text-sm font-semibold text-gray-700 mb-1.5">
             Service Interested In
           </label>
-          <select id="service" name="service" className={inputClass}>
+          <select
+            id="service"
+            name="service"
+            className={inputClass}
+          >
             <option value="">Select a service</option>
             {services.map((s) => (
               <option key={s} value={s}>{s}</option>
@@ -129,6 +147,7 @@ export default function ContactForm() {
             id="message"
             name="message"
             rows={5}
+            required
             placeholder="Tell us about your project..."
             className={`${inputClass} resize-none`}
           />
@@ -147,13 +166,26 @@ export default function ContactForm() {
 
         <button
           type="submit"
-          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-10 py-4 text-white font-black rounded-xl transition-all duration-300 cursor-pointer btn-shimmer"
+          disabled={submitting}
+          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-10 py-4 text-white font-black rounded-xl transition-all duration-300 cursor-pointer disabled:opacity-60 disabled:cursor-not-allowed btn-shimmer"
           style={{ background: "#00AADF", boxShadow: "0 4px 24px rgba(0,170,223,0.4)" }}
         >
-          Send Message
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
-          </svg>
+          {submitting ? (
+            <>
+              <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z" />
+              </svg>
+              Sending...
+            </>
+          ) : (
+            <>
+              Send Message
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </>
+          )}
         </button>
         <p className="text-xs text-gray-400">
           Protected by reCAPTCHA &amp; Google{" "}
