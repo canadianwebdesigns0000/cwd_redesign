@@ -81,6 +81,10 @@ export async function POST(request: NextRequest) {
   const body = await request.json();
   const { firstName, lastName, email, phone, service, message, recaptchaToken, source } = body;
 
+  if (!firstName || !lastName || !email || !message) {
+    return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
+  }
+
   if (RECAPTCHA_SECRET_KEY && recaptchaToken) {
     const verifyResponse = await fetch("https://www.google.com/recaptcha/api/siteverify", {
       method: "POST",
