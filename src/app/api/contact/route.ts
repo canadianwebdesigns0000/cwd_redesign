@@ -1,7 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
+import { appendSheetRow } from "@/lib/google-sheets";
 
 const RECAPTCHA_SECRET_KEY = process.env.RECAPTCHA_SECRET_KEY || "";
+const SHEET_ID = process.env.CONTACT_SUBMISSIONS_SHEET_ID || "";
 
 const transporter = nodemailer.createTransport({
   host: process.env.SMTP_HOST || "smtp.gmail.com",
@@ -13,49 +15,20 @@ const transporter = nodemailer.createTransport({
   },
 });
 
-async function generateAiReply(
-  firstName: string,
-  service: string,
-  message: string
-): Promise<string> {
+async function generateAiReply(firstName: string, service: string, message: string): Promise<string> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) return "";
-
-  const prompt = `You are a friendly customer success representative at Canadian Web Designs, a top-rated Canadian web design and digital marketing agency. Write a warm, personalized auto-reply email body (no subject line, no greeting header — just the body text starting with "Hi ${firstName},") to a new lead who just submitted a contact form.
-
-Lead details:
-- First name: ${firstName}
-- Service of interest: ${service || "Web Design"}
-- Their message: "${message}"
-
-Guidelines:
-- Keep it under 120 words
-- Be warm and professional
-- Acknowledge their specific interest/service
-- Mention we'll get back within 24 hours (usually same day)
-- End with "The Canadian Web Designs Team"
-- Do NOT include a subject line or email header — just the body text`;
-
+  const prompt = `You are a friendly customer success representative at Canadian Web Designs, a top-rated Canadian web design and digital marketing agency. Write a warm, personalized auto-reply email body (no subject line, no greeting header — just the body text starting with "Hi ${firstName},") to a new lead who just submitted a contact form.\n\nLead details:\n- First name: ${firstName}\n- Service of interest: ${service || "Web Design"}\n- Their message: "${message}"\n\nGuidelines:\n- Keep it under 120 words\n- Be warm and professional\n- Acknowledge their specific interest/service\n- Mention we'll get back within 24 hours (usually same day)\n- End with "The Canadian Web Designs Team"\n- Do NOT include a subject line or email header — just the body text`;
   try {
     const response = await fetch("https://api.anthropic.com/v1/messages", {
       method: "POST",
-      headers: {
-        "x-api-key": apiKey,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-      },
-      body: JSON.stringify({
-        model: "claude-haiku-4-5-20251001",
-        max_tokens: 256,
-        messages: [{ role: "user", content: prompt }],
-      }),
+      headers: { "x-api-key": apiKey, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+      body: JSON.stringify({ model: "claude-haiku-4-5-20251001", max_tokens: 256, messages: [{ role: "user", content: prompt }] }),
     });
     if (!response.ok) return "";
     const data = await response.json();
     return data?.content?.[0]?.text?.trim() || "";
-  } catch {
-    return "";
-  }
+  } catch { return ""; }
 }
 
 async function sendSms(to: string, body: string): Promise<void> {
@@ -63,18 +36,11 @@ async function sendSms(to: string, body: string): Promise<void> {
   const authToken = process.env.TWILIO_AUTH_TOKEN;
   const from = process.env.TWILIO_PHONE_FROM;
   if (!accountSid || !authToken || !from || !to) return;
-
-  await fetch(
-    `https://api.twilio.com/2010-04-01/Accounts/${accountSid}/Messages.json`,
-    {
-      method: "POST",
-      headers: {
-        Authorization: "Basic " + Buffer.from(`${accountSid}:${authToken}`).toString("base64"),
-        "Content-Type": "application/x-www-form-urlencoded",
-      },
-      body: new URLSearchParams({ To: to, From: from, Body: body }).toString(),
-    }
-  );
+  await fetch(`https://api.twilio.com/2010-04-01/Accounts/${accountSid}/Messages.json`, {
+    method: "POST",
+    headers: { Authorization: "Basic " + Buffer.from(`${accountSid}:${authToken}`).toString("base64"), "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({ To: to, From: from, Body: body }).toString(),
+  });
 }
 
 export async function POST(request: NextRequest) {
@@ -85,7 +51,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
   }
 
-  // reCAPTCHA: log result but never block submissions (domain/score issues would break real users)
+  // reCAPTCHA — non-blocking
   if (RECAPTCHA_SECRET_KEY && recaptchaToken) {
     try {
       const verifyResponse = await fetch("https://www.google.com/recaptcha/api/siteverify", {
@@ -102,6 +68,19 @@ export async function POST(request: NextRequest) {
     }
   }
 
+  const timestamp = new Date().toLocaleString("en-CA", { timeZone: "America/Toronto" });
+
+  // 1. Log to Google Sheet first
+  appendSheetRow(SHEET_ID, [
+    timestamp,
+    `${firstName} ${lastName}`,
+    email,
+    phone || "",
+    service || "",
+    message,
+    source || "contact",
+  ]).catch((err) => console.error("Sheet log failed:", err));
+
   const internalEmailBody = `
 New Contact Form Submission
 ===========================
@@ -115,7 +94,7 @@ Message:
 ${message}
   `.trim();
 
-  // 1. Send internal notification email
+  // 2. Send internal notification email
   try {
     await transporter.sendMail({
       from: `"CWD Website" <${process.env.SMTP_USER}>`,
@@ -129,7 +108,7 @@ ${message}
     return NextResponse.json({ error: "Failed to send message" }, { status: 500 });
   }
 
-  // 2. AI-generated auto-reply to the lead (fire-and-forget)
+  // 3. AI-generated auto-reply (fire-and-forget)
   generateAiReply(firstName, service || "web design services", message).then(async (aiBody) => {
     if (!aiBody) return;
     try {
@@ -148,22 +127,16 @@ ${message}
           </p>
         </div>`,
       });
-    } catch (err) {
-      console.error("Failed to send AI auto-reply:", err);
-    }
+    } catch (err) { console.error("Failed to send AI auto-reply:", err); }
   });
 
-  // 3. SMS notifications (fire-and-forget)
+  // 4. SMS notifications (fire-and-forget)
   const smsOwnerTo = process.env.TWILIO_NOTIFY_PHONE;
   if (smsOwnerTo) {
-    const ownerSms = `🔔 New CWD Lead: ${firstName} ${lastName} | ${service || "General"} | ${email} | ${phone || "no phone"}`;
-    sendSms(smsOwnerTo, ownerSms).catch(() => {});
+    sendSms(smsOwnerTo, `🔔 New CWD Lead: ${firstName} ${lastName} | ${service || "General"} | ${email} | ${phone || "no phone"}`).catch(() => {});
   }
-
-  // Optional: SMS auto-reply to lead if they provided a phone number
   if (phone && process.env.TWILIO_SMS_LEAD_REPLY === "true") {
-    const leadSms = `Hi ${firstName}! Thanks for reaching out to Canadian Web Designs. We received your message and will get back to you within 24 hours. Questions? Call us: 647-689-6069`;
-    sendSms(phone, leadSms).catch(() => {});
+    sendSms(phone, `Hi ${firstName}! Thanks for reaching out to Canadian Web Designs. We received your message and will get back to you within 24 hours. Questions? Call us: 647-689-6069`).catch(() => {});
   }
 
   return NextResponse.json({ success: true });
