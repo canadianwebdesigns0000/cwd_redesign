@@ -85,15 +85,20 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
   }
 
+  // reCAPTCHA: log result but never block submissions (domain/score issues would break real users)
   if (RECAPTCHA_SECRET_KEY && recaptchaToken) {
-    const verifyResponse = await fetch("https://www.google.com/recaptcha/api/siteverify", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: `secret=${RECAPTCHA_SECRET_KEY}&response=${recaptchaToken}`,
-    });
-    const verifyData = await verifyResponse.json();
-    if (!verifyData.success || verifyData.score < 0.5) {
-      return NextResponse.json({ error: "reCAPTCHA verification failed" }, { status: 403 });
+    try {
+      const verifyResponse = await fetch("https://www.google.com/recaptcha/api/siteverify", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: `secret=${RECAPTCHA_SECRET_KEY}&response=${recaptchaToken}`,
+      });
+      const verifyData = await verifyResponse.json();
+      if (!verifyData.success || verifyData.score < 0.3) {
+        console.warn("reCAPTCHA low score (non-blocking):", JSON.stringify(verifyData));
+      }
+    } catch (err) {
+      console.warn("reCAPTCHA check error (non-blocking):", err);
     }
   }
 
