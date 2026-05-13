@@ -58,56 +58,30 @@ export default function Preloader() {
         pointerEvents: "none",
       }} />
 
-      {/* Logo mark */}
-      <div style={{ position: "relative", textAlign: "center" }}>
-        {/* Spinning ring */}
-        <div style={{
-          position: "absolute",
-          top: "50%", left: "50%",
-          transform: "translate(-50%, -50%)",
-          width: 100, height: 100,
-          borderRadius: "50%",
-          border: "2px solid transparent",
-          borderTopColor: "#00AADF",
-          borderRightColor: "rgba(0,170,223,0.3)",
-          animation: "preloader-spin 1s linear infinite",
-        }} />
+      {/* Spinner */}
+      <div style={{
+        width: 56, height: 56,
+        borderRadius: "50%",
+        border: "3px solid rgba(0,170,223,0.2)",
+        borderTopColor: "#00AADF",
+        animation: "preloader-spin 0.9s linear infinite",
+        flexShrink: 0,
+      }} />
 
-        {/* Logo icon */}
-        <div style={{
-          width: 72, height: 72,
-          borderRadius: "50%",
-          background: "#ffffff",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          margin: "0 auto",
-          boxShadow: "0 0 40px rgba(0,170,223,0.5)",
-          animation: "preloader-pulse 2s ease-in-out infinite",
-          overflow: "hidden",
-        }}>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/logos/favicon-cropped.png"
-            alt="CWD"
-            style={{ width: 52, height: 52, objectFit: "contain" }}
-          />
-        </div>
-      </div>
-
-      {/* Brand name */}
-      <div style={{ textAlign: "center" }}>
-        <p style={{
-          color: "rgba(255,255,255,0.9)",
-          fontWeight: 800,
-          fontSize: "1rem",
-          letterSpacing: "0.15em",
-          textTransform: "uppercase",
-          fontFamily: "system-ui, sans-serif",
-          animation: "preloader-fade 1.5s ease-in-out infinite alternate",
-        }}>
-          Canadian Web Designs
-        </p>
+      {/* Logo */}
+      <div style={{
+        background: "#ffffff",
+        borderRadius: 12,
+        padding: "10px 20px",
+        boxShadow: "0 0 40px rgba(0,170,223,0.5), 0 8px 32px rgba(0,0,0,0.4)",
+        animation: "preloader-pulse 2s ease-in-out infinite",
+      }}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/logos/logo.png"
+          alt="Canadian Web Designs"
+          style={{ height: 38, width: "auto", display: "block" }}
+        />
       </div>
 
       {/* Progress bar */}
