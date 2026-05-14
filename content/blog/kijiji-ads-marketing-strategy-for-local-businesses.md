@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Kijiji Ads Marketing the Best Strategy for Local Businesses"
 keywords: ["kijiji ads marketing strategy for local businesses","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/02/Untitled-design.jpg"
+featuredImage: "/blog/posts/Untitled-design.jpg"
 ---
 
 <p>Learn to expand your home service business by using the Kijiji marketing tool. Connect your brand with the Canadian community to attract leads and hike up your sales. This article will introduce you to Kijiji marketing and a step-by-step guide to optimizing your Kijiji ads. So, let’s dive in!</p>

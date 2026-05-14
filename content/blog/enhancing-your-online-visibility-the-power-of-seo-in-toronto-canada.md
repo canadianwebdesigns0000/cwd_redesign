@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Enhancing Your Online Visibility: The Power of SEO in Toronto, Canada"
 keywords: ["enhancing your online visibility the power of seo in toronto canada","SEO"]
 category: "SEO"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/05/hand-arrange-white-letters-as-seo-scaled.jpg"
+featuredImage: "/blog/posts/hand-arrange-white-letters-as-seo-scaled.jpg"
 ---
 
 <p>In the bustling digital landscape of Toronto, businesses are increasingly recognizing the transformative potential of <a href="https://canadianwebdesigns.ca/search-engine-optimization/">Search Engine Optimization (SEO)</a>. With a keen focus on boosting online visibility and enhancing user engagement, local enterprises, such as Canadian Web Designs, are tapping into the power of SEO to stand out in a competitive market.</p>

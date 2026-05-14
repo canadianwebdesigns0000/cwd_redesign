@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Programmatic Advertising"
 keywords: ["programmatic advertising","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/12/Programmatic-Advertising-scaled.jpg"
+featuredImage: "/blog/posts/Programmatic-Advertising-scaled.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-what-is-programmatic-advertising">What is programmatic advertising?</h2>

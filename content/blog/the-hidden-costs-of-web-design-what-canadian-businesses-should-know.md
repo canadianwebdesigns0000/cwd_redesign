@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "The Hidden Costs of Web Design: What Canadian Businesses Should Know"
 keywords: ["the hidden costs of web design what canadian businesses should know","Uncategorized"]
 category: "Uncategorized"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/12/7358.jpg"
+featuredImage: "/blog/posts/7358.jpg"
 ---
 
 <p>When it comes to creating a website, many Canadian businesses focus primarily on the upfront costs of hiring a web design company or agency. While this initial investment is critical, there are often hidden costs that can arise throughout the lifecycle of a website. Failing to anticipate these expenses can lead to budget overruns and headaches. In this article, we’ll explore the hidden costs of web design and provide practical tips to help businesses prepare.</p>

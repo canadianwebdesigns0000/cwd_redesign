@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "What Is Flat Design?"
 keywords: ["what is flat design","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/10/Flat-Design-1024x585-1.jpeg"
+featuredImage: "/blog/posts/Flat-Design-1024x585-1.jpeg"
 ---
 
 <h2 class="wp-block-heading" id="h-overview-of-flat-design"><br>Overview of Flat Design</h2>

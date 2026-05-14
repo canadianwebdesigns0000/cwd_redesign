@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Toronto SEO Web Design: Building Websites That Rank and Convert"
 keywords: ["toronto seo web design building websites that rank and convert","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/11/Building-website-rank.png"
+featuredImage: "/blog/posts/Building-website-rank.png"
 ---
 
 <h3 class="wp-block-heading"><strong>Design Meets SEO: The Secret to Online Success</strong></h3>

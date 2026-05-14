@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "WordPress for E-commerce: A Toolbox for Building Your Online Store"
 keywords: ["wordpress for e commerce a toolbox for building your online store","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/WordPress-for-E-commerce.jpg"
+featuredImage: "/blog/posts/WordPress-for-E-commerce.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-wordpress-for-e-commerce-exploring-plugins-and-themes-for-online-stores">WordPress for E-commerce: Exploring plugins and themes for online stores</h2>

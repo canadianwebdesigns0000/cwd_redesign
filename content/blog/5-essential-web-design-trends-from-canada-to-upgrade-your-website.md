@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Essential Web Design Trends from Canada to Upgrade Your Website"
 keywords: ["5 essential web design trends from canada to upgrade your website","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/10/pexels-asphotography-106344-scaled.webp"
+featuredImage: "/blog/posts/pexels-asphotography-106344-scaled.webp"
 ---
 
 <figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/10/pexels-asphotography-106344-1024x684.webp" alt="Web Design Trends" class="wp-image-14419"/></figure>

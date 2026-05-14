@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Designs: Optimizing with the UX Design Honeycomb"
 keywords: ["website designs optimizing with the ux design honeycomb","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/ux-indonesia-pqzRfBhd9r0-unsplash.jpg"
+featuredImage: "/blog/posts/ux-indonesia-pqzRfBhd9r0-unsplash.jpg"
 ---
 
 <div class="wp-block-columns">

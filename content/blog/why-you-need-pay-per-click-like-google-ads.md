@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Why You Need Pay-Per-Click (PPC) – Google & Bing Ads Marketing"
 keywords: ["why you need pay per click like google ads","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/02/why-do-you-need-PPC_.jpg"
+featuredImage: "/blog/posts/why-do-you-need-PPC_.jpg"
 ---
 
 <p>Companies like Google and Bing drive traffic to websites, where an advertiser pays when someone clicks the ad. PPC is a cost effective form of advertising wherein budget can be adjusted and it comes in bidding to market any business.</p>

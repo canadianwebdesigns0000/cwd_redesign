@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Common Mistakes in Website Designs You Should Know and How to Fix Them"
 keywords: ["common mistakes in website designs you should know and how to fix them","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/sebastian-herrmann-oMpknr7yi7g-unsplash.jpg"
+featuredImage: "/blog/posts/sebastian-herrmann-oMpknr7yi7g-unsplash.jpg"
 ---
 
 <div class="wp-block-columns">

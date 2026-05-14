@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "WordPress and Analytics: Using Tools to Analyze Your Site's Performance"
 keywords: ["wordpress and analytics using tools to analyze your sites performance","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/05/google-analytics1.jpg"
+featuredImage: "/blog/posts/google-analytics1.jpg"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Blockchain Technology"
 keywords: ["blockchain technology","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/07/Blockchain-Technology-1024x585-1.jpg"
+featuredImage: "/blog/posts/Blockchain-Technology-1024x585-1.jpg"
 ---
 
 <p><strong>Introduction</strong></p>

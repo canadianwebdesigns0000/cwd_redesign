@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Web Development Services in Canada"
 keywords: ["web development services in canada","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/08/3.png"
+featuredImage: "/blog/posts/3.png"
 ---
 
 <h2 class="wp-block-heading">Building Your Digital Foundation in Toronto and the GTA</h2>

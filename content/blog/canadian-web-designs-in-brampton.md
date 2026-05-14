@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canadian Web Designs: A Local Website Design in Brampton"
 keywords: ["canadian web designs in brampton","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/04/Local-website-design.jpg"
+featuredImage: "/blog/posts/Local-website-design.jpg"
 ---
 
 <p>Your website represents your brand on the digital platform. Creating Brampton's responsive web design improves viewers' confidence in the brand's purchase of products and services. A well-designed website is a key to advancing in this highly competitive market. We have worked with many Brampton-based business owners on a professional, high-quality website design, SEO-friendly and mobile-responsive.</p>

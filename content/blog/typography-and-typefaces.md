@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Typography and Typefaces"
 keywords: ["typography and typefaces","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/pile-of-wooden-letters-PDZ25RE-scaled-1.jpg"
+featuredImage: "/blog/posts/pile-of-wooden-letters-PDZ25RE-scaled-1.jpg"
 ---
 
 <p>Have you ever noticed the wordmarks of some famous big companies? Like Coca-Cola, Instagram, Cadbury, etc., some are curvy, and some are plain and bold. This is how they represent their brand, company, and products. In this blog, you will learn more about typography and different typefaces.</p>

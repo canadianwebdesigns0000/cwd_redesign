@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Your Holy Grail For Classified Marketing"
 keywords: ["holy grail for classified marketing","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Your-Holy-Grail-For-Classified-Marketing.png"
+featuredImage: "/blog/posts/Your-Holy-Grail-For-Classified-Marketing.png"
 ---
 
 <p><strong>Classified Marketing is two words you don’t normally read in the same sentence as they are not the usual click for the average reader, it’s <em>classified ads.</em></strong></p>

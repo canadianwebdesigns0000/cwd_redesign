@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Integrated Marketing Tools"
 keywords: ["integrated marketing tools","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/Integrated-Marketing-Tools.png"
+featuredImage: "/blog/posts/Integrated-Marketing-Tools.png"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How to Migrate from Shopify to WooCommerce"
 keywords: ["how to migrate from shopify to woocommerce","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/10/shopify-migrate-to-woocommerce.jpg"
+featuredImage: "/blog/posts/shopify-migrate-to-woocommerce.jpg"
 ---
 
 <div class="wp-block-columns">

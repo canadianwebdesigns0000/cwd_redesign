@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 5 Unique Web Design Trends to Watch out in 2021"
 keywords: ["top 5 web design trends in 2021","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/05/Canadian-Web-Design-Unique-Trends-.png"
+featuredImage: "/blog/posts/Canadian-Web-Design-Unique-Trends-.png"
 ---
 
 <h2 class="wp-block-heading" id="h-web-designs-trends-for-2021">Web Designs Trends for 2021</h2>

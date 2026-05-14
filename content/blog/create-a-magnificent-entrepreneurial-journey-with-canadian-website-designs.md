@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Create a magnificent entrepreneurial journey with Canadian Website Designs."
 keywords: ["create a magnificent entrepreneurial journey with canadian website designs","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/09/image.png"
+featuredImage: "/blog/posts/image.png"
 ---
 
 <p><strong>How to promote your brand and perform effective digital marketing strategies to get more leads to call you from your website?</strong></p>

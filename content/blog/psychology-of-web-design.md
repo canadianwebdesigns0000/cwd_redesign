@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Psychology of Web Design"
 keywords: ["psychology of web design","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/04/cropped-view-of-smiling-designer-showing-mobile.jpg"
+featuredImage: "/blog/posts/cropped-view-of-smiling-designer-showing-mobile.jpg"
 ---
 
 <div class="wp-block-columns">

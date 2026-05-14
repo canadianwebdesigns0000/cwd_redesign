@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "ChatGPT's Impact on Digital Marketing Success"
 keywords: ["chatgpts impact on digital marketing","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/03/chatgpt.jpg"
+featuredImage: "/blog/posts/chatgpt.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-revolutionizing-digital-marketing-with-artificial-intelligence-and-language-models">Revolutionizing Digital Marketing with Artificial Intelligence and Language Models</h2>

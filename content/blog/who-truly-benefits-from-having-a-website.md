@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Who Truly Benefits from Having a Website?"
 keywords: ["who truly benefits from having a website","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/11/web-site-design.png"
+featuredImage: "/blog/posts/web-site-design.png"
 ---
 
 <p>In today’s fast-paced digital landscape, a website is an essential tool for businesses and individuals striving to succeed in a competitive market. At Canadian Web Designs, we believe every business—whether a small business owner, a startup, or an established enterprise—can benefit immensely from a strong online presence.&nbsp;Whether you’re looking for website design near you, need reliable website maintenance, or are seeking a top-rated <a href="https://canadianwebdesigns.ca/choose-a-web-design-company-for-your-business/">web design company</a><strong> </strong>for your next project, a professionally designed and maintained website can transform your online presence.</p>

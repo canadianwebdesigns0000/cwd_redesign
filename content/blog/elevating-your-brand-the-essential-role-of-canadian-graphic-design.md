@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Elevating Your Brand: The Essential Role of Canadian Graphic Design"
 keywords: ["elevating your brand the essential role of canadian graphic design","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/graphics-designs-1.jpg"
+featuredImage: "/blog/posts/graphics-designs-1.jpg"
 ---
 
 <p>In today's competitive business landscape, Canadian graphic design stands as the bridge between artistry and strategy, fundamentally shaping the way brands are perceived. By melding aesthetics with function, designers embark on a journey to develop unique, compelling visual narratives tailored to each client's needs. Through a meticulous blend of typography, color schemes, and spatial arrangements, these crafted designs transition from mere concepts to powerful digital art forms, ready to captivate audiences across various platforms.</p>

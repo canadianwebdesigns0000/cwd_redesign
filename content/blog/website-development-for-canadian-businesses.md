@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Navigating the Digital Frontier: The Importance of Website Development for Canadian Businesses"
 keywords: ["website development for canadian businesses","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/06/2150010125.jpg"
+featuredImage: "/blog/posts/2150010125.jpg"
 ---
 
 <p><strong>Professional Web Page Design Solutions for Your Business</strong><br>In today’s digital-first world, your website isn’t just a piece of your marketing—it <em>is</em> your marketing. At Canadian Web Designs Inc., we specialize in creating professional web page design solutions that not only reflect your brand but also convert visitors into loyal customers. Whether you're a startup looking to make your mark or an established company aiming to modernize your online presence, our web design services are tailored to meet your unique business needs.</p>

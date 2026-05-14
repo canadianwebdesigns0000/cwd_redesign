@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Mobile Web Design in Toronto: Costs, Tips, and Best Practices"
 keywords: ["mobile web design in toronto","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/04/mobile-web-design-toronto1.jpg"
+featuredImage: "/blog/posts/mobile-web-design-toronto1.jpg"
 ---
 
 <div class="wp-block-columns">

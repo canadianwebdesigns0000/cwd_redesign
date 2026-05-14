@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Mastering Web Design Fundamentals"
 keywords: ["mastering web design fundamentals","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/UX.jpg"
+featuredImage: "/blog/posts/UX.jpg"
 ---
 
 <div class="wp-block-columns">

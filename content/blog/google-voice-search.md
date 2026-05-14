@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Here’s What You Need To Know About Google Voice Search"
 keywords: ["google voice search","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Heres-What-You-Need-To-Know-About-Google-Voice-Search-scaled.jpg"
+featuredImage: "/blog/posts/Heres-What-You-Need-To-Know-About-Google-Voice-Search-scaled.jpg"
 ---
 
 <h2 class="wp-block-heading">Google Voice Search: Unveiling the Future of Internet Browsing</h2>

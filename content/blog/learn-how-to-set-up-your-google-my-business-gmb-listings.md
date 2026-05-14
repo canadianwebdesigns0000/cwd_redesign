@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Learn How to Set Up Your Google My Business (GMB) Listings"
 keywords: ["learn how to set up your google my business gmb listings","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/online-shopping-SU32AVJ-2-scaled-1.jpg"
+featuredImage: "/blog/posts/online-shopping-SU32AVJ-2-scaled-1.jpg"
 ---
 
 </p>

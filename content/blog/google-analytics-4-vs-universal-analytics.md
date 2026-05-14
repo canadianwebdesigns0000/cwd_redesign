@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Google Analytics 4 vs. Universal Analytics"
 keywords: ["google analytics 4 vs universal analytics","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/06/Google-Analytics-4-vs-Universal-Analytics1.jpg"
+featuredImage: "/blog/posts/Google-Analytics-4-vs-Universal-Analytics1.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-analyzing-the-future-navigating-the-analytics-landscape"><strong>Analyzing the Future:</strong> <strong>Navigating the Analytics Landscape</strong></h2>

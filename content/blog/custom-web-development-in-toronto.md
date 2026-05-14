@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Custom Web Development in Toronto"
 keywords: ["custom web development in toronto","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/Custome-Web-Devlopment-in-Toronto.jpg"
+featuredImage: "/blog/posts/Custome-Web-Devlopment-in-Toronto.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-introduction-to-custom-web-development"><strong>Introduction to Custom Web Development</strong></h2>

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Importance of Regular Website Backup"
 keywords: ["importance of regular website backups","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/duplicator.jpg"
+featuredImage: "/blog/posts/duplicator.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-why-regular-website-backup-is-essential">Why Regular Website Backup is Essential</h2>

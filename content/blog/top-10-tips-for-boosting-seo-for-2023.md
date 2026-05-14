@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 10 Strategies for Enhancing E-E-A-T and Boosting SEO Performance 2023"
 keywords: ["top 10 tips for boosting seo for 2023","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/02/seo-2.png"
+featuredImage: "/blog/posts/seo-2.png"
 ---
 
 <div class="wp-block-columns">

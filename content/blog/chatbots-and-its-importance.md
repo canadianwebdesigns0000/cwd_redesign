@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Chatbots And Its Importance"
 keywords: ["chatbots and its importance","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Chatbots-And-Its-Importance-scaled.jpg"
+featuredImage: "/blog/posts/Chatbots-And-Its-Importance-scaled.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-what-is-a-chatbot">What is a chatbot?</h2>

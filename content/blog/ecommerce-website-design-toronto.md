@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Ecommerce Website Design - Reason Why You Need One"
 keywords: ["ecommerce website design toronto","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/Ecommerce-Website-Design-Reason-Why-You-Need-One-1.png"
+featuredImage: "/blog/posts/Ecommerce-Website-Design-Reason-Why-You-Need-One-1.png"
 ---
 
 <p>E-commerce website designs imply utilizing the Internet and the web for deals and business exchanges, which normally include the trading of significant worth (e.g., money) across individual or organizational boundaries as a trade-off for items and services.</p>

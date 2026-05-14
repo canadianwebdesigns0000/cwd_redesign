@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 7 Different Unique Styles in Creating Stunning Website Design"
 keywords: ["top 7 different unique styles in creating stunning website design","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/12/web-1668927_1920.jpg"
+featuredImage: "/blog/posts/web-1668927_1920.jpg"
 ---
 
 <p>After classifying a stunning website design you want to have, plan the possible appearance you want to achieve. Presentable <strong><a href="https://canadianwebdesigns.ca/online-presence-how-this-works/" target="_blank" rel="noreferrer noopener">online presence </a></strong>with eye-catching and responsive features catches the attention of your visitors.</p>

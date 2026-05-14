@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Toronto Website Maintenance &amp; SEO Optimization: Keeping Your Site Fast, Secure, and Google-Ready"
 keywords: ["toronto website maintenance seo optimization keeping your site fast secure and google ready","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/11/Secured-Google.png"
+featuredImage: "/blog/posts/Secured-Google.png"
 ---
 
 <h2 class="wp-block-heading">Why Ongoing Website Maintenance Is Essential for SEO Success</h2>

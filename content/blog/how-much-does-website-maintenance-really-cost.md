@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How Much Does Website Maintenance Really Cost?"
 keywords: ["how much does website maintenance really cost","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/07/Website-maintenance-near-me1jpg.jpg"
+featuredImage: "/blog/posts/Website-maintenance-near-me1jpg.jpg"
 ---
 
 <p><strong>Introduction</strong><strong></strong></p>

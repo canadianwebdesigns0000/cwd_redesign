@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Best Menu Design Service"
 keywords: ["best menu design service","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/Best-Menu-Design-Service.png"
+featuredImage: "/blog/posts/Best-Menu-Design-Service.png"
 ---
 
 <p>Thinking about opening a new spot or just giving your current restaurant a fresh look? The menu is often the first thing people see, so it's gotta be as <strong>appealing as your food</strong>!</p>

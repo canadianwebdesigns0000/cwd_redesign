@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canada Web Design: Elevating Your Online Presence"
 keywords: ["canada web design elevating your online presence","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/03/Canada-Web-Design.png"
+featuredImage: "/blog/posts/Canada-Web-Design.png"
 ---
 
 <div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents"><h2>Table of contents</h2><ul><li><a href="#h-understanding-the-importance-of-quality-web-design" data-level="2">Understanding the Importance of Quality Web Design</a><ul><li><a href="#h-mobile-responsiveness-a-non-negotiable-feature" data-level="3">Mobile Responsiveness: A Non-Negotiable Feature</a></li><li><a href="#h-speed-optimization-keeping-your-audience-engaged" data-level="3">Speed Optimization: Keeping Your Audience Engaged</a></li><li><a href="#h-intuitive-navigation-guiding-your-visitors-to-success" data-level="3">Intuitive Navigation: Guiding Your Visitors to Success</a></li><li><a href="#h-a-website-should-be-designed-with-the-user-s-journey-in-mind-from-the-moment-visitors-land-on-your-site-they-should-find-it-effortless-to-navigate-through-your-pages-and-find-the-information-they-seek-engaging-content-the-heart-of-your-website" data-level="3">A website should be designed with the user’s journey in mind. From the moment visitors land on your site, they should find it effortless to navigate through your pages and find the information they seek. Engaging Content: The Heart of Your Website</a></li><li><a href="#h-leveraging-the-power-of-seo" data-level="3">Leveraging the Power of SEO</a></li></ul></li></ul></div>

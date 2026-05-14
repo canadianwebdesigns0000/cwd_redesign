@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Best Web Design in Canada"
 keywords: ["best web design canada","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/Best-Web-Design-in-Canada.png"
+featuredImage: "/blog/posts/Best-Web-Design-in-Canada.png"
 ---
 
 <div class="wp-block-columns">

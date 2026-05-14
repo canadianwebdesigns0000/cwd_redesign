@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Best Strategies for Incorporating ChatGPT into Your Business Operations"
 keywords: ["5 best strategies for incorporating chatgpt into your business","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/06/ai-chatbot.jpg"
+featuredImage: "/blog/posts/ai-chatbot.jpg"
 ---
 
 <p>As businesses continuously strive to optimize their operations, save expenses, and boost revenue in our dynamic digital era, they frequently turn to artificial intelligence (AI) tools such as ChatGPT. This AI solution is particularly beneficial for small businesses operating on tight budgets and restricted resources. It can deliver a wealth of data and insights that businesses can leverage to make informed decisions, keep customers engaged, and stimulate growth.</p>

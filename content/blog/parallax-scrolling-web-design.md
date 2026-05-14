@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Parallax Scrolling In Web Design"
 keywords: ["parallax scrolling web design","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/11/parallax-scrolling-1024x683-1024x585-1.jpg"
+featuredImage: "/blog/posts/parallax-scrolling-1024x683-1024x585-1.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-what-is-parallax-scrolling">What is Parallax Scrolling?</h2>

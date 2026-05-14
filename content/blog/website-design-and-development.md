@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Design and Development"
 keywords: ["website design and development","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/06/website-designs-canadian.jpg"
+featuredImage: "/blog/posts/website-designs-canadian.jpg"
 ---
 
 <p>A stunning website provides impact to your online market. You take care of your physical face when you conduct business, yet most don’t care about online looks - websites.</p>

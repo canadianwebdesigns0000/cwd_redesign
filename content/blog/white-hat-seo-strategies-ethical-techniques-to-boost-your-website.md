@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "White Hat SEO Strategies: Ethical Techniques to Boost Your Website"
 keywords: ["white hat seo strategies ethical techniques to boost your website","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2026/01/White-Hat-SEO-Strategies.png"
+featuredImage: "/blog/posts/White-Hat-SEO-Strategies.png"
 ---
 
 <p>In today’s digital landscape, <strong>white hat SEO</strong> is essential for sustainable online growth. Unlike black hat tactics that attempt to manipulate search engines, white hat SEO focuses on <strong>ethical, user-friendly techniques</strong> that improve your site’s visibility while following search engine guidelines.</p>

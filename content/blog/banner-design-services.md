@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Banner Design Services"
 keywords: ["banner design services","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/photo-1567789733718-254c719b4974.jpg"
+featuredImage: "/blog/posts/photo-1567789733718-254c719b4974.jpg"
 ---
 
 <div class="wp-block-columns">

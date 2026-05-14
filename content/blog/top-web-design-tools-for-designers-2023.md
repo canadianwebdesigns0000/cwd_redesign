@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "The Ultimate List of Top Web Design Tools for Designers 2023"
 keywords: ["top web design tools for designers 2023","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/02/Wordpress-Featured-image-1.jpg"
+featuredImage: "/blog/posts/Wordpress-Featured-image-1.jpg"
 ---
 
 <p>The best web design tools that every designer needs have been discussed in this post. Web design tools for creating beautiful website designs, including image editing programs and prototype generators, are discussed. Useful for both experienced designers and beginners. Top software for website creation to be investigated.</p>

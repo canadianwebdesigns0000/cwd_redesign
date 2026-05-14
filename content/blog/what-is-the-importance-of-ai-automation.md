@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Unraveling the Significance: What is the Importance of AI Automation?"
 keywords: ["what is the importance of ai automation","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/05/the-future-of-office-automation.jpg"
+featuredImage: "/blog/posts/the-future-of-office-automation.jpg"
 ---
 
 <p>Artificial intelligence (AI) breakthroughs have resulted in game-changing changes in a variety of industries. Shaping the way we live, work, and interact. One area where AI has truly demonstrated its potential is automation. The article digs into the importance of AI automation, examining how it is utilized in process automation and the benefits it brings to various industries. We'll discuss the role of AI in today's life and its underlying purpose.</p>

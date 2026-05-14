@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Progressive Web Apps"
 keywords: ["progressive web apps","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/07/Progressive-Web-Apps-1024x647-1024x585-1.jpg"
+featuredImage: "/blog/posts/Progressive-Web-Apps-1024x647-1024x585-1.jpg"
 ---
 
 <p>A Progressive Web App (PWA) is a web app that delivers an app-like experience to users using web compatibilities. These apps meet certain requirements (see below), are deployed to servers, accessible through URLs, and indexed by search engines.<br>This can work in conjunction with <a href="https://cordova.apache.org/" target="_blank" rel="noopener noreferrer">Cordova</a> to provide multiple deploy targets for all your users. You can deploy your app as a PWA as well as Native app and take advantage of both channels.<br>Ionic allows you to ship your app to not only the app store but also deploy to the mobile web as a PWA.<br></p>

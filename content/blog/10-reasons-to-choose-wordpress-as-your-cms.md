@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "10 Reasons to Choose WordPress as Your CMS"
 keywords: ["10 reasons to choose wordpress as your cms","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/03/Wordpress.jpg"
+featuredImage: "/blog/posts/Wordpress.jpg"
 ---
 
 <div class="wp-block-columns">

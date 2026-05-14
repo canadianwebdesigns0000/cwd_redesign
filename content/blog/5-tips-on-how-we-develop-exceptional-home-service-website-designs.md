@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Tips on How We Develop Exceptional Home Service Website Designs"
 keywords: ["5 tips on how we develop exceptional home service website designs","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/12/domenico-loia-hGV2TfOh0ns-unsplash-1.jpg"
+featuredImage: "/blog/posts/domenico-loia-hGV2TfOh0ns-unsplash-1.jpg"
 ---
 
 <div class="wp-block-columns">

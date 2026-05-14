@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Social Proof Marketing In Social Media"
 keywords: ["social proof marketing in social media","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/featured-image-1.png"
+featuredImage: "/blog/posts/featured-image-1.png"
 ---
 
 <div class="wp-block-columns">

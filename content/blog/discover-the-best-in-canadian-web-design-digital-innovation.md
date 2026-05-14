@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Discover the Best in Canadian Web Design &amp; Digital Innovation"
 keywords: ["discover the best in canadian web design digital innovation","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/03/163260.jpg"
+featuredImage: "/blog/posts/163260.jpg"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Compelling Reasons Your Business Needs a Website"
 keywords: ["why busines needs website","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/5-Reasons-Having-a-Website-for-Your-Business-is-a-Good-Idea.png"
+featuredImage: "/blog/posts/5-Reasons-Having-a-Website-for-Your-Business-is-a-Good-Idea.png"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Crafting Digital Landscapes: Exploring the Essence of Canadian Web Design in Toronto"
 keywords: ["crafting digital landscapes exploring the essence of canadian web design in toronto","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/04/day-office-travel-agency.jpg"
+featuredImage: "/blog/posts/day-office-travel-agency.jpg"
 ---
 
 <h2 class="wp-block-heading"><strong>Sustainability and ethical design: a Canadian priority.</strong></h2>

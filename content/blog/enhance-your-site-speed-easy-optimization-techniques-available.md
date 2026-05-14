@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Enhance Your Site Speed: Easy Optimization Techniques Available"
 keywords: ["enhance your site speed easy optimization techniques available","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/07/Google-Page-Speed-Insights.png"
+featuredImage: "/blog/posts/Google-Page-Speed-Insights.png"
 ---
 
 <p>Techniques to boost your site's speed and performance are readily available to you. In the realm of digital technology, speed is of utmost importance. A swift website not only uplifts user experience and augments conversion rates but also escalates SEO rankings. So, are you prepared to rev up your website's functionality? Let's delve into Google PageSpeed Insights and unearth methods to accelerate your site's speed and effectiveness.</p>

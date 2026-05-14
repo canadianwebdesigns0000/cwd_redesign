@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Google Ads Management"
 keywords: ["google ads management","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/12/PPC-google-ads.jpg"
+featuredImage: "/blog/posts/PPC-google-ads.jpg"
 ---
 
 <div class="wp-block-columns">

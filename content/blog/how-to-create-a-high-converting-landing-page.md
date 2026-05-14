@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How to Create a High-Converting Landing Page"
 keywords: ["how to create a high converting landing page","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/03/landing-page-1.jpg"
+featuredImage: "/blog/posts/landing-page-1.jpg"
 ---
 
 <h2 class="wp-block-heading"> Expert Tips from a Leading Website Design Company in Toronto</h2>

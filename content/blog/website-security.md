@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Fortifying Your Online Presence: A Comprehensive Guide to Website Security"
 keywords: ["website security","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/01/construction-design-project-renovation-concept-scaled.jpg"
+featuredImage: "/blog/posts/construction-design-project-renovation-concept-scaled.jpg"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Differences Between WooCommerce vs Shopify"
 keywords: ["differences between woocommerce vs shopify","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/10/shopify-vs-woocommerce.jpg"
+featuredImage: "/blog/posts/shopify-vs-woocommerce.jpg"
 ---
 
 <p>E-commerce is not just about selling; it's about the experience, the journey, and the toolset that makes an online store thrive. In this realm, WooCommerce and Shopify have emerged as two dominant forces. But which is the right fit for your needs? Let's dissect the unique offerings and contrasts between these platforms to help you make an informed decision</p>

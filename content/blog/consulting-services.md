@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Consulting Services for Startups"
 keywords: ["consulting services","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/Consulting-Services-for-Startups.png"
+featuredImage: "/blog/posts/Consulting-Services-for-Startups.png"
 ---
 
 <div class="wp-block-columns">

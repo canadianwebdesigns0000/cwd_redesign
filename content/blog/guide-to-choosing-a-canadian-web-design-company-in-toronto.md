@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "The Definitive Guide to Choosing a Canadian Web Design Company in Toronto"
 keywords: ["guide to choosing a canadian web design company in toronto","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/09/Untitled-design.png"
+featuredImage: "/blog/posts/Untitled-design.png"
 ---
 
 <figure class="wp-block-image size-large"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/website-screenshot-of-canadian-web-designs-1024x507.webp" alt="website screenshot of canadian web designs" class="wp-image-14213"/></figure>

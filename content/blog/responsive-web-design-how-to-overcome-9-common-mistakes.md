@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Responsive Web Design: How to Overcome 9 Common Mistakes"
 keywords: ["responsive web design how to overcome 9 common mistakes","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/03/website-layout.jpg"
+featuredImage: "/blog/posts/website-layout.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-the-imperative-of-adaptive-web-design"><strong>The Imperative of Adaptive Web Design</strong></h2>

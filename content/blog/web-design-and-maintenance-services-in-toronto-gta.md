@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Web Design and Maintenance Services in Toronto &amp; GTA"
 keywords: ["web design and maintenance services in toronto gta","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/06/1.png"
+featuredImage: "/blog/posts/1.png"
 ---
 
 <p>Looking for professional web design and maintenance services in Toronto or the GTA? Whether you're a startup or a growing business, your website is often the first point of contact with your customers. A well-designed, fast, and regularly maintained website doesn't just look good—it performs, converts, and builds lasting trust with your audience.</p>

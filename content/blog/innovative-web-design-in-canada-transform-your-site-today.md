@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Innovative Web Design in Canada | Transform Your Site Today"
 keywords: ["innovative web design in canada transform your site today","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/03/64988.jpg"
+featuredImage: "/blog/posts/64988.jpg"
 ---
 
 <div class="wp-block-yoast-seo-table-of-contents yoast-table-of-contents"><h2>Table of contents</h2><ul><li><a href="#h-why-choose-custom-web-design-and-development" data-level="2">Why Choose Custom Web Design and Development?</a><ul><li><a href="#h-e-commerce-solutions" data-level="3">E-Commerce Solutions</a></li><li><a href="#h-content-management" data-level="3">Content Management</a></li><li><a href="#h-mobile-responsive-design" data-level="3">Mobile Responsive Design</a></li><li><a href="#h-trust-and-reliability" data-level="3">Trust and Reliability</a></li></ul></li></ul></div>

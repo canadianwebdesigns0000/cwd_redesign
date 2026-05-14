@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Designs: 8 Types of Website You Have Seen In The Internet World and What Are Their Functions"
 keywords: ["8 types of websites","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/diverse-people-thinking-planning-marketing-brand-concept-scaled-1.jpg"
+featuredImage: "/blog/posts/diverse-people-thinking-planning-marketing-brand-concept-scaled-1.jpg"
 ---
 
 <div class="wp-block-columns">

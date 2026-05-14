@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Drive Growth with Stunning and Effective Toronto Web Design"
 keywords: ["drive growth with stunning and effective toronto web design","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/05/1.png"
+featuredImage: "/blog/posts/1.png"
 ---
 
 <h4 class="wp-block-heading">Your Guide to Online Success</h4>

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Minimalist Website Design"
 keywords: ["minimalist website design","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/12/minimalist-web-design-1024x585-1.jpg"
+featuredImage: "/blog/posts/minimalist-web-design-1024x585-1.jpg"
 ---
 
 <h2 class="wp-block-heading"><strong>What is Minimalist Web Design?</strong></h2>

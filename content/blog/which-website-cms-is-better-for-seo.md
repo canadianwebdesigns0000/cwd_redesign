@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Which Website CMS is Better for SEO?"
 keywords: ["which website cms is better for seo","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/09/purpose-of-landing-page.jpg"
+featuredImage: "/blog/posts/purpose-of-landing-page.jpg"
 ---
 
 <p>SEO is one of the most important parts of Internet marketing. Any website's ability to draw organic traffic largely depends on its SEO compatibility. One key factor influencing this is the Content Management System (CMS) that the website operates on. But which CMS truly stands out when it comes to SEO?</p>

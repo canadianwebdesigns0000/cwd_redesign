@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Professional Web Design Services in Canada: A Complete Guide for Business Owners"
 keywords: ["professional web design services in canada a complete guide for business owners","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/12/Professional-Web-Design-Services-in-Canada.png"
+featuredImage: "/blog/posts/Professional-Web-Design-Services-in-Canada.png"
 ---
 
 <p>In Canada’s competitive digital market, a business website is often the first interaction customers have with a brand. It only takes a few seconds for visitors to judge whether they trust your business or not—and your website’s design plays a major role in that decision. This is why investing in professional web design services is essential for all businesses, from small local shops to established service providers.</p>

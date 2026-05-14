@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Black Hat SEO vs. White Hat SEO"
 keywords: ["black hat seo vs white hat seo","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/header2.png"
+featuredImage: "/blog/posts/header2.png"
 ---
 
 <div class="wp-block-columns">

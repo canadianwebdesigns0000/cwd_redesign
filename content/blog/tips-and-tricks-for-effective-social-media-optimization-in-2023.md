@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Tips and Tricks for Effective Social Media Optimization in 2023"
 keywords: ["tips and tricks for effective social media optimization in 2023","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/05/social-media.jpg"
+featuredImage: "/blog/posts/social-media.jpg"
 ---
 
 <div class="wp-block-columns">

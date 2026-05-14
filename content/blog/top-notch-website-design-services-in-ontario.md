@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top-Notch Website Design Services in Ontario: Elevate Your Business with Canadian Web Designs"
 keywords: ["top notch website design services in ontario","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/12/classmates-having-lunch-together-group-study_23-2149211130.png"
+featuredImage: "/blog/posts/classmates-having-lunch-together-group-study_23-2149211130.png"
 ---
 
 <p>In today’s digital age, having a professional and functional website is non-negotiable for businesses looking to thrive. At Canadian Web Designs, we specialize in creating stunning websites that not only look great but also drive results. Based in <a href="http://www.ontario.ca/" target="_blank" rel="noreferrer noopener">Ontario</a> Canada and serving the Greater Toronto Area (GTA), our web design company is your go-to partner for all your online needs. Whether you’re starting a new venture or revamping your current website, our team has the tools, experience, and passion to make your vision a reality.</p>

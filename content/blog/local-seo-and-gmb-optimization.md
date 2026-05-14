@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Local SEO and GMB Optimization - Why It’s Helpful to Your Local Business"
 keywords: ["local seo and gmb optimization","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/Local-SEO1.jpg"
+featuredImage: "/blog/posts/Local-SEO1.jpg"
 ---
 
 <p>What is GMB? Google My Business is a free feature that enables you to use Google Search and Maps to advertise your business profile and website. You can view and hook up your customers with your Google My Business account. You can also regularly modify your company profile and then observe how consumers engage on Google.</p>

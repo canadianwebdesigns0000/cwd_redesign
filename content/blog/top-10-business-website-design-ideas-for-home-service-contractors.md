@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 10 Business Website Design Ideas for Home Service Contractors"
 keywords: ["top 10 business website design ideas for home service contractors","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/12/clint-patterson-knxuAKpRoxs-unsplash.jpg"
+featuredImage: "/blog/posts/clint-patterson-knxuAKpRoxs-unsplash.jpg"
 ---
 
 <h2 class="wp-block-heading">Why Online Presence is Crucial for Home Services</h2>

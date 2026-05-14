@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Digital Marketing: A Successful Journey for Entrepreneurship"
 keywords: ["digital marketing a successful journey","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/digital-marketing-media-in-virtual-icon-globe-shap-UW9Q4EY-1-scaled-1.jpg"
+featuredImage: "/blog/posts/digital-marketing-media-in-virtual-icon-globe-shap-UW9Q4EY-1-scaled-1.jpg"
 ---
 
 <p>The digital world is becoming more advanced nowadays due to the boost of modern technology compared to the past decades. Laptops, tablets, smartphones, and other devices are now part of our life. But of course, there are numerous advantages and disadvantages to being exposed to today’s modern technology. But for most entrepreneurs, this is a great opportunity for their business to expand.</p>

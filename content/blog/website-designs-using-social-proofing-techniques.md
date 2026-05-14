@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Designs: Using Social Proofing Techniques"
 keywords: ["website designs using social proofing techniques","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/igor-miske-Px3iBXV-4TU-unsplash-1.jpg"
+featuredImage: "/blog/posts/igor-miske-Px3iBXV-4TU-unsplash-1.jpg"
 ---
 
 <p>Building a website design with a dull appearance cannot attract customers to buy the services you offer. But creating an impressive innovative design by applying social proofing techniques. Together with UX designs is an ultimate way to catch the attention and earn trust from your prospective customers.</p>

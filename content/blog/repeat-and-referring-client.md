@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Repeat and Referring Client"
 keywords: ["repeat and referring client","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/05/sebastian-herrmann-NbtIDoFKGO8-unsplash-1-1.jpg"
+featuredImage: "/blog/posts/sebastian-herrmann-NbtIDoFKGO8-unsplash-1-1.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-what-it-takes-to-gain-repeat-and-referral-clients">What it takes to gain repeat and referral clients?</h2>

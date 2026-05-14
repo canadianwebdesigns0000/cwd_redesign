@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Understanding Basic WordPress Website Costs in Toronto and the GTA"
 keywords: ["understanding basic wordpress website costs in toronto and the gta","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/05/WordPress-Website-Costs-1.jpg"
+featuredImage: "/blog/posts/WordPress-Website-Costs-1.jpg"
 ---
 
 <p><strong>Decoding the Investment</strong></p>

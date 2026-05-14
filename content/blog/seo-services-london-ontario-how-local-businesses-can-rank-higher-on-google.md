@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "SEO Services London Ontario: How Local Businesses Can Rank Higher on Google"
 keywords: ["seo services london ontario how local businesses can rank higher on google","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2026/01/SEO-Services-London-Ontario.png"
+featuredImage: "/blog/posts/SEO-Services-London-Ontario.png"
 ---
 
 <p>If you’re searching for <strong>SEO services London Ontario</strong>, chances are you want more visibility, more leads, and better rankings on Google. In today’s competitive digital space, having a website alone isn’t enough—your business needs a strong SEO strategy to stand out locally.</p>

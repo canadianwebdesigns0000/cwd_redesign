@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How Does Local SEO Benefit Your Business in 2023?"
 keywords: ["how does local seo benefit your business in 2023","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/08/local-seo1.jpg"
+featuredImage: "/blog/posts/local-seo1.jpg"
 ---
 
 <div class="wp-block-columns">

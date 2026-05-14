@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Online Presence: How does this work?"
 keywords: ["online presence how this works","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/09/male-gamer-gaming-lifestyle-cybersport-ADWBQ4A-scaled-1.jpg"
+featuredImage: "/blog/posts/male-gamer-gaming-lifestyle-cybersport-ADWBQ4A-scaled-1.jpg"
 ---
 
 <div class="wp-block-columns">

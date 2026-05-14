@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Wix to WordPress: A Comprehensive Migration Tutorial for Beginners"
 keywords: ["wix to wordpress migration tutorial for beginners","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/09/wiz-to-wordpress.jpg"
+featuredImage: "/blog/posts/wiz-to-wordpress.jpg"
 ---
 
 <div class="wp-block-columns">

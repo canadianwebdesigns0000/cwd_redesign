@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Infographics"
 keywords: ["infographics","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/pasted-image-0.png"
+featuredImage: "/blog/posts/pasted-image-0.png"
 ---
 
 <div class="wp-block-columns">

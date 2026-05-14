@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "The Ultimate Guide to Creating a Successful Squarespace Website"
 keywords: ["the ultimate guide to creating a successful squarespace website","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/11/Squarespace-website.jpg"
+featuredImage: "/blog/posts/Squarespace-website.jpg"
 ---
 
 <div class="wp-block-columns">

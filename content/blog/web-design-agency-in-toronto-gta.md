@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Why Canadian Web Designs is Your Go-To Web Design Agency in Toronto &amp; GTA"
 keywords: ["web design agency in toronto gta","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/10/1.jpg"
+featuredImage: "/blog/posts/1.jpg"
 ---
 
 <p>Your website represents your company in the fast-paced digital world of today. Having a good online presence is essential for growth, visibility, and success for every business, regardless of size. This is when a professional <a href="https://canadianwebdesigns.ca/choose-a-web-design-company-for-your-business/">web design company</a> comes into play. At Canadian Web Designs, our specialty is building gorgeous, well-performing websites that look amazing and produce results. As a top web design firm in <strong>Toronto </strong>and the <strong>Greater Toronto Area (GTA)</strong>, we're dedicated to making companies like yours stand out online.</p>

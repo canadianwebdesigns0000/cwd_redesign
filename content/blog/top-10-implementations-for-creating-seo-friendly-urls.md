@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 10 Implementations for Creating SEO-Friendly URLs"
 keywords: ["top 10 implementations for creating seo friendly urls","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/02/seo-2.png"
+featuredImage: "/blog/posts/seo-2.png"
 ---
 
 <h2 class="wp-block-heading" id="h-introduction"><strong>Introduction</strong></h2>

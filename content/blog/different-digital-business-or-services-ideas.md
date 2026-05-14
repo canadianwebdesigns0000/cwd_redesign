@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Different Digital Businesses or Services Ideas"
 keywords: ["different digital business or services ideas","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/photo-1531534809446-724fcafe9e97.jpg"
+featuredImage: "/blog/posts/photo-1531534809446-724fcafe9e97.jpg"
 ---
 
 <p>Do you have an actual job, but your salary is not enough to sustain your needs, and are looking for a sideline as another way of earning passive income? Or a jobless person, who desires to own a business. Well, I recommend you read this whole content to answer your questions. Maybe these digital business or service ideas can accomplish your goals.</p>

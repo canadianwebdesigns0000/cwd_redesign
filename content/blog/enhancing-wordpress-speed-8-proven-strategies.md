@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Enhancing WordPress Speed: 8 Proven Strategies for Peak Performance"
 keywords: ["enhancing wordpress speed 8 proven strategies","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/pasted-image-0.png"
+featuredImage: "/blog/posts/pasted-image-0.png"
 ---
 
 <h2 class="wp-block-heading" id="h-how-to-make-your-wordpress-site-faster-in-8-steps">How to Make Your WordPress Site Faster in 8 Steps</h2>

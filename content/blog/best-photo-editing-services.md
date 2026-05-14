@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Best Photo Editing in Canada"
 keywords: ["best photo editing services","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Best-Photo-Editing-in-Canada.png"
+featuredImage: "/blog/posts/Best-Photo-Editing-in-Canada.png"
 ---
 
 <div class="wp-block-columns">

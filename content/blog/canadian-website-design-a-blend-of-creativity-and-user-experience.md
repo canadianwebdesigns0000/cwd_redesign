@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canadian Website Design: A Blend of Creativity and User Experience"
 keywords: ["canadian website design a blend of creativity and user experience","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/03/Canadian-Website-Design-Toronto.png"
+featuredImage: "/blog/posts/Canadian-Website-Design-Toronto.png"
 ---
 
 <div class="wp-block-columns">

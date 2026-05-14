@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Maintenance: Keep Your Website Secure, Fast, and Updated"
 keywords: ["website maintenance keep your website secure fast and updated","Uncategorized"]
 category: "Uncategorized"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2026/02/Website-maintenance.png"
+featuredImage: "/blog/posts/Website-maintenance.png"
 ---
 
 <p>Your website is the face of your business online, and like any digital asset, it requires regular <strong>website maintenance</strong> to stay secure, fast, and fully functional.</p>

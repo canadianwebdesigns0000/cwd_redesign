@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top Canada Web Design Services for Businesses in 2026"
 keywords: ["top canada web design services for businesses in 2026","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2026/03/Web-Design-Services-for-Businesses.png"
+featuredImage: "/blog/posts/Web-Design-Services-for-Businesses.png"
 ---
 
 <p>In today’s digital world, having a professional website is more than just a necessity—it’s the foundation of your online success. Whether you’re a small business or a large corporation, choosing reliable <strong>Canada web design services</strong> can set your brand apart and attract more customers.</p>

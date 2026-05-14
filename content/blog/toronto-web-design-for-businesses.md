@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canadian Web Design in Toronto: Building Better Websites for Canadian Businesses in 2025"
 keywords: ["toronto web design for businesses","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/Toronto-skyline-with-web-design-UI-elements-overlay.webp"
+featuredImage: "/blog/posts/Toronto-skyline-with-web-design-UI-elements-overlay.webp"
 ---
 
 <figure class="wp-block-image size-large is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/Toronto-skyline-with-web-design-UI-elements-overlay-1-1024x683.webp" alt="Toronto skyline with web design UI elements overlay" class="wp-image-14202" style="aspect-ratio:1.7777777777777777;object-fit:cover;width:803px;height:auto"/></figure>

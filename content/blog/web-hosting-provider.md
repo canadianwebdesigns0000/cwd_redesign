@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Best Web Hosting Provider"
 keywords: ["web hosting provider","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Best-Web-Hosting-Provider.png"
+featuredImage: "/blog/posts/Best-Web-Hosting-Provider.png"
 ---
 
 <h2 class="wp-block-heading" id="h-web-hosting"><strong>Web Hosting</strong></h2>

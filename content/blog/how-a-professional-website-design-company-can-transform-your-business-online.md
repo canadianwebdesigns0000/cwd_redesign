@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Unlocking Digital Success"
 keywords: ["how a professional website design company can transform your business online","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/08/2676.jpg"
+featuredImage: "/blog/posts/2676.jpg"
 ---
 
 <h2 class="wp-block-heading">How a Professional Website Design Company Can Transform Your Business Online</h2>

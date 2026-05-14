@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "What Do We Do as Digital Marketers?"
 keywords: ["what do we do as digital marketers","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/11/alexander-shatov-mr4JG4SYOF8-unsplash.jpg"
+featuredImage: "/blog/posts/alexander-shatov-mr4JG4SYOF8-unsplash.jpg"
 ---
 
 <div class="wp-block-columns">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Search Engine Optimization: How It Can Affect Your Business Website?"
 keywords: ["search engine optimization how it can affect your business website","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/08/SEARCH-ENGINE-OPTIMIZATION-1.png"
+featuredImage: "/blog/posts/SEARCH-ENGINE-OPTIMIZATION-1.png"
 ---
 
 </p>

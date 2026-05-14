@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canadian Web Designs: Your Local Website Design Experts"
 keywords: ["canadian web designs your local website design experts","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/06/1861.jpg"
+featuredImage: "/blog/posts/1861.jpg"
 ---
 
 <p>In today's digital age, having a robust online presence is essential for businesses of all sizes. Whether you're a small local shop or a large corporation, your website is often the first point of contact for potential customers. That's why finding the right website designer near you is crucial. If you're in <a href="https://www.canada.ca/en/services/business.html" target="_blank" rel="noreferrer noopener">Canada </a>and searching for top-notch website design services near you, look no further than Canadian Web Designs.</p>

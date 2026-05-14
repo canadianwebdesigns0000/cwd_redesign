@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Custom Web Design Toronto: Websites That Convert"
 keywords: ["custom web design toronto building websites that convert","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/11/Websites-that-convert.png"
+featuredImage: "/blog/posts/Websites-that-convert.png"
 ---
 
 <p>In Toronto’s competitive digital landscape, a website is more than an online presence — it’s your most valuable business asset. Whether you’re a startup in Etobicoke or an established brand in downtown Toronto, your website should do more than look good. It should <em>perform</em> — attracting visitors, guiding them intuitively, and turning them into loyal customers.</p>

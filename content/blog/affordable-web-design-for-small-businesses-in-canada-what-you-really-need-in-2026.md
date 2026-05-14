@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Affordable Web Design for Small Businesses in Canada: What You Really Need in 2026"
 keywords: ["affordable web design for small businesses in canada what you really need in 2026","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2026/01/Website-design.png"
+featuredImage: "/blog/posts/Website-design.png"
 ---
 
 <figure class="wp-block-image size-full is-resized"><img src="https://old.canadianwebdesigns.ca/wp-content/uploads/2026/01/Web-Design.png" alt="" class="wp-image-14555" style="object-fit:cover;width:600px;height:600px"/></figure>

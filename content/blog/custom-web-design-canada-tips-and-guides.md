@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Custom Web Design Canada: Tips and Guides"
 keywords: ["custom web design canada tips and guides","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/11/Untitled-design.jpg"
+featuredImage: "/blog/posts/Untitled-design.jpg"
 ---
 
 <p>In today's digital age, having a unique and tailored website is crucial for businesses to stand out and engage their audience. <a href="https://detroit.bubblelife.com/community/canadian_web_designs_1">Custom web design</a>, as opposed to template-based sites, allows brands to build a site that aligns perfectly with their business goals and aesthetics. For businesses in Canada, finding the right web design company can be transformative. Here’s a comprehensive guide to custom web design in Canada, featuring tips, best practices, and insights to help you craft the perfect website with Canadian Web Designs.</p>

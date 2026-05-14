@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top 10 AI Tools for Digital Marketing"
 keywords: ["top 10 ai tools for digital marketing","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/04/digital-marketing-tools.jpg"
+featuredImage: "/blog/posts/digital-marketing-tools.jpg"
 ---
 
 <div class="wp-block-columns">

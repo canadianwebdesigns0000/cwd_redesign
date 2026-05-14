@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Tips on How To Enhance Website Security"
 keywords: ["5 tips on how to enhance website security","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/12/Web-security-cursor-pointing-to-security.jpg"
+featuredImage: "/blog/posts/Web-security-cursor-pointing-to-security.jpg"
 ---
 
 <p>A 2007 study found out that hacker attacks of computers with Internet access every 39 seconds, on average. There were <a href="https://eng.umd.edu/news/story/study-hackers-attack-every-39-seconds">approximately 2,500 times attacks in a da</a>y on the computers they used for the study. Imagine the website security risk? And we're talking about 2007 statistics! No single business owner would ever want their website to be maliciously disabled computers, data on it stealth, or use it as a launch point for other attacks.</p>

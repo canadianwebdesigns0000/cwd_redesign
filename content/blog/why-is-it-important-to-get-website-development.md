@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Why Is It Important to Get Website Development in Your Business?"
 keywords: ["why is it important to get website development","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/09/domenico-loia-hGV2TfOh0ns-unsplash-1.jpg"
+featuredImage: "/blog/posts/domenico-loia-hGV2TfOh0ns-unsplash-1.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-why-is-it-important"><strong>Why is it important?</strong></h2>

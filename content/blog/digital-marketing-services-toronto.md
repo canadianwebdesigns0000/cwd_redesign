@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Digital Marketing Services in Toronto - How Does it Work and Why Should I Hire Them?"
 keywords: ["digital marketing services toronto","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/04/DIGITAL-MARKETING.jpg"
+featuredImage: "/blog/posts/DIGITAL-MARKETING.jpg"
 ---
 
 <p>Digital marketing services in Toronto are becoming more crucial for achieving successful short and long-term entrepreneurial goals. In this modern generation, most small to large businesses establish their online presence as digital technology advances.</p>

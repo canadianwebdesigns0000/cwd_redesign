@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How WordPress Themes Influence Your Site's SEO"
 keywords: ["how wordpress themes influence your sites seo","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/07/SEO-for-Small-businesses-e1674226071184.png"
+featuredImage: "/blog/posts/SEO-for-Small-businesses-e1674226071184.png"
 ---
 
 <div class="wp-block-columns">

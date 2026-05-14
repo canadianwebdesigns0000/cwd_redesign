@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Social Media Optimization - Effective Strategies to Follow"
 keywords: ["social media optimization effective strategies to follow","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/02/social-media.jpg"
+featuredImage: "/blog/posts/social-media.jpg"
 ---
 
 <p>In this modern generation, digital technology advancement such as social media platforms and websites is becoming beneficial to small businesses. The more people have their mobile cell phones on their hands, the higher statistical digital populations recorded globally.</p>

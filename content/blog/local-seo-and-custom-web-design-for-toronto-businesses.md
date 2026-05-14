@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Local SEO and Custom Web Design for Toronto Businesses"
 keywords: ["local seo and custom web design for toronto businesses","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/04/2.png"
+featuredImage: "/blog/posts/2.png"
 ---
 
 <p>In the bustling heart of Toronto, businesses face intense competition. A strong online presence is no longer a luxury, it's a necessity. At Canadian Web Designs, we understand the unique challenges and opportunities that Toronto businesses encounter. We specialize in providing comprehensive Canadian web design services that seamlessly integrate with local SEO strategies, ensuring your business not only looks good but also gets found by local customers.</p>

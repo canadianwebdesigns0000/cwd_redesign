@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Toronto Small Business Website Care: Why Regular Updates Keep Your Brand Credible &amp; Google-Friendly"
 keywords: ["toronto small business website care why regular updates keep your brand credible google friendly","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/12/Website-care.png"
+featuredImage: "/blog/posts/Website-care.png"
 ---
 
 <p>For Toronto small businesses, having a great website is no longer optional — it’s the heart of your digital presence. But even the best-designed site can lose performance, security, and visibility if it isn’t maintained consistently.</p>

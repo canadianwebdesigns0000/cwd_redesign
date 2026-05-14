@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Elevate Your Brand with Strategic Social Media Marketing for Canadian Web Designs"
 keywords: ["strategic social media marketing for canadian web designs","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2024/05/hand-holding-smartphone-social-media-concept-scaled.jpg"
+featuredImage: "/blog/posts/hand-holding-smartphone-social-media-concept-scaled.jpg"
 ---
 
 <p>In the digital age, a robust online presence is crucial for businesses, and at the heart of this presence is an engaging, well-crafted website. For Canadian businesses looking to elevate their brand, integrating social media marketing with web design is no longer just an option—it's essential. This guide explores the intersection of social media marketing and web design, offering practical strategies for leveraging both to enhance your online visibility and engagement.</p>

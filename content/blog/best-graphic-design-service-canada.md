@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Best Graphic Design Service in Canada"
 keywords: ["best graphic design service canada","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/10/best-graphic-design-service-in-canada.png"
+featuredImage: "/blog/posts/best-graphic-design-service-in-canada.png"
 ---
 
 <div class="wp-block-columns">

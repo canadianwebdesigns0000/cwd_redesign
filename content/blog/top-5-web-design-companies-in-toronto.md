@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Toronto’s Top 5 Web Design Firms for Cutting-Edge Websites"
 keywords: ["top 5 web design companies in toronto","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/top-5.jpg"
+featuredImage: "/blog/posts/top-5.jpg"
 ---
 
 <h2 class="wp-block-heading"><strong>Designing Digital Excellence in Canada’s Largest City</strong></h2>

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Webflow vs Squarespace vs WordPress"
 keywords: ["webflow vs squarespace vs wordpress","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/launchpresso-IOM28XWsk-g-unsplash.jpg"
+featuredImage: "/blog/posts/launchpresso-IOM28XWsk-g-unsplash.jpg"
 ---
 
 <h3 class="wp-block-heading" id="h-introduction"><strong>Introduction</strong>: </h3>

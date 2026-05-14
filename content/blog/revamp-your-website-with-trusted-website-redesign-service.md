@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Revamp Your Website with Trusted Website Redesign Service"
 keywords: ["revamp your website with trusted website redesign service","Web Design"]
 category: "Web Design"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/07/ui-ux-representation-with-hand-typing-scaled.jpeg"
+featuredImage: "/blog/posts/ui-ux-representation-with-hand-typing-scaled.jpeg"
 ---
 
 <div class="wp-block-group">

@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Website Designs and Its Basic Elements"
 keywords: ["website designs and its basic elements","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/absolutvision-82TpEld0_e4-unsplash.jpg"
+featuredImage: "/blog/posts/absolutvision-82TpEld0_e4-unsplash.jpg"
 ---
 
 <div class="wp-block-columns">

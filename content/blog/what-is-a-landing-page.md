@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "What is a landing page?"
 keywords: ["what is a landing page","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/09/landingpage-e1675884446462.png"
+featuredImage: "/blog/posts/landingpage-e1675884446462.png"
 ---
 
 <h2 class="wp-block-heading" id="h-what-is-a-landing-page-and-how-it-works">What Is a Landing Page and How It Works </h2>

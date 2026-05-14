@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "5 Ways Usability Analysis to Enhance Website Performance"
 keywords: ["5 ways usability analysis to enhance website performance","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/05/analytics.jpg"
+featuredImage: "/blog/posts/analytics.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-the-power-of-data-5-ways-usability-analysis-and-data-analytics-enhance-website-performance-and-user-experience"><strong>The Power of Data: 5 Ways Usability Analysis and Data Analytics Enhance Website Performance and User Experience</strong></h2>

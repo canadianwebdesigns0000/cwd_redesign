@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Discover 5 proven strategies to boost your website's search engine rankings in 2025, from Core Web Vitals to AI-driven content optimization."
 keywords: ["SEO tips 2025", "website SEO", "search engine optimization Canada", "improve website rankings"]
 category: "SEO"
-featuredImage: "https://canadianwebdesigns.ca/wp-content/uploads/2021/06/SEO-CWD-1024x681.jpg"
+featuredImage: "/blog/posts/SEO-CWD.jpg"
 ---
 
 Search engine optimization is constantly evolving, and 2025 brings new challenges and opportunities for Canadian businesses. Here are five proven strategies to improve your website's rankings and drive more organic traffic.

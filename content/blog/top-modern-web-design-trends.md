@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Top Modern Web Design Trends for Businesses in the GTA: Insights from Canadian Web Designs"
 keywords: ["top modern web design trends","Uncategorized"]
 category: "Uncategorized"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2025/01/Modern-Web-Design-Trends.jpg"
+featuredImage: "/blog/posts/Modern-Web-Design-Trends.jpg"
 ---
 
 <p>Staying ahead in the digital landscape is essential for businesses in the Greater Toronto Area (GTA), including Mississauga, Toronto, and Brampton. As a leading web design company, <strong>Canadian Web Designs</strong> understands the importance of integrating the latest trends in <strong><a href="https://canadianwebdesigns.ca/custom-web-design-canada-tips-and-guides/">custom web design Canada</a></strong>. Whether you're searching for "web designers near me" or seeking expertise from a <strong>Toronto web design agency</strong>, adopting modern trends can set your business apart.</p>

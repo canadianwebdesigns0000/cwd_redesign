@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Canadian Web Designs Introducing Their Marketing Strategies for Home Service Business"
 keywords: ["canadian web designs marketing strategies for home service business","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2019/12/minimalist-web-design-1024x585-1.jpg"
+featuredImage: "/blog/posts/minimalist-web-design-1024x585-1.jpg"
 ---
 
 <p>Are you ready to take your Canadian home service business to the next level? I am excited about what I have to share with you. Every marketing service you read in this article will need to implement in your business. It’s the application of knowledge that will increase your leads and sales as well.</p>

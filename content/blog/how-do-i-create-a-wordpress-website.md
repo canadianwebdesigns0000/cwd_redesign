@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "How Do I Create A WordPress Website For Beginners?"
 keywords: ["how do i create a wordpress website","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2023/03/Wordpress.jpg"
+featuredImage: "/blog/posts/Wordpress.jpg"
 ---
 
 <h2 class="wp-block-heading" id="h-7-steps-to-create-a-wordpress-site">7 Steps To Create A WordPress Site?</h2>

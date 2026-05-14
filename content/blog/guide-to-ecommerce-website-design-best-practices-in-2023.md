@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Guide To eCommerce Website Design Best Practices in 2023"
 keywords: ["guide to ecommerce website design best practices in 2023","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/03/Ecommerce-website-design101.jpg"
+featuredImage: "/blog/posts/Ecommerce-website-design101.jpg"
 ---
 
 <p>The landscape of <strong><a href="https://canadianwebdesigns.ca/ecommerce-website-design-toronto/" target="_blank" rel="noreferrer noopener">eCommerce Website Design</a></strong> is constantly evolving. As we navigate through 2023, specific design practices stand out, ensuring a seamless shopping experience. This guide takes you through the crucial elements to incorporate into your site design this year.</p>

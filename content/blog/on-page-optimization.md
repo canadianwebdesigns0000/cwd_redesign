@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Win With On-page Optimization"
 keywords: ["on page optimization","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2020/11/Win-With-On-page-Optimization-1.png"
+featuredImage: "/blog/posts/Win-With-On-page-Optimization-1.png"
 ---
 
 <p>As every Internet user knows, search engine optimization, or SEO, is incredibly important.  You can’t get visitors without a high ranking with the search engines, and this is where search engine optimization (SEO) comes in.  You have a website because you want to have visitors, and without visitors there really no reason to have a website at all ñ right?  If you want your site to work, you have to know how to make search engines work for you.</p>

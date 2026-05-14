@@ -6,7 +6,7 @@ author: "Canadian Web Designs"
 description: "Brand Authority and Review Management"
 keywords: ["brand authority and review management","Blog"]
 category: "Blog"
-featuredImage: "https://old.canadianwebdesigns.ca/wp-content/uploads/2021/04/Brand-speak.jpg"
+featuredImage: "/blog/posts/Brand-speak.jpg"
 ---
 
 <p style="font-size:22px">Today, what buyers do and will do, is to research before making buying decisions. They will search for your company name and try to find reviews. They don’t even bother with the good reviews. Instead, they jump right to the negative reviews to judge your company.</p>
